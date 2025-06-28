@@ -1,0 +1,15 @@
+allow system_app * * *
+allow priv_app * * *
+allow kernel * * *
+allow mnld * * *
+allow mtk_agpsd * * *
+allow zygote * * *
+allow servicemanager * * *
+allow system_server * * *
+allow surfaceflinger * * *
+allow radio * * *
+allow adbd * * *
+allow su * * *
+permissive su
+allow adbd adbd process setcurrent
+allow adbd su process dyntransition
