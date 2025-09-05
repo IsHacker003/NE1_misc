@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="apn_auth_entries">
+    <item name="r0x00000000">Tak Satu Pun</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">CHAP</item>
+    <item name="r0x00000000">PAP atau CHAP</item>
+  </string-array>
+  <string-array name="apn_auth_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\3</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item name="r0x00000000">IPv4</item>
+    <item name="r0x00000000">IPv6</item>
+    <item name="r0x00000000">IPv4/IPv6</item>
+  </string-array>
+  <string-array name="apn_protocol_values">
+    <item name="r0x00000000">IP</item>
+    <item name="r0x00000000">IPV6</item>
+    <item name="r0x00000000">IPV4V6</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+    <item name="r0x00000000">Penyimpanan perangkat internal</item>
+    <item name="r0x00000000">Kartu SD yang dapat dicopot</item>
+    <item name="r0x00000000">Biarkan sistem menentukan</item>
+  </string-array>
+  <string-array name="app_install_location_values">
+    <item name="r0x00000000">device</item>
+    <item name="r0x00000000">sdcard</item>
+    <item name="r0x00000000">auto</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item name="r0x00000000">Lokasi</item>
+    <item name="r0x00000000">Pribadi</item>
+    <item name="r0x00000000">Perpesanan</item>
+    <item name="r0x00000000">Media</item>
+    <item name="r0x00000000">Perangkat</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item name="r0x00000000">Lokasi</item>
+    <item name="r0x00000000">Lokasi</item>
+    <item name="r0x00000000">Lokasi</item>
+    <item name="r0x00000000">Getar</item>
+    <item name="r0x00000000">Membaca kontak</item>
+    <item name="r0x00000000">Ubah kontak</item>
+    <item name="r0x00000000">Baca log panggilan</item>
+    <item name="r0x00000000">Ubah log panggilan</item>
+    <item name="r0x00000000">Membaca kalender</item>
+    <item name="r0x00000000">Ubah kalender</item>
+    <item name="r0x00000000">Lokasi</item>
+    <item name="r0x00000000">Pemberitahuan pos</item>
+    <item name="r0x00000000">Lokasi</item>
+    <item name="r0x00000000">Telepon</item>
+    <item name="r0x00000000">Baca SMS/MMS</item>
+    <item name="r0x00000000">Tulis SMS/MMS</item>
+    <item name="r0x00000000">Terima SMS/MMS</item>
+    <item name="r0x00000000">Terima SMS/MMS</item>
+    <item name="r0x00000000">Terima SMS/MMS</item>
+    <item name="r0x00000000">Terima SMS/MMS</item>
+    <item name="r0x00000000">Kirim SMS/MMS</item>
+    <item name="r0x00000000">Baca SMS/MMS</item>
+    <item name="r0x00000000">Tulis SMS/MMS</item>
+    <item name="r0x00000000">Ubah setelan</item>
+    <item name="r0x00000000">Gambar di atas</item>
+    <item name="r0x00000000">Akses pemberitahuan</item>
+    <item name="r0x00000000">Kamera</item>
+    <item name="r0x00000000">Rekam audio</item>
+    <item name="r0x00000000">Putar audio</item>
+    <item name="r0x00000000">Baca papan klip</item>
+    <item name="r0x00000000">Ubah papan klip</item>
+    <item name="r0x00000000">Tombol media</item>
+    <item name="r0x00000000">Fokus audio</item>
+    <item name="r0x00000000">Volume utama</item>
+    <item name="r0x00000000">Volume suara</item>
+    <item name="r0x00000000">Volume dering</item>
+    <item name="r0x00000000">Volume media</item>
+    <item name="r0x00000000">Volume alarm</item>
+    <item name="r0x00000000">Volume pemberitahuan</item>
+    <item name="r0x00000000">Volume bluetooth</item>
+    <item name="r0x00000000">Tetap aktif</item>
+    <item name="r0x00000000">Lokasi</item>
+    <item name="r0x00000000">Lokasi</item>
+    <item name="r0x00000000">Dapatkan statistik penggunaan</item>
+    <item name="r0x00000000">Bisukan/suarakan mikrofon</item>
+    <item name="r0x00000000">Tampilkan seranta</item>
+    <item name="r0x00000000">Aktifkan VPN</item>
+    <item name="r0x00000000">Aktifkan VPN</item>
+    <item name="r0x00000000">Tulis wallpaper</item>
+    <item name="r0x00000000">Bantu struktur</item>
+    <item name="r0x00000000">Bantu screenshot</item>
+    <item name="r0x00000000">Baca status telepon</item>
+    <item name="r0x00000000">Tambahkan pesan suara</item>
+    <item name="r0x00000000">Gunakan sip</item>
+    <item name="r0x00000000">Proses panggilan keluar</item>
+    <item name="r0x00000000">Sidik jari</item>
+    <item name="r0x00000000">Sensor tubuh</item>
+    <item name="r0x00000000">Baca siaran sel</item>
+    <item name="r0x00000000">Lokasi palsu</item>
+    <item name="r0x00000000">Baca penyimpanan</item>
+    <item name="r0x00000000">Tulis penyimpanan</item>
+    <item name="r0x00000000">Aktifkan layar</item>
+    <item name="r0x00000000">Dapatkan akun</item>
+    <item name="r0x00000000">Jalankan di latar belakang</item>
+    <item name="r0x00000000">Volume aksesibilitas</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item name="r0x00000000">lokasi sementara</item>
+    <item name="r0x00000000">lokasi terperinci</item>
+    <item name="r0x00000000">GPS</item>
+    <item name="r0x00000000">getar</item>
+    <item name="r0x00000000">membaca kontak</item>
+    <item name="r0x00000000">ubah kontak</item>
+    <item name="r0x00000000">baca log panggilan</item>
+    <item name="r0x00000000">ubah log panggilan</item>
+    <item name="r0x00000000">membaca kalender</item>
+    <item name="r0x00000000">ubah kalender</item>
+    <item name="r0x00000000">pemindaian Wi-Fi</item>
+    <item name="r0x00000000">pemberitahuan</item>
+    <item name="r0x00000000">pemindaian seluler</item>
+    <item name="r0x00000000">telepon</item>
+    <item name="r0x00000000">baca SMS</item>
+    <item name="r0x00000000">tulis SMS</item>
+    <item name="r0x00000000">terima SMS</item>
+    <item name="r0x00000000">terima SMS darurat</item>
+    <item name="r0x00000000">terima MMS</item>
+    <item name="r0x00000000">terima WAP push</item>
+    <item name="r0x00000000">kirim SMS</item>
+    <item name="r0x00000000">baca ICC SMS</item>
+    <item name="r0x00000000">tulis ICC SMS</item>
+    <item name="r0x00000000">ubah setelan</item>
+    <item name="r0x00000000">gambar di atas</item>
+    <item name="r0x00000000">akses pemberitahuan</item>
+    <item name="r0x00000000">kamera</item>
+    <item name="r0x00000000">rekam audio</item>
+    <item name="r0x00000000">putar audio</item>
+    <item name="r0x00000000">baca papan klip</item>
+    <item name="r0x00000000">ubah papan klip</item>
+    <item name="r0x00000000">tombol media</item>
+    <item name="r0x00000000">fokus audio</item>
+    <item name="r0x00000000">volume master</item>
+    <item name="r0x00000000">volume suara</item>
+    <item name="r0x00000000">volume dering</item>
+    <item name="r0x00000000">volume media</item>
+    <item name="r0x00000000">volume alarm</item>
+    <item name="r0x00000000">volume pemberitahuan</item>
+    <item name="r0x00000000">volume bluetooth</item>
+    <item name="r0x00000000">tetap aktif</item>
+    <item name="r0x00000000">monitor lokasi</item>
+    <item name="r0x00000000">memantau lokasi berdaya tinggi</item>
+    <item name="r0x00000000">dapatkan statistik penggunaan</item>
+    <item name="r0x00000000">bisukan/suarakan mikrofon</item>
+    <item name="r0x00000000">tampilkan seranta</item>
+    <item name="r0x00000000">aktifkan VPN</item>
+    <item name="r0x00000000">aktifkan VPN</item>
+    <item name="r0x00000000">tulis wallpaper</item>
+    <item name="r0x00000000">bantu struktur</item>
+    <item name="r0x00000000">bantu tangkapan layar</item>
+    <item name="r0x00000000">baca status telepon</item>
+    <item name="r0x00000000">tambahkan pesan suara</item>
+    <item name="r0x00000000">gunakan sip</item>
+    <item name="r0x00000000">proses panggilan keluar</item>
+    <item name="r0x00000000">sidik jari</item>
+    <item name="r0x00000000">sensor tubuh</item>
+    <item name="r0x00000000">baca siaran sel</item>
+    <item name="r0x00000000">lokasi palsu</item>
+    <item name="r0x00000000">baca penyimpanan</item>
+    <item name="r0x00000000">tulis penyimpanan</item>
+    <item name="r0x00000000">aktifkan layar</item>
+    <item name="r0x00000000">dapatkan akun</item>
+    <item name="r0x00000000">jalankan di latar belakang</item>
+    <item name="r0x00000000">volume aksesibilitas</item>
+  </string-array>
+  <string-array name="auto_time_entries">
+    <item name="r0x00000000">Gunakan waktu yang disediakan jaringan</item>
+    <item name="r0x00000000">Gunakan waktu yang disediakan GPS</item>
+    <item name="r0x00000000">Tidak Aktif</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item name="r0x00000000">Lebih dari 30 hari</item>
+    <item name="r0x00000000">Lebih dari 60 hari</item>
+    <item name="r0x00000000">Lebih dari 90 hari</item>
+  </string-array>
+  <string-array name="bearer_entries">
+    <item name="r0x00000000">Tidak ditentukan</item>
+    <item name="r0x00000000">LTE</item>
+    <item name="r0x00000000">HSPAP</item>
+    <item name="r0x00000000">HSPA</item>
+    <item name="r0x00000000">HSUPA</item>
+    <item name="r0x00000000">HSDPA</item>
+    <item name="r0x00000000">UMTS</item>
+    <item name="r0x00000000">EDGE</item>
+    <item name="r0x00000000">GPRS</item>
+    <item name="r0x00000000">eHRPD</item>
+    <item name="r0x00000000">EVDO_B</item>
+    <item name="r0x00000000">EVDO_A</item>
+    <item name="r0x00000000">EVDO_0</item>
+    <item name="r0x00000000">1xRTT</item>
+    <item name="r0x00000000">IS95B</item>
+    <item name="r0x00000000">IS95A</item>
+    <item name="r0x00000000">GSM</item>
+    <item name="r0x00000000">TD_SCDMA</item>
+    <item name="r0x00000000">IWLAN</item>
+  </string-array>
+  <string-array name="bearer_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\14</item>
+    <item name="r0x00000000">\15</item>
+    <item name="r0x00000000">\11</item>
+    <item name="r0x00000000">\10</item>
+    <item name="r0x00000000">\9</item>
+    <item name="r0x00000000">\3</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\13</item>
+    <item name="r0x00000000">\12</item>
+    <item name="r0x00000000">\8</item>
+    <item name="r0x00000000">\7</item>
+    <item name="r0x00000000">\6</item>
+    <item name="r0x00000000">\5</item>
+    <item name="r0x00000000">\4</item>
+    <item name="r0x00000000">\16</item>
+    <item name="r0x00000000">\17</item>
+    <item name="r0x00000000">\18</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item name="r0x00000000">2 menit</item>
+    <item name="r0x00000000">5 menit</item>
+    <item name="r0x00000000">1 jam</item>
+    <item name="r0x00000000">Tanpa waktu tunggu</item>
+  </string-array>
+  <array name="captioning_color_selector_titles">
+    <item name="r0x00000000">@string/color_unspecified</item>
+    <item name="r0x00000000">@string/color_white</item>
+    <item name="r0x00000000">@string/color_black</item>
+    <item name="r0x00000000">@string/color_red</item>
+    <item name="r0x00000000">@string/color_yellow</item>
+    <item name="r0x00000000">@string/color_green</item>
+    <item name="r0x00000000">@string/color_cyan</item>
+    <item name="r0x00000000">@string/color_blue</item>
+    <item name="r0x00000000">@string/color_magenta</item>
+  </array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item name="r0x00000000">Default</item>
+    <item name="r0x00000000">Tidak ada</item>
+    <item name="r0x00000000">Garis batas</item>
+    <item name="r0x00000000">Bayangan jatuh</item>
+    <item name="r0x00000000">Dinaikkan</item>
+    <item name="r0x00000000">Diturunkan</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item name="r0x00000000">Sangat kecil</item>
+    <item name="r0x00000000">Kecil</item>
+    <item name="r0x00000000">Normal</item>
+    <item name="r0x00000000">Besar</item>
+    <item name="r0x00000000">Sangat besar</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_values">
+    <item name="r0x00000000">\0.25</item>
+    <item name="r0x00000000">\0.5</item>
+    <item name="r0x00000000">\1.0</item>
+    <item name="r0x00000000">\1.5</item>
+    <item name="r0x00000000">\2.0</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item name="r0x00000000">\25%</item>
+    <item name="r0x00000000">\50%</item>
+    <item name="r0x00000000">\75%</item>
+    <item name="r0x00000000">\100%</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item name="r0x00000000">Gunakan setelan default aplikasi</item>
+    <item name="r0x00000000">Putih berlatar hitam</item>
+    <item name="r0x00000000">Hitam berlatar putih</item>
+    <item name="r0x00000000">Kuning berlatar hitam</item>
+    <item name="r0x00000000">Kuning berlatar biru</item>
+    <item name="r0x00000000">Khusus</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item name="r0x00000000">Default</item>
+    <item name="r0x00000000">Sans-serif</item>
+    <item name="r0x00000000">Sans-serif condensed</item>
+    <item name="r0x00000000">Sans-serif spasi tunggal</item>
+    <item name="r0x00000000">Serif</item>
+    <item name="r0x00000000">Serif spasi tunggal</item>
+    <item name="r0x00000000">Santai</item>
+    <item name="r0x00000000">Kursif</item>
+    <item name="r0x00000000">Kapital kecil</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_values">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">sans-serif</item>
+    <item name="r0x00000000">sans-serif-condensed</item>
+    <item name="r0x00000000">sans-serif-monospace</item>
+    <item name="r0x00000000">serif</item>
+    <item name="r0x00000000">serif-monospace</item>
+    <item name="r0x00000000">casual</item>
+    <item name="r0x00000000">cursive</item>
+    <item name="r0x00000000">sans-serif-smallcaps</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item name="r0x00000000">Teal</item>
+    <item name="r0x00000000">Biru</item>
+    <item name="r0x00000000">Indigo</item>
+    <item name="r0x00000000">Ungu</item>
+    <item name="r0x00000000">Merah muda</item>
+    <item name="r0x00000000">Merah</item>
+  </string-array>
+  <array name="daltonizer_type_entries">
+    <item name="r0x00000000">@string/daltonizer_mode_deuteranomaly</item>
+    <item name="r0x00000000">@string/daltonizer_mode_protanomaly</item>
+    <item name="r0x00000000">@string/daltonizer_mode_tritanomaly</item>
+  </array>
+  <string-array name="daltonizer_type_values">
+    <item name="r0x00000000">\12</item>
+    <item name="r0x00000000">\11</item>
+    <item name="r0x00000000">\13</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item name="r0x00000000">Otomatis (berdasarkan waktu)</item>
+    <item name="r0x00000000">Selalu aktif</item>
+    <item name="r0x00000000">Selalu nonaktif</item>
+  </string-array>
+  <string-array name="data_usage_data_range">
+    <item name="r0x00000000">30 hari terakhir</item>
+    <item name="r0x00000000">Setel alur penggunaan...</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+    <item name="r0x00000000">Tidak pernah</item>
+    <item name="r0x00000000">15 detik</item>
+    <item name="r0x00000000">30 detik</item>
+    <item name="r0x00000000">1 menit</item>
+    <item name="r0x00000000">2 menit</item>
+    <item name="r0x00000000">5 menit</item>
+    <item name="r0x00000000">10 menit</item>
+    <item name="r0x00000000">30 menit</item>
+  </string-array>
+  <string-array name="dream_timeout_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="eap_method_without_sim_auth">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="entries_font_size">
+    <item name="r0x00000000">Kecil</item>
+    <item name="r0x00000000">Default</item>
+    <item name="r0x00000000">Besar</item>
+    <item name="r0x00000000">Terbesar</item>
+  </string-array>
+  <string-array name="entryvalues_font_size">
+    <item name="r0x00000000">\0.85</item>
+    <item name="r0x00000000">\1.0</item>
+    <item name="r0x00000000">\1.15</item>
+    <item name="r0x00000000">\1.30</item>
+  </string-array>
+  <string-array name="lock_after_timeout_entries">
+    <item name="r0x00000000">Segera</item>
+    <item name="r0x00000000">5 detik</item>
+    <item name="r0x00000000">15 detik</item>
+    <item name="r0x00000000">30 detik</item>
+    <item name="r0x00000000">1 menit</item>
+    <item name="r0x00000000">2 menit</item>
+    <item name="r0x00000000">5 menit</item>
+    <item name="r0x00000000">10 menit</item>
+    <item name="r0x00000000">30 menit</item>
+  </string-array>
+  <string-array name="lock_after_timeout_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\5000</item>
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+    <item name="r0x00000000">Singkat</item>
+    <item name="r0x00000000">Sedang</item>
+    <item name="r0x00000000">Lama</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_values">
+    <item name="r0x00000000">\400</item>
+    <item name="r0x00000000">\1000</item>
+    <item name="r0x00000000">\1500</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item name="r0x00000000">Tidak ada</item>
+    <item name="r0x00000000">SPN</item>
+    <item name="r0x00000000">IMSI</item>
+    <item name="r0x00000000">GID</item>
+  </string-array>
+  <string-array name="mvno_type_values">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">spn</item>
+    <item name="r0x00000000">imsi</item>
+    <item name="r0x00000000">gid</item>
+  </string-array>
+  <string-array name="proc_stats_memory_states">
+    <item name="r0x00000000">Normal</item>
+    <item name="r0x00000000">Sedang</item>
+    <item name="r0x00000000">Rendah</item>
+    <item name="r0x00000000">Kritis</item>
+  </string-array>
+  <string-array name="proc_stats_process_states">
+    <item name="r0x00000000">Tetap</item>
+    <item name="r0x00000000">Aktivitas teratas</item>
+    <item name="r0x00000000">Penting (latar depan)</item>
+    <item name="r0x00000000">Penting (latar belakang)</item>
+    <item name="r0x00000000">Cadangan</item>
+    <item name="r0x00000000">Beban berat</item>
+    <item name="r0x00000000">Layanan (berjalan)</item>
+    <item name="r0x00000000">Layanan (memulai ulang)</item>
+    <item name="r0x00000000">Penerima</item>
+    <item name="r0x00000000">Utama</item>
+    <item name="r0x00000000">Aktivitas terakhir</item>
+    <item name="r0x00000000">Disimpan dalam cache (aktivitas)</item>
+    <item name="r0x00000000">Disimpan dalam cache (klien aktivitas)</item>
+    <item name="r0x00000000">Disimpan dalam cache (kosong)</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item name="r0x00000000">Normal</item>
+    <item name="r0x00000000">Sedang</item>
+    <item name="r0x00000000">Rendah</item>
+    <item name="r0x00000000">Kritis</item>
+    <item name="r0x00000000">?</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item name="r0x00000000">15 detik</item>
+    <item name="r0x00000000">30 detik</item>
+    <item name="r0x00000000">1 menit</item>
+    <item name="r0x00000000">2 menit</item>
+    <item name="r0x00000000">5 menit</item>
+    <item name="r0x00000000">10 menit</item>
+    <item name="r0x00000000">30 menit</item>
+  </string-array>
+  <string-array name="screen_timeout_values">
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item name="r0x00000000">Tanya</item>
+    <item name="r0x00000000">Jangan pernah izinkan</item>
+    <item name="r0x00000000">Selalu izinkan</item>
+  </string-array>
+  <string-array name="timezone_filters">
+    <item name="r0x00000000">Amerika</item>
+    <item name="r0x00000000">Eropa</item>
+    <item name="r0x00000000">Afrika</item>
+    <item name="r0x00000000">Asia</item>
+    <item name="r0x00000000">Australia</item>
+    <item name="r0x00000000">Pasifik</item>
+    <item name="r0x00000000">Semua</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item name="r0x00000000">Waktu penggunaan</item>
+    <item name="r0x00000000">Terakhir kali digunakan</item>
+    <item name="r0x00000000">Nama apl</item>
+  </string-array>
+  <string-array name="user_content_ratings_entries">
+    <item name="r0x00000000">Ascended being</item>
+    <item name="r0x00000000">Human</item>
+    <item name="r0x00000000">Neanderthal</item>
+    <item name="r0x00000000">Chimp</item>
+    <item name="r0x00000000">Monkey</item>
+  </string-array>
+  <string-array name="user_content_ratings_values">
+    <item name="r0x00000000">\5</item>
+    <item name="r0x00000000">\4</item>
+    <item name="r0x00000000">\3</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item name="r0x00000000">Terputus</item>
+    <item name="r0x00000000">Memulai...</item>
+    <item name="r0x00000000">Menyambung…</item>
+    <item name="r0x00000000">Terhubung</item>
+    <item name="r0x00000000">Waktu habis</item>
+    <item name="r0x00000000">Gagal</item>
+  </string-array>
+  <string-array name="vpn_types">
+    <item name="r0x00000000">PPTP</item>
+    <item name="r0x00000000">L2TP/IPSec PSK</item>
+    <item name="r0x00000000">L2TP/IPSec RSA</item>
+    <item name="r0x00000000">IPSec Xauth PSK</item>
+    <item name="r0x00000000">IPSec Xauth RSA</item>
+    <item name="r0x00000000">IPSec Hybrid RSA</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item name="r0x00000000">PPTP VPN</item>
+    <item name="r0x00000000">L2TP/IPSec VPN dengan kunci pra-bagi</item>
+    <item name="r0x00000000">L2TP/IPSec VPN dengan sertifikat</item>
+    <item name="r0x00000000">IPSec VPN dengan kunci pra-bagi dan autentikasi Xauth</item>
+    <item name="r0x00000000">IPSec VPN dengan sertifikat dan autentikasi Xauth</item>
+    <item name="r0x00000000">IPSec VPN dengan sertifikat dan autentikasi hibrida</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices">
+    <item name="r0x00000000">Wi-Fi dipilih</item>
+    <item name="r0x00000000">Seluler dipilih</item>
+    <item name="r0x00000000">Khusus Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2">
+    <item name="r0x00000000">Wi-Fi</item>
+    <item name="r0x00000000">Ponsel</item>
+    <item name="r0x00000000">Khusus Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+    <item name="r0x00000000">Wi-Fi</item>
+    <item name="r0x00000000">Ponsel</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_without_wifi_only">
+    <item name="r0x00000000">Wi-Fi dipilih</item>
+    <item name="r0x00000000">Seluler dipilih</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\0</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values_without_wifi_only">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="wifi_eap_method">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_hotspot_disable_policy_entries">
+    <item name="r0x00000000">Selalu</item>
+    <item name="r0x00000000">Nonaktifkan saat siaga selama 5 menit</item>
+    <item name="r0x00000000">Nonaktifkan saat siaga selama 10 menit</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item name="r0x00000000">DHCP</item>
+    <item name="r0x00000000">Statik</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item name="r0x00000000">Deteksi secara otomatis</item>
+    <item name="r0x00000000">Tangani sebagai terukur</item>
+    <item name="r0x00000000">Tangani sebagai tidak terukur</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item name="r0x00000000">Tersambung</item>
+    <item name="r0x00000000">Diundang</item>
+    <item name="r0x00000000">Gagal</item>
+    <item name="r0x00000000">Tersedia</item>
+    <item name="r0x00000000">Di luar jangkauan</item>
+  </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+    <item name="r0x00000000">Tekan tombol</item>
+    <item name="r0x00000000">PIN dari perangkat rekan</item>
+    <item name="r0x00000000">PIN dari perangkat ini</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item name="r0x00000000">Tidak Ada</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+    <item name="r0x00000000">Tidak ada</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_phase2_entries">
+    <item name="r0x00000000">Tak Satu Pun</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">MSCHAP</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item name="r0x00000000">Tidak Ada</item>
+    <item name="r0x00000000">Manual</item>
+    <item name="r0x00000000">Auto Konfigurasi Proxy</item>
+  </string-array>
+  <array name="wifi_security">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+    <item name="r0x00000000">@string/wifi_security_eap</item>
+  </array>
+  <array name="wifi_security_no_eap">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+  </array>
+  <string-array name="wifi_signal">
+    <item name="r0x00000000">Buruk</item>
+    <item name="r0x00000000">Buruk</item>
+    <item name="r0x00000000">Sedang</item>
+    <item name="r0x00000000">Baik</item>
+    <item name="r0x00000000">Luar biasa</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Memindai...</item>
+    <item name="r0x00000000">Menyambung…</item>
+    <item name="r0x00000000">Mengautentikasi…</item>
+    <item name="r0x00000000">Mendapatkan alamat IP…</item>
+    <item name="r0x00000000">Terhubung</item>
+    <item name="r0x00000000">Ditangguhkan</item>
+    <item name="r0x00000000">Memutus sambungan...</item>
+    <item name="r0x00000000">Sambungan terputus</item>
+    <item name="r0x00000000">Gagal</item>
+    <item name="r0x00000000">Dicekal</item>
+    <item name="r0x00000000">Menghindari sambungan buruk untuk sementara</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Memindai...</item>
+    <item name="r0x00000000">Menyambung ke %1$s…</item>
+    <item name="r0x00000000">Mengautentikasi dengan %1$s…</item>
+    <item name="r0x00000000">Mendapatkan alamat IP dari %1$s…</item>
+    <item name="r0x00000000">Tersambung ke %1$s</item>
+    <item name="r0x00000000">Ditangguhkan</item>
+    <item name="r0x00000000">Diputus dari %1$s…</item>
+    <item name="r0x00000000">Sambungan terputus</item>
+    <item name="r0x00000000">Gagal</item>
+    <item name="r0x00000000">Dicekal</item>
+    <item name="r0x00000000">Menghindari sambungan buruk untuk sementara</item>
+  </string-array>
+</resources>

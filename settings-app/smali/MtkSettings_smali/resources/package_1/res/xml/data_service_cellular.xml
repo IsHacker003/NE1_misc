@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen android:title="@string/data_usage_summary_title" xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceCategory android:title="@string/data_usage_tab_mobile"
+                      android:key="service_category">
+    <SwitchPreference android:title="@string/data_service_enable_mobile"
+                      android:key="data_service_enable"
+                      android:summary="@string/data_service_summary" />
+  </PreferenceCategory>
+</PreferenceScreen>

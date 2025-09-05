@@ -1,0 +1,9 @@
+service enableroot /system/bin/sh /system/bin/root.sh 
+    user root 
+    group root 
+    seclabel u:r:magisk:s0 
+    disabled
+    oneshot
+
+on zygote-start
+    start enableroot

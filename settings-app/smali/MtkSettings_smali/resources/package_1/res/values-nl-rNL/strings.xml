@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">Over de telefoon</string>
+  <string name="accelerometer_summary_off">Schakel automatisch over naar een andere oriëntatie als de telefoon gedraaid wordt</string>
+  <string name="accelerometer_summary_on">Schakel automatisch over naar een andere oriëntatie als de telefoon gedraaid wordt</string>
+  <string name="accessibility_feature_state_off">Uit</string>
+  <string name="accessibility_feature_state_on">Aan</string>
+  <string name="accessibility_summary_state_disabled">Uit</string>
+  <string name="accessibility_summary_state_enabled">Aan</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Schermvergroting updaten op appovergang</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Schermvergroting automatisch updaten</string>
+  <string name="accessibility_vibration_intensity_off">Uit</string>
+  <string name="accessibility_vibration_settings_title">Trilling</string>
+  <string name="advanced_apps">Geavanceerd</string>
+  <string name="advanced_section_header">Geavanceerd</string>
+  <string name="advanced_security_title">Geavanceerd</string>
+  <string name="amber_alerts_title">AMBER-alerts</string>
+  <string name="ambient_display_pickup_summary">Pak je telefoon op om de tijd, meldingspictogrammen en andere informatie te bekijken.</string>
+  <string name="ambient_display_pickup_title">Oppakken om telefoon te checken</string>
+  <string name="ambient_display_title">Dubbeltikken om telefoon te checken</string>
+  <string name="android_beam_off_summary">Uit</string>
+  <string name="apn_apn">APN</string>
+  <string name="apn_auth_type">Verificatietype</string>
+  <string name="apn_auth_type_chap">CHAP</string>
+  <string name="apn_auth_type_none">Geen</string>
+  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_pap_chap">PAP of CHAP</string>
+  <string name="apn_http_port">Poort</string>
+  <string name="apn_http_proxy">Proxy</string>
+  <string name="apn_mcc">MCC</string>
+  <string name="apn_mms_port">MMS-poort</string>
+  <string name="apn_mms_proxy">MMS-proxy</string>
+  <string name="apn_mmsc">MMSC</string>
+  <string name="apn_mnc">MNC</string>
+  <string name="apn_name">Naam</string>
+  <string name="apn_not_set">Niet ingesteld</string>
+  <string name="apn_password">Wachtwoord</string>
+  <string name="apn_server">Server</string>
+  <string name="apn_type">APN-type</string>
+  <string name="apn_user">Gebruikersnaam</string>
+  <string name="app_launch_domain_links_title">Links openen</string>
+  <string name="app_launch_open_domain_urls_title">Ondersteunde links openen</string>
+  <string name="app_launch_supported_domain_urls_title">Ondersteunde links</string>
+  <string name="app_list_preference_none">Geen</string>
+  <string name="app_notification_override_dnd_title">Negeren Niet storen</string>
+  <string name="app_notification_row_banned">Geblokkeerd</string>
+  <string name="assist_access_screenshot_title">Screenshot gebruiken</string>
+  <string name="assistant_security_warning_agree">Akkoord</string>
+  <string name="auto_boot_pref_title">Auto-startbeheer</string>
+  <string name="auto_brightness_default_title">Standaard</string>
+  <string name="auto_brightness_off_title">Uit</string>
+  <string name="auto_brightness_summary_off">Uit</string>
+  <string name="available_via_passpoint">Verkrijgbaar via %1$s</string>
+  <string name="backup_pw_cancel_button_text">Annuleren</string>
+  <string name="band_mode_failed">Mislukt</string>
+  <string name="battery_desc_apps">Batterijgebruik door app</string>
+  <string name="battery_desc_bluetooth">Batterijgebruik door Bluetooth</string>
+  <string name="battery_desc_display">Batterijgebruik door display en achtergrondverlichting</string>
+  <string name="battery_desc_flashlight">Batterijgebruik door zaklamp</string>
+  <string name="battery_desc_radio">Batterijgebruik door radio</string>
+  <string name="battery_desc_standby">Batterijgebruik als telefoon niet actief is</string>
+  <string name="battery_desc_users">Batterijgebruik door gebruiker</string>
+  <string name="battery_desc_voice">Batterijgebruik door spraakoproepen</string>
+  <string name="battery_desc_wifi">Batterijgebruik door wifi</string>
+  <string name="battery_manager_off">Uit</string>
+  <string name="battery_saver_off_summary">Uit</string>
+  <string name="battery_saver_on_summary">Aan</string>
+  <string name="battery_suggestion_title">De batterijduur van de telefoon verbeteren</string>
+  <string name="battery_tip_dialog_message">Je telefoon is vaker gebruikt dan normaal. De batterij is mogelijk eerder leeg dan verwacht.
+
+Top %1$d apps die je hebt gebruikt sinds de laatste keer dat de telefoon volledig is opgeladen:</string>
+  <string name="battery_tip_dialog_summary_message">Je apps gebruiken een normale hoeveelheid batterijlading. Als apps te veel batterijlading gebruiken, stelt je telefoon acties voor die je kunt uitvoeren.
+
+Je kunt Batterijbesparing altijd inschakelen als de batterij bijna leeg is.</string>
+  <string name="battery_tip_high_usage_title">Telefoon heeft meer verbruikt dan normaal</string>
+  <string name="battery_tip_restrict_app_dialog_ok">Beperken</string>
+  <string name="battery_tip_smart_battery_title">De batterijduur van de telefoon verbeteren</string>
+  <string name="battery_tip_summary_summary">Telefoon heeft normaal batterijverbruik op de achtergrond</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">Annuleren</string>
+  <string name="bluetooth_ask_discovery">%1$s wil je telefoon %2$d seconden zichtbaar maken voor andere Bluetooth-apparaten.</string>
+  <string name="bluetooth_ask_discovery_no_name">Een app wil je telefoon %1$d seconden zichtbaar maken voor andere Bluetooth-apparaten.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">%1$s wil Bluetooth inschakelen en je telefoon %2$d seconden zichtbaar maken voor andere apparaten.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">Een app wil Bluetooth inschakelen en je telefoon %1$d seconden zichtbaar maken voor andere apparaten.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s wil Bluetooth inschakelen en je telefoon zichtbaar maken voor andere apparaten. Je kunt dit later wijzigen in de Bluetooth-instellingen.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Een app wil Bluetooth inschakelen en je telefoon zichtbaar maken voor andere apparaten. Je kunt dit later wijzigen in de Bluetooth-instellingen.</string>
+  <string name="bluetooth_ask_lasting_discovery">%1$s wil je telefoon zichtbaar maken voor andere Bluetooth-apparaten. Je kunt dit later wijzigen in de Bluetooth-instellingen.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">Een app wil je telefoon zichtbaar maken voor andere Bluetooth-apparaten. Je kunt dit later wijzigen in de Bluetooth-instellingen.</string>
+  <string name="bluetooth_connecting">Verbinding maken…</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Verbinden</string>
+  <string name="bluetooth_device_context_connect">Verbinden</string>
+  <string name="bluetooth_device_name">Apparaatnaam</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Annuleren</string>
+  <string name="bluetooth_disabled">Uit</string>
+  <string name="bluetooth_disconnect_all_profiles">De verbinding tussen je telefoon en %1$s wordt verbroken.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s deelt de internetverbinding van deze telefoon niet meer.</string>
+  <string name="bluetooth_disconnected">Verbinding verbroken</string>
+  <string name="bluetooth_disconnecting">Verbinding wordt verbroken…</string>
+  <string name="bluetooth_dock_settings_headset">Handsfree</string>
+  <string name="bluetooth_footer_mac_message">Bluetooth-adres van je telefoon: %1$s</string>
+  <string name="bluetooth_menu_advanced">Geavanceerd</string>
+  <string name="bluetooth_pairing_decline">Annuleren</string>
+  <string name="bluetooth_pref_summary">Je telefoon toestaan om te communiceren met Bluetooth-apparaten in de nabije omgeving</string>
+  <string name="bluetooth_preference_paired_dialog_name_label">Naam</string>
+  <string name="bluetooth_tethering_subtext">Internetverbinding van deze telefoon delen via Bluetooth</string>
+  <string name="bluetooth_unpair_dialog_body">Je telefoon is niet langer gekoppeld aan %1$s</string>
+  <string name="camera_firmware_version">Firmwareversie camera</string>
+  <string name="camera_gesture_desc">Open de camera-app door twee keer met uw pols te draaien</string>
+  <string name="cancel">Annuleren</string>
+  <string name="captioning_foreground_opacity">Tekstopaciteit</string>
+  <string name="captioning_window_opacity">Opaciteit onderschriftvenster</string>
+  <string name="color_blue">Blauw</string>
+  <string name="color_green">Groen</string>
+  <string name="color_mode_title">Kleuren</string>
+  <string name="color_none">Geen</string>
+  <string name="color_orange">Oranje</string>
+  <string name="color_purple">Paars</string>
+  <string name="color_title">Kleur</string>
+  <string name="color_unspecified">Standaard</string>
+  <string name="color_yellow">Geel</string>
+  <string name="condition_device_muted_title">Telefoon is gedempt</string>
+  <string name="condition_device_vibrate_summary">Telefoon gaat trillen bij oproepen en meldingen</string>
+  <string name="condition_device_vibrate_title">Telefoon is ingesteld op trillen</string>
+  <string name="condition_expand_show">Weergeven</string>
+  <string name="condition_work_summary">Apps, achtergrondsynchronisatie en andere functies van uw werkprofiel worden uitgeschakeld.</string>
+  <string name="confirm_convert_to_fbe_warning">Gebruikersgegevens wissen en converteren naar bestandsversleuteling?</string>
+  <string name="connected_via_passpoint">Verbonden via %1$s</string>
+  <string name="credentials_install">Installeren vanuit SD-kaart</string>
+  <string name="credentials_install_summary">Certificaten installeren vanuit SD-kaart</string>
+  <string name="crypt_keeper_button_text">Telefoon versleutelen</string>
+  <string name="crypt_keeper_data_corrupt_summary">Het ingevoerde wachtwoord is correct, maar helaas zijn uw gegevens corrupt. 
+
+Om het gebruik van uw telefoon te hervatten, moet u een fabrieksreset uitvoeren. Als u de telefoon instelt na de reset, hebt u de mogelijkheid om de gegevens waarvan een back-up is gemaakt in uw Google-account te herstellen.</string>
+  <string name="crypt_keeper_desc">U kunt uw accounts, instelleingen, gedownloade apps en hun gegevens, media en andere bestanden versleutelen. Nadat u uw telefoon hebt versleuteld, moet u het scherm ontgrendelen om de telefoon te ontsleutelen, telkens als u deze inschakelt, er van uitgaande dat u een schermvergrendeling hebt ingesteld (een patroon of numerieke PIN-code of wachtwoord). De enige andere manier om te ontsleutelen is door een fabrieksreset uit te voeren, waarbij al uw gegevens worden gewist.
+
+Versleutelen duurt een uur of langer. U moet beginnen met een opgeladen batterij en uw telefoon tijdens het hele proces ingestoken laten. Als u dit proces onderbreekt, verliest u een deel van of al uw gegevens.</string>
+  <string name="crypt_keeper_encrypt_title">Telefoon versleutelen</string>
+  <string name="crypt_keeper_failed_summary">De versleuteling werd onderbroken en kan niet voltooid worden. Hierdoor zijn de gegevens op uw telefoon niet langer toegankelijk. 
+
+Om het gebruik van uw telefoon te hervatten, moet u een fabrieksreset uitvoeren. Als u de telefoon instelt na de reset, hebt u de mogelijkheid om de gegevens waarvan een back-up is gemaakt in uw Google-account te herstellen.</string>
+  <string name="crypt_keeper_failed_title">Versleuteling mislukt</string>
+  <string name="crypt_keeper_final_desc">De versleuteling is onomkeerbaar en als u deze onderbreekt, verliest u gegevens. De versleuteling duurt een uur of langer, waarbij de telefoon een aantal keren opnieuw opstart.</string>
+  <string name="crypt_keeper_force_power_cycle">Schakel de telefoon uit en vervolgens weer in als u deze wilt ontgrendelen.</string>
+  <string name="crypt_keeper_settings_title">Versleuteling</string>
+  <string name="crypt_keeper_setup_description">Wacht terwijl uw telefoon wordt versleuteld. ^1% voltooid.</string>
+  <string name="crypt_keeper_setup_time_remaining">Wacht terwijl uw telefoon wordt versleuteld. Resterende tijd: ^1</string>
+  <string name="crypt_keeper_setup_title">Aan het versleutelen</string>
+  <string name="daltonizer_mode_disabled">Uitgeschakeld</string>
+  <string name="data_protection_title">Gegevensbescherming</string>
+  <string name="data_saver_off">Uit</string>
+  <string name="data_saver_on">Aan</string>
+  <string name="data_service_enable_mobile">Tijdelijke gegevensdienst</string>
+  <string name="data_service_prompt">Bij een simkaart zonder gegevens in een VoLTE-oproep wordt deze voor een gegevensdienst gebruikt. Dit leidt tot extra gegevensgebruik van de simkaart.</string>
+  <string name="data_service_summary">Bij een simkaart zonder gegevens in een VoLTE-oproep wordt deze voor een gegevensdienst gebruikt</string>
+  <string name="data_usage_auto_sync_on_dialog">Alle wijzigingen die u aanbrengt in uw accounts op het web worden automatisch gekopieerd naar uw telefoon.
+
+Sommige accounts kunnen ook automatisch alle wijzigingen die u aanbrengt op de telefoon kopiëren naar het web. Een Google-account werkt op deze manier.</string>
+  <string name="data_usage_limit_dialog_mobile">Je telefoon schakelt mobiele data uit zodra je de ingestelde limiet bereikt.
+
+Aangezien het datagebruik wordt gemeten door je telefoon, en je provider het gebruik afwijkend kan berekenen, kun je overwegen een conservatieve limiet in te stellen.</string>
+  <string name="data_usage_list_none">Geen</string>
+  <string name="data_usage_restrict_background_multiuser">Als je mobiele data op de achtergrond beperkt, werken sommige apps en services alleen als je verbinding hebt via wifi.
+
+Deze instelling is van toepassing op alle gebruikers van deze telefoon.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: about %1$s gebruikt, zoals gemeten door uw telefoon. Het door uw provider gemeten dataverbruik kan afwijken.</string>
+  <string name="date_time_select_region">Regio</string>
+  <string name="decryption_settings_summary">Telefoon niet gecodeerd</string>
+  <string name="default_apps_title">Standaard</string>
+  <string name="default_keyboard_layout">Standaard</string>
+  <string name="default_theme">Standaard</string>
+  <string name="delete">Verwijderen</string>
+  <string name="deletion_helper_manual_title">Handleiding</string>
+  <string name="device_info_settings">Telefoonstatus</string>
+  <string name="device_status">Status</string>
+  <string name="device_status_activity_title">Status</string>
+  <string name="device_status_summary">Telefoonnummer, bereik, etc.</string>
+  <string name="dialog_background_check_message">Je telefoon kan de batterij niet normaal beheren omdat %1$s je telefoon ingeschakeld houdt.
+
+Als je dit probleem wilt verhelpen, kun je %1$s stoppen en voorkomen dat deze app op de achtergrond wordt uitgevoerd.</string>
+  <string name="dialog_location_message">Je telefoon kan de batterij niet normaal beheren omdat %1$s je locatie blijft opvragen wanneer je de app niet gebruikt.
+
+Als je dit probleem wilt verhelpen, kun je locatie uitschakelen voor deze app.</string>
+  <string name="dialog_stop_message">Je telefoon kan de batterij niet normaal beheren omdat %1$s je telefoon ingeschakeld houdt.
+
+Als je dit probleem wilt verhelpen, kun je de app stoppen.
+
+Als dit blijft gebeuren, moet je de app mogelijk verwijderen om de prestaties van de batterij te verbeteren.</string>
+  <string name="dialog_stop_message_wakeup_alarm">Je telefoon kan de batterij niet normaal beheren omdat %1$s je telefoon ingeschakeld houdt.
+
+Als je dit probleem wilt verhelpen, kun je %1$s stoppen.
+
+Als dit blijft gebeuren, moet je de app mogelijk verwijderen om de prestaties van de batterij te verbeteren.</string>
+  <string name="disable_service_message">Door op OK te tikken, wordt %1$s onderbroken.</string>
+  <string name="disabled">Uitgeschakeld</string>
+  <string name="display_cutout_emulation_none">Geen</string>
+  <string name="dlg_cancel">Annuleren</string>
+  <string name="dlg_close">Sluiten</string>
+  <string name="dlg_confirm_unmount_text">Als u de SD-kaart ontkoppelt, stoppen sommige apps die u gebruikt en zijn deze mogelijk niet beschikbaar totdat u de SD-kaart opnieuw koppelt.</string>
+  <string name="dlg_confirm_unmount_title">SD-kaart ontkoppelen?</string>
+  <string name="dlg_error_unmount_text">Kon de SD-kaart niet ontkoppelen. Probeer het later opnieuw.</string>
+  <string name="dlg_ok">OK</string>
+  <string name="dock_audio_summary_none">Telefoon niet gedockt</string>
+  <string name="dock_not_found_text">U moet de telefoon docken voordat u de dockaudio kunt instellen.</string>
+  <string name="dock_sounds_enable_summary_off">Speel niets af als u een telefoon dockt of uit het dock verwijdert.</string>
+  <string name="dock_sounds_enable_summary_on">Speel een geluid af als u een telefoon dockt of uit het dock verwijdert.</string>
+  <string name="domain_urls_summary_none">Ondersteunde links niet openen</string>
+  <string name="domain_urls_title">Links openen</string>
+  <string name="doze_always_on_title">Altijd aan</string>
+  <string name="doze_summary">Activeer het scherm als u notificaties ontvangt</string>
+  <string name="encryption_and_credential_settings_summary">Telefoon versleuteld</string>
+  <string name="enterprise_privacy_none">Geen</string>
+  <string name="erase_esim_storage_description">Alle e-simkaarten op de telefoon wissen. Hierdoor wordt je mobiele abonnement niet opgezegd.</string>
+  <string name="erase_external_storage">SD-kaart wissen</string>
+  <string name="erase_external_storage_description">Alle gegevens op de SD-kaart, zoals muziek of foto’s, wissen</string>
+  <string name="external_data_size_label">SD-kaart</string>
+  <string name="fih_color_picker_blue">Blauw</string>
+  <string name="fih_color_picker_green">Groen</string>
+  <string name="fih_color_picker_orange">Oranje</string>
+  <string name="fih_color_picker_pink">Roze</string>
+  <string name="fih_color_picker_purple">Paars</string>
+  <string name="fih_color_picker_yellow">Geel</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">Bevestigen</string>
+  <string name="fih_message_vibrate">Trillen</string>
+  <string name="fih_mtp_enable_dialog_content">Nadat u verbinding hebt gemaakt, kunt u bestanden overbrengen op de computer die u vertrouwt en gegevens openen op de telefoon.</string>
+  <string name="fih_mtp_enable_dialog_title">USB gebruiken voor bestandsoverdracht?</string>
+  <string name="fih_music_song_count">nummer(s)</string>
+  <string name="fih_ringtone_add">Toevoegen</string>
+  <string name="fih_ringtone_deselect_all">Deselecteren</string>
+  <string name="fih_ringtone_listview_empty">Geen muziekbestanden</string>
+  <string name="fih_ringtone_remove">Verwijderen</string>
+  <string name="fih_ringtone_select_all">Alles</string>
+  <string name="fih_ringtone_selected">Geselecteerd</string>
+  <string name="fih_ringtone_tab_song">Nummers</string>
+  <string name="fih_sound_category_message_notirication_vibrate_title">Meldingsnotificatie &amp; trillen</string>
+  <string name="filter_apps_onsdcard">Op SD-kaart</string>
+  <string name="fingerprint_enroll_button_next">Volgende</string>
+  <string name="fingerprint_last_delete_message">U kunt uw vingerafdrukken niet gebruiken om uw telefoon te ontgrendelen, aankopen te autoriseren of u aan te melden bij apps.</string>
+  <string name="fingerprint_last_delete_message_profile_challenge">U kunt uw vingerafdrukken niet gebruiken om uw werkprofiel te ontgrendelen, aankopen te autoriseren of in te loggen bij werkapps.</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Als je je meldingen wilt bekijken, veeg je omlaag over de vingerafdruksensor achter op je telefoon.</string>
+  <string name="font_setting_title">Lettertypestijl</string>
+  <string name="font_size_save">OK</string>
+  <string name="forget">Vergeten</string>
+  <string name="fullbackup_erase_dialog_message">Stoppen met back-ups maken van apparaatgegevens (zoals wifiwachtwoorden en oproepgeschiedenis) en appgegevens (zoals instellingen en bestanden opgeslagen door apps), en alle kopieën op externe servers wissen?</string>
+  <string name="gesture_preference_summary">Snelle gebaren om je telefoon te bedienen</string>
+  <string name="gesture_setting_off">Uit</string>
+  <string name="gesture_setting_on">Aan</string>
+  <string name="hdmi_auto">AUTOMATISCH</string>
+  <string name="hdmi_video_resolution">Videoresolutie</string>
+  <string name="install_all_warning">Je telefoon en persoonlijke gegevens zijn gevoelig voor aanvallen door onbekende apps. Als je apps van deze bron installeert, ga je ermee akkoord dat je verantwoordelijk bent voor eventuele schade aan je telefoon of verlies van gegevens als gevolg van het gebruik van deze apps.</string>
+  <string name="intent_sender_account_label">Account</string>
+  <string name="keyboard_layout_default_label">Standaard</string>
+  <string name="keywords_all_apps">apps, download, applicaties, systeem</string>
+  <string name="launch_instant_app">Openen</string>
+  <string name="link_speed">%1$d Mbps</string>
+  <string name="locale_default">Standaard</string>
+  <string name="location_off_summary">Uit</string>
+  <string name="location_on_summary">Aan</string>
+  <string name="location_street_level">Laat apps GPS gebruiken op uw telefoon om uw locatie te bepalen</string>
+  <string name="lock_screen_intro_skip_dialog_text">De apparaatbeschermingsfuncties worden niet ingeschakeld. Je kunt niet voorkomen dat anderen deze telefoon gebruiken als je deze verliest of als deze wordt gestolen.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">De apparaatbeschermingsfuncties worden niet ingeschakeld. Je kunt niet voorkomen dat anderen deze telefoon gebruiken als je deze verliest, als de telefoon wordt gestolen of als deze wordt gereset.</string>
+  <string name="lockpassword_cancel_label">Annuleren</string>
+  <string name="lockpassword_confirm_your_pattern_generic_profile">Gebruik uw werkpatroon om door te gaan</string>
+  <string name="lockpattern_settings_require_password_before_startup_summary">Wachtwoord nodig om uw apparaat op te starten. Als dit apparaat uit staat, kan het geen oproepen, berichten, notificaties of alarmen ontvangen.</string>
+  <string name="lockpattern_settings_require_pattern_before_startup_summary">Patroon nodig om uw apparaat op te starten. Als dit apparaat uit staat, kan het geen oproepen, berichten, notificaties of alarmen ontvangen.</string>
+  <string name="lockpattern_settings_require_pin_before_startup_summary">PIN-code nodig om uw apparaat op te starten. Als dit apparaat uit staat, kan het geen oproepen, berichten, notificaties of alarmen ontvangen.</string>
+  <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
+  <string name="lockpattern_tutorial_continue_label">Volgende</string>
+  <string name="manage_trust_agents_summary">Geen</string>
+  <string name="managed_profile_contact_search_summary">Sta zoeken in contactpersonen door uw organisatie toe om bellers en contactpersonen te identificeren</string>
+  <string name="manual">Handleiding</string>
+  <string name="master_clear_accounts">
+
+U bent momenteel aangemeld bij de volgende accounts:
+</string>
+  <string name="master_clear_button_text">Telefoon resetten</string>
+  <string name="master_clear_desc">Hiermee worden alle gegevens in de <b>interne opslag</b> van uw telefoon gewist, waaronder:
+
+<li>Uw Google-account</li><li>Gegevens en instellingen van het systeem en de apps</li><li>Gedownloade apps</li></string>
+  <string name="master_clear_desc_erase_external_storage">
+
+Om muziek, foto’s en andere gebruikersgegevens te wissen, moet de <b>SD-kaart</b> gewist worden.</string>
+  <string name="master_clear_other_users_present">
+
+Er zijn andere gebruikers op dit apparaat.
+</string>
+  <string name="media_output_summary">Telefoon</string>
+  <string name="media_output_summary_unavailable">Niet beschikbaar</string>
+  <string name="menu_save">Opslaan</string>
+  <string name="motion_turn_over_reject_call_help">Draai de telefoon om als u een binnenkomende oproep wilt weigeren</string>
+  <string name="motion_turn_over_reject_call_title">Kantelen om de oproep te weigeren</string>
+  <string name="motion_volume_quiet_pickup_help">Pak de telefoon bij een binnenkomende oproep horizontaal op om de beltoon te dempen</string>
+  <string name="motion_volume_quiet_pickup_title">Volume dempen bij oppakken</string>
+  <string name="move_app_to_internal">Verplaatsen naar telefoon</string>
+  <string name="move_app_to_sdcard">Verplaatsen naar SD-kaart</string>
+  <string name="mvno_type_none">Geen</string>
+  <string name="my_device_info_account_preference_title">Account</string>
+  <string name="my_device_info_device_name_preference_title">Apparaatnaam</string>
+  <string name="network_scorer_picker_none_preference">Geen</string>
+  <string name="new_device_suggestion_summary">Een rondleiding volgen voor je nieuwe telefoon</string>
+  <string name="next_label">Volgende</string>
+  <string name="nfc_how_it_works_content">Een betaal-app instellen. Houd dan de achterkant van uw telefoon tegen een terminal met het Contactloos-symbool.</string>
+  <string name="nfc_payment_default_not_set">Niet ingesteld</string>
+  <string name="nfc_quick_toggle_summary">Sta gegevensuitwisseling toe als de telefoon een ander apparaat aanraakt</string>
+  <string name="nfc_service_summary_disabled">Uitgeschakeld</string>
+  <string name="nfc_service_summary_enabled">Ingeschakeld</string>
+  <string name="night_display_auto_mode_never">Geen</string>
+  <string name="night_display_status_title">Status</string>
+  <string name="notification_listener_disable_warning_cancel">Annuleren</string>
+  <string name="notification_listener_disable_warning_summary">Als u de toegang tot meldingen uitschakelt voor %1$s, kan de toegang tot Niet Sotren ook worden uitgeschakeld.</string>
+  <string name="notification_listener_security_warning_summary">%1$s kan alle meldingen lezen, inclusief persoonlijke informatie zoals contactnamen en de tekst van berichten die u ontvangt. Het is ook mogelijk om meldingen te verwerpen of actieknoppen in de meldingen te gebruiken. 
+
+Dit geeft de app ook de mogelijkheid om Niet storen aan of uit te zetten en gerelateerde instellingen te wijzigen.</string>
+  <string name="notification_suggestion_summary">Notificatie-inhoud tonen of verbergen</string>
+  <string name="notification_toggle_off">Uit</string>
+  <string name="notification_toggle_on">Aan</string>
+  <string name="notification_volume_title">Melding</string>
+  <string name="notifications_disabled">Uit</string>
+  <string name="notifications_enabled">Aan</string>
+  <string name="notifications_redacted">Gevoelige inhoud niet op vergrendelscherm</string>
+  <string name="okay">OK</string>
+  <string name="owner_info_settings_summary">Geen</string>
+  <string name="passpoint_content">Aanmeldingsgegevens voor %1$s</string>
+  <string name="passpoint_label">Opgeslagen via</string>
+  <string name="phone_info_label">Telefooninfo</string>
+  <string name="please_select_phase2">Phase 2-verificatie</string>
+  <string name="power_idle">Telefoon niet actief</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Telefoon wordt binnenkort mogelijk uitgeschakeld</string>
+  <string name="power_remaining_duration_shutdown_imminent">Telefoon wordt binnenkort mogelijk uitgeschakeld (%1$s)</string>
+  <string name="poweroff_animation_summary">Animatie afspelen stoppen</string>
+  <string name="poweroff_animation_title">Animatie stoppen</string>
+  <string name="preference_change_password_title">Wachtwoord wijzigen</string>
+  <string name="premium_sms_warning">Premium SMS kan u geld kosten en wordt opgeteld bij de kosten van uw provider. Als u toestemming voor een app inschakelt, kunt u premium-sms'jes versturen via die app.</string>
+  <string name="prevent_ringing_option_none_summary">Uit</string>
+  <string name="print_cancel">Annuleren</string>
+  <string name="print_feature_state_off">Uit</string>
+  <string name="print_feature_state_on">Aan</string>
+  <string name="print_settings_summary_no_service">Uit</string>
+  <string name="proxy_error">Let op</string>
+  <string name="proxy_error_dismiss">OK</string>
+  <string name="proxy_error_empty_host_set_port">Het poortveld moet leeg zijn als het hostveld leeg is.</string>
+  <string name="proxy_error_empty_port">U moet het veld voor de poort invullen.</string>
+  <string name="proxy_error_invalid_exclusion_list">De door u getypte uitsluitingslijst is onjuist ingedeeld. De uitgesloten domeinen in de lijst moeten door een komma worden gescheiden.</string>
+  <string name="proxy_error_invalid_port">De poort die u heeft ingevoerd, is ongeldig.</string>
+  <string name="proxy_exclusionlist_label">Proxy omzeilen voor</string>
+  <string name="proxy_hostname_label">Hostnaam van proxy</string>
+  <string name="proxy_port_label">Proxy-poort</string>
+  <string name="proxy_settings_title">Proxy</string>
+  <string name="proxy_url_title">PAC URL: </string>
+  <string name="proxy_warning_limited_support">De HTTP-proxy wordt gebruikt door de browser, maar mag niet worden gebruikt door de andere apps.</string>
+  <string name="radioInfo_data_connected">Verbonden</string>
+  <string name="radioInfo_data_disconnected">Verbinding verbroken</string>
+  <string name="radioInfo_data_suspended">Opgeschort</string>
+  <string name="radio_info_ims_feature_status_unavailable">Niet beschikbaar</string>
+  <string name="really_remove_account_message">Als u dit account verwijdert, worden alle berichten, contactpersonen en andere gegevens van de telefoon verwijderd!</string>
+  <string name="reset_network_desc">Hiermee worden alle netwerkinstellingen gereset, waaronder:
+
+<li>wifi</li><li>mobiele data</li><li>Bluetooth</li></string>
+  <string name="restriction_nfc_enable_summary">Sta gegevensuitwisseling toe als de telefoon een ander apparaat aanraakt</string>
+  <string name="retail_demo_reset_next">Volgende</string>
+  <string name="ringtone_set_toast">"%s" instellen als telefoonbeltoon.</string>
+  <string name="ringtone_sim2_title">Telefoonbeltoon (SIM2)</string>
+  <string name="ringtone_title_sim1">SIM1 telefoonbeltoon</string>
+  <string name="ringtone_title_sim2">SIM2 telefoonbeltoon</string>
+  <string name="roaming_warning_multiuser">Wanneer u dataroaming toestaat, kunnen u aanzienlijke roamingtarieven in rekening gebracht worden.
+
+Deze instelling is van invloed op alle gebruikers op deze telefoon.</string>
+  <string name="running_frequency">Frequentie</string>
+  <string name="runningservicedetails_stop_dlg_text">Als u deze service stopzet, kan het zijn dat sommige functies van uw tablet niet meer correct werken totdat u de telefoon uitschakelt en weer inschakelt.</string>
+  <string name="save">Opslaan</string>
+  <string name="saved_network">Opgeslagen door %1$s</string>
+  <string name="screen_zoom_summary">Maak de items op uw scherm kleiner of groter. Sommige apps op uw scherm kunnen van positie veranderen.</string>
+  <string name="screen_zoom_summary_default">Standaard</string>
+  <string name="screensaver_settings_summary_off">Uit</string>
+  <string name="sd_card_settings_label">SD-kaart</string>
+  <string name="sd_card_storage">SD-kaartgeheugen</string>
+  <string name="sd_eject">SD-kaart ontkoppelen</string>
+  <string name="sd_eject_summary">Ontkoppel de SD-kaart, zodat u deze veilig kunt verwijderen</string>
+  <string name="sd_format">SD-kaart wissen</string>
+  <string name="sd_format_summary">Wist alle gegevens op de SD-kaart, zoals muziek en foto’s</string>
+  <string name="sd_insert_summary">Plaats een SD-kaart om te koppelen</string>
+  <string name="sd_memory">SD-kaart</string>
+  <string name="sd_mount">SD-kaart koppelen</string>
+  <string name="sdcard_format">SD-kaart wissen</string>
+  <string name="sdcard_setting">SD-kaart</string>
+  <string name="sdcard_settings_bad_removal_status">SD-kaart werd verwijderd terwijl deze nog in gebruik was!</string>
+  <string name="sdcard_settings_mass_storage_status">SD-kaart wordt gebruikt als een massaopslagapparaat.</string>
+  <string name="sdcard_settings_not_present_status">Geen SD-krt</string>
+  <string name="sdcard_settings_read_only_status">SD-kaart gekoppeld als alleen-lezen.</string>
+  <string name="sdcard_settings_scanning_status">SD-kaart scannen op media…</string>
+  <string name="sdcard_settings_unmounted_status">De SD-kaart kan nu veilig verwijderd worden.</string>
+  <string name="sdcard_unmount">SD-kaart ontkoppelen</string>
+  <string name="security_passwords_title">Privacy</string>
+  <string name="security_settings_desc">Deze app heeft toegang tot het volgende op uw telefoon:</string>
+  <string name="security_settings_desc_multi">Deze app heeft toegang tot het volgende op uw telefoon. Om de prestaties te verbeteren en het geheugengebruik te verminderen, zijn sommige van deze rechten beschikbaar voor %1$s omdat dit in hetzelfde proces draait als %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Verwijderen</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">Naam</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Illustratie met apparaat en locatie van vingerafdruksensor</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">Annuleren</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Volgende</string>
+  <string name="security_settings_fingerprint_enroll_start_message">Steek uw vinger op de sensor en til deze op als u een trilling voelt</string>
+  <string name="set_ringtone">Als telefoonbeltoon gebruiken</string>
+  <string name="settings_manual_activity_title">Handleiding</string>
+  <string name="setup_fingerprint_enroll_enrolling_skip_message">U koos ervoor uw vingerafdruk te gebruiken als ontgrendelingsmethode voor uw telefoon. Als u dit nu overslaat, moet u dit later instellen. Het instellen duurt ongeveer een minuut.</string>
+  <string name="setup_lock_settings_picker_message">Voorkom dat anderen deze telefoon zonder uw toestemming gebruiken door de beveiligingsfuncties van het apparaat te activeren. Kies de schermvergrendeling die u wilt gebruiken.</string>
+  <string name="setup_lock_settings_picker_title">Bescherm uw telefoon</string>
+  <string name="share_remote_bugreport_dialog_message">Uw IT-beheerder heeft een bugrapport opgevraagd om problemen met dit apparaat op te lossen. Apps en gegevens kunnen gedeeld worden en uw toestel kan tijdelijk trager werken.</string>
+  <string name="share_remote_bugreport_dialog_message_finished">Uw IT-beheerder heeft een bugrapport opgevraagd om problemen met dit apparaat op te lossen. Apps en gegevens kunnen gedeeld worden.</string>
+  <string name="sharing_remote_bugreport_dialog_message">Dit bugrapport wordt gedeeld met uw IT-beheerder. Neem contact met hem op voor meer informatie.</string>
+  <string name="show_operator_name_title">Netwerknaam</string>
+  <string name="sim_card_select_title">Simkaart selecteren</string>
+  <string name="sim_change_pin">SIM-PIN</string>
+  <string name="sim_change_succeeded">SIM-PIN succesvol gewijzigd</string>
+  <string name="sim_disable_sim_lock">SIM-kaart ontgrendelen</string>
+  <string name="sim_editor_title">Simkaartsleuf %1$d</string>
+  <string name="sim_enable_sim_lock">SIM-kaart vergrendelen</string>
+  <string name="sim_enabler_both_inactive">Fout, kan niet alle SIM´s uitschakelen</string>
+  <string name="sim_enabler_disabling">Aan het deactiveren...</string>
+  <string name="sim_enabler_enabling">Aan het activeren...</string>
+  <string name="sim_enabler_need_switch_data_service">Wordt uitgeschakeld en overgeschakeld naar SIM%1$s voor gegevensdiensten. Weet u het zeker?</string>
+  <string name="sim_enter_cancel">Annuleren</string>
+  <string name="sim_enter_new">Nieuwe SIM-PIN</string>
+  <string name="sim_enter_ok">OK</string>
+  <string name="sim_enter_old">Oude SIM-PIN</string>
+  <string name="sim_enter_pin">SIM-PIN</string>
+  <string name="sim_lock_off">PIN vereist om telefoon te gebruiken</string>
+  <string name="sim_lock_on">PIN vereist om telefoon te gebruiken</string>
+  <string name="sim_lock_settings">SIM-kaartvergrendelingsinstellingen</string>
+  <string name="sim_lock_settings_summary_off">Uit</string>
+  <string name="sim_name_hint">Voer SIM-maa, om</string>
+  <string name="sim_pin_change">SIM-PIN wijzigen</string>
+  <string name="sim_pin_toggle">SIM-kaart vergrendelen</string>
+  <string name="sim_preferred_title">Voorkeur-SIM-kaart updaten?</string>
+  <string name="smart_battery_footer">Wanneer batterijbeheer detecteert dat apps de batterij snel leegmaken, heb je de optie om deze apps te beperken. Beperkte apps werken mogelijk niet goed en meldingen worden mogelijk vertraagd.</string>
+  <string name="sms_messages_title">SMS-berichten</string>
+  <string name="status_number">Telefoonnummer</string>
+  <string name="status_number_sim_slot">Telefoonnummer (simsleuf %1$d)</string>
+  <string name="status_number_sim_status">Telefoonnummer op simkaart</string>
+  <string name="status_signal_strength">Signaalsterkte</string>
+  <string name="storage_internal_forget_details">Plaats deze ^1 terug om apps, foto’s of gegevens die erop staat te gebruiken. 
+
+U kunt er ook voor kiezen deze opslagruimte te vergeten als het apparaat niet beschikbaar is.. 
+
+Als u ervoor kiest om het te vergeten, dan gaan alle gegevens die het apparaat bevat voor altijd verloren. 
+
+U kunt de apps later opnieuw installeren, maar hun gegevens die op dit apparaat zijn opgeslagen, gaan verloren.</string>
+  <string name="storage_manager_indicator_off">Uit</string>
+  <string name="storage_manager_indicator_on">Aan</string>
+  <string name="storage_menu_forget">Vergeten</string>
+  <string name="storage_settings_summary">SD-kaart ontkoppelen, beschikbare opslagruimte bekijken</string>
+  <string name="storage_wizard_init_internal_summary">Om zaken op dit apparaat op te slaan, inclusief apps en foto’s. Vereist formattering die voorkomt dat het met andere apparaten werkt.</string>
+  <string name="storage_wizard_init_v2_internal_action">Telefoonopslag</string>
+  <string name="storage_wizard_init_v2_internal_summary">Alleen voor apps, bestanden en media op deze telefoon</string>
+  <string name="storage_wizard_init_v2_internal_title">Gebruiken voor telefoonopslag</string>
+  <string name="storage_wizard_migrate_v2_body">Je kunt bestanden, media en bepaalde apps naar deze ^1 verplaatsen. 
+
+Hiermee maak je ^2 van je telefoonopslag vrij. Het overzetten duurt ongeveer ^3.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">moet de telefoon opgeladen blijven</string>
+  <string name="sub_activate_failed">Activering mislukt.</string>
+  <string name="sub_deactivate_failed">Deactiveren mislukt.</string>
+  <string name="suggested_lock_settings_summary">Schermvergrendeling instellen om telefoon te beschermen</string>
+  <string name="suggestion_button_text">OK</string>
+  <string name="switch_off_text">Uit</string>
+  <string name="switch_on_text">Aan</string>
+  <string name="testing_phone_info">Telefooninformatie</string>
+  <string name="title_font_size">Lettergrootte</string>
+  <string name="touch_firmware_version">Firmwareversie touchscherm</string>
+  <string name="tts_install_voices_cancel">Annuleren</string>
+  <string name="uep_setting_page_name">Gebruikerservaringsprogramma</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">Apparaatbeveiligingsfuncties werken niet zonder uw wachtwoord.
+
+Uw opgeslagen vingerafdrukken worden ook van dit apparaat verwijderd en u kunt uw telefoon niet ontgrendelen, geen aankopen autoriseren en u niet aanmelden voor apps.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Profielbeveiligingsfuncties werken niet zonder uw wachtwoord.
+
+Uw opgeslagen vingerafdrukken worden ook uit dit profiel verwijderd en u kunt uw profiel niet ontgrendelen, geen aankopen autoriseren en u niet aanmelden voor apps.</string>
+  <string name="unlock_disable_frp_warning_content_password_profile">Profielbeveiligingsfuncties werken niet zonder uw wachtwoord.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Apparaatbeveiligingsfuncties werken niet zonder uw patroon.
+
+Uw opgeslagen vingerafdrukken worden ook van dit apparaat verwijderd en u kunt uw telefoon niet ontgrendelen, geen aankopen autoriseren en u niet aanmelden voor apps.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Profielbeveiligingsfuncties werken niet zonder uw patroon.
+
+Uw opgeslagen vingerafdrukken worden ook uit dit profiel verwijderd en u kunt uw profiel niet ontgrendelen, geen aankopen autoriseren en u niet aanmelden voor apps.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_profile">Profielbeveiligingsfuncties werken niet zonder uw patroon.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">Apparaatbeveiligingsfuncties werken niet zonder uw PIN-code.
+
+Uw opgeslagen vingerafdrukken worden ook van dit apparaat verwijderd en u kunt uw telefoon niet ontgrendelen, geen aankopen autoriseren en u niet aanmelden voor apps.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Profielbeveiligingsfuncties werken niet zonder uw PIN-code.
+
+Uw opgeslagen vingerafdrukken worden ook uit dit profiel verwijderd en u kunt uw profiel niet ontgrendelen, geen aankopen autoriseren en u niet aanmelden voor apps.</string>
+  <string name="unlock_disable_frp_warning_content_pin_profile">Profielbeveiligingsfuncties werken niet zonder uw PIN-code.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Apparaatbeveiligingsfuncties werken niet zonder uw schermvergrendeling.
+
+Uw opgeslagen vingerafdrukken worden ook van dit apparaat verwijderd en u kunt uw telefoon niet ontgrendelen, geen aankopen autoriseren en u niet aanmelden voor apps.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Profielbeveiligingsfuncties werken niet zonder uw schermvergrendeling.
+
+Uw opgeslagen vingerafdrukken worden ook uit dit profiel verwijderd en u kunt uw profiel niet ontgrendelen, geen aankopen autoriseren en u niet aanmelden voor apps.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_profile">Profielbeveiligingsfuncties werken niet zonder uw schermvergrendeling.</string>
+  <string name="unlock_set_unlock_launch_picker_change_summary">Patroon-, PIN- of wachtwoordbeveiliging wijzigen of uitschakelen</string>
+  <string name="unlock_set_unlock_mode_off">Geen</string>
+  <string name="unlock_set_unlock_mode_password">Wachtwoord</string>
+  <string name="unlock_set_unlock_off_title">Geen</string>
+  <string name="unlock_set_unlock_password_title">Wachtwoord</string>
+  <string name="unmount_inform_text">SD-kaart wordt ontkoppeld.</string>
+  <string name="unsupported_setting_summary">Instelling wordt niet ondersteund op deze telefoon</string>
+  <string name="usage_type_phone">Telefoon</string>
+  <string name="usage_type_video">Video</string>
+  <string name="usb_tethering_subtext">Internetverbinding van telefoon delen via USB</string>
+  <string name="user_add_user_message_short">Als u een nieuwe gebruiker toevoegt, dan dient deze persoon zijn ruimte in te stellen.
+
+Elke gebruiker kan apps updaten voor alle andere gebruikers.</string>
+  <string name="user_cannot_manage_message">Alleen de eigenaar van de telefoon kan gebruikers beheren.</string>
+  <string name="user_confirm_remove_self_message">U verliest uw ruimte en gegevens op deze telefoon. U kunt deze actie niet ongedaan maken.</string>
+  <string name="user_credentials">Gebruikerstoegangsgegevens</string>
+  <string name="user_credentials_summary">Opgeslagen toegangsgegevens bekijken en wijzigen</string>
+  <string name="user_delete_button">Verwijderen</string>
+  <string name="user_dict_settings_add_dialog_confirm">OK</string>
+  <string name="user_dict_settings_context_menu_delete_title">Verwijderen</string>
+  <string name="vision_settings_description">U kunt dit apparaat personaliseren om dit aan uw behoeften aan te passen. Deze toegankelijkheidsfuncties kunnen later gewijzigd worden onder Instellingen.</string>
+  <string name="vpn_cancel">Annuleren</string>
+  <string name="vpn_connect">Verbinden</string>
+  <string name="vpn_disconnected_summary">Geen</string>
+  <string name="vpn_forget">Vergeten</string>
+  <string name="vpn_lockdown_none">Geen</string>
+  <string name="vpn_name">Naam</string>
+  <string name="vpn_password">Wachtwoord</string>
+  <string name="vpn_save">Opslaan</string>
+  <string name="vpn_username">Gebruikersnaam</string>
+  <string name="vr_listener_security_warning_summary">%1$s kan draaien wanneer u gebruik maakt van applicaties in virtual reality-modus.</string>
+  <string name="wallpaper_settings_summary_default">Standaard</string>
+  <string name="wallpaper_suggestion_summary">Personaliseer uw scherm</string>
+  <string name="wapi_auto_sel_cert">Automatisch kiezen</string>
+  <string name="wapi_cert_manage_title">Beheer WAPI-certificaat</string>
+  <string name="wifi_add_network">Netwerk toevoegen</string>
+  <string name="wifi_advanced_ip_address_title">IP-adres</string>
+  <string name="wifi_advanced_settings_label">IP-instellingen</string>
+  <string name="wifi_advanced_toggle_description_collapsed">Keuzemenu Geavanceerde opties. Dubbeltik om uit te breiden.</string>
+  <string name="wifi_advanced_toggle_description_expanded">Keuzemenu Geavanceerde opties. Dubbeltik om uit te breiden.</string>
+  <string name="wifi_ap_2G">2,4 GHz</string>
+  <string name="wifi_ap_choose_auto">Autom.</string>
+  <string name="wifi_ap_client_details_title">Details</string>
+  <string name="wifi_ap_client_ip_label">IP-adres</string>
+  <string name="wifi_band_24ghz">2,4 GHz</string>
+  <string name="wifi_band_5ghz">5 GHz</string>
+  <string name="wifi_calling_dialog_comfirm">Niet opnieuw tonen.</string>
+  <string name="wifi_calling_dialog_msg">U kunt geen noodoproepen plaatsen met ‘Bellen via wifi’. Het apparaat schakelt automatisch over naar een mobiel netwerk (2G/3G) om de noodoproep te plaatsen. Noodoproepen zijn alleen mogelijk in gebieden met mobiele dekking.</string>
+  <string name="wifi_calling_dialog_title">Noodoproepen met Bellen via wifi.</string>
+  <string name="wifi_calling_notifybar_msg">Noodoproepen alleen in gebieden met mobiele dekking</string>
+  <string name="wifi_calling_notifybar_title">Vodaphone: bellen via wifi</string>
+  <string name="wifi_calling_off_explanation">Als bellen via wifi ingeschakeld is, dan kan uw telefoon gesprekken doorsturen via wifi-netwerken of het netwerk van uw provider, afhankelijk van uw voorkeur en welk signaal sterker is. Voordat u deze functie inschakelt, dient u contact op te nemen met uw provider over tarieven en andere details.</string>
+  <string name="wifi_cancel">Annuleren</string>
+  <string name="wifi_connect">Verbinden</string>
+  <string name="wifi_disabled_generic">Uitgeschakeld</string>
+  <string name="wifi_disabled_network_failure">IP-configuratie mislukt</string>
+  <string name="wifi_disabled_password_failure">Verificatieprobleem</string>
+  <string name="wifi_display_options_forget">Vergeten</string>
+  <string name="wifi_display_options_name">Naam</string>
+  <string name="wifi_display_status_connected">Verbonden</string>
+  <string name="wifi_display_status_not_available">Niet beschikbaar</string>
+  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_do_not_provide_eap_user_cert">Niet leveren</string>
+  <string name="wifi_do_not_validate_eap_server">Niet valideren</string>
+  <string name="wifi_do_not_validate_eap_server_warning">Geen certificaat opgegeven. Uw verbinding is niet privé.</string>
+  <string name="wifi_eap_anonymous">Anonieme identiteit</string>
+  <string name="wifi_eap_ca_cert">CA-certificaat</string>
+  <string name="wifi_eap_domain">Domein</string>
+  <string name="wifi_eap_identity">Identiteit</string>
+  <string name="wifi_eap_method">EAP-methode</string>
+  <string name="wifi_eap_user_cert">Gebruikerscertificaat</string>
+  <string name="wifi_fail_to_scan">Scannen van netwerken niet mogelijk</string>
+  <string name="wifi_failed_connect_message">Kan geen verbinding maken met het netwerk</string>
+  <string name="wifi_failed_forget_message">Vergeten van netwerk is mislukt</string>
+  <string name="wifi_failed_save_message">Opslaan van netwerk is mislukt</string>
+  <string name="wifi_forget">Vergeten</string>
+  <string name="wifi_frequency">Frequentie</string>
+  <string name="wifi_gateway">Gateway</string>
+  <string name="wifi_hotspot_message">%1$s vereist dat u zich online aanmeldt voordat u verbinding maakt met het netwerk.</string>
+  <string name="wifi_hotspot_tethering_on_subtext">Internetverbinding van deze telefoon delen via hotspot</string>
+  <string name="wifi_hotspot_title">Aanmelden om te verbinden?</string>
+  <string name="wifi_ip_address">IP-adres</string>
+  <string name="wifi_ip_settings">IP-instellingen</string>
+  <string name="wifi_ip_settings_invalid_dns">Voer een geldig DNS-adres in.</string>
+  <string name="wifi_ip_settings_invalid_gateway">Voer een geldig gateway-adres in.</string>
+  <string name="wifi_ip_settings_invalid_ip_address">Voer een geldig IP-adres in.</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Typ een netwerkprefix van 0-32 tekens.</string>
+  <string name="wifi_ip_settings_menu_cancel">Annuleren</string>
+  <string name="wifi_ip_settings_menu_save">Opslaan</string>
+  <string name="wifi_menu_advanced">Geavanceerd</string>
+  <string name="wifi_multiple_cert_added">(Meerdere certificaten toegevoegd)</string>
+  <string name="wifi_network_prefix_length">Lengte van netwerkprefix</string>
+  <string name="wifi_no_domain_warning">U moet een domein opgeven.</string>
+  <string name="wifi_no_internet_no_reconnect">Geen automatische verbinding</string>
+  <string name="wifi_not_in_range">Niet in bereik</string>
+  <string name="wifi_password">Wachtwoord</string>
+  <string name="wifi_remembered">Opgeslagen</string>
+  <string name="wifi_save">Opslaan</string>
+  <string name="wifi_security">Beveiliging</string>
+  <string name="wifi_security_none">Geen</string>
+  <string name="wifi_setup_add_network">Netwerk toevoegen</string>
+  <string name="wifi_setup_back">Vorige</string>
+  <string name="wifi_setup_cancel">Annuleren</string>
+  <string name="wifi_setup_connect">Verbinden</string>
+  <string name="wifi_setup_forget">Vergeten</string>
+  <string name="wifi_setup_next">Volgende</string>
+  <string name="wifi_setup_save">Opslaan</string>
+  <string name="wifi_setup_status_connecting">Verbinding maken…</string>
+  <string name="wifi_shared">Delen met andere apparaatgebruikers</string>
+  <string name="wifi_show_advanced">Geavanceerde opties</string>
+  <string name="wifi_show_password">Wachtwoord weergeven</string>
+  <string name="wifi_signal">Signaalsterkte</string>
+  <string name="wifi_speed">Linksnelheid</string>
+  <string name="wifi_ssid">Netwerknaam</string>
+  <string name="wifi_ssid_hint">Geef de SSID op</string>
+  <string name="wifi_status">Status</string>
+  <string name="wifi_unchanged">(ongewijzigd)</string>
+  <string name="wifi_unspecified">Maak een keuze</string>
+  <string name="wifi_use_system_certs">Systeemcertificaten gebruiken</string>
+  <string name="wizard_back">Vorige</string>
+  <string name="wizard_next">Volgende</string>
+  <string name="zen_event_rule_type_name">Evenement</string>
+  <string name="zen_mode_delete_rule_button">Verwijderen</string>
+  <string name="zen_mode_event_rule_calendar">Tijdens evenementen voor</string>
+  <string name="zen_mode_event_rule_summary_calendar_template">Tijdens evenementen voor %1$s</string>
+  <string name="zen_mode_from_none">Geen</string>
+  <string name="zen_mode_no_exceptions">Geen</string>
+  <string name="zen_mode_rule_delete_button">Verwijderen</string>
+  <string name="zen_mode_schedule_rule_days_none">Geen</string>
+  <string name="zen_mode_sound_summary_off">Uit</string>
+  <string name="zen_mode_sound_summary_on">Aan</string>
+  <string name="zzz_certification_settings_title">Certificatie</string>
+  <string name="zzz_fih_invalid_battery_charging">Originele accu's aanbevolen. Niet-goedkeurde accu's kunnen gevaarlijk zijn en bijvoorbeeld brand of explosies veroorzaken.</string>
+  <string name="zzz_hmd_open_source_info_text">Open-sourcesoftware 
+
+Dit product omvat open-sourcesoftware met licentie onder de GPL en LGPL. HMD biedt u de source code aan zoals gedefinieerd in de licentie voor de betreffende open-sourcesoftware. U kunt deze schriftelijk aanvragen bij:
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Finland. Dit aanbod is geldig voor een periode van drie (3) jaar vanaf de distributiedatum van dit product door HMD. Door het indienen van een verzoek geeft u HMD (of derden namens en onder het rechtstreekse gezag van HMD) toestemming uw persoonlijke gegevens te verwerken.
+
+De gegevensverwerking wordt uitgevoerd voor het doel van het verzoek met inachtneming van het privacybeleid van HMD en toepasbare wetgeving.</string>
+  <string name="zzz_hmd_open_source_info_title">Open-source-info van HMD</string>
+  <string name="zzz_roaming_item_title">Wereldwijde gegevens</string>
+  <string name="zzz_security_power_off_password_summary">Typ het wachtwoord van uw apparaat om af te sluiten/opnieuw op te starten</string>
+  <string name="zzz_security_power_off_password_title">Uitzetten/Vergrendeling herstarten</string>
+  <string name="zzz_sim_no_services">Geen service</string>
+  <string name="zzz_version">Versie</string>
+</resources>

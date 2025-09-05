@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">Rendkívül rövid késleltetés (%1$d ms)</item>
+    <item quantity="other">Rendkívül rövid késleltetés (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">Hosszú késleltetés (%1$d ms)</item>
+    <item quantity="other">Hosszú késleltetés (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">Rövid késleltetés (%1$d ms)</item>
+    <item quantity="other">Rövid késleltetés (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">Nagyon hosszú késleltetés (%1$d ms)</item>
+    <item quantity="other">Nagyon hosszú késleltetés (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">Nagyon rövid késleltetés (%1$d ms)</item>
+    <item quantity="other">Nagyon rövid késleltetés (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">1 alkalmazás számára engedélyezett a korlátlan adathasználat, ha az Adatforgalom-csökkentő be van kapcsolva</item>
+    <item quantity="other">%1$d alkalmazás számára engedélyezett a korlátlan adathasználat, ha az Adatforgalom-csökkentő be van kapcsolva</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">Eltávolítja a kiválasztott nyelvet?</item>
+    <item quantity="other">Eltávolítja a kiválasztott nyelveket?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">1 hour</item>
+    <item quantity="other">%s óra</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">Legalább 1 betűt kell tartalmaznia</item>
+    <item quantity="other">Tartalmaznia kell legalább %d betűt</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">Legalább 1 kisbetűt kell tartalmaznia</item>
+    <item quantity="other">Tartalmaznia kell legalább %d kisbetűt</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">Legalább 1 nem betű jellegű karaktert kell tartalmaznia</item>
+    <item quantity="other">Tartalmaznia kell legalább %d olyan karaktert, amely nem betű</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">Legalább 1 számjegyet kell tartalmaznia</item>
+    <item quantity="other">Tartalmaznia kell legalább %d számjegyet</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">Legalább 1 különleges szimbólumot kell tartalmaznia</item>
+    <item quantity="other">Tartalmaznia kell legalább %d speciális karaktert</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">Legalább 1 nagybetűt kell tartalmaznia</item>
+    <item quantity="other">Tartalmaznia kell legalább %d nagybetűt</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d alkalmazás tudja olvasni az értesítéseket</item>
+    <item quantity="other">%d alkalmazás tudja olvasni az értesítéseket</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">1 alkalmazás használta a memóriát az elmúlt %2$s során</item>
+    <item quantity="other">%1$d alkalmazás használta a memóriát az elmúlt %2$s során</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">1 perc</item>
+    <item quantity="other">%s perc</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d engedély megadva</item>
+    <item quantity="other">%d engedély megadva</item>
+  </plurals>
+  <plurals name="print_jobs_summary">
+    <item quantity="one">1 nyomtatási feladat</item>
+    <item quantity="other">%1$d nyomtatási feladat</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d további engedély</item>
+    <item quantity="other">%d további engedély</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">%d/%d engedély megadva</item>
+    <item quantity="other">%d/%d engedély megadva</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">1 másodperc</item>
+    <item quantity="other">%s másodperc</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d ujjlenyomat beállítva</item>
+    <item quantity="other">%1$d ujjlenyomat beállítva</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">Rejtett elem megjelenítése %d</item>
+    <item quantity="other">Rejtett elemek megjelenítése %d</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">%1$d lépésre van attól, hogy fejlesztő legyen.</item>
+    <item quantity="other">%1$d lépésre van attól, hogy fejlesztő legyen.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">Tanúsítvány elfogadása megbízhatóként vagy eltávolítása</item>
+    <item quantity="other">Tanúsítványok elfogadása megbízhatóként vagy eltávolítása</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s új jogosító tanúsítványt telepített az Ön munkaprofiljához, lehetővé téve a munkával kapcsolatos hálózati tevékenység megfigyelését, beleértve az e-maileket, alkalmazásokat és biztonságos weboldalakat.
+
+Ha bővebb információkat szeretne a tanúsítványról, lépjen kapcsolatba a rendszergazdával.</item>
+    <item quantity="other">%s új jogosító tanúsítványokat telepített az Ön munkaprofiljához, lehetővé téve a munkával kapcsolatos hálózati tevékenység megfigyelését, beleértve az e-maileket, alkalmazásokat és biztonságos weboldalakat.
+
+Ha bővebb információkat szeretne a tanúsítványokról, lépjen kapcsolatba a rendszergazdával.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s új jogosító tanúsítványt telepített a készülékén, lehetővé téve a készülék hálózati tevékenységének megfigyelését, beleértve az e-maileket, alkalmazásokat és biztonságos weboldalakat.
+
+Ha bővebb információkat szeretne a tanúsítványról, lépjen kapcsolatba a rendszergazdával.</item>
+    <item quantity="other">%s új jogosító tanúsítványokat telepített a készülékén, lehetővé téve a készülék hálózati tevékenységének megfigyelését, beleértve az e-maileket, alkalmazásokat és biztonságos weboldalakat.
+
+Ha bővebb információkat szeretne a tanúsítványokról, lépjen kapcsolatba a rendszergazdával.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">Tanúsítvány ellenőrzése</item>
+    <item quantity="other">Tanúsítványok ellenőrzése</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">1 elem</item>
+    <item quantity="other">%d elem</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">A SIM kártya PIN kódja helytelen. %d próbálkozás maradt. Utána a szolgáltatótól kell feloldást kérnie.</item>
+    <item quantity="other">A SIM kártya PIN kódja helytelen. %d próbálkozás maradt.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">Csak riasztások egy órán át, eddig: %2$s</item>
+    <item quantity="other">Csak riasztások %1$d órán át, eddig: %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">Csak riasztások egy percen át, eddig: %2$s</item>
+    <item quantity="other">Csak riasztások %1$d percen át (eddig: %2$s)</item>
+  </plurals>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">Extreem korte vertraging (%1$d ms)</item>
+    <item quantity="other">Extreem korte vertraging (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">Lange vertraging (%1$d ms)</item>
+    <item quantity="other">Lange vertraging (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">Korte vertraging (%1$d ms)</item>
+    <item quantity="other">Korte vertraging (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">Zeer lange vertraging (%1$d ms)</item>
+    <item quantity="other">Zeer lange vertraging (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">Zeer korte vertraging (%1$d ms)</item>
+    <item quantity="other">Zeer korte vertraging (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">1 app mag onbeperkt data gebruiken terwijl Databesparing is ingeschakeld</item>
+    <item quantity="other">%1$d apps mogen onbeperkt data gebruiken terwijl Databesparing is ingeschakeld</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">Geselecteerde taal verwijderen?</item>
+    <item quantity="other">Geselecteerde talen verwijderen?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">1 uur</item>
+    <item quantity="other">%s uur</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">Moet ten minste één letter bevatten</item>
+    <item quantity="other">Moet ten minste %d letters bevatten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">Moet ten minste één kleine letter bevatten</item>
+    <item quantity="other">Moet ten minste %d kleine letters bevatten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">Moet ten minste één teken bevatten dat geen letter is</item>
+    <item quantity="other">Moet ten minste %d tekens bevatten die geen letters zijn</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">Moet ten minste één cijfer bevatten</item>
+    <item quantity="other">Moet ten minste %d cijfers bevatten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">Moet ten minste één speciaal symbool bevatten</item>
+    <item quantity="other">Moet ten minste %d speciale symbolen bevatten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">Moet ten minste één hoofdletter bevatten</item>
+    <item quantity="other">Moet ten minste %d hoofdletters bevatten</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d app kan meldingen lezen</item>
+    <item quantity="other">%d apps kunnen meldingen lezen</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">1 app heeft geheugen gebruikt in de afgelopen %2$s</item>
+    <item quantity="other">%1$d apps hebben geheugen gebruikt in de afgelopen %2$s</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">1 minuut</item>
+    <item quantity="other">%s minuten</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d machtiging verleend</item>
+    <item quantity="other">%d machtigingen verleend</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d aanvullend recht</item>
+    <item quantity="other">%d aanvullende rechten</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">%d van %d recht verleend</item>
+    <item quantity="other">%d van %d rechten verleend</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">1 seconde</item>
+    <item quantity="other">%s seconden</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d vingerafdruk ingesteld</item>
+    <item quantity="other">%1$d vingerafdrukken ingesteld</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">%d verborgen item weergeven</item>
+    <item quantity="other">%d verborgen items weergeven</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">Je moet nog %1$d stap uitvoeren om ontwikkelaar te worden.</item>
+    <item quantity="other">Je moet nog %1$d stappen uitvoeren om ontwikkelaar te worden.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">Certificaat vertrouwen of verwijderen</item>
+    <item quantity="other">Certificaten vertrouwen of verwijderen</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s heeft een certificeringsinstantie voor uw werkprofiel geïnstalleerd, waardoor dit domein activiteit in het werknetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.
+
+Neem contact op met uw beheerder voor meer informatie over dit certificaat.</item>
+    <item quantity="other">%s heeft certificeringsinstanties voor uw werkprofiel geïnstalleerd, waardoor dit domein activiteit in het werknetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.
+
+Neem contact op met uw beheerder voor meer informatie over deze certificaten.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s heeft een certificeringsinstantie geïnstalleerd op uw apparaat, waardoor dit domein activiteit in het apparaatnetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.
+
+Neem contact op met uw beheerder voor meer informatie over dit certificaat.</item>
+    <item quantity="other">%s heeft certificeringsinstanties geïnstalleerd op uw apparaat, waardoor dit domein activiteit in het apparaatnetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.
+
+Neem contact op met uw beheerder voor meer informatie over deze certificaten.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">Certificaat controleren</item>
+    <item quantity="other">Certificaten controleren</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">1 item</item>
+    <item quantity="other">%d items</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Onjuiste pincode voor simkaart. Je hebt nog %d poging over voordat je contact met je provider moet opnemen om je apparaat te ontgrendelen.</item>
+    <item quantity="other">Onjuiste pincode voor simkaart. Je hebt nog %d pogingen over.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">Wijzigen in 'Alleen alarmen' gedurende één uur (tot %2$s)</item>
+    <item quantity="other">Wijzigen in 'Alleen alarmen' gedurende %1$d uur (tot %2$s)</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">Wijzigen in 'Alleen alarmen' gedurende één minuut (tot %2$s)</item>
+    <item quantity="other">Wijzigen in 'Alleen alarmen' gedurende %1$d minuten (tot %2$s)</item>
+  </plurals>
+</resources>

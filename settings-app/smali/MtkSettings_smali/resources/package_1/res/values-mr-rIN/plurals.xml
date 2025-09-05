@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">अत्यंत अल्प विलंब (%1$d मिसे)</item>
+    <item quantity="other">अत्यंत अल्प विलंब (%1$d मिसे)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">दीर्घ विलंब (%1$d मिसे)</item>
+    <item quantity="other">दीर्घ विलंब (%1$d मिसे)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">अल्प विलंब (%1$d मिसे)</item>
+    <item quantity="other">अल्प विलंब (%1$d मिसे)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">खूप दीर्घ विलंब (%1$d मिसे)</item>
+    <item quantity="other">खूप दीर्घ विलंब (%1$d मिसे)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">खूप अल्प विलंब (%1$d मिसे)</item>
+    <item quantity="other">खूप अल्प विलंब (%1$d मिसे)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">डेटा बचतकर्ता चालू असताना %1$d अनुप्रयोगास अनिर्बंध डेटा वापरण्याची अनुमती दिली</item>
+    <item quantity="other">डेटा बचतकर्ता चालू असताना %1$d अनुप्रयोगांना अनिर्बंध डेटा वापरण्याची अनुमती दिली</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">निवडक भाषा काढायची?</item>
+    <item quantity="other">निवडक भाषा काढायच्या?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">%s तास</item>
+    <item quantity="other">%s तास</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">कमीत कमी %d अक्षर असणे आवश्यक आहे</item>
+    <item quantity="other">किमान %d अक्षरे असणे आवश्यक आहे</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">कमीत कमी %d लोअरकेस अक्षर असणे आवश्यक आहे</item>
+    <item quantity="other">किमान %d लोअरकेस अक्षरे असणे आवश्यक आहे</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">कमीत कमी %d अक्षर-नसलेला वर्ण असणे आवश्यक आहे</item>
+    <item quantity="other">किमान %d अक्षर नसलेले वर्ण असणे आवश्यक आहे</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">कमीत कमी %d संख्यात्मक अंक असणे आवश्यक आहे</item>
+    <item quantity="other">किमान %d संख्यात्मक अंक असणे आवश्यक आहे</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">कमीत कमी %d विशिष्ट चिन्ह असणे आवश्यक आहे</item>
+    <item quantity="other">किमान %d विशेष आयकन असणे आवश्यक आहे</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">कमीत कमी %d अप्परकेस अक्षर असणे आवश्यक आहे</item>
+    <item quantity="other">किमान %d अप्परकेस अक्षरे असणे आवश्यक आहे</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d अॅप्स सूचना वाचू शकतात</item>
+    <item quantity="other">%d अॅप्स सूचना वाचू शकतात</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">गेल्या %2$s मध्‍ये %1$d अ‍ॅपने मेमरी वापरली</item>
+    <item quantity="other">गेल्या %2$s मध्‍ये %1$d अ‍ॅप्सने मेमरी वापरली</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">%s मिनिट</item>
+    <item quantity="other">%s मिनिटे</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d परवानगीस मंजूरी दिली</item>
+    <item quantity="other">%d परवानग्यांना मंजूरी दिली</item>
+  </plurals>
+  <plurals name="print_jobs_summary">
+    <item quantity="one">1 मुद्रण कार्य</item>
+    <item quantity="other">%1$d मुद्रण कार्ये</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d अतिरिक्त परवानगी</item>
+    <item quantity="other">%d अतिरिक्त परवानग्या</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">%d पैकी %d परवानगीला मंजूरी दिली</item>
+    <item quantity="other">%d पैकी %d परवानग्यांना मंजूरी दिली</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">%s सेकंद</item>
+    <item quantity="other">%s सेकंद</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d फिंगरप्रिंट सेटअप</item>
+    <item quantity="other">%1$d फिंगरप्रिंट सेटअप</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">%d लपविलेला आयटम दर्शवा</item>
+    <item quantity="other">%d लपविलेले आयटम दर्शवा</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">आपण आता विकासक बनण्यापासून %1$d चरण दूर आहात.</item>
+    <item quantity="other">आपण आता विकासक बनण्यापासून %1$d चरणे दूर आहात.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">विश्वासू किंवा प्रमाणपत्रे काढा</item>
+    <item quantity="other">विश्वासू किंवा प्रमाणपत्रे काढा</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s नी आपल्या कार्य प्रोफाईलसाठी प्रमाणप‍त्र अधिकार स्थापित केले आहेत, जे त्यांना ईमेल, अॅप्स आणि सुरक्षित वेबसाइटसह कार्य नेटवर्क क्रियाकलापाचे परीक्षण करण्याची अनुमती देऊ शकतात.
+
+या प्रमाणपत्रांविषयी अधिक माहितीसाठी, आपल्या प्रशासकाशी संपर्क साधा.</item>
+    <item quantity="other">%s नी आपल्या कार्य प्रोफाईलसाठी प्रमाणप‍त्र अधिकार स्थापित केले आहेत, जे त्यांना ईमेल, अॅप्स आणि सुरक्षित वेबसाइटसह कार्य नेटवर्क क्रियाकलापाचे परीक्षण करण्याची अनुमती देऊ शकतात.
+
+या प्रमाणपत्रांविषयी अधिक माहितीसाठी, आपल्या प्रशासकाशी संपर्क साधा.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s नी आपल्या डिव्हाइसवर प्रमाणप‍त्र अधिकार स्थापित केले आहेत, जे त्यांना ईमेल, अॅप्स आणि सुरक्षित वेबसाइटसह आपल्या डिव्हाइस नेटवर्क क्रियाकलापाचे परीक्षण करण्याची अनुमती देऊ शकतात.
+
+या प्रमाणपत्रांविषयी अधिक माहितीसाठी, आपल्या प्रशासकाशी संपर्क साधा.</item>
+    <item quantity="other">%s नी आपल्या डिव्हाइसवर प्रमाणप‍त्र अधिकार स्थापित केले आहेत, जे त्यांना ईमेल, अॅप्स आणि सुरक्षित वेबसाइटसह आपल्या डिव्हाइस नेटवर्क क्रियाकलापाचे परीक्षण करण्याची अनुमती देऊ शकतात.
+
+या प्रमाणपत्रांविषयी अधिक माहितीसाठी, आपल्या प्रशासकाशी संपर्क साधा.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">प्रमाणपत्र तपासा</item>
+    <item quantity="other">प्रमाणपत्रे तपासा</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">%d आयटम</item>
+    <item quantity="other">%d आयटम</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">सिम पिन चुकीचा आहे, आपले डिव्‍हाइस अनलॉक करण्‍यासाठी आपल्‍या वाहकाशी संपर्क साधण्यासाठी आपल्याकडे %d प्रयत्न उर्वरित आहे.</item>
+    <item quantity="other">सिम पिन चुकीचा आहे, आपल्याकडे %d प्रयत्न उर्वरित आहेत.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">%2$s पर्यंत %1$d तासासाठी अलार्म वर बदला</item>
+    <item quantity="other">%2$s पर्यंत %1$d तासांसाठी अलार्म वर बदला</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">%1$d मिनिटांसाठी (%2$s पर्यंत) अलार्म वर बदला</item>
+    <item quantity="other">%1$d मिनिटांसाठी (%2$s पर्यंत) अलार्म वर बदला</item>
+  </plurals>
+</resources>

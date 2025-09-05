@@ -1,0 +1,658 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="animator_duration_scale_entries">
+    <item name="r0x00000000">অ্যানিমেশন বন্ধ করুন</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল .৫x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ১x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ১.৫x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ২x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল 5x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ১০x</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item name="r0x00000000">কোনটিই নয়</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">CHAP</item>
+    <item name="r0x00000000">PAP অথবা CHAP</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item name="r0x00000000">IPv4</item>
+    <item name="r0x00000000">IPv6</item>
+    <item name="r0x00000000">IPv4/IPv6</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+    <item name="r0x00000000">অভ্যন্তরীণ ডিভাইস সঞ্চয়স্থান</item>
+    <item name="r0x00000000">অপসারণযোগ্য SD কার্ড</item>
+    <item name="r0x00000000">সিস্টেমকে স্থির করতে দিন</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item name="r0x00000000">অবস্থান</item>
+    <item name="r0x00000000">ব্যক্তিগত</item>
+    <item name="r0x00000000">মেসেজিং</item>
+    <item name="r0x00000000">মিডিয়া</item>
+    <item name="r0x00000000">ডিভাইস</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item name="r0x00000000">অবস্থান</item>
+    <item name="r0x00000000">অবস্থান</item>
+    <item name="r0x00000000">অবস্থান</item>
+    <item name="r0x00000000">কম্পন</item>
+    <item name="r0x00000000">পরিচিতিগুলি পড়ে</item>
+    <item name="r0x00000000">পরিচিতি সংশোধন করে</item>
+    <item name="r0x00000000">কল লগ পড়ে</item>
+    <item name="r0x00000000">কল লগ পরিবর্তন করে</item>
+    <item name="r0x00000000">ক্যালেন্ডার পড়ে</item>
+    <item name="r0x00000000">ক্যালেন্ডার সংশোধন করে</item>
+    <item name="r0x00000000">অবস্থান</item>
+    <item name="r0x00000000">পরবর্তী বিজ্ঞপ্তি</item>
+    <item name="r0x00000000">অবস্থান</item>
+    <item name="r0x00000000">ফোনে কল করে</item>
+    <item name="r0x00000000">SMS/MMS পড়ে</item>
+    <item name="r0x00000000">SMS/MMS লেখে</item>
+    <item name="r0x00000000">SMS/MMS পান</item>
+    <item name="r0x00000000">SMS/MMS পান</item>
+    <item name="r0x00000000">SMS/MMS পান</item>
+    <item name="r0x00000000">SMS/MMS পান</item>
+    <item name="r0x00000000">SMS/MMS পাঠান</item>
+    <item name="r0x00000000">SMS/MMS পড়ে</item>
+    <item name="r0x00000000">SMS/MMS লেখে</item>
+    <item name="r0x00000000">সেটিংস সংশোধন করুন</item>
+    <item name="r0x00000000">উপরে আঁকুন</item>
+    <item name="r0x00000000">বিজ্ঞপ্তিগুলি অ্যাক্সেস করুন</item>
+    <item name="r0x00000000">ক্যামেরা</item>
+    <item name="r0x00000000">অডিও রেকর্ড করুন</item>
+    <item name="r0x00000000">অডিও প্লে করুন</item>
+    <item name="r0x00000000">ক্লিপবোর্ড পড়ে</item>
+    <item name="r0x00000000">ক্লিপবোর্ড সংশোধন করে</item>
+    <item name="r0x00000000">মিডিয়া বোতাম</item>
+    <item name="r0x00000000">অডিও ফোকাস</item>
+    <item name="r0x00000000">মাস্টার ভলিউম</item>
+    <item name="r0x00000000">ভয়েস ভলিউম</item>
+    <item name="r0x00000000">রিং ভলিউম</item>
+    <item name="r0x00000000">মিডিয়া ভলিউম</item>
+    <item name="r0x00000000">অ্যালার্মের ভলিউম</item>
+    <item name="r0x00000000">বিজ্ঞপ্তির ভলিউম</item>
+    <item name="r0x00000000">Bluetooth ভলিউম</item>
+    <item name="r0x00000000">জাগিয়ে রাখুন</item>
+    <item name="r0x00000000">অবস্থান</item>
+    <item name="r0x00000000">অবস্থান</item>
+    <item name="r0x00000000">ব্যবহারের পরিসংখ্যান নিন</item>
+    <item name="r0x00000000">মাইক্রোফোন নিঃশব্দ/সশব্দ করে</item>
+    <item name="r0x00000000">টোস্ট দেখান</item>
+    <item name="r0x00000000">প্রোজেক্ট মিডিয়া</item>
+    <item name="r0x00000000">VPN সক্রিয় করুন</item>
+    <item name="r0x00000000">ওয়ালপেপার লেখে</item>
+    <item name="r0x00000000">কাঠামোর সহায়তা করুন</item>
+    <item name="r0x00000000">স্ক্রীনশটের সহায়তা করুন</item>
+    <item name="r0x00000000">ফোনের তথ্য পড়ে</item>
+    <item name="r0x00000000">অ্যাপ ভয়েসমেল</item>
+    <item name="r0x00000000">SIP ব্যবহার করুন</item>
+    <item name="r0x00000000">আউটগোয়িং কলগুলি প্রক্রিয়া করুন</item>
+    <item name="r0x00000000">আঙুলের ছাপ</item>
+    <item name="r0x00000000">বডি সেন্সর</item>
+    <item name="r0x00000000">সেল ব্রডকাস্ট পড়ে</item>
+    <item name="r0x00000000">নকল অবস্থান</item>
+    <item name="r0x00000000">সঞ্চয়স্থান পড়ে</item>
+    <item name="r0x00000000">সঞ্চয়স্থানে লেখে</item>
+    <item name="r0x00000000">স্ক্রীন চালু করুন</item>
+    <item name="r0x00000000">অ্যাকাউন্টগুলি পান</item>
+    <item name="r0x00000000">ব্যাকগ্রাউন্ডে চালান</item>
+    <item name="r0x00000000">অ্যাক্সেসযোগ্যতার ভলিউম</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item name="r0x00000000">অনির্দিষ্ট অবস্থান</item>
+    <item name="r0x00000000">সূক্ষ্ম অবস্থান</item>
+    <item name="r0x00000000">GPS</item>
+    <item name="r0x00000000">কম্পন</item>
+    <item name="r0x00000000">পরিচিতিগুলি পড়ে</item>
+    <item name="r0x00000000">পরিচিতি সংশোধন করে</item>
+    <item name="r0x00000000">কল লগ পড়ে</item>
+    <item name="r0x00000000">কল লগ পরিবর্তন করে</item>
+    <item name="r0x00000000">ক্যালেন্ডার পড়ে</item>
+    <item name="r0x00000000">ক্যালেন্ডার সংশোধন করে</item>
+    <item name="r0x00000000">Wi-Fi স্ক্যান</item>
+    <item name="r0x00000000">বিজ্ঞপ্তি</item>
+    <item name="r0x00000000">সেল স্ক্যান</item>
+    <item name="r0x00000000">ফোনে কল করে</item>
+    <item name="r0x00000000">SMS পড়ে</item>
+    <item name="r0x00000000">SMS লেখে</item>
+    <item name="r0x00000000">SMS গ্রহণ করুন</item>
+    <item name="r0x00000000">জরুরি SMS পান</item>
+    <item name="r0x00000000">MMS পান</item>
+    <item name="r0x00000000">WAP পুশ পান</item>
+    <item name="r0x00000000">SMS পাঠান</item>
+    <item name="r0x00000000">ICC SMS পড়ে</item>
+    <item name="r0x00000000">ICC SMS লেখে</item>
+    <item name="r0x00000000">সেটিংস সংশোধন করুন</item>
+    <item name="r0x00000000">উপরে আঁকুন</item>
+    <item name="r0x00000000">বিজ্ঞপ্তিগুলি অ্যাক্সেস করুন</item>
+    <item name="r0x00000000">ক্যামেরা</item>
+    <item name="r0x00000000">অডিও রেকর্ড করুন</item>
+    <item name="r0x00000000">অডিও প্লে করুন</item>
+    <item name="r0x00000000">ক্লিপবোর্ড পড়ে</item>
+    <item name="r0x00000000">ক্লিপবোর্ড সংশোধন করে</item>
+    <item name="r0x00000000">মিডিয়া বোতাম</item>
+    <item name="r0x00000000">অডিও ফোকাস</item>
+    <item name="r0x00000000">মাস্টার ভলিউম</item>
+    <item name="r0x00000000">ভয়েস ভলিউম</item>
+    <item name="r0x00000000">রিং ভলিউম</item>
+    <item name="r0x00000000">মিডিয়া ভলিউম</item>
+    <item name="r0x00000000">অ্যালার্মের ভলিউম</item>
+    <item name="r0x00000000">বিজ্ঞপ্তির ভলিউম</item>
+    <item name="r0x00000000">Bluetooth ভলিউম</item>
+    <item name="r0x00000000">জাগিয়ে রাখুন</item>
+    <item name="r0x00000000">অবস্থান নিরীক্ষণ করে</item>
+    <item name="r0x00000000">উচ্চ ক্ষমতার অবস্থান নিরীক্ষণ করে</item>
+    <item name="r0x00000000">ব্যবহারের পরিসংখ্যান নিন</item>
+    <item name="r0x00000000">মাইক্রোফোন নিঃশব্দ/সশব্দ করে</item>
+    <item name="r0x00000000">টোস্ট দেখান</item>
+    <item name="r0x00000000">্রোজেক্ট মিডিয়া</item>
+    <item name="r0x00000000">VPN সক্রিয় করুন</item>
+    <item name="r0x00000000">ওয়ালপেপার লেখে</item>
+    <item name="r0x00000000">কাঠামোর সহায়তা করুন</item>
+    <item name="r0x00000000">স্ক্রীনশটের সহায়তা করুন</item>
+    <item name="r0x00000000">ফোনের তথ্য পড়ে</item>
+    <item name="r0x00000000">অ্যাপ ভয়েসমেল</item>
+    <item name="r0x00000000">SIP ব্যবহার করুন</item>
+    <item name="r0x00000000">আউটগোয়িং কলগুলি প্রক্রিয়া করুন</item>
+    <item name="r0x00000000">আঙুলের ছাপ</item>
+    <item name="r0x00000000">বডি সেন্সর</item>
+    <item name="r0x00000000">সেল ব্রডকাস্ট পড়ে</item>
+    <item name="r0x00000000">নকল অবস্থান</item>
+    <item name="r0x00000000">সঞ্চয়স্থানে লেখে</item>
+    <item name="r0x00000000">সঞ্চয়স্থানে লিখুন</item>
+    <item name="r0x00000000">স্ক্রীন চালু করুন</item>
+    <item name="r0x00000000">অ্যাকাউন্টগুলি পান</item>
+    <item name="r0x00000000">ব্যাকগ্রাউন্ডে চালান</item>
+    <item name="r0x00000000">অ্যাক্সেসযোগ্যতার ভলিউম</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item name="r0x00000000">মানক সীমা</item>
+    <item name="r0x00000000">কোন ব্যাকগ্রাউন্ড প্রক্রিয়া নেই</item>
+    <item name="r0x00000000">১টি প্রক্রিয়ার বেশি নয়</item>
+    <item name="r0x00000000">২টি প্রক্রিয়ার বেশী নয়</item>
+    <item name="r0x00000000">৩টি প্রক্রিয়ার বেশি নয়</item>
+    <item name="r0x00000000">৪টি প্রক্রিয়ার বেশি নয়</item>
+  </string-array>
+  <string-array name="auto_time_entries">
+    <item name="r0x00000000">নেটওয়ার্ক প্রদত্ত সময় ব্যবহার করুন</item>
+    <item name="r0x00000000">জিপিএস প্রদত্ত সময় ব্যবহার করুন</item>
+    <item name="r0x00000000">বন্ধ</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item name="r0x00000000">৩০ দিনের বেশি পুরানো</item>
+    <item name="r0x00000000">৬০ দিনের বেশি পুরানো</item>
+    <item name="r0x00000000">৯০ দিনের বেশি পুরানো</item>
+  </string-array>
+  <string-array name="battery_labels">
+    <item name="r0x00000000">০%</item>
+    <item name="r0x00000000">৫০%</item>
+    <item name="r0x00000000">১০০%</item>
+  </string-array>
+  <string-array name="bearer_entries">
+    <item name="r0x00000000">অনির্দিষ্ট</item>
+    <item name="r0x00000000">LTE</item>
+    <item name="r0x00000000">HSPAP</item>
+    <item name="r0x00000000">HSPA</item>
+    <item name="r0x00000000">HSUPA</item>
+    <item name="r0x00000000">HSDPA</item>
+    <item name="r0x00000000">UMTS</item>
+    <item name="r0x00000000">EDGE</item>
+    <item name="r0x00000000">GPRS</item>
+    <item name="r0x00000000">eHRPD</item>
+    <item name="r0x00000000">EVDO_B</item>
+    <item name="r0x00000000">EVDO_A</item>
+    <item name="r0x00000000">EVDO_0</item>
+    <item name="r0x00000000">1xRTT</item>
+    <item name="r0x00000000">IS95B</item>
+    <item name="r0x00000000">IS95A</item>
+    <item name="r0x00000000">GSM</item>
+    <item name="r0x00000000">TD_SCDMA</item>
+    <item name="r0x00000000">IWLAN</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item name="r0x00000000">2 মিনিট</item>
+    <item name="r0x00000000">5 মিনিট</item>
+    <item name="r0x00000000">1 ঘন্টা</item>
+    <item name="r0x00000000">কখনও সময় শেষ হবে না</item>
+  </string-array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item name="r0x00000000">ডিফল্ট</item>
+    <item name="r0x00000000">কোনটিই নয়</item>
+    <item name="r0x00000000">আউটলাইন</item>
+    <item name="r0x00000000">ড্রপ শ্যাডো</item>
+    <item name="r0x00000000">উত্তীত</item>
+    <item name="r0x00000000">ডিপ্রেসড</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item name="r0x00000000">খুবই ছোট</item>
+    <item name="r0x00000000">ছোট</item>
+    <item name="r0x00000000">স্বাভাবিক</item>
+    <item name="r0x00000000">বড়</item>
+    <item name="r0x00000000">খুবই বড়</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item name="r0x00000000">\25%</item>
+    <item name="r0x00000000">\50%</item>
+    <item name="r0x00000000">\75%</item>
+    <item name="r0x00000000">\100%</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item name="r0x00000000">অ্যাপ ডিফল্টগুলি ব্যবহার করুন</item>
+    <item name="r0x00000000">কালোর উপরে সাদা</item>
+    <item name="r0x00000000">সাদার উপরে কালো</item>
+    <item name="r0x00000000">কালোর উপরে হলুদ</item>
+    <item name="r0x00000000">নীলের উপরে হলুদ</item>
+    <item name="r0x00000000">কাস্টম</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item name="r0x00000000">ডিফল্ট</item>
+    <item name="r0x00000000">Sans Serif</item>
+    <item name="r0x00000000">Sans-serif ঘনীভূত</item>
+    <item name="r0x00000000">Sans-serif monospace</item>
+    <item name="r0x00000000">Serif</item>
+    <item name="r0x00000000">Serif monospace</item>
+    <item name="r0x00000000">Casual</item>
+    <item name="r0x00000000">Cursive</item>
+    <item name="r0x00000000">Small capitals</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item name="r0x00000000">উন্নত রঙ</item>
+    <item name="r0x00000000">স্বাভাবিক ভাবে আমরা চোখে যেমনটি দেখি সেইরূপ প্রাকৃতিক রঙ</item>
+    <item name="r0x00000000">ডিজিট্যাল সামগ্রীর জন্য অপ্টিমাইজ করা রঙগুলি</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item name="r0x00000000">ভাইব্রেন্ট (ডিফল্ট)</item>
+    <item name="r0x00000000">প্রাকৃতিক</item>
+    <item name="r0x00000000">সাধারণ</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item name="r0x00000000">টিল</item>
+    <item name="r0x00000000">নীল</item>
+    <item name="r0x00000000">ইন্ডিগো</item>
+    <item name="r0x00000000">বেগুনি</item>
+    <item name="r0x00000000">গোলাপি</item>
+    <item name="r0x00000000">লাল</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item name="r0x00000000">অটোমেটিক (দিনের কোনও নির্দিষ্ট সময়ের ভিত্তিতে)</item>
+    <item name="r0x00000000">সবসময় চালু</item>
+    <item name="r0x00000000">সবসময় বন্ধ</item>
+  </string-array>
+  <string-array name="data_usage_data_range">
+    <item name="r0x00000000">গত 30 দিন</item>
+    <item name="r0x00000000">ব্যবহারের চক্র সেট করুন...</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item name="r0x00000000">বন্ধ করুন</item>
+    <item name="r0x00000000">অতিবর্ণনা এলাকা দেখান</item>
+    <item name="r0x00000000">বর্ণান্ধতার জন্য এলাকা দেখান</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+    <item name="r0x00000000">কখনো নয়</item>
+    <item name="r0x00000000">15 সেকেন্ড</item>
+    <item name="r0x00000000">30 সেকেন্ড</item>
+    <item name="r0x00000000">1 মিনিট</item>
+    <item name="r0x00000000">2 মিনিট</item>
+    <item name="r0x00000000">5 মিনিট</item>
+    <item name="r0x00000000">10 মিনিট</item>
+    <item name="r0x00000000">30 মিনিট</item>
+  </string-array>
+  <string-array name="eap_method_without_sim_auth">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item name="r0x00000000">কোনো কিছুই নয়</item>
+    <item name="r0x00000000">Logcat</item>
+    <item name="r0x00000000">Systrace (গ্রাফিক্স)</item>
+    <item name="r0x00000000">glGetError উপরে স্ট্যাক কল করুন</item>
+  </string-array>
+  <string-array name="entries_font_size">
+    <item name="r0x00000000">ছোট</item>
+    <item name="r0x00000000">ডিফল্ট</item>
+    <item name="r0x00000000">বড়</item>
+    <item name="r0x00000000">বৃহৎ</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+    <item name="r0x00000000">HDCP পরীক্ষণ কখনও ব্যবহার করবেন না</item>
+    <item name="r0x00000000">শুধুমাত্র DRM সামগ্রীর জন্য HDCP চেক করা ব্যবহার করুন</item>
+    <item name="r0x00000000">সর্বদা HDCP পরীক্ষণ ব্যবহার করুন</item>
+  </string-array>
+  <string-array name="hdcp_checking_titles">
+    <item name="r0x00000000">কখনই চেক করবেন না</item>
+    <item name="r0x00000000">শুধুমাত্র DRM সামগ্রীর জন্য HDCP চেক করুন</item>
+    <item name="r0x00000000">সর্বদা চেক করুন</item>
+  </string-array>
+  <string-array name="lock_after_timeout_entries">
+    <item name="r0x00000000">তৎক্ষণাত</item>
+    <item name="r0x00000000">5 সেকেন্ড</item>
+    <item name="r0x00000000">15 সেকেন্ড</item>
+    <item name="r0x00000000">30 সেকেন্ড</item>
+    <item name="r0x00000000">1 মিনিট</item>
+    <item name="r0x00000000">2 মিনিট</item>
+    <item name="r0x00000000">5 মিনিট</item>
+    <item name="r0x00000000">10 মিনিট</item>
+    <item name="r0x00000000">30 মিনিট</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+    <item name="r0x00000000">ছোট</item>
+    <item name="r0x00000000">মাঝারি</item>
+    <item name="r0x00000000">দীর্ঘ</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item name="r0x00000000">কোনটিই নয়</item>
+    <item name="r0x00000000">SPN</item>
+    <item name="r0x00000000">IMSI</item>
+    <item name="r0x00000000">GID</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item name="r0x00000000">কোনো কিছুই নয়</item>
+    <item name="r0x00000000">480p</item>
+    <item name="r0x00000000">480p (নিরাপদ)</item>
+    <item name="r0x00000000">720p</item>
+    <item name="r0x00000000">720p (নিরাপদ)</item>
+    <item name="r0x00000000">1080p</item>
+    <item name="r0x00000000">1080p (নিরাপদ)</item>
+    <item name="r0x00000000">4K</item>
+    <item name="r0x00000000">4K (নিরাপদ)</item>
+    <item name="r0x00000000">4K (সম্পন্ন)</item>
+    <item name="r0x00000000">4K (সম্পন্ন, নিরাপদ)</item>
+    <item name="r0x00000000">720p, 1080p (ডুয়েল স্ক্রীন)</item>
+  </string-array>
+  <string-array name="proc_stats_memory_states">
+    <item name="r0x00000000">স্বাভাবিক</item>
+    <item name="r0x00000000">মাঝারি</item>
+    <item name="r0x00000000">কম</item>
+    <item name="r0x00000000">জরুরি</item>
+  </string-array>
+  <string-array name="proc_stats_process_states">
+    <item name="r0x00000000">ধারাবাহিক</item>
+    <item name="r0x00000000">সেরা অ্যাক্টিভিটি</item>
+    <item name="r0x00000000">গুরুত্বপূর্ণ (ফোর-গ্রাউন্ড)</item>
+    <item name="r0x00000000">গুরুত্বপূর্ণ (ব্যাকগ্রাউন্ড)</item>
+    <item name="r0x00000000">ব্যাকআপ</item>
+    <item name="r0x00000000">হেভি ওয়েট</item>
+    <item name="r0x00000000">পরিষেবা (চলছে)</item>
+    <item name="r0x00000000">পরিষেবা (পুনঃসূচনা হচ্ছে)</item>
+    <item name="r0x00000000">রিসিভার</item>
+    <item name="r0x00000000">হোম</item>
+    <item name="r0x00000000">শেষ অ্যাক্টিভিটি</item>
+    <item name="r0x00000000">ক্যাশেড (অ্যাক্টিভিটি)</item>
+    <item name="r0x00000000">ক্যাশেড (অ্যাক্টিভিটি ক্লায়েন্ট)</item>
+    <item name="r0x00000000">ক্যাশেড (খালি)</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item name="r0x00000000">স্বাভাবিক</item>
+    <item name="r0x00000000">মাঝারি</item>
+    <item name="r0x00000000">কম</item>
+    <item name="r0x00000000">জরুরি</item>
+    <item name="r0x00000000">?</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item name="r0x00000000">15 সেকেন্ড</item>
+    <item name="r0x00000000">30 সেকেন্ড</item>
+    <item name="r0x00000000">1 মিনিট</item>
+    <item name="r0x00000000">2 মিনিট</item>
+    <item name="r0x00000000">5 মিনিট</item>
+    <item name="r0x00000000">10 মিনিট</item>
+    <item name="r0x00000000">30 মিনিট</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item name="r0x00000000">জিজ্ঞাসা করুন</item>
+    <item name="r0x00000000">কখনও অনুমতি দেবেন না</item>
+    <item name="r0x00000000">সবসময়ে অনুমতি দিন</item>
+  </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item name="r0x00000000">বন্ধ আছে</item>
+    <item name="r0x00000000">৬৪K</item>
+    <item name="r0x00000000">২৫৬K</item>
+    <item name="r0x00000000">১M</item>
+  </string-array>
+  <string-array name="select_logd_size_summaries">
+    <item name="r0x00000000">বন্ধ আছে</item>
+    <item name="r0x00000000">লগ বাফার প্রতি ৬৪K</item>
+    <item name="r0x00000000">লগ বাফার প্রতি ২৫৬K</item>
+    <item name="r0x00000000">লগ বাফার প্রতি ১M</item>
+    <item name="r0x00000000">লগ বাফার প্রতি ৪M</item>
+    <item name="r0x00000000">লগ বাফার প্রতি ১৬M</item>
+  </string-array>
+  <string-array name="select_logd_size_titles">
+    <item name="r0x00000000">বন্ধ আছে</item>
+    <item name="r0x00000000">৬৪K</item>
+    <item name="r0x00000000">২৫৬K</item>
+    <item name="r0x00000000">১M</item>
+    <item name="r0x00000000">৪M</item>
+    <item name="r0x00000000">১৬M</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item name="r0x00000000">বন্ধ আছে</item>
+    <item name="r0x00000000">সমস্ত লগ বাফার</item>
+    <item name="r0x00000000">সমস্ত কিন্তু রেডিও লগ বাফারগুলি</item>
+    <item name="r0x00000000">শুধুমাত্র কার্নেল লগ বাফার</item>
+  </string-array>
+  <string-array name="select_logpersist_titles">
+    <item name="r0x00000000">বন্ধ আছে</item>
+    <item name="r0x00000000">সমস্ত</item>
+    <item name="r0x00000000">সমস্ত কিন্তু রেডিও</item>
+    <item name="r0x00000000">শুধুমাত্র কার্নেল</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item name="r0x00000000">বন্ধ করুন</item>
+    <item name="r0x00000000">নীল বঙের অ-আয়তক্ষেত্রাকার ক্লিপ অঞ্চল অঙ্কন করুন</item>
+    <item name="r0x00000000">সবুজ রঙে অঙ্কন করা পরীক্ষিত কমান্ডগুলি হাইলাইট করুন</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item name="r0x00000000">(অনির্দিষ্ট)</item>
+    <item name="r0x00000000">সিম স্লট ০</item>
+    <item name="r0x00000000">সিম স্লট ১</item>
+  </string-array>
+  <string-array name="timezone_filters">
+    <item name="r0x00000000">আমেরিকা</item>
+    <item name="r0x00000000">ইউরোপ</item>
+    <item name="r0x00000000">আফ্রিকা</item>
+    <item name="r0x00000000">শিয়া</item>
+    <item name="r0x00000000">অস্ট্রেলিয়া</item>
+    <item name="r0x00000000">প্রশান্ত মহাসাগরীয়</item>
+    <item name="r0x00000000">সবগুলি</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item name="r0x00000000">বন্ধ করুন</item>
+    <item name="r0x00000000">দন্ড হিসাবে স্ক্রীনে</item>
+    <item name="r0x00000000">adb shell dumpsys gfxinfo এ</item>
+  </string-array>
+  <string-array name="transition_animation_scale_entries">
+    <item name="r0x00000000">অ্যানিমেশন বন্ধ করুন</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল .৫x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ১x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ১.৫x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ২x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ৫x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ১০x</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item name="r0x00000000">অত্যন্ত ধীরে</item>
+    <item name="r0x00000000">ধীর</item>
+    <item name="r0x00000000">স্বাভাবিক</item>
+    <item name="r0x00000000">দ্রুত</item>
+    <item name="r0x00000000">আরো দ্রুত</item>
+    <item name="r0x00000000">খুব দ্রুত</item>
+    <item name="r0x00000000">দ্রুত</item>
+    <item name="r0x00000000">খুব দ্রুত</item>
+    <item name="r0x00000000">দ্রুততম</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item name="r0x00000000">ব্যবহারের সময়</item>
+    <item name="r0x00000000">শেষবার ব্যবহৃত</item>
+    <item name="r0x00000000">অ্যাপের নাম</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item name="r0x00000000">চার্জ হচ্ছে</item>
+    <item name="r0x00000000">MTP (মিডিয়া ট্রান্সফার প্রোটোকল)</item>
+    <item name="r0x00000000">PTP (পিকচার ট্রান্সফার প্রোটোকল)</item>
+    <item name="r0x00000000">RNDIS (USB ইথারনেট)</item>
+    <item name="r0x00000000">অডিও উৎস</item>
+    <item name="r0x00000000">MIDI</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item name="r0x00000000">সংযোগ ছিন্ন হয়েছে</item>
+    <item name="r0x00000000">সূচনা করা হচ্ছে…</item>
+    <item name="r0x00000000">সংযোগ করা হচ্ছে…</item>
+    <item name="r0x00000000">সংযুক্ত হয়েছে</item>
+    <item name="r0x00000000">সময় শেষ</item>
+    <item name="r0x00000000">অসফল</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item name="r0x00000000">PPTP VPN</item>
+    <item name="r0x00000000">আগাম শেয়ার করা কী সমেত L2TP/IPSec VPN</item>
+    <item name="r0x00000000">সার্টিফিকেট সমেত L2TP/IPSec VPN</item>
+    <item name="r0x00000000">আগাম শেয়ার করা কী এবং Xauth প্রমাণীকরণ সমেত IPSec VPN</item>
+    <item name="r0x00000000">সার্টিফিকেট এবং Xauth প্রমাণীকরণ সমেত IPSec VPN</item>
+    <item name="r0x00000000">সার্টিফিকেট এবং হাইব্রিড প্রমাণীকরণ সমেত IPSec VPN</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices">
+    <item name="r0x00000000">ওয়াই-ফাই ব্যবহার করুন</item>
+    <item name="r0x00000000">পছন্দের মোবাইল</item>
+    <item name="r0x00000000">শুধুমাত্র ওয়াই-ফাই</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2">
+    <item name="r0x00000000">Wi-Fi</item>
+    <item name="r0x00000000">মোবাইল</item>
+    <item name="r0x00000000">শুধুমাত্র Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+    <item name="r0x00000000">Wi-Fi</item>
+    <item name="r0x00000000">মোবাইল</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_without_wifi_only">
+    <item name="r0x00000000">ওয়াই-ফাই ব্যবহার করুন</item>
+    <item name="r0x00000000">পছন্দের মোবাইল</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values">
+    <item name="r0x00000000">২</item>
+    <item name="r0x00000000">১</item>
+    <item name="r0x00000000">০</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values_without_wifi_only">
+    <item name="r0x00000000">২</item>
+    <item name="r0x00000000">১</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="wifi_eap_method">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_hotspot_disable_policy_entries">
+    <item name="r0x00000000">সর্বদা</item>
+    <item name="r0x00000000">৫ মিনিট অলস থাকার সময় বন্ধ রাখুন</item>
+    <item name="r0x00000000">১০ মিনিট অলস থাকার সময় বন্ধ রাখুন</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item name="r0x00000000">DHCP</item>
+    <item name="r0x00000000">স্ট্যাটিক</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item name="r0x00000000">স্বয়ংক্রিয়ভাবে চিহ্নিত করুন</item>
+    <item name="r0x00000000">মিটার্ড হিসাবে ধরুন</item>
+    <item name="r0x00000000">আনমিটার্ড হিসাবে ধরুন</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item name="r0x00000000">সংযুক্ত হয়েছে</item>
+    <item name="r0x00000000">আমন্ত্রিত</item>
+    <item name="r0x00000000">অসফল</item>
+    <item name="r0x00000000">উপলব্ধ</item>
+    <item name="r0x00000000">রেঞ্জের বাইরে</item>
+  </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+    <item name="r0x00000000">পুশ বোতাম</item>
+    <item name="r0x00000000">যুক্ত করা ডিভাইস থেকে পিন</item>
+    <item name="r0x00000000">এই ডিভাইস থেকে পিন</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item name="r0x00000000">কোনটিই নয়</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+    <item name="r0x00000000">কোনোটিই নয়</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+    <item name="r0x00000000">সিম</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_phase2_entries">
+    <item name="r0x00000000">কোনটিই নয়</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">MSCHAP</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item name="r0x00000000">কোনটিই নয়</item>
+    <item name="r0x00000000">ম্যানুয়াল</item>
+    <item name="r0x00000000">প্রক্সি স্বতঃকনফিগার</item>
+  </string-array>
+  <string-array name="wifi_security">
+    <item name="r0x00000000">খুলুন</item>
+    <item name="r0x00000000">ডাব্লিউএপিআই সার্টিফিকেট</item>
+    <item name="r0x00000000">WPA/WPA2 PSK</item>
+    <item name="r0x00000000">802.1x EAP</item>
+  </string-array>
+  <string-array name="wifi_signal">
+    <item name="r0x00000000">খারাপ</item>
+    <item name="r0x00000000">খারাপ</item>
+    <item name="r0x00000000">চলনসই</item>
+    <item name="r0x00000000">ভাল</item>
+    <item name="r0x00000000">অসাধারণ</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">স্ক্যান করা হচ্ছে…</item>
+    <item name="r0x00000000">সংযুক্ত হচ্ছে...</item>
+    <item name="r0x00000000">প্রমাণীকরণ হচ্ছে...</item>
+    <item name="r0x00000000">IP ঠিকানা প্রাপ্ত করা হচ্ছে...</item>
+    <item name="r0x00000000">সংযুক্ত হয়েছে</item>
+    <item name="r0x00000000">স্থগিত করা হয়েছে</item>
+    <item name="r0x00000000">সংযোগ বিচ্ছিন্ন হচ্ছে...</item>
+    <item name="r0x00000000">সংযোগ ছিন্ন হয়েছে</item>
+    <item name="r0x00000000">অসফল</item>
+    <item name="r0x00000000">আটকানো হয়েছে</item>
+    <item name="r0x00000000">সাময়িকরূপে দুর্বল সংযোগ এড়ানো হচ্ছে</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">স্ক্যান করা হচ্ছে…</item>
+    <item name="r0x00000000">%1$s এর সাথে সংযুক্ত হচ্ছে…</item>
+    <item name="r0x00000000">%1$s দিয়ে প্রমাণীকরণ করা হচ্ছে...</item>
+    <item name="r0x00000000">%1$s থেকে IP ঠিকানা জানা হচ্ছে…</item>
+    <item name="r0x00000000">%1$s তে সংযুক্ত হয়েছে</item>
+    <item name="r0x00000000">স্থগিত করা হয়েছে</item>
+    <item name="r0x00000000">%1$s থেকে সংযোগ বিচ্ছিন্ন হচ্ছে…</item>
+    <item name="r0x00000000">সংযোগ ছিন্ন হয়েছে</item>
+    <item name="r0x00000000">অসফল</item>
+    <item name="r0x00000000">আটকানো হয়েছে</item>
+    <item name="r0x00000000">সাময়িকরূপে দুর্বল সংযোগ এড়ানো হচ্ছে</item>
+  </string-array>
+  <string-array name="window_animation_scale_entries">
+    <item name="r0x00000000">অ্যানিমেশন বন্ধ করুন</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল .৫x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ১x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ১.৫x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ২x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ৫x</item>
+    <item name="r0x00000000">অ্যানিমেশন স্কেল ১০x</item>
+  </string-array>
+</resources>

@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">מידע על הטלפון</string>
+  <string name="accelerometer_summary_off">שנה כיוון באופן אוטומטי בעת סיבוב הטלפון</string>
+  <string name="accelerometer_summary_on">שנה כיוון באופן אוטומטי בעת סיבוב הטלפון</string>
+  <string name="accessibility_feature_state_off">כבוי</string>
+  <string name="accessibility_feature_state_on">פועל</string>
+  <string name="accessibility_summary_state_disabled">כבוי</string>
+  <string name="accessibility_summary_state_enabled">פועל</string>
+  <string name="accessibility_vibration_intensity_off">כבוי</string>
+  <string name="advanced_apps">מתקדם</string>
+  <string name="advanced_section_header">מתקדם</string>
+  <string name="advanced_security_title">מתקדם</string>
+  <string name="ambient_display_pickup_summary">כדי לבדוק מה השעה, לבדוק אם יש סמלי הודעות ולראות מידע נוסף, פשוט צריך להרים את הטלפון.</string>
+  <string name="ambient_display_pickup_title">הרמה לבדיקת הטלפון</string>
+  <string name="ambient_display_title">הקשה כפולה לבדיקת הטלפון</string>
+  <string name="android_beam_off_summary">כבוי</string>
+  <string name="apn_apn">APN</string>
+  <string name="apn_auth_type">סוג אימות</string>
+  <string name="apn_auth_type_chap">CHAP</string>
+  <string name="apn_auth_type_none">ללא</string>
+  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_pap_chap">PAP או CHAP</string>
+  <string name="apn_http_port">יציאה</string>
+  <string name="apn_http_proxy">‏שרת Proxy</string>
+  <string name="apn_mcc">MCC</string>
+  <string name="apn_mms_port">‏יציאת MMS</string>
+  <string name="apn_mms_proxy">‏שרת Proxy של MMS</string>
+  <string name="apn_mmsc">MMSC</string>
+  <string name="apn_mnc">MNC</string>
+  <string name="apn_name">שם</string>
+  <string name="apn_not_set">לא הוגדר</string>
+  <string name="apn_password">סיסמה</string>
+  <string name="apn_server">שרת</string>
+  <string name="apn_type">‏סוג APN</string>
+  <string name="apn_user">שם משתמש</string>
+  <string name="app_list_preference_none">ללא</string>
+  <string name="app_notification_row_banned">חסום</string>
+  <string name="assistant_security_warning_agree">קבל</string>
+  <string name="auto_boot_pref_title">ניהול התחלה אוטומטית</string>
+  <string name="auto_brightness_default_title">ברירת מחדל</string>
+  <string name="auto_brightness_off_title">כבוי</string>
+  <string name="auto_brightness_summary_off">כבוי</string>
+  <string name="available_via_passpoint">זמין דרך %1$s</string>
+  <string name="backup_pw_cancel_button_text">ביטול</string>
+  <string name="band_mode_failed">נכשל</string>
+  <string name="battery_desc_standby">צריכת סוללה כאשר הטלפון במצב לא פעיל</string>
+  <string name="battery_manager_off">כבוי</string>
+  <string name="battery_saver_off_summary">כבוי</string>
+  <string name="battery_saver_on_summary">פועל</string>
+  <string name="battery_suggestion_title">שיפור חיי הסוללה של הטלפון</string>
+  <string name="battery_tip_dialog_message">השימוש בטלפון שלך רב מהרגיל. ייתכן שהסוללה תתרוקן מוקדם מהצפוי.
+
+%1$d האפליקציות שהשתמשת בהן הכי הרבה מאז הטעינה המלאה האחרונה:</string>
+  <string name="battery_tip_dialog_summary_message">האפליקציות משתמשות בכמות רגילה של צריכת סוללה. אם אפליקציות יצרכו יותר מדי מהסוללה, הטלפון יציע פעולות שאפשר לנקוט.
+
+ניתן תמיד להפעיל את תכונת החיסכון בסוללה אם הסוללה עומדת להתרוקן.</string>
+  <string name="battery_tip_high_usage_title">הטלפון נמצא בשימוש יותר מהרגיל</string>
+  <string name="battery_tip_restrict_app_dialog_ok">הגבל</string>
+  <string name="battery_tip_smart_battery_title">שיפור חיי הסוללה של הטלפון</string>
+  <string name="battery_tip_summary_summary">דפוס השימוש בסוללה בטלפון זה של אפליקציות הפועלות ברקע הוא אופייני</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">ביטול</string>
+  <string name="bluetooth_ask_discovery">‏%1$s רוצה להפוך את הטלפון שלך לגלוי בפני מכשירי Bluetooth אחרים למשך %2$d שניות.</string>
+  <string name="bluetooth_ask_discovery_no_name">‏אפליקציה מסוימת רוצה להפוך את הטלפון שלך לגלוי בפני מכשירי Bluetooth אחרים למשך %1$d שניות.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">‏%1$s רוצה להפעיל את ה-Bluetooth ולהפוך את הטלפון שלך לגלוי בפני מכשירים אחרים למשך %2$d שניות.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">‏אפליקציה מסוימת רוצה להפעיל את ה-Bluetooth ולהפוך את הטלפון שלך לגלוי בפני מכשירים אחרים למשך %1$d שניות.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">‏%1$s רוצה להפעיל את ה-Bluetooth ולהפוך את הטלפון שלך לגלוי בפני מכשירים אחרים. ניתן לשנות זאת מאוחר יותר בהגדרות ה-Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">‏אפליקציה מסוימת רוצה להפעיל את ה-Bluetooth ולהפוך את הטלפון שלך לגלוי בפני מכשירים אחרים. ניתן לשנות זאת מאוחר יותר בהגדרות ה-Bluetooth.</string>
+  <string name="bluetooth_ask_lasting_discovery">‏%1$s רוצה להפוך את הטלפון שלך לגלוי בפני מכשירי Bluetooth אחרים. ניתן לשנות זאת מאוחר יותר בהגדרות ה-Bluetooth.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">‏אפליקציה מסוימת רוצה להפוך את הטלפון שלך לגלוי בפני מכשירי Bluetooth אחרים. ניתן לשנות זאת מאוחר יותר בהגדרות ה-Bluetooth</string>
+  <string name="bluetooth_connecting">מתחבר…</string>
+  <string name="bluetooth_device_advanced_online_mode_title">התחבר</string>
+  <string name="bluetooth_device_context_connect">התחבר</string>
+  <string name="bluetooth_device_name">שם מכשיר</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">ביטול</string>
+  <string name="bluetooth_disabled">כבוי</string>
+  <string name="bluetooth_disconnect_all_profiles">הטלפון שלך יתנתק מהמכשיר %1$s.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s ינותק משיתוף החיבור לאינטרנט של טלפון זה.</string>
+  <string name="bluetooth_disconnected">מנותק</string>
+  <string name="bluetooth_disconnecting">מתנתק…</string>
+  <string name="bluetooth_footer_mac_message">‏כתובת הטלפון לחיבור דרך Bluetooth: %1$s</string>
+  <string name="bluetooth_menu_advanced">מתקדם</string>
+  <string name="bluetooth_pairing_decline">ביטול</string>
+  <string name="bluetooth_pref_summary">‏הטלפון שלך יוכל לתקשר עם מכשירי Bluetooth שנמצאים בקרבת מקום</string>
+  <string name="bluetooth_preference_paired_dialog_name_label">שם</string>
+  <string name="bluetooth_tethering_subtext">‏שיתוף החיבור לאינטרנט של הטלפון דרך Bluetooth</string>
+  <string name="bluetooth_unpair_dialog_body">ההתאמה בין הטלפון שלך להתקן %1$s תבוטל</string>
+  <string name="cancel">ביטול</string>
+  <string name="color_blue">כחול</string>
+  <string name="color_green">ירוק</string>
+  <string name="color_none">ללא</string>
+  <string name="color_orange">כתום</string>
+  <string name="color_purple">סגול</string>
+  <string name="color_title">צבע</string>
+  <string name="color_unspecified">ברירת מחדל</string>
+  <string name="color_yellow">צהוב</string>
+  <string name="condition_device_muted_title">הטלפון מושתק</string>
+  <string name="condition_device_vibrate_summary">הטלפון ירטוט כשמתקבלות שיחות והודעות</string>
+  <string name="condition_device_vibrate_title">הטלפון מוגדר לרטט</string>
+  <string name="condition_expand_show">הצג</string>
+  <string name="connected_via_passpoint">מחובר דרך %1$s</string>
+  <string name="credentials_install">‏התקן מכרטיס SD</string>
+  <string name="credentials_install_summary">‏התקן אישורים מכרטיס SD</string>
+  <string name="crypt_keeper_button_text">הצפן טלפון</string>
+  <string name="crypt_keeper_data_corrupt_summary">‏הסיסמה שהזנת נכונה, אך לצערנו הנתונים שלך פגומים. 
+
+כדי לחזור ולהשתמש בטלפון, עליך לבצע איפוס להגדרות היצרן. בזמן הגדרת הטלפון לאחר האיפוס, תהיה לך הזדמנות לשחזר נתונים שגובו בחשבון Google שלך.</string>
+  <string name="crypt_keeper_desc">ניתן להצפין חשבונות, הגדרות, אפליקציות שהורדת והנתונים שלהן, מדיה וקבצים אחרים. לאחר הצפנת הטלפון, בהנחה שהגדרת נעילת מסך (כלומר, קו ביטול נעילה, קוד אימות או סיסמה), יהיה עליך לבטל את נעילת המסך כדי לפענח את הצפנת הטלפון בכל פעם שתפעיל אותו. הדרך האחרת היחידה לפענוח ההצפנה היא לבצע איפוס לנתוני היצרן - פעולה שמוחקת את כל הנתונים.
+
+תהליך ההצפנה נמשך שעה או יותר. יש להתחיל כשהסוללה טעונה במלואה ולהשאיר את הטלפון מחובר לחשמל במשך כל התהליך. אם התהליך יופסק, ייתכן שתאבד חלק מהנתונים או את כולם.</string>
+  <string name="crypt_keeper_encrypt_title">הצפן טלפון</string>
+  <string name="crypt_keeper_failed_summary">‏ההצפנה הופסקה ואין אפשרות להשלים אותה. כתוצאה מכך, לא ניתן עוד לגשת לנתונים בטלפון שלך. 
+
+כדי לחזור ולהשתמש בטלפון, עליך לבצע איפוס להגדרות היצרן. כאשר תגדיר את הטלפון לאחר האיפוס, תהיה לך הזדמנות לשחזר נתונים שגובו בחשבון Google שלך.</string>
+  <string name="crypt_keeper_final_desc">פעולת ההצפנה אינה ניתנת לביטול, ואם תפסיק אותה תאבד נתונים. ההצפנה אורכת שעה לפחות, ובמהלך זמן זה הטלפון יופעל מחדש כמה פעמים.</string>
+  <string name="crypt_keeper_force_power_cycle">כדי לבטל את נעילת הטלפון, כבה את הטלפון והפעל אותו שוב.</string>
+  <string name="crypt_keeper_setup_description">המתן בזמן הצפנת הטלפון. ^1 הושלמו.</string>
+  <string name="crypt_keeper_setup_time_remaining">המתן עד להשלמת ההצפנה של הטלפון. זמן נותר: ^1</string>
+  <string name="daltonizer_mode_disabled">מושבת</string>
+  <string name="data_protection_title">הגנה על נתונים</string>
+  <string name="data_saver_off">כבוי</string>
+  <string name="data_saver_on">פועל</string>
+  <string name="data_service_enable_mobile">שירות נתונים זמני</string>
+  <string name="data_service_prompt">בעת שימוש בכרטיס SIM ללא נתונים בשיחת VoLTE, הוא ישמש לצורך שירות נתונים. דבר זה יוביל לשימוש יתר בנתונים של כרטיס ה-SIM.</string>
+  <string name="data_service_summary">בעת שימוש בכרטיס SIM ללא נתונים בשיחת VoLTE, הוא ישמש לצורך שירות נתונים</string>
+  <string name="data_usage_auto_sync_on_dialog">‏כל שינוי שתבצע בחשבונות שלך באינטרנט יועתק לטלפון שלך באופן אוטומטי.
+
+ייתכן גם שחשבונות מסוימים יעתיקו לאינטרנט באופן אוטומטי שינויים שתבצע בטלפון. חשבון Google פועל באופן זה.</string>
+  <string name="data_usage_limit_dialog_mobile">כשתגיע למגבלה שהגדרת, הטלפון יכבה את חבילת הגלישה.
+
+מכיוון שעשויים להיות הבדלים בין השימוש בנתונים שנמדד על ידי הטלפון לבין השימוש שנמדד על ידי הספק, מומלץ להגדיר מגבלה שמרנית.</string>
+  <string name="data_usage_list_none">ללא</string>
+  <string name="data_usage_restrict_background_multiuser">‏אם תגביל את השימוש בחבילת הגלישה ברקע, אפליקציות ושירותים מסוימים לא יפעלו אלא אם תהיה מחובר ל-Wi‑Fi.‏
+
+הגדרה זו משפיעה על כל המשתמשים בטלפון.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s : נעשה שימוש בערך ב-%1$s, כפי שנמדד על ידי הטלפון. ייתכן שספק השירות שלך יחשב את נפח העברת הנתונים בצורה אחרת.</string>
+  <string name="decryption_settings_summary">הטלפון לא מוצפן</string>
+  <string name="default_apps_title">ברירת מחדל</string>
+  <string name="default_keyboard_layout">ברירת מחדל</string>
+  <string name="default_theme">ברירת מחדל</string>
+  <string name="delete">מחיקה</string>
+  <string name="deletion_helper_manual_title">ידני</string>
+  <string name="device_info_settings">סטטוס הטלפון</string>
+  <string name="device_status">מצב</string>
+  <string name="device_status_activity_title">מצב</string>
+  <string name="device_status_summary">מספר טלפון, אות וכדומה</string>
+  <string name="dialog_background_check_message">הניהול של צריכת הסוללה בטלפון לא תקין, כי האפליקציה %1$s מוציאה את הטלפון ממצב שינה.
+
+כדי לפתור את הבעיה, אפשר לעצור את %1$s כדי למנוע ממנה לפעול ברקע.</string>
+  <string name="dialog_location_message">הניהול של צריכת הסוללה בטלפון לא תקין, כי האפליקציה %1$s מבקשת את נתוני המיקום שלך כשהיא לא בשימוש.
+
+כדי לפתור את הבעיה, אפשר להשבית העברה של נתוני מיקום לאפליקציה הזו.</string>
+  <string name="dialog_stop_message">הניהול של צריכת הסוללה בטלפון לא תקין, כי האפליקציה %1$s לא מאפשרת למכשיר להיכנס למצב שינה.
+
+כדי לפתור את הבעיה, ניתן להפסיק את פעולת האפליקציה.
+
+אם הבעיה תימשך, ייתכן שיהיה עליך להסיר את התקנת האפליקציה כדי לשפר את ביצועי הסוללה.</string>
+  <string name="dialog_stop_message_wakeup_alarm">הניהול של צריכת הסוללה בטלפון לא תקין, כי האפליקציה %1$s לא מאפשרת למכשיר להיכנס למצב שינה.
+
+כדי לפתור את הבעיה, ניתן להפסיק את פעולת האפליקציה %1$s.
+
+אם הבעיה תימשך, ייתכן שיהיה עליך להסיר את התקנת האפליקציה כדי לשפר את ביצועי הסוללה.</string>
+  <string name="disabled">מושבת</string>
+  <string name="display_cutout_emulation_none">ללא</string>
+  <string name="dlg_cancel">ביטול</string>
+  <string name="dlg_close">סגור</string>
+  <string name="dlg_confirm_unmount_text">‏אם תבטל את טעינת כרטיס ה-SD, הפעולה של אפליקציות מסוימות שאתה משתמש בהן תופסק וייתכן שהן לא יהיו זמינות עד שתטען מחדש את כרטיס ה-SD.</string>
+  <string name="dlg_confirm_unmount_title">‏לבטל את הטעינה של כרטיס ה-SD?</string>
+  <string name="dlg_error_unmount_text">‏לא ניתן לבטל את טעינת כרטיס ה-SD. נסה שוב מאוחר יותר.</string>
+  <string name="dlg_ok">אישור</string>
+  <string name="dock_audio_summary_none">הטלפון לא בעגינה</string>
+  <string name="dock_not_found_text">עליך לעגן את הטלפון לפני הגדרת אודיו ממעגן.</string>
+  <string name="dock_sounds_enable_summary_off">אל תפעיל צליל בעת הכנסת הטלפון לעגינה או הוצאתו מעגינה</string>
+  <string name="dock_sounds_enable_summary_on">הפעל צליל בעת כניסת הטלפון לעגינה או יציאתו מעגינה</string>
+  <string name="doze_always_on_title">תמיד פועל</string>
+  <string name="encryption_and_credential_settings_summary">טלפון מוצפן</string>
+  <string name="enterprise_privacy_none">ללא</string>
+  <string name="erase_esim_storage_description">‏מחיקה של כל כרטיסי ה-eSIM בטלפון. פעולה זו לא תבטל את תוכנית השירות הסלולרי שלך.</string>
+  <string name="erase_external_storage">‏מחק כרטיס SD</string>
+  <string name="erase_external_storage_description">‏מחק את כל הנתונים שבכרטיס ה-SD, כגון מוזיקה או תמונות</string>
+  <string name="external_data_size_label">כרטיס SD</string>
+  <string name="fih_color_picker_blue">כחול</string>
+  <string name="fih_color_picker_green">ירוק</string>
+  <string name="fih_color_picker_orange">כתום</string>
+  <string name="fih_color_picker_pink">ורוד</string>
+  <string name="fih_color_picker_purple">סגול</string>
+  <string name="fih_color_picker_yellow">צהוב</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">אשר</string>
+  <string name="fih_message_vibrate">רטט</string>
+  <string name="fih_ringtone_add">הוסף</string>
+  <string name="fih_ringtone_remove">הסר</string>
+  <string name="fih_ringtone_select_all">הכל</string>
+  <string name="filter_apps_onsdcard">‏בכרטיס SD</string>
+  <string name="fingerprint_enroll_button_next">הבא</string>
+  <string name="fingerprint_swipe_for_notifications_summary">כדי לבדוק הודעות יש להחליק כלפי מטה בחיישן טביעות האצבע שבחלק האחורי של הטלפון.</string>
+  <string name="font_size_save">אישור</string>
+  <string name="forget">שכח</string>
+  <string name="gesture_preference_summary">תנועות מהירות לשליטה בטלפון</string>
+  <string name="gesture_setting_off">כבוי</string>
+  <string name="gesture_setting_on">פועל</string>
+  <string name="hdmi_auto">אוטומטי</string>
+  <string name="install_all_warning">הטלפון והנתונים האישיים שלך פגיעים יותר להתקפות של אפליקציות לא מוכרות. על ידי התקנת אפליקציות ממקור זה, אתה מסכים לכך שאתה האחראי לכל נזק לטלפון או לכל אובדן של נתונים שעשויים להיגרם כתוצאה מהשימוש באפליקציות אלה.</string>
+  <string name="intent_sender_account_label">חשבון</string>
+  <string name="keyboard_layout_default_label">ברירת מחדל</string>
+  <string name="link_speed">%1$d Mbps</string>
+  <string name="locale_default">ברירת מחדל</string>
+  <string name="location_off_summary">כבוי</string>
+  <string name="location_on_summary">פועל</string>
+  <string name="location_street_level">‏אפשר לאפליקציות להשתמש ב-GPS בטלפון שלך כדי לאתר את מיקומך</string>
+  <string name="lock_screen_intro_skip_dialog_text">תכונות ההגנה על המכשיר לא יופעלו. לא תהיה לך אפשרות למנוע מאנשים אחרים להשתמש בטלפון אם הוא יאבד או ייגנב.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">תכונות ההגנה על המכשיר לא יופעלו. לא תהיה לך אפשרות למנוע מאנשים אחרים להשתמש בטלפון אם הוא יאבד, ייגנב או יאופס.</string>
+  <string name="lockpassword_cancel_label">ביטול</string>
+  <string name="lockpattern_tutorial_cancel_label">ביטול</string>
+  <string name="lockpattern_tutorial_continue_label">הבא</string>
+  <string name="manage_trust_agents_summary">ללא</string>
+  <string name="manual">ידני</string>
+  <string name="master_clear_accounts">
+
+אתה מחובר כעת לחשבונות הבאים:
+</string>
+  <string name="master_clear_button_text">איפוס טלפון</string>
+  <string name="master_clear_desc">‏פעולה זו תמחק את כל הנתונים מ<b>האחסון הפנימי</b> של הטלפון שלך, כולל:
+
+<li>חשבון Google שלך</li><li>הנתונים וההגדרות של המערכת והאפליקציות שלך</li><li>האפליקציות שהורדת</li></string>
+  <string name="master_clear_desc_erase_external_storage">‏
+
+כדי למחוק פריטי מוזיקה, תמונות ונתוני משתמש אחרים, יש למחוק את <b>כרטיס ה-SD</b>.</string>
+  <string name="master_clear_other_users_present">
+
+קיימים משתמשים אחרים במכשיר זה.
+</string>
+  <string name="media_output_summary">טלפון</string>
+  <string name="media_output_summary_unavailable">לא זמין</string>
+  <string name="menu_save">שמור</string>
+  <string name="motion_turn_over_reject_call_help">כשיש שיחה נכנסת, הפוך את הטלפון כדי לדחות את השיחה</string>
+  <string name="motion_volume_quiet_pickup_help">כשיש שיחה נכנסת, הרם כדי להשתיק את עוצמת הרינגטון כאשר הטלפון מונח אופקית</string>
+  <string name="motion_volume_quiet_pickup_title">הנמכת עוצמת קול בהרמה</string>
+  <string name="move_app_to_internal">העבר לטלפון</string>
+  <string name="move_app_to_sdcard">‏העבר לכרטיס SD</string>
+  <string name="mvno_type_none">ללא</string>
+  <string name="my_device_info_account_preference_title">חשבון</string>
+  <string name="my_device_info_device_name_preference_title">שם מכשיר</string>
+  <string name="network_scorer_picker_none_preference">ללא</string>
+  <string name="new_device_suggestion_summary">סיור היכרות עם הטלפון החדש</string>
+  <string name="next_label">הבא</string>
+  <string name="nfc_payment_default_not_set">לא הוגדר</string>
+  <string name="nfc_quick_toggle_summary">אפשר חילופי מידע כאשר הטלפון נוגע במכשיר אחר</string>
+  <string name="nfc_service_summary_disabled">מושבת</string>
+  <string name="nfc_service_summary_enabled">מופעל</string>
+  <string name="night_display_auto_mode_never">ללא</string>
+  <string name="night_display_status_title">מצב</string>
+  <string name="notification_listener_disable_warning_cancel">ביטול</string>
+  <string name="notification_toggle_off">כבוי</string>
+  <string name="notification_toggle_on">פועל</string>
+  <string name="notification_volume_title">התראה</string>
+  <string name="notifications_disabled">כבוי</string>
+  <string name="notifications_enabled">פועל</string>
+  <string name="okay">אישור</string>
+  <string name="owner_info_settings_summary">ללא</string>
+  <string name="passpoint_content">אישורי %1$s</string>
+  <string name="passpoint_label">נשמר באמצעות</string>
+  <string name="phone_info_label">פרטי טלפון</string>
+  <string name="please_select_phase2">אימות שלב 2</string>
+  <string name="power_idle">טלפון לא פעיל</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">ייתכן שהטלפון ייכבה בקרוב</string>
+  <string name="power_remaining_duration_shutdown_imminent">ייתכן שהטלפון ייכבה בקרוב (%1$s)</string>
+  <string name="poweroff_animation_summary">הפעל הנפשת כיבוי</string>
+  <string name="poweroff_animation_title">הנפשת כיבוי</string>
+  <string name="preference_change_password_title">שנה סיסמה</string>
+  <string name="prevent_ringing_option_none_summary">כבוי</string>
+  <string name="print_cancel">ביטול</string>
+  <string name="print_feature_state_off">כבוי</string>
+  <string name="print_feature_state_on">פועל</string>
+  <string name="print_settings_summary_no_service">כבוי</string>
+  <string name="proxy_error">שים לב</string>
+  <string name="proxy_error_dismiss">אישור</string>
+  <string name="proxy_error_empty_host_set_port">שדה היציאה חייב להיות ריק אם שדה המארח ריק.</string>
+  <string name="proxy_error_empty_port">עליך למלא את שדה היציאה.</string>
+  <string name="proxy_error_invalid_exclusion_list">רשימת אי ההכללה שהקלדת אינה‎‏‎בתבנית המתאימה. הקלד רשימה של תחומים שאינם נכללים, שהפריטים בה מופרדים באמצעות פסיקים.</string>
+  <string name="proxy_error_invalid_port">היציאה שהקלדת אינה‎‏‎חוקית.</string>
+  <string name="proxy_exclusionlist_label">‏עקוף שרת Proxy עבור</string>
+  <string name="proxy_hostname_label">‏שם מארח של שרת Proxy</string>
+  <string name="proxy_port_label">‏יציאת שרת Proxy</string>
+  <string name="proxy_settings_title">‏שרת Proxy</string>
+  <string name="proxy_url_title">כתובת URL של PAC: </string>
+  <string name="proxy_warning_limited_support">‏שרת Proxy של HTTP נמצא בשימוש הדפדפן, אך יישומים אחרים לא יכולים להשתמש בו.</string>
+  <string name="radioInfo_data_connected">מחובר</string>
+  <string name="radioInfo_data_disconnected">מנותק</string>
+  <string name="radioInfo_data_suspended">בהשעיה</string>
+  <string name="radio_info_ims_feature_status_unavailable">לא זמין</string>
+  <string name="really_remove_account_message">הסרת חשבון זה תגרום למחיקה של כל ההודעות, אנשי הקשר ונתונים נוספים של החשבון מהטלפון!</string>
+  <string name="reset_network_desc">‏הפעולה הזו תאפס את כל הגדרות הרשת, כולל:
+
+<li>Wi‑Fi</li><li>נתונים סלולריים</li><li>Bluetooth</li></string>
+  <string name="restriction_nfc_enable_summary">אפשר חילופי מידע כאשר הטלפון נוגע במכשיר אחר</string>
+  <string name="retail_demo_reset_next">הבא</string>
+  <string name="roaming_warning_multiuser">כשאתה מאפשר נדידה, הדבר עשוי להיות כרוך בעלויות נדידה גבוהות!
+
+הגדרה זו משפיעה על כל המשתמשים בטלפון הזה.</string>
+  <string name="running_frequency">תדירות</string>
+  <string name="runningservicedetails_stop_dlg_text">אם תפסיק שירות זה, תכונות מסוימות של הטלפון עלולות להפסיק לפעול כהלכה עד לכיבוי המכשיר והפעלתו מחדש.</string>
+  <string name="save">שמור</string>
+  <string name="saved_network">נשמר על-ידי %1$s</string>
+  <string name="screen_zoom_summary_default">ברירת מחדל</string>
+  <string name="screensaver_settings_summary_off">כבוי</string>
+  <string name="sd_card_settings_label">כרטיס SD</string>
+  <string name="sd_card_storage">‏אחסון בכרטיס SD</string>
+  <string name="sd_eject">‏בטל טעינה של כרטיס SD</string>
+  <string name="sd_eject_summary">‏בטל את טעינת כרטיס SD כדי שתוכל להסיר אותו בבטחה</string>
+  <string name="sd_format">‏מחק כרטיס SD</string>
+  <string name="sd_format_summary">‏מוחק את כל הנתונים שבכרטיס SD, כגון מוזיקה ותמונות.</string>
+  <string name="sd_insert_summary">‏הכנס כרטיס SD לצורך טעינה</string>
+  <string name="sd_memory">כרטיס SD</string>
+  <string name="sd_mount">‏טען כרטיס SD</string>
+  <string name="sdcard_format">‏מחק כרטיס SD</string>
+  <string name="sdcard_setting">כרטיס SD</string>
+  <string name="sdcard_settings_bad_removal_status">‏כרטיס SD הוסר תוך כדי שימוש!</string>
+  <string name="sdcard_settings_mass_storage_status">‏כרטיס ה-SD משמש כהתקן אחסון בנפח גדול.</string>
+  <string name="sdcard_settings_not_present_status">אין כרטיס זיכרון</string>
+  <string name="sdcard_settings_read_only_status">‏כרטיס ה-SD טעון לקריאה בלבד.</string>
+  <string name="sdcard_settings_scanning_status">‏סורק כרטיס SD למציאת מדיה...</string>
+  <string name="sdcard_settings_unmounted_status">‏כעת ניתן להסיר את כרטיס ה-SD באופן בטוח.</string>
+  <string name="sdcard_unmount">‏בטל טעינה של כרטיס SD</string>
+  <string name="security_passwords_title">פרטיות</string>
+  <string name="security_settings_desc">אפליקציה זו יכולה לגשת לפריטים הבאים בטלפון:</string>
+  <string name="security_settings_desc_multi">אפליקציה זו יכולה לגשת ליכולות הבאות בטלפון שלך. על מנת לשפר את הביצועים ולהפחית את השימוש בזיכרון, חלק מהרשאות אלה זמינות ל-%1$s מפני שהוא פועל באותו תהליך יחד עם %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">מחיקה</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">שם</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">אישור</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">ביטול</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">הבא</string>
+  <string name="settings_manual_activity_title">ידני</string>
+  <string name="setup_lock_settings_picker_message">הפעל את תכונות הגנת המכשיר כדי למנוע מאחרים להשתמש בטלפון הזה ללא אישורך. בחר בנעילת המסך שבה תרצה להשתמש.</string>
+  <string name="setup_lock_settings_picker_title">הגן על הטלפון שלך</string>
+  <string name="show_operator_name_title">שם רשת</string>
+  <string name="sim_card_select_title">‏בחר כרטיס SIM</string>
+  <string name="sim_editor_title">‏חריץ SIM ‏%1$d</string>
+  <string name="sim_enabler_both_inactive">שגיאה, לא ניתן להשבית את כרטיסי ה-SIM</string>
+  <string name="sim_enabler_disabling">מבטל הפעלה...</string>
+  <string name="sim_enabler_need_switch_data_service">ישבית אותו ויעבור ל-%1$s לקבלת נתונים, האם אתה בטוח?</string>
+  <string name="sim_enter_cancel">ביטול</string>
+  <string name="sim_enter_ok">אישור</string>
+  <string name="sim_lock_off">‏נדרש PIN כדי להשתמש בטלפון</string>
+  <string name="sim_lock_on">‏נדרש PIN כדי להשתמש בטלפון</string>
+  <string name="sim_lock_settings_summary_off">כבוי</string>
+  <string name="smart_battery_footer">כשמנהל הסוללה יזהה שאפליקציות גורמות להתרוקנות הסוללה, תהיה לך אפשרות להגביל אותן. ייתכן שהאפליקציות שיש להן הגבלה לא יפעלו כראוי ויהיה עיכוב בקבלת הודעות.</string>
+  <string name="status_number">מספר טלפון</string>
+  <string name="status_number_sim_slot">‏מספר טלפון (חריץ SIM ‏%1$d)</string>
+  <string name="status_number_sim_status">‏מספר טלפון ב-SIM</string>
+  <string name="status_signal_strength">עוצמת אות</string>
+  <string name="storage_manager_indicator_off">כבוי</string>
+  <string name="storage_manager_indicator_on">פועל</string>
+  <string name="storage_menu_forget">שכח</string>
+  <string name="storage_settings_summary">‏בטל טעינת כרטיס SD, הצג את שטח האחסון הזמין</string>
+  <string name="storage_wizard_init_v2_internal_action">אחסון בטלפון</string>
+  <string name="storage_wizard_init_v2_internal_summary">לאפליקציות, קבצים ומדיה בטלפון זה בלבד</string>
+  <string name="storage_wizard_init_v2_internal_title">שימוש כאחסון נוסף לטלפון</string>
+  <string name="storage_wizard_migrate_v2_body">ניתן להעביר קבצים, מדיה ואפליקציות מסוימות אל ^1 זה. 
+
+בעקבות ההעברה, יתפנה שטח אחסון של ^2 בטלפון שלך. ההעברה אמורה להימשך בערך ^3.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">יש להשאיר את הטלפון בטעינה</string>
+  <string name="sub_activate_failed">ההפעלה נכשלה.</string>
+  <string name="sub_deactivate_failed">ביטול ההפעלה נכשל.</string>
+  <string name="suggested_lock_settings_summary">הגדרה של נעילת מסך לצורך הגנה על הטלפון</string>
+  <string name="suggestion_button_text">אישור</string>
+  <string name="switch_off_text">כבוי</string>
+  <string name="switch_on_text">פועל</string>
+  <string name="testing_phone_info">מידע על הטלפון</string>
+  <string name="tts_install_voices_cancel">ביטול</string>
+  <string name="unlock_set_unlock_mode_off">ללא</string>
+  <string name="unlock_set_unlock_mode_password">סיסמה</string>
+  <string name="unlock_set_unlock_off_title">ללא</string>
+  <string name="unlock_set_unlock_password_title">סיסמה</string>
+  <string name="unmount_inform_text">‏הטעינה של כרטיס SD תבוטל.</string>
+  <string name="unsupported_setting_summary">ההגדרה אינה נתמכת בטלפון זה</string>
+  <string name="usage_type_phone">טלפון</string>
+  <string name="usage_type_video">וידאו</string>
+  <string name="usb_tethering_subtext">‏שיתוף בחיבור לאינטרנט של הטלפון דרך USB</string>
+  <string name="user_cannot_manage_message">רק הבעלים של הטלפון יכול לנהל משתמשים.</string>
+  <string name="user_confirm_remove_self_message">תאבד את השטח ואת והנתונים שלך בטלפון. לא ניתן לבטל פעולה זו.</string>
+  <string name="user_delete_button">מחיקה</string>
+  <string name="user_dict_settings_add_dialog_confirm">אישור</string>
+  <string name="user_dict_settings_context_menu_delete_title">מחיקה</string>
+  <string name="vpn_cancel">ביטול</string>
+  <string name="vpn_connect">התחבר</string>
+  <string name="vpn_disconnected_summary">ללא</string>
+  <string name="vpn_forget">שכח</string>
+  <string name="vpn_lockdown_none">ללא</string>
+  <string name="vpn_name">שם</string>
+  <string name="vpn_password">סיסמה</string>
+  <string name="vpn_save">שמור</string>
+  <string name="vpn_username">שם משתמש</string>
+  <string name="wallpaper_settings_summary_default">ברירת מחדל</string>
+  <string name="wapi_auto_sel_cert">בחר אוטומטית</string>
+  <string name="wapi_cert_manage_title">ניהול אישורי WAPI</string>
+  <string name="wifi_add_network">הוסף רשת</string>
+  <string name="wifi_advanced_ip_address_title">‏כתובת IP</string>
+  <string name="wifi_advanced_settings_label">‏הגדרות IP</string>
+  <string name="wifi_advanced_toggle_description_collapsed">הרשימה הנפתחת 'אפשרויות מתקדמות'. הקש פעמיים כדי להרחיב.</string>
+  <string name="wifi_advanced_toggle_description_expanded">הרשימה הנפתחת 'אפשרויות מתקדמות'. הקש פעמיים כדי לכווץ.</string>
+  <string name="wifi_ap_2G">‎2.‎4 GHz</string>
+  <string name="wifi_ap_choose_auto">אוטומטי</string>
+  <string name="wifi_ap_client_details_title">פרטים</string>
+  <string name="wifi_ap_client_ip_label">‏כתובת IP</string>
+  <string name="wifi_band_24ghz">‎2.‎4 GHz</string>
+  <string name="wifi_band_5ghz">‎5 GHz</string>
+  <string name="wifi_calling_dialog_comfirm">אל תציג שוב.</string>
+  <string name="wifi_calling_dialog_msg">שיחות חירום אינן אפשריות דרך שיחות Wi-Fi. המכשיר עובר אוטומטית לרשת סלולרית (2G/3G) כדי לבצע שיחת חירום. שיחות חירום אפשריות רק באזורים בעלי כיסוי סלולרי.</string>
+  <string name="wifi_calling_dialog_title">שיחות חירום דרך שיחות Wi-Fi</string>
+  <string name="wifi_calling_notifybar_msg">שיחות חירום באזורים בעלי כיסוי סלולרי בלבד</string>
+  <string name="wifi_calling_notifybar_title">שיחות Vodafone Wi-Fi</string>
+  <string name="wifi_cancel">ביטול</string>
+  <string name="wifi_connect">התחבר</string>
+  <string name="wifi_disabled_generic">מושבת</string>
+  <string name="wifi_disabled_network_failure">כשל בתצורת IP</string>
+  <string name="wifi_disabled_password_failure">בעיית אימות</string>
+  <string name="wifi_display_options_forget">שכח</string>
+  <string name="wifi_display_options_name">שם</string>
+  <string name="wifi_display_status_connected">מחובר</string>
+  <string name="wifi_display_status_not_available">לא זמין</string>
+  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_do_not_provide_eap_user_cert">אל תספק</string>
+  <string name="wifi_do_not_validate_eap_server">אל תאמת</string>
+  <string name="wifi_do_not_validate_eap_server_warning">לא צוין אישור. החיבור שלך לא יהיה פרטי.</string>
+  <string name="wifi_eap_anonymous">זהות אנונימית</string>
+  <string name="wifi_eap_ca_cert">אישור CA</string>
+  <string name="wifi_eap_domain">תחום</string>
+  <string name="wifi_eap_identity">זהות</string>
+  <string name="wifi_eap_method">שיטת EAP</string>
+  <string name="wifi_eap_user_cert">אישור משתמש</string>
+  <string name="wifi_fail_to_scan">לא ניתן לחפש רשתות</string>
+  <string name="wifi_failed_connect_message">נכשל הניסיון להתחבר לרשת</string>
+  <string name="wifi_failed_forget_message">נכשל הניסיון לשכוח את הרשת</string>
+  <string name="wifi_failed_save_message">נכשל הניסיון לשמור את הרשת</string>
+  <string name="wifi_forget">שכח</string>
+  <string name="wifi_frequency">תדירות</string>
+  <string name="wifi_gateway">שער</string>
+  <string name="wifi_hotspot_tethering_on_subtext">המערכת משתפת את החיבור לאינטרנט של הטלפון דרך נקודה לשיתוף אינטרנט</string>
+  <string name="wifi_ip_address">‏כתובת IP</string>
+  <string name="wifi_ip_settings">‏הגדרות IP</string>
+  <string name="wifi_ip_settings_invalid_dns">‏הקלד כתובת DNS חוקית.</string>
+  <string name="wifi_ip_settings_invalid_gateway">הקלד כתובת שער חוקית.</string>
+  <string name="wifi_ip_settings_invalid_ip_address">‏הקלד כתובת IP חוקית.</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">הקלד אורך לקידומת רשת בין 0 ו-32.</string>
+  <string name="wifi_ip_settings_menu_cancel">ביטול</string>
+  <string name="wifi_ip_settings_menu_save">שמור</string>
+  <string name="wifi_menu_advanced">מתקדם</string>
+  <string name="wifi_multiple_cert_added">(נוספו מספר אישורים)</string>
+  <string name="wifi_network_prefix_length">אורך קידומת של רשת</string>
+  <string name="wifi_no_domain_warning">יש לציין תחום.</string>
+  <string name="wifi_no_internet_no_reconnect">לא ניתן להתחבר אוטומטית</string>
+  <string name="wifi_not_in_range">לא בטווח</string>
+  <string name="wifi_password">סיסמה</string>
+  <string name="wifi_remembered">נשמר</string>
+  <string name="wifi_save">שמור</string>
+  <string name="wifi_security">ביטחון</string>
+  <string name="wifi_security_none">ללא</string>
+  <string name="wifi_setup_add_network">הוסף רשת</string>
+  <string name="wifi_setup_back">הקודם</string>
+  <string name="wifi_setup_cancel">ביטול</string>
+  <string name="wifi_setup_connect">התחבר</string>
+  <string name="wifi_setup_forget">שכח</string>
+  <string name="wifi_setup_next">הבא</string>
+  <string name="wifi_setup_save">שמור</string>
+  <string name="wifi_setup_status_connecting">מתחבר…</string>
+  <string name="wifi_shared">שתף עם משתמשים אחרים במכשיר</string>
+  <string name="wifi_show_advanced">אפשרויות מתקדמות</string>
+  <string name="wifi_show_password">הצג סיסמה</string>
+  <string name="wifi_signal">עוצמת אות</string>
+  <string name="wifi_speed">מהירות קישור</string>
+  <string name="wifi_ssid">שם רשת</string>
+  <string name="wifi_ssid_hint">‏הזן את ה-SSID</string>
+  <string name="wifi_status">מצב</string>
+  <string name="wifi_unchanged">(ללא שינוי)</string>
+  <string name="wifi_unspecified">בחר</string>
+  <string name="wifi_use_system_certs">השתמש באישורי מערכת</string>
+  <string name="wizard_back">הקודם</string>
+  <string name="wizard_next">הבא</string>
+  <string name="zen_mode_delete_rule_button">מחיקה</string>
+  <string name="zen_mode_from_none">ללא</string>
+  <string name="zen_mode_no_exceptions">ללא</string>
+  <string name="zen_mode_rule_delete_button">מחיקה</string>
+  <string name="zen_mode_schedule_rule_days_none">ללא</string>
+  <string name="zen_mode_sound_summary_off">כבוי</string>
+  <string name="zen_mode_sound_summary_on">פועל</string>
+  <string name="zzz_fih_invalid_battery_charging">מומלץ להשתמש בסוללות מקוריות. סוללות לא מאושרות עלולות לגרום לסכנות בלתי צפויות, כגון התפוצצות.</string>
+  <string name="zzz_hmd_open_source_info_text">תוכנת קוד פתוח
+
+מוצר זה מכיל תוכנת קוד פתוח בעלת רישיון בהתאם ל-GPL ול-LGPL. HMD מציעה לספק לך את הקוד הפתוח כפי שמוגדר ברישיון הרלוונטי של תוכנת הקוד הפתוח. יש לשלוח בקשה בכתב אל:
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Finland. הצעה זו תקפה למשך זמן של שלוש (3) שנים מתאריך הפצת המוצר על ידי HMD. על ידי שליחת הבקשה הנך מסכים ש-HMD (או גורמים שפועלים בשמה ובהתאם לסמכות הישירה של HMD) יעבדו את המידע האישי שלך.
+
+עיבוד המידע ייעשה לצורך הטיפול בבקשה ובהתאם למדיניות הפרטיות של HMD ולחוק החל.</string>
+  <string name="zzz_hmd_open_source_info_title">פרטים על קוד פתוח של HMD</string>
+  <string name="zzz_roaming_item_title">נתונים גלובליים</string>
+  <string name="zzz_security_power_off_password_summary">הזן את סיסמת המכשיר כדי לכבות / להפעיל</string>
+  <string name="zzz_security_power_off_password_title">נעילה של הפעלה/כיבוי</string>
+  <string name="zzz_sim_no_services">אין שירות</string>
+  <string name="zzz_version">גרסה</string>
+</resources>

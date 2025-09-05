@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">Întârziere extrem de scurtă (%1$d ms)</item>
+    <item quantity="other">Întârziere extrem de scurtă (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">Întârziere lungă (%1$d ms)</item>
+    <item quantity="other">Întârziere lungă (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">Întârziere scurtă (%1$d ms)</item>
+    <item quantity="other">Întârziere scurtă (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">Întârziere foarte lungă (%1$d ms)</item>
+    <item quantity="other">Întârziere foarte lungă (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">Întârziere foarte scurtă (%1$d ms)</item>
+    <item quantity="other">Întârziere foarte scurtă (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">O aplicație are permisiunea să utilizeze date nerestricționat când Economizorul de date este activat</item>
+    <item quantity="other">%1$d de aplicații au permisiunea să utilizeze date nerestricționat când Economizorul de date este activat</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">Eliminați limba selectată?</item>
+    <item quantity="other">Eliminați limbile selectate?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">O oră</item>
+    <item quantity="other">%s de ore</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">Trebuie să conțină cel puțin o literă</item>
+    <item quantity="other">Trebuie să conțină cel puțin %d de litere</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">Trebuie să conțină cel puțin o minusculă</item>
+    <item quantity="other">Trebuie să conțină cel puțin %d de minuscule</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">Trebuie să conțină cel puțin un caracter care să nu fie literă</item>
+    <item quantity="other">Trebuie să conțină cel puțin %d de caractere care să nu fie litere</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">Trebuie să conțină cel puțin o cifră</item>
+    <item quantity="other">Trebuie să conțină cel puțin %d de cifre</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">Trebuie să conțină cel puțin un simbol special</item>
+    <item quantity="other">Trebuie să conțină cel puțin %d de simboluri speciale</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">Trebuie să conțină cel puțin o majusculă</item>
+    <item quantity="other">Trebuie să conțină cel puțin %d de majuscule</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d aplicație poate citi notificările</item>
+    <item quantity="other">%d de aplicații pot citi notificările</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">O aplicație a folosit memoria în ultimele %2$s</item>
+    <item quantity="other">%1$d de aplicații au folosit memoria în ultimele %2$s</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">Un minut</item>
+    <item quantity="other">%s de minute</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d permisiune acordată</item>
+    <item quantity="other">%d de permisiuni acordate</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d permisiune suplimentară</item>
+    <item quantity="other">%d de permisiuni suplimentare</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">%d din %d permisiune acordată</item>
+    <item quantity="other">%d din %d de permisiuni acordate</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">O secundă</item>
+    <item quantity="other">%s de secunde</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d amprentă configurată</item>
+    <item quantity="other">%1$d de amprente configurate</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">Afișați %d element ascuns</item>
+    <item quantity="other">Afișați %d de elemente ascunse</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">Mai aveți %1$d pas pentru a deveni dezvoltator.</item>
+    <item quantity="other">Mai aveți %1$d de pași pentru a deveni dezvoltator.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">Setați ca fiind de încredere sau eliminați certificatul</item>
+    <item quantity="other">Setați ca fiind de încredere sau eliminați certificatele</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s a instalat o autoritate de certificare pentru profilul dvs. de serviciu, ceea ce îi poate permite să monitorizeze activitatea în rețeaua de serviciu, inclusiv e-mailurile, aplicațiile și site-urile securizate.
+
+Pentru mai multe informații despre acest certificat, contactați administratorul.</item>
+    <item quantity="other">%s a instalat autorități de certificare pentru profilul dvs. de serviciu, ceea ce îi poate permite să monitorizeze activitatea în rețeaua de serviciu, inclusiv e-mailurile, aplicațiile și site-urile securizate.
+
+Pentru mai multe informații despre aceste certificate, contactați administratorul.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s a instalat o autoritate de certificare pe dispozitivul dvs., ceea ce îi poate permite să monitorizeze activitatea în rețea a dispozitivului, inclusiv e-mailurile, aplicațiile și site-urile securizate.
+
+Pentru mai multe informații despre acest certificat, contactați administratorul.</item>
+    <item quantity="other">%s a instalat autorități de certificare pe dispozitivul dvs., ceea ce îi poate permite să monitorizeze activitatea în rețea a dispozitivului, inclusiv e-mailurile, aplicațiile și site-urile securizate.
+
+Pentru mai multe informații despre aceste certificate, contactați administratorul.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">Verificați certificatul</item>
+    <item quantity="other">Verificați certificatele</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">Un element</item>
+    <item quantity="other">%d de elemente</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Codul PIN pentru cartela SIM este incorect. V-a mai rămas %d încercare, după care va trebui să contactați operatorul pentru a vă debloca dispozitivul.</item>
+    <item quantity="other">Codul PIN pentru cartela SIM este incorect. V-au mai rămas %d de încercări.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">Schimbați la „Numai alarme” pentru o oră, până la %2$s</item>
+    <item quantity="other">Schimbați la „Numai alarme” pentru %1$d de ore, până la %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">Schimbați la „Numai alarme” pentru un minut, până la %2$s</item>
+    <item quantity="other">Schimbați la „Numai alarme” pentru %1$d de minute (până la %2$s)</item>
+  </plurals>
+</resources>

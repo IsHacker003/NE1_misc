@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="abc_slice_duration_days">
+    <item quantity="zero">قبل %d يوم</item>
+    <item quantity="one">قبل %d يوم</item>
+    <item quantity="two">قبل يومين (%d)</item>
+    <item quantity="few">قبل %d أيام</item>
+    <item quantity="many">قبل %d يومًا</item>
+    <item quantity="other">قبل %d يوم</item>
+  </plurals>
+  <plurals name="abc_slice_duration_min">
+    <item quantity="zero">قبل %d دقيقة</item>
+    <item quantity="one">قبل %d دقيقة</item>
+    <item quantity="two">قبل دقيقتين (%d)</item>
+    <item quantity="few">قبل %d دقائق</item>
+    <item quantity="many">قبل %d دقيقة</item>
+    <item quantity="other">قبل %d دقيقة</item>
+  </plurals>
+  <plurals name="abc_slice_duration_years">
+    <item quantity="zero">قبل %d سنة</item>
+    <item quantity="one">قبل %d سنة</item>
+    <item quantity="two">قبل سنتين (%d)</item>
+    <item quantity="few">قبل %d سنوات</item>
+    <item quantity="many">قبل %d سنة</item>
+    <item quantity="other">قبل %d سنة</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">مهلة طويلة (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة طويلة (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">مهلة قصيرة (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة قصيرة (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="app_notification_listing_summary_others">
+    <item quantity="one">إيقاف الإشعارات في %d تطبيق</item>
+    <item quantity="other">إيقاف الإشعارات في %d تطبيق</item>
+  </plurals>
+  <plurals name="battery_manager_app_restricted">
+    <item quantity="one">‏تم تقييد تطبيق واحد (%1$d)</item>
+    <item quantity="other">‏تم تقييد %1$d تطبيق</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_app_dialog_title">
+    <item quantity="one">هل تريد تقييد التطبيق؟</item>
+    <item quantity="other">‏هل تريد تقييد %1$d تطبيق؟</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_handled_summary">
+    <item quantity="one">يتعذّر تشغيل هذا التطبيق في الخلفية.</item>
+    <item quantity="other">يتعذّر تشغيل هذه التطبيقات في الخلفية.</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_handled_title">
+    <item quantity="one">‏تم تقييد %1$s مؤخرًا.</item>
+    <item quantity="other">‏تم تقييد %2$d تطبيق مؤخرًا.</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_summary">
+    <item quantity="one">‏يستخدم تطبيق %1$s البطارية في الخلفية بدرجة عالية</item>
+    <item quantity="other">‏هناك %2$d تطبيق يستخدم البطارية في الخلفية بدرجة عالية</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_title">
+    <item quantity="one">‏تقييد %1$d تطبيق</item>
+    <item quantity="other">‏تقييد %1$d تطبيق</item>
+  </plurals>
+  <plurals name="billing_cycle_days_left">
+    <item quantity="one">‏يتبقى يوم واحد (%d)</item>
+    <item quantity="other">‏يتبقى %d يوم</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">هناك تطبيق واحد مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+    <item quantity="other">هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+  </plurals>
+  <plurals name="default_camera_app_title">
+    <item quantity="one">تطبيق واحد للكاميرا</item>
+    <item quantity="other">تطبيقات للكاميرا</item>
+  </plurals>
+  <plurals name="default_email_app_title">
+    <item quantity="one">تطبيق برنامج بريد إلكتروني</item>
+    <item quantity="other">تطبيقات برنامج بريد إلكتروني</item>
+  </plurals>
+  <plurals name="default_phone_app_title">
+    <item quantity="one">تطبيق الهاتف</item>
+    <item quantity="other">تطبيقات الهاتف</item>
+  </plurals>
+  <plurals name="deleted_channels">
+    <item quantity="one">تم حذف فئة واحدة (%d)</item>
+    <item quantity="other">تم حذف %d فئة</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">هل تريد إزالة اللغة المحددة؟</item>
+    <item quantity="other">هل تريد إزالة اللغات المحددة؟</item>
+  </plurals>
+  <plurals name="domain_urls_apps_summary_on">
+    <item quantity="one">تطبيق واحد يفتح الروابط المتوافقة</item>
+    <item quantity="other">%d تطبيق يفتح الروابط المتوافقة</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_ca_certs">
+    <item quantity="one">‏شهادة CA واحدة (%d) كحد أدنى</item>
+    <item quantity="other">‏%d شهادة CA كحد أدنى</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_failed_password_wipe">
+    <item quantity="one">%d محاولة</item>
+    <item quantity="other">%d محاولة</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_packages">
+    <item quantity="one">%d تطبيق</item>
+    <item quantity="other">%d تطبيق</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_packages_lower_bound">
+    <item quantity="one">تطبيق واحد (%d) كحد أدنى</item>
+    <item quantity="other">%d تطبيق كحد أدنى</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">ساعة واحدة</item>
+    <item quantity="other">%s ساعة</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد على الأقل</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على حرف صغير واحد على الأقل</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف صغير على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد ليس من الأحرف الأبجدية على الأقل</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف ليس من الأحرف الأبجدية على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على رقم عددي واحد على الأقل</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d رقم عددي على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على رمز خاص واحد على الأقل</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d رمز خاص على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على حرف كبير واحد على الأقل</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف كبير على الأقل</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">‏يمكن قراءة الإشعارات بواسطة تطبيق واحد (%d)</item>
+    <item quantity="other">‏يمكن قراءة الإشعارات بواسطة %d من التطبيقات</item>
+  </plurals>
+  <plurals name="manage_trust_agents_summary_on">
+    <item quantity="one">خدمة واحدة ناشطة لمنح الثقة</item>
+    <item quantity="other">%d خدمة ناشطة لمنح الثقة</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">استخدم تطبيق واحد الذاكرة في آخر %2$s</item>
+    <item quantity="other">استخدمت %1$d من التطبيقات الذاكرة في آخر %2$s</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">دقيقة واحدة</item>
+    <item quantity="other">%s دقيقة</item>
+  </plurals>
+  <plurals name="network_restrictions_summary">
+    <item quantity="one">قيد واحد</item>
+    <item quantity="other">%1$d قيد</item>
+  </plurals>
+  <plurals name="notification_group_summary">
+    <item quantity="one">فئة واحدة (%d)</item>
+    <item quantity="other">%d فئة</item>
+  </plurals>
+  <plurals name="notification_summary">
+    <item quantity="one">إيقاف الإشعارات في تطبيق واحد</item>
+    <item quantity="other">إيقاف الإشعارات في %d تطبيق</item>
+  </plurals>
+  <plurals name="notifications_categories_off">
+    <item quantity="one">تم إيقاف %d فئة</item>
+    <item quantity="other">تم إيقاف %d فئة</item>
+  </plurals>
+  <plurals name="number_of_device_admins">
+    <item quantity="one">%d تطبيق نشط</item>
+    <item quantity="other">%d تطبيق نشط</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">تم منح %d إذن</item>
+    <item quantity="other">تم منح %d من الأذونات</item>
+  </plurals>
+  <plurals name="power_high_usage_summary">
+    <item quantity="one">يعمل تطبيق واحد (%1$s) بشكل غير طبيعي</item>
+    <item quantity="other">يعمل %2$d تطبيق بشكل غير طبيعي</item>
+  </plurals>
+  <plurals name="power_high_usage_title">
+    <item quantity="one">تطبيق واحد (%1$s) يستنفد شحن البطارية</item>
+    <item quantity="other">تطبيقات تستنفد شحن البطارية</item>
+  </plurals>
+  <plurals name="print_jobs_summary">
+    <item quantity="one">مهمة طباعة واحدة</item>
+    <item quantity="other">%1$d مهمة طباعة</item>
+  </plurals>
+  <plurals name="print_settings_summary">
+    <item quantity="one">تم تشغيل خدمة طباعة واحدة</item>
+    <item quantity="other">تم تشغيل %1$d خدمة طباعة</item>
+  </plurals>
+  <plurals name="restricted_app_summary">
+    <item quantity="one">تقييد استخدام شحن البطارية لتطبيق واحد</item>
+    <item quantity="other">‏تقييد استخدام شحن البطارية لـ %1$d تطبيق</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d إذن إضافي</item>
+    <item quantity="other">%d من الأذونات الإضافية</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">تم منح %d من %d إذن</item>
+    <item quantity="other">تم منح %d من %d من الأذونات</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">ثانية واحدة</item>
+    <item quantity="other">%s ثانية</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">تم إعداد بصمة إصبع واحدة (1( (%1$d)</item>
+    <item quantity="other">تم إعداد %1$d من بصمات الإصبع</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">‏عرض %d عنصر مخفي</item>
+    <item quantity="other">‏عرض %d عنصر مخفي</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى خطوة واحدة (%1$d).</item>
+    <item quantity="other">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d من الخطوات.</item>
+  </plurals>
+  <plurals name="show_number_hearingaid_count">
+    <item quantity="one">تم حفظ %1$d سماعة أذن طبية</item>
+    <item quantity="other">تم حفظ %1$d سماعة أذن طبية</item>
+  </plurals>
+  <plurals name="special_access_summary">
+    <item quantity="one">يمكن لتطبيق واحد استخدام البيانات غير المقيدة</item>
+    <item quantity="other">يمكن لـ %d تطبيق استخدام البيانات غير المقيدة</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">الثقة أو إزالة الشهادة</item>
+    <item quantity="other">الثقة أو إزالة الشهادات</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">تم بواسطة %s تثبيت شهادة مرجعية لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.
+
+للحصول على مزيد من المعلومات حول هذه الشهادة، يمكنك الاتصال بالمشرف.</item>
+    <item quantity="other">تم بواسطة %s تثبيت شهادات مرجعية لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.
+
+للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">تم بواسطة %s تثبيت شهادة مرجعية على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.
+
+للحصول على مزيد من المعلومات حول هذه الشهادة، يمكنك الاتصال بالمشرف.</item>
+    <item quantity="other">تم بواسطة %s تثبيت شهادات مرجعية على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.
+
+للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">الاطّلاع على الشهادة</item>
+    <item quantity="other">الاطّلاع على الشهادات</item>
+  </plurals>
+  <plurals name="suggestions_collapsed_summary">
+    <item quantity="one">واقتراح واحد آخر</item>
+    <item quantity="other">و%1$d اقتراح آخر</item>
+  </plurals>
+  <plurals name="suggestions_collapsed_title">
+    <item quantity="one">اقتراح واحد</item>
+    <item quantity="other">%1$d اقتراح</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">عنصر واحد</item>
+    <item quantity="other">‏%d عنصر</item>
+  </plurals>
+  <plurals name="wifi_saved_access_points_summary">
+    <item quantity="one">شبكة واحدة</item>
+    <item quantity="other">‏%d شبكة</item>
+  </plurals>
+  <plurals name="wifi_tether_connected_summary">
+    <item quantity="zero">‏عدد الأجهزة المتصلة ‎%1$d</item>
+    <item quantity="one">‏عدد الأجهزة المتصلة ‎%1$d</item>
+    <item quantity="two">‏عدد الأجهزة المتصلة ‎%1$d</item>
+    <item quantity="few">‏عدد الأجهزة المتصلة ‎%1$d</item>
+    <item quantity="many">‏عدد الأجهزة المتصلة ‎%1$d</item>
+    <item quantity="other">‏عدد الأجهزة المتصلة ‎%1$d</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">‏رمزPIN لبطاقة SIM غير صحيح، ولديك محاولة واحدة (%d) يجب أن تتصل بعدها بمشغّل شبكة الجوّال لإلغاء قفل الجهاز.</item>
+    <item quantity="other">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d من المحاولات.</item>
+  </plurals>
+  <plurals name="zen_mode_duration_summary_time_hours">
+    <item quantity="one">ساعة واحدة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
+    <item quantity="other">%d ساعة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
+  </plurals>
+  <plurals name="zen_mode_settings_summary_on">
+    <item quantity="one">قاعدة واحدة</item>
+    <item quantity="other">%d قاعدة</item>
+  </plurals>
+  <plurals name="zen_mode_sound_summary_summary_off_info">
+    <item quantity="one">يمكن تشغيل قاعدة واحدة تلقائيًا.</item>
+    <item quantity="other">يمكن تشغيل %d قاعدة تلقائيًا.</item>
+  </plurals>
+  <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+    <item quantity="one">شخص واحد آخر</item>
+    <item quantity="other">%d شخص آخر</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">تغيير إلى تنبيهات فقط لمدة ساعة واحدة حتى %2$s</item>
+    <item quantity="other">تغيير إلى تنبيهات فقط لمدة %1$d من الساعات حتى %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">تغيير إلى تنبيهات فقط لمدة دقيقة واحدة حتى %2$s</item>
+    <item quantity="other">تغيير إلى تنبيهات فقط لمدة %1$d من الدقائق (حتى %2$s)</item>
+  </plurals>
+</resources>

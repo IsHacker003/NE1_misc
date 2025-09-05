@@ -1,0 +1,977 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">Apie telefoną</string>
+  <string name="accelerometer_summary_off">Aut. keisti orientavimą sukant telefoną</string>
+  <string name="accelerometer_summary_on">Aut. keisti orientavimą sukant telefoną</string>
+  <string name="accessibility_autoclick_delay_preference_title">Atidėti prieš spustelint</string>
+  <string name="accessibility_category_work">Darbo profilio paskyros – %s</string>
+  <string name="accessibility_feature_state_off">Išjungta</string>
+  <string name="accessibility_feature_state_on">Įjungta</string>
+  <string name="accessibility_lock_screen_progress">%1$d of %2$d simb. naudoti</string>
+  <string name="accessibility_personal_account_title">Asmeninė paskyra – %s</string>
+  <string name="accessibility_summary_state_disabled">Išjungta</string>
+  <string name="accessibility_summary_state_enabled">Įjungta</string>
+  <string name="accessibility_sync_disabled">Sinchr. išjungta</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Atnaujinti ekrano didinimą programos perėjimuose</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Autom. atnaujinimo ekrano didinimas</string>
+  <string name="accessibility_vibration_intensity_off">Išjungta</string>
+  <string name="accessibility_vibration_settings_title">Vibracija</string>
+  <string name="accessibility_work_account_title">Darbo paskyra – %s</string>
+  <string name="additional_permissions_more">%1$d daug.</string>
+  <string name="advanced_apps">Išplėstinės</string>
+  <string name="advanced_section_header">Išplėstinės</string>
+  <string name="advanced_security_title">Išplėstinės</string>
+  <string name="allow_bind_app_widget_activity_allow_bind">Sukūrus valdiklį, %1$s gali pasiekti visus rodomus duomenis.</string>
+  <string name="allow_bind_app_widget_activity_always_allow_bind">Visada leisti %1$s kurti valdiklius ir pasiekti jų duomenis</string>
+  <string name="allow_data_usage_title">Leisti duomenų naudojimą esant tarptinkliniui ryšiui</string>
+  <string name="always_running">Visada veikia (%s)</string>
+  <string name="ambient_display_pickup_summary">Paimkite telefoną, jei norite sužinoti laiką ir peržiūrėti pranešimus, piktogramas bei kitą informaciją.</string>
+  <string name="ambient_display_pickup_title">Telefono tikrinimas pakėlus</string>
+  <string name="ambient_display_screen_title">Aplinkos rodinys</string>
+  <string name="ambient_display_title">Telefono tikrinimas dukart palietus</string>
+  <string name="android_beam_label">„Android Beam“</string>
+  <string name="android_beam_off_summary">Išjungta</string>
+  <string name="android_beam_settings_title">„Android Beam“</string>
+  <string name="apn_apn">APN</string>
+  <string name="apn_auth_type">Tapatybės nustatymo tipas</string>
+  <string name="apn_auth_type_chap">CHAP</string>
+  <string name="apn_auth_type_none">Nėra</string>
+  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_pap_chap">PAP" arba "CHAP</string>
+  <string name="apn_http_port">Prievadas</string>
+  <string name="apn_http_proxy">Tarpinis serveris</string>
+  <string name="apn_mcc">MCC</string>
+  <string name="apn_mms_port">MMS" prievadas</string>
+  <string name="apn_mms_proxy">MMS" tarpinis serveris</string>
+  <string name="apn_mmsc">MMSC</string>
+  <string name="apn_mnc">MNC</string>
+  <string name="apn_name">Pavadinimas</string>
+  <string name="apn_not_set">Nenustatyta</string>
+  <string name="apn_password">Slaptažodis</string>
+  <string name="apn_server">Serveris</string>
+  <string name="apn_type">APN tipas</string>
+  <string name="apn_user">Naudotojo vardas</string>
+  <string name="app_disable_notifications_dlg_text">Jei išjungsite šios programos pranešimus, galite praleisti svarbius įspėjimus ir atnaujinimus.</string>
+  <string name="app_install_details_summary">Programa įdiegta iš %1$s</string>
+  <string name="app_list_preference_none">Nėra</string>
+  <string name="app_notification_override_dnd_title">Perrašoma, netrukdyti</string>
+  <string name="app_notification_row_banned">Užblokuota</string>
+  <string name="app_sees_restricted_accounts_and_controlled_by">Ši programa negali pasiekti jūsų paskyrų. Valdo %1$s</string>
+  <string name="applications_settings_summary">Tvarkykite programas, nustatykite greito paleidimo nuorodas</string>
+  <string name="apps_summary">%1$d programos įdiegtos</string>
+  <string name="assistant_security_warning">Pagalbininkas galės skaityti informaciją apie naudojamas programas jūsų sistemoje, įskaitant informaciją, matomą jūsų ekrane, arba pasiekiamą programas.</string>
+  <string name="assistant_security_warning_agree">Sutinku</string>
+  <string name="assistant_security_warning_title">Padaryti %s jūsų pagalbininku?</string>
+  <string name="auto_boot_pref_title">Automatinio paleidimo tvarkymas</string>
+  <string name="auto_brightness_default_title">Numatytoji</string>
+  <string name="auto_brightness_off_title">Išjungta</string>
+  <string name="auto_brightness_summary_off">Išjungta</string>
+  <string name="available_via_passpoint">Pasiekiama naudojant %1$s</string>
+  <string name="background_process_stop_description">Tai senas programos procesas, kuris vis dar veikia, jei jo’s prireiktų. Paprastai nėra priežasties jį sustabdyti.</string>
+  <string name="backup_data_summary">Sukurkite programos duomenų, „Wi‑Fi“ slaptažodžių ir kitų nustatymų atsarginę kopiją „Google“ serveriuose</string>
+  <string name="backup_erase_dialog_message">Nebekurti „Wi‑Fi“ slaptažodžių, žymų, kitų nustatymų ir programos duomenų atsarginių kopijų ir ištrinti visas kopijas „Google“ serveriuose?</string>
+  <string name="backup_pw_cancel_button_text">Atšaukti</string>
+  <string name="band_mode_failed">Nepavyko</string>
+  <string name="band_mode_loading">Įkeliamas juostos sąrašas…</string>
+  <string name="battery_action_wifi">„Wi‑Fi“ nustatymai</string>
+  <string name="battery_desc_apps">Programos energijos sąnaudos</string>
+  <string name="battery_desc_bluetooth">„Bluetooth“ energijos sąnaudos</string>
+  <string name="battery_desc_camera">Kameros energijos sąnaudos</string>
+  <string name="battery_desc_display">Ekrano ir foninio apšvietimo energijos sąnaudos</string>
+  <string name="battery_desc_flashlight">Žibintuvėlio energijos sąnaudos</string>
+  <string name="battery_desc_radio">Mobiliojo radijo energijos sąnaudos</string>
+  <string name="battery_desc_standby">Sunaudota akumuliatoriaus, kai telefonas yra laukimo būsenoje</string>
+  <string name="battery_desc_voice">Balso skambučių energijos sąnaudos</string>
+  <string name="battery_desc_wifi">„Wi‑Fi“ energijos sąnaudos</string>
+  <string name="battery_manager_off">Išjungta</string>
+  <string name="battery_msg_unaccounted">Baterijos naudojimas prilygsta energijos naudojimui ir neapima kiekvieno akumuliatorių naudojančio šaltinio. Įvairūs yra skirtumas tarp apskaičiuoto apytikslio energijos naudojimo ir faktiško akumuliatoriaus naudojimo.</string>
+  <string name="battery_saver_off_summary">Išjungta</string>
+  <string name="battery_saver_on_summary">Įjungta</string>
+  <string name="battery_since_reset">Akumuliatoriaus naudojimas nuo nustatymo iš naujo</string>
+  <string name="battery_since_unplugged">Akumuliatoriaus naudojimas nuo atjungimo</string>
+  <string name="battery_stats_duration">%1$s nuo atjungimo</string>
+  <string name="battery_stats_on_battery">%1$s akum.</string>
+  <string name="battery_stats_wake_lock_label">Pažadinti</string>
+  <string name="battery_stats_wifi_running_label">„Wi‑Fi“</string>
+  <string name="battery_sugg_wifi">Išjungti „Wi‑Fi“, kai jo nenaudojate arba kai jis nepasiekiamas</string>
+  <string name="battery_suggestion_title">Pailginkite telefono akum. veikimo laiką</string>
+  <string name="battery_tip_dialog_message">Telefonas buvo naudojamas daugiau nei įprastai. Akumuliatoriaus energija gali išsekti greičiau, nei tikėjotės.
+
+Toliau rodomos daugiausia nuo paskutinio įkrovimo naudotos programos (%1$d).</string>
+  <string name="battery_tip_dialog_summary_message">Programos naudoja įprastą akumuliatoriaus energijos kiekį. Jei programos naudos per daug akumuliatoriaus energijos, telefonas pasiūlys veiksmų, kurių galima imtis.
+
+Jei senka akumuliatoriaus energija, visada galite įjungti Akumuliatoriaus tausojimo priemonę.</string>
+  <string name="battery_tip_high_usage_title">Telefonas buvo naudojamas daugiau nei įprasta</string>
+  <string name="battery_tip_restrict_app_dialog_ok">Apriboti</string>
+  <string name="battery_tip_smart_battery_title">Pagerinkite telefono akumuliatoriaus veikimo laiką</string>
+  <string name="battery_tip_summary_summary">Telefono fone veikiančios programos naudoja įprastą akumuliatoriaus energijos kiekį</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">Atšaukti</string>
+  <string name="ble_scan_notify_text">Norėdami pagerinti vietos tikslumą, sistemos programos ir paslaugos vis tiek gali aptikti „Bluetooth“ įrenginius. Galite tai keisti LINK_BEGINnuskaitymo nustatymuoseLINK_END.</string>
+  <string name="bluetooth_ask_discovery">Programa „%1$s“ nori nustatyti, kad telefoną %2$d sek. galėtų aptikti kiti „Bluetooth“ įrenginiai.</string>
+  <string name="bluetooth_ask_discovery_no_name">Programa nori nustatyti, kad telefoną %1$d sek. galėtų aptikti kiti „Bluetooth“ įrenginiai.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">Programa „%1$s“ nori įjungti „Bluetooth“ ir nustatyti, kad telefoną %2$d sek. galėtų aptikti kiti įrenginiai.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">Programa nori įjungti „Bluetooth“ ir nustatyti, kad telefoną %1$d sek. galėtų aptikti kiti įrenginiai.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">Programa „%1$s“ nori įjungti „Bluetooth“ ir nustatyti, kad telefoną galėtų aptikti kiti įrenginiai. Tai vėliau galėsite pakeisti „Bluetooth“ nustatymuose.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Programa nori įjungti „Bluetooth“ ir nustatyti, kad telefoną galėtų aptikti kiti įrenginiai. Tai vėliau galėsite pakeisti „Bluetooth“ nustatymuose.</string>
+  <string name="bluetooth_ask_lasting_discovery">Programa „%1$s“ nori nustatyti, kad telefoną galėtų aptikti kiti „Bluetooth“ įrenginiai. Tai vėliau galėsite pakeisti „Bluetooth“ nustatymuose.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">Programa nori nustatyti, kad telefoną galėtų aptikti kiti „Bluetooth“ įrenginiai. Tai vėliau galėsite pakeisti „Bluetooth“ nustatymuose.</string>
+  <string name="bluetooth_confirm_passkey_msg">Norėdami suporuoti su:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Įsitikinkite, kad rodomas šis prieigos raktas:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_connect_specific_profiles_title">Prisijunkite prie…</string>
+  <string name="bluetooth_connecting">Jungiamasi…</string>
+  <string name="bluetooth_connecting_error_message">Negalima prisijungti prie %1$s.</string>
+  <string name="bluetooth_connection_dialog_text">Ar norite prisijungti prie "%1$s"?</string>
+  <string name="bluetooth_connection_notif_message">Bakstelėkite norėdami prisijungti prie "%1$s".</string>
+  <string name="bluetooth_device_advanced_enable_opp_title">Leisti gaunamo failo perdavimus</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Prijungti</string>
+  <string name="bluetooth_device_context_connect">Prijungti</string>
+  <string name="bluetooth_device_context_connect_advanced">Parinktys…</string>
+  <string name="bluetooth_device_name">Įrenginio pavadinimas</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Atšaukti</string>
+  <string name="bluetooth_disable_profile_message">Tai išjungs:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Iš:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disabled">Išjungta</string>
+  <string name="bluetooth_disconnect_a2dp_profile">%1$s bus atjungtas nuo laikmenos garso.</string>
+  <string name="bluetooth_disconnect_all_profiles">Telefonas bus atjungtas nuo „%1$s“.</string>
+  <string name="bluetooth_disconnect_headset_profile">%1$s bus atjungtas nuo laisvų rankų įrangos garso.</string>
+  <string name="bluetooth_disconnect_hid_profile">%1$s bus atjungtas nuo įvesties įrenginio.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">„%1$s“ bus neleidžiama bendrinti šio telefono interneto ryšio.</string>
+  <string name="bluetooth_disconnect_pan_user_profile">Interneto prieiga per %1$s bus atjungta.</string>
+  <string name="bluetooth_disconnected">Atsijungęs</string>
+  <string name="bluetooth_disconnecting">Atjungiama…</string>
+  <string name="bluetooth_display_passkey_pin_msg">Norėdami suporuoti su:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Įveskite:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, tuomet paspauskite „Return“ (Grįžti) arba „Enter“ (Įvesti).</string>
+  <string name="bluetooth_dock_settings_headset">Kaip garsiakalbio telefonas</string>
+  <string name="bluetooth_footer_mac_message">Telefono „Bluetooth“ adresas: %1$s</string>
+  <string name="bluetooth_incoming_pairing_msg">Iš:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Suporuoti su šiuo įrenginiu?</string>
+  <string name="bluetooth_is_disconnect_question">Atjungti %1$s?</string>
+  <string name="bluetooth_is_discoverable">Matoma visiems netoliese esantiems „Bluetooth“ įrenginiams (%1$s)</string>
+  <string name="bluetooth_is_visible_message">%1$s matomas visiems netoliese esantiems įrenginiams, kai „Bluetooth“ nustatymai atviri.</string>
+  <string name="bluetooth_lock_voice_dialing_summary">Venkite naudoti „Bluetooth“ rinkiklį, kai ekranas užrakintas</string>
+  <string name="bluetooth_map_acceptance_dialog_text">%1$s nori pasiekti jūsų pranešimus. Suteikti prieigą prie %2$s?</string>
+  <string name="bluetooth_menu_advanced">Išplėstinės</string>
+  <string name="bluetooth_notif_message">Bakstelėkite norėdami suporuoti su %1$s.</string>
+  <string name="bluetooth_on_time">„Wi‑Fi“ laiku</string>
+  <string name="bluetooth_pairing_decline">Atšaukti</string>
+  <string name="bluetooth_pairing_dialog_contants_request">%1$s nori pasiekti jūsų kontaktus ir skambučių istoriją.</string>
+  <string name="bluetooth_pairing_dialog_paring_request">%1$s nori suporuoti su „Bluetooth“. Prijungtas jis turės prieigą prie jūsų kontaktų ir skambučių istorijos.</string>
+  <string name="bluetooth_pairing_request">Suporuoti su %1$s?</string>
+  <string name="bluetooth_pref_summary">Leiskite telefonui užmegzti ryšį su netoliese esančiais „Bluetooth“ įrenginiais</string>
+  <string name="bluetooth_preference_paired_dialog_name_label">Pavadinimas</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s nori pasiekti jūsų SIM kortelę. Suteikus prieigą prie SIM kortelės, jūsų įrenginyje bus išjungtas duomenų ryšys, kol bus prijungta. Suteikti prieigą prie %2$s?</string>
+  <string name="bluetooth_sap_request">SIM prieigos užklausa</string>
+  <string name="bluetooth_searching_for_devices">Ieškoma…</string>
+  <string name="bluetooth_tethering_overflow_error">Negalima susieti daugiau nei %1$d įrenginių.</string>
+  <string name="bluetooth_tethering_subtext">Bendrinti telefono interneto ryšį per „Bluetooth“</string>
+  <string name="bluetooth_turning_off">Išjungiama „Bluetooth“…</string>
+  <string name="bluetooth_turning_on">Įjungiama „Bluetooth“…</string>
+  <string name="bluetooth_unpair_dialog_body">Telefonas nebebus susietas su „%1$s“</string>
+  <string name="bluetooth_untether_blank">%1$s bus atsietas.</string>
+  <string name="camera_firmware_version">Kameros programinės aparatinės įrangos versija</string>
+  <string name="cancel">Atšaukti</string>
+  <string name="capabilities_list_title">%1$s turi:</string>
+  <string name="capability_desc_receiveAccessibilityEvents">Gaukite pranešimus, kai’re naudojate programą.</string>
+  <string name="cdma_security_settings_summary">Nustatyti mano vietą, ekrano atrakinimas, atminties užraktas kredencialais</string>
+  <string name="cell_warning_and_limit">%1$s Duomenų įspėjimas / %2$s Duomenų limitas</string>
+  <string name="cell_warning_only">%1$s Duomenų įspėjimas</string>
+  <string name="checking_decryption">Tikrinama…</string>
+  <string name="choose_spell_checker">Pasirinkti klaidų tikrintuvą</string>
+  <string name="color_blue">Mėlyna</string>
+  <string name="color_green">Žalia</string>
+  <string name="color_mode_title">Spalvos</string>
+  <string name="color_none">Nėra</string>
+  <string name="color_orange">Oranžinė</string>
+  <string name="color_purple">Violetinė</string>
+  <string name="color_title">Spalva</string>
+  <string name="color_unspecified">Numatytoji</string>
+  <string name="color_yellow">Geltona</string>
+  <string name="computing_size">Skaičiuojama…</string>
+  <string name="condition_airplane_title">Lėktuvo režimas įjungtas</string>
+  <string name="condition_device_muted_title">Telefonas nutildytas</string>
+  <string name="condition_device_vibrate_summary">Telefonas vibruos sulaukus skambučių ir pranešimų</string>
+  <string name="condition_device_vibrate_title">Telefonas nustatytas vibruoti</string>
+  <string name="condition_expand_show">Rodyti</string>
+  <string name="condition_hotspot_summary">Mobilus „Wi-Fi“ vieš. interneto prieigos taškas %1$s aktyvus, „Wi-Fi“ šiam įrenginiui išjungtas.</string>
+  <string name="connected_via_passpoint">Prijungta naudojant %1$s</string>
+  <string name="credentials_enabled">Įjungta kredencialų saugykla.</string>
+  <string name="credentials_erased">Kredencialų saugyklą ištrinta.</string>
+  <string name="credentials_install">Įdiegti iš SD kortelės</string>
+  <string name="credentials_install_summary">Įdiegti sertifikatus iš SD kortelės</string>
+  <string name="credentials_not_erased">Kredencialų saugyklos nepavyko ištrinti.</string>
+  <string name="credentials_reset">Išvalyti kredencialus</string>
+  <string name="credentials_reset_warning">Klaidingas slaptažodis. Turite dar vieną galimybę prieš ištrinant kredencialų saugyklą.</string>
+  <string name="credentials_reset_warning_plural">Klaidingas slaptažodis. Turite dar %1$d galimybes prieš ištrinant kredencialų saugyklą.</string>
+  <string name="credentials_settings_not_available">Kredencialai nepasiekiami šiam naudotojui</string>
+  <string name="credentials_title">Kredencialų saugykla</string>
+  <string name="credentials_unlock_hint">Įveskite slaptažodį, skirtą kredencialų saugyklai.</string>
+  <string name="crypt_keeper_button_text">Šifruoti telefoną</string>
+  <string name="crypt_keeper_data_corrupt_summary">Jūsų įvestas slaptažodis teisingas, tačiau deja jūsų duomenys sugadinti. 
+
+Norėdami toliau naudoti kompiuterį, atlikite gamyklinį atkūrimą. Kai nustatote telefoną po atkūrimo, turėsite galimybę atkurti duomenys, kurių atsarginė kopija sukurta jūsų „Google“ paskyroje.</string>
+  <string name="crypt_keeper_desc">Galite užšifruoti savo paskyras, nustatymus, atsisiųstas programas ir jų duomenis, laikmenas bei kitus failus. Kai užšifruojate savo telefoną nustatę ekrano užraktą (t. y. šabloną, skaitinį PIN arba slaptažodį), turėsite atrakinti ekraną, kad iššifruotumėte telefoną kiekvieną kartą jį įjungę. Vienintelis kitas iššifravimo būdas – gamyklinių duomenų atkūrimas, ištrinant visus jūsų duomenis.
+
+Šifravimas trunka valandą arba ilgiau. Pradėkite su įkrautu akumuliatoriumi ir laikykite savo telefoną įjungtą viso proceso metu. Nutraukę prarasite kai kuriuos arba visus savo duomenis.</string>
+  <string name="crypt_keeper_dialog_need_password_message">Turite nustatyti ekrano užrakinimo PIN arba slaptažodį prieš pradėdami šifravimą.</string>
+  <string name="crypt_keeper_encrypt_title">Šifruoti telefoną</string>
+  <string name="crypt_keeper_failed_summary">Šifravimas nutrauktas ir negali būti baigtas. Todėl jūsų telefone esantys duomenys nebepasiekiami. 
+
+Norėdami toliau naudoti kompiuterį, atlikite gamyklinį atkūrimą. Kai nustatote telefoną po atkūrimo, turėsite galimybę atkurti duomenys, kurių atsarginė kopija sukurta jūsų „Google“ paskyroje.</string>
+  <string name="crypt_keeper_final_desc">Šifravimo operacija neatšaukiama ir ją nutraukę prarasite savo duomenis. Šifravimas trunka ilgiau nei valandą, jo metu telefonas bus paleistas iš naujo kelis kartus.</string>
+  <string name="crypt_keeper_force_power_cycle">Jei norite atrakinti telefoną, išjunkite jį ir vėl įjunkite.</string>
+  <string name="crypt_keeper_setup_description">Palaukite, kol telefonas šifruojamas. ^1% baigta.</string>
+  <string name="crypt_keeper_setup_time_remaining">Palaukite, kol telefonas šifruojamas. Likęs laikas: ^1</string>
+  <string name="crypt_keeper_warn_wipe">Įspėjimas: Jūsų įrenginys bus išvalytas po ^1 nepavykusių bandymų atrakinti!</string>
+  <string name="daltonizer_mode_disabled">Išjungta</string>
+  <string name="data_protection_title">Duomenų apsauga</string>
+  <string name="data_saver_off">Išjungta</string>
+  <string name="data_saver_on">Įjungta</string>
+  <string name="data_service_enable_mobile">Laikina duomenų paslauga</string>
+  <string name="data_service_prompt">Kai naudojantis paslauga VoLTE skambinama naudojant tik skambučių SIM kortelę, ji naudojama teikti duomenų paslaugą. Todėl bus naudojama daugiau SIM duomenų.</string>
+  <string name="data_service_summary">Kai naudojantis paslauga VoLTE skambinama naudojant tik skambučių SIM kortelę, ji naudojama teikti duomenų paslaugą</string>
+  <string name="data_summary_format">%1$s sunaudota nuo %2$s</string>
+  <string name="data_usage_auto_sync_on_dialog">Bet kokie paskyrų pakeitimai, kuriuos atliekate žiniatinklyje, bus automatiškai nukopijuoti į telefoną.
+
+Iš kai kurių paskyrų į žiniatinklį gali būti automatiškai kopijuojami visi telefone atlikti pakeitimai. Taip pat daroma ir „Google“ paskyroje.</string>
+  <string name="data_usage_change_cycle">Keisti ciklą…</string>
+  <string name="data_usage_disable_wifi_limit">Nustatyti „Wi‑Fi“ duomenų ribą</string>
+  <string name="data_usage_limit_dialog_mobile">Pasiekus nustatytą apribojimą telefone bus išjungti mobiliojo ryšio duomenys.
+
+Kadangi sunaudoti duomenys skaičiuojami pagal telefoną ir operatorius gali apskaičiuoti kitaip, apsvarstykite galimybę nustatyti mažesnį apribojimą.</string>
+  <string name="data_usage_list_none">Nėra</string>
+  <string name="data_usage_menu_hide_wifi">Slėpti „Wi‑Fi“</string>
+  <string name="data_usage_menu_show_wifi">Rodyti „Wi‑Fi“</string>
+  <string name="data_usage_metered_wifi">Matuojami „Wi‑Fi“ tinklai</string>
+  <string name="data_usage_metered_wifi_disabled">Norėdami pasirinkti matuojamus tinklus, įjunkite „Wi‑Fi“.</string>
+  <string name="data_usage_received_sent">%1$s gauta, %2$s išsiųsta</string>
+  <string name="data_usage_restrict_background_multiuser">Jei apribosite mobiliojo ryšio foninius duomenis, kai kurios programos ir paslaugos neveiks, nebent prisijungsite prie „Wi-Fi“ tinklo.
+
+Šis nustatymas paveiks visus šio telefono naudotojus.</string>
+  <string name="data_usage_summary_format">%1$s duomenų sunaudota</string>
+  <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font><font size="12">limitas</font></string>
+  <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font><font size="12">įspėjimas</font></string>
+  <string name="data_usage_tab_wifi">„Wi‑Fi“</string>
+  <string name="data_usage_total_during_range">%2$s: maždaug %1$s sunaudota.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: telef. apskaič., kad sunaudota %1$s. Oper. sunaud. duom. gali apskaič. kitaip.</string>
+  <string name="data_used_template">%1$s sunaudota</string>
+  <string name="date_time_24hour_title">24‑val. formatas</string>
+  <string name="date_time_select_region">Regionas</string>
+  <string name="decryption_settings_summary">Telefonas nešifruotas</string>
+  <string name="default_apps_title">Numatytoji</string>
+  <string name="default_keyboard_layout">Numatytoji</string>
+  <string name="default_theme">Numatytoji</string>
+  <string name="delete">Ištrinti</string>
+  <string name="deletion_helper_manual_title">Neautomatinis</string>
+  <string name="device_info_settings">Telefono būsena</string>
+  <string name="device_status">Būsena</string>
+  <string name="device_status_activity_title">Būsena</string>
+  <string name="device_status_summary">Telefono numeris, signalas ir kt.</string>
+  <string name="dialog_background_check_message">Telefonas negali įprastai tvarkyti akumuliatoriaus, nes „%1$s“ nuolat pažadina telefoną.
+
+Kad pabandytumėte išspręsti problemą, galite sustabdyti „%1$s“ ir neleisti veikti fone.</string>
+  <string name="dialog_location_message">Telefonas negali įprastai tvarkyti akumuliatoriaus, nes „%1$s“ nuolat teikia vietos užklausas, kai nenaudojate programos.
+
+Kad išspręstumėte šią problemą, galite neleisti šiai programai pasiekti vietos informacijos.</string>
+  <string name="dialog_stop_message">Telefonas negali įprastai tvarkyti akumuliatoriaus, nes „%1$s“ jį pažadina.
+
+Kad pabandytumėte išspręsti šią problemą, galite sustabdyti programą.
+
+Jei tai kartosis, gali reikėti pašalinti programą, kad pagerintumėte akumuliatoriaus našumą.</string>
+  <string name="dialog_stop_message_wakeup_alarm">Telefonas negali įprastai tvarkyti akumuliatoriaus, nes „%1$s“ nuolat pažadina telefoną.
+
+Kad pabandytumėte išspręsti šią problemą, galite sustabdyti „%1$s“.
+
+Jei tai kartosis, gali reikėti pašalinti programą, kad pagerintumėte akumuliatoriaus našumą.</string>
+  <string name="disable_service_message">Bakstelėjus Gerai, bus sustabdyta %1$s.</string>
+  <string name="disable_service_title">Stabdyti %1$s?</string>
+  <string name="disabled">Išjungta</string>
+  <string name="display_cutout_emulation_none">Nėra</string>
+  <string name="dlg_cancel">Atšaukti</string>
+  <string name="dlg_close">Uždaryti</string>
+  <string name="dlg_confirm_unmount_text">Jei išimsite SD kortelę, kai kurios naudojamos programos bus sustabdytos ir gali būti nepasiekiamos, kol iš naujo įdėsite SD kortelę.</string>
+  <string name="dlg_confirm_unmount_title">Išimti SD kortelę?</string>
+  <string name="dlg_error_unmount_text">Nepavyko išimti SD kortelės. Vėliau bandykite dar kartą.</string>
+  <string name="dlg_ok">Gerai</string>
+  <string name="dock_audio_summary_none">Telefonas neprijungtas</string>
+  <string name="dock_not_found_text">Prieš nustatydami prijungimo garso įrašą turėsite prijungti telefoną.</string>
+  <string name="dock_sounds_enable_summary_off">Nepaleisti garso įterpiant ar pašalinant telefoną iš dėklo</string>
+  <string name="dock_sounds_enable_summary_on">Paleisti garsą, kai telefonas įdedamas ar pašalinamas iš dėklo</string>
+  <string name="domain_urls_summary_one">Atidaryti %s</string>
+  <string name="domain_urls_summary_some">Atidaryti %s ir kitus URL</string>
+  <string name="doze_always_on_title">Visada įj.</string>
+  <string name="enable_service_encryption_warning">Jei įjungsite %1$s, jūsų įrenginys nenaudos ekrano užrakinimo, kad pagerintų duomenų šifravimą.</string>
+  <string name="enable_service_password_reason">Įjungus %1$s, paveikiamas duomenų šifravimas, turite patvirtinti savo slaptažodį.</string>
+  <string name="enable_service_pattern_reason">Įjungus %1$s, paveikiamas duomenų šifravimas, turite patvirtinti savo šabloną.</string>
+  <string name="enable_service_pin_reason">Įjungus %1$s, paveikiamas duomenų šifravimas, turite patvirtinti savo PIN.</string>
+  <string name="enable_service_title">Naudoti %1$s?</string>
+  <string name="encrypt_talkback_dialog_message_password">Kai įvedate savo slaptažodį, kad paleistumėte šį įrenginį, tokios pasiekiamumo paslaugos kaip %1$s nebus pasiekiamos.</string>
+  <string name="encrypt_talkback_dialog_message_pattern">Kai įvedate savo šabloną, kad paleistumėte šį įrenginį, tokios pasiekiamumo paslaugos kaip %1$s nebus pasiekiamos.</string>
+  <string name="encrypt_talkback_dialog_message_pin">Kai įvedate savo PIN, kad paleistumėte šį įrenginį, tokios pasiekiamumo paslaugos kaip %1$s nebus pasiekiamos.</string>
+  <string name="encryption_and_credential_settings_summary">Telefonas užšifruotas</string>
+  <string name="enterprise_privacy_none">Nėra</string>
+  <string name="erase_esim_storage_description">Ištrinti visas eSIM korteles telefone. Tai atlikus mobiliojo ryšio paslaugos planas nebus atšauktas.</string>
+  <string name="erase_external_storage">Ištrinti SD kortelę</string>
+  <string name="erase_external_storage_description">Ištrinti visus SD kortelės duomenis, pvz., muzikos failus ar nuotraukas</string>
+  <string name="external_data_size_label">SD kortelė</string>
+  <string name="fih_color_picker_blue">Mėlyna</string>
+  <string name="fih_color_picker_green">Žalia</string>
+  <string name="fih_color_picker_orange">Oranžinė</string>
+  <string name="fih_color_picker_pink">Rausva</string>
+  <string name="fih_color_picker_purple">Violetinė</string>
+  <string name="fih_color_picker_yellow">Geltona</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">Patvirtinti</string>
+  <string name="fih_message_sound_title_sim1">Įspėjimas apie pranešimą (SIM1)</string>
+  <string name="fih_message_sound_title_sim2">Įspėjimas apie pranešimą (SIM2)</string>
+  <string name="fih_message_vibrate">Vibruoti</string>
+  <string name="fih_mtp_enable_dialog_content">Prisijungę galite perduoti failus patikimu kompiuteriu ir pasiekti duomenis telefone.</string>
+  <string name="fih_mtp_enable_dialog_title">Naudoti USB, kad perduotumėte failus?</string>
+  <string name="fih_music_song_count">daina (-os)</string>
+  <string name="fih_ringtone_add">Pridėti</string>
+  <string name="fih_ringtone_deselect_all">Panaikinti pasirinkimą</string>
+  <string name="fih_ringtone_listview_empty">Nėra muzikos failų</string>
+  <string name="fih_ringtone_remove">Pašalinti</string>
+  <string name="fih_ringtone_select_all">Visi</string>
+  <string name="fih_ringtone_selected">Pasirinkta</string>
+  <string name="fih_ringtone_tab_folder">Aplankas</string>
+  <string name="fih_ringtone_tab_song">Dainos</string>
+  <string name="fih_sound_category_message_notirication_vibrate_title">Žinutės įspėjimas &amp; vibruoti</string>
+  <string name="filter_apps_onsdcard">SD kortelėje</string>
+  <string name="fingerprint_add_max">Galite pridėti iki %d pirštų antspaudų</string>
+  <string name="fingerprint_enroll_button_next">Kitas</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Jei norite patikrinti pranešimus, perbraukite žemyn kontrolinio kodo jutikliu telefono užpakalinėje dalyje.</string>
+  <string name="font_setting_title">Šrifto stilius</string>
+  <string name="font_size_save">Gerai</string>
+  <string name="forget">Pamiršti</string>
+  <string name="fullbackup_data_summary">Automatiškai nuotoliniu būdu kopijuokite įrenginio duomenis (pavyzdžiui, „Wi-Fi“ slaptažodžius ir skambučių istoriją) ir programos duomenis (pavyzdžiui, programų saugomus nustatymus ir failus).
+
+Kai įjungiate automatinį atsarginių kopijų kūrimą, įrenginio ir programos duomenys reguliariai įrašomi nuotoliniu būdu. Programos duomenys gali būti bet kokie duomenys, kuriuos programa įrašė (pagal kūrėjo nustatymus), įskaitant galimai konfidencialius duomenis, pavyzdžiui, kontaktus, pranešimus ir nuotraukas.</string>
+  <string name="gadget_brightness_template">Ryškumas %1$s</string>
+  <string name="gadget_state_template">%1$s %2$s</string>
+  <string name="gadget_toggle_wifi">Atnaujinamas „Wi‑Fi“ nustatymas</string>
+  <string name="gadget_wifi">„Wi‑Fi“</string>
+  <string name="gesture_preference_summary">Spartieji gestai, skirti valdyti telefoną</string>
+  <string name="gesture_setting_off">Išjungta</string>
+  <string name="gesture_setting_on">Įjungta</string>
+  <string name="hardware_revision">Aparatūros versija</string>
+  <string name="hdmi_auto">AUTOMATINIS</string>
+  <string name="hdmi_video_resolution">Vaizdo įr. skiriamoji geba</string>
+  <string name="heavy_weight_stop_description">Ši programa negali būti saugiai sustabdyta. Sustabdę galite prarasti savo dabartinio darbo dalį.</string>
+  <string name="ignore_optimizations_title">Leisti %s norint nepaisyti akumuliatoriaus optimizavimo?</string>
+  <string name="input_methods_settings_label_format">%1$s nustatymai</string>
+  <string name="install_all_warning">Įdiegus nežinomų programų didėja telefono ir asmeninių duomenų pažeidimo rizika. Diegdami programas iš šio šaltinio sutinkate, kad esate patys atsakingi už žalą telefonui arba duomenų praradimą dėl jų naudojimo.</string>
+  <string name="intent_sender_account_label">Paskyros</string>
+  <string name="intent_sender_action_label">Veiksmas:</string>
+  <string name="intent_sender_resource_label">Šaltinis:</string>
+  <string name="intent_sender_sendbroadcast_text">Siųsti transliaciją</string>
+  <string name="intent_sender_startactivity_text">Pradėti veiklą</string>
+  <string name="join_many_items_first">%1$s, %2$s</string>
+  <string name="join_many_items_middle">%1$s, %2$s</string>
+  <string name="join_two_items">%1$s ir %2$s</string>
+  <string name="join_two_unrelated_items">%1$s, %2$s</string>
+  <string name="kernel_version">Branduolio versija</string>
+  <string name="keyboard_layout_default_label">Numatytoji</string>
+  <string name="last_synced">Paskutinį kartą sinchronizuota %1$s</string>
+  <string name="launch_instant_app">Atidaryti</string>
+  <string name="link_speed">%1$d Mb per sek.</string>
+  <string name="locale_default">Numatytoji</string>
+  <string name="location_neighborhood_level_wifi">Vietą nustatė „Wi‑Fi“</string>
+  <string name="location_off_summary">Išjungta</string>
+  <string name="location_on_summary">Įjungta</string>
+  <string name="location_scanning_wifi_always_scanning_title">„Wi‑Fi“ nuskaitymas</string>
+  <string name="location_street_level">Leisti programoms naudoti GPS telefone jūsų vietovei nustatyti</string>
+  <string name="lock_after_timeout_summary">%1$s po miego</string>
+  <string name="lock_failed_attempts_before_wipe">Bandyti dar kartą. %1$d bandymas iš %2$d.</string>
+  <string name="lock_immediately_summary_with_exception">Iškart po miego, išskyrus, kai atrakino %1$s</string>
+  <string name="lock_screen_intro_skip_dialog_text">Įrenginio apsaugos funkcijos nebus įjungtos. Negalėsite užtikrinti, kad kiti asmenys negalėtų pasinaudoti telefonu, jei jis bus pavogtas arba jį pamesite.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Įrenginio apsaugos funkcijos nebus įjungtos. Negalėsite užtikrinti, kad kiti asmenys negalėtų pasinaudoti telefonu, jei jis bus pavogtas ar nustatytas iš naujo arba jį pamesite.</string>
+  <string name="lock_settings_picker_title_profile">Pasirinkite darbo užraktą</string>
+  <string name="lockpassword_cancel_label">Atšaukti</string>
+  <string name="lockpassword_confirm_passwords_dont_match">Slaptažodžiai nesutampa</string>
+  <string name="lockpassword_confirm_pins_dont_match">PIN nesutampa</string>
+  <string name="lockpassword_invalid_password">Klaidingas slaptažodis</string>
+  <string name="lockpattern_need_to_unlock_wrong">Klaidingas šablonas</string>
+  <string name="lockpattern_recording_incorrect_too_short">Prijunkite bent %d tašk. Bandyti dar kartą.</string>
+  <string name="lockpattern_settings_power_button_instantly_locks_summary">Išskyrus, kai atrakino %1$s</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts">Per daug klaidingų bandymų. Bandykite dar kartą po %d sek.</string>
+  <string name="lockpattern_tutorial_cancel_label">Atšaukti</string>
+  <string name="lockpattern_tutorial_continue_label">Kitas</string>
+  <string name="mah">%d mAh</string>
+  <string name="manage_trust_agents_summary">Nėra</string>
+  <string name="managing_admin">Tvarko %s</string>
+  <string name="manual">Neautomatinis</string>
+  <string name="master_clear_accounts">
+
+Šiuo metu esate prisijungę prie šių paskyrų:
+</string>
+  <string name="master_clear_button_text">Iš naujo nustatyti telefoną</string>
+  <string name="master_clear_desc">Taip bus ištrinti visi toliau nurodyti duomenys iš telefono <b>vidinės atminties</b>.
+
+<li>„Google“ paskyra</li><li>Sistemos ir programų duomenys bei nustatymai</li><li>Atsisiųstos programos</li></string>
+  <string name="master_clear_desc_also_erases_external"><li>Muzika</li><li>Nuotraukos</li><li>Kiti naudotojo duomenys</li></string>
+  <string name="master_clear_desc_erase_external_storage">
+
+Norint išvalyti muziką, nuotraukas ir kitus naudotojo duomenis, <b>SD kortelė</b> turi būti ištrinta.</string>
+  <string name="master_clear_other_users_present">
+
+Yra kitų naudotojų šiame įrenginyje.
+</string>
+  <string name="media_output_summary">Telefonas</string>
+  <string name="media_output_summary_unavailable">Nepasiekiamas</string>
+  <string name="memory_avg_desc">Vid. %1$s</string>
+  <string name="memory_calculating_size">Skaičiuojama…</string>
+  <string name="memory_max_desc">Daug. %1$s</string>
+  <string name="memory_summary">Vid. sunaudota %1$s iš %2$s atminties</string>
+  <string name="memory_use_running_format">%1$s / %2$s</string>
+  <string name="menu_save">Išsaugoti</string>
+  <string name="menu_stats_last_unplugged">Paskutinį kartą atjungta %1$s</string>
+  <string name="menu_stats_unplugged">%1$s nuo atjungimo</string>
+  <string name="misc_files_selected_count">%1$d iš %2$d pasirinkta</string>
+  <string name="misc_files_selected_count_bytes">%1$s iš %2$s</string>
+  <string name="mobile_unknown_sim_operator">Nežinomas SIM operatorius</string>
+  <string name="motion_turn_over_reject_call_help">Jeigu jums skambina, apverskite telefoną, kad atmestumėte skambutį</string>
+  <string name="motion_turn_over_reject_call_title">Apverskite, kad atmestumėte skambutį</string>
+  <string name="motion_volume_quiet_pickup_help">Jei jums skambina, pakelkite horizontaliai gulintį telefoną, kad skambučio tonas nutiltų</string>
+  <string name="motion_volume_quiet_pickup_title">Pakėlus nutildyti</string>
+  <string name="move_app_failed_dlg_text">Negalima judinti programos. %1$s</string>
+  <string name="move_app_to_internal">Perkelti į telefoną</string>
+  <string name="move_app_to_sdcard">Perkelti į SD kortelę</string>
+  <string name="mvno_type_none">Nėra</string>
+  <string name="my_device_info_account_preference_title">Paskyros</string>
+  <string name="my_device_info_device_name_preference_title">Įrenginio pavadinimas</string>
+  <string name="network_scorer_change_active_dialog_text">Naudoti %1$s vietoj %2$s norint valdyti tinklo ryšius?</string>
+  <string name="network_scorer_change_active_dialog_title">Keisti „Wi‑Fi“ padėjėją?</string>
+  <string name="network_scorer_change_active_no_previous_dialog_text">Naudoti %s norint tvarkyti tinklo ryšius?</string>
+  <string name="network_scorer_picker_none_preference">Nėra</string>
+  <string name="new_device_suggestion_summary">Peržiūrėkite naujo telefono apžvalgą</string>
+  <string name="next_label">Kitas</string>
+  <string name="nfc_payment_default_not_set">Nenustatyta</string>
+  <string name="nfc_payment_set_default">Visada naudoti %1$s, kai bakstelite ir mokate?</string>
+  <string name="nfc_payment_set_default_instead_of">Visada naudoti %1$s vietoj %2$s, kai bakstelite ir mokate?</string>
+  <string name="nfc_quick_toggle_summary">Leisti keistis duomenimis, kai telefonas paliečia kitą įrenginį</string>
+  <string name="nfc_service_summary_disabled">Išjungta</string>
+  <string name="nfc_service_summary_enabled">Įjungta</string>
+  <string name="night_display_auto_mode_never">Nėra</string>
+  <string name="night_display_status_title">Būsena</string>
+  <string name="notification_listener_disable_warning_cancel">Atšaukti</string>
+  <string name="notification_listener_disable_warning_summary">Jei išjungiate pranešimo prieigą prie %1$s, taip pat gali būti išjungta prieiga Netrukdyti.</string>
+  <string name="notification_listener_security_warning_summary">%1$s galės skaityti visus pranešimus, įskaitant asmeninę informaciją, pavyzdžiui, kontaktų vardus, ir gautų pranešimų tekstą. Ji taip pat galės atmesti pranešimus arba suaktyvinti jų veiksmo mygtukus. 
+
+Tai taip suteiks programai galimybę įjungti arba išjungti būseną „Netrukdyti“ ir keisti susijusius nustatymus.</string>
+  <string name="notification_listener_security_warning_title">Leisti pranešimo prieigą %1$s?</string>
+  <string name="notification_toggle_off">Išjungta</string>
+  <string name="notification_toggle_on">Įjungta</string>
+  <string name="notification_volume_title">Pranešimas</string>
+  <string name="notifications_disabled">Išjungta</string>
+  <string name="notifications_enabled">Įjungta</string>
+  <string name="notifications_summary_divider"> / </string>
+  <string name="okay">Gerai</string>
+  <string name="owner_info_settings_status">%1$d / %2$d</string>
+  <string name="owner_info_settings_summary">Nėra</string>
+  <string name="passpoint_content">"%1$s" prisijungimo duomenys</string>
+  <string name="passpoint_label">Išsaugota per</string>
+  <string name="payment_summary">%1$s yra numatytoji</string>
+  <string name="phone_info_label">Telefono informacija</string>
+  <string name="please_select_phase2">2 tapatybės nustatymo fazė</string>
+  <string name="power_idle">Telefonas veikia laukimo režime</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Telefonas netrukus gali būti išjungtas</string>
+  <string name="power_remaining_duration_shutdown_imminent">Telefonas netrukus gali būti išjungtas (%1$s)</string>
+  <string name="power_usage_level_and_status">%1$s - %2$s</string>
+  <string name="power_wifi">„Wi‑Fi“</string>
+  <string name="poweroff_animation_summary">Leisti stabdymo animaciją</string>
+  <string name="poweroff_animation_title">Stabdymo animacija</string>
+  <string name="preference_change_password_title">Keisti slaptažodį</string>
+  <string name="prevent_ringing_option_none_summary">Išjungta</string>
+  <string name="preview_page_indicator_content_description">Peržiūra, %1$d psl. iš %2$d</string>
+  <string name="print_blocked_state_title_template">Spausdintuvas užblokuotas %1$s</string>
+  <string name="print_cancel">Atšaukti</string>
+  <string name="print_cancelling_state_title_template">Atšaukiama %1$s</string>
+  <string name="print_failed_state_title_template">Spausdintuvo klaida %1$s</string>
+  <string name="print_feature_state_off">Išjungta</string>
+  <string name="print_feature_state_on">Įjungta</string>
+  <string name="print_job_summary">%1$s
+%2$s</string>
+  <string name="print_printing_state_title_template">Spausdinama %1$s</string>
+  <string name="print_settings_summary_no_service">Išjungta</string>
+  <string name="process_format">%1$s (%2$d)</string>
+  <string name="process_provider_in_use_description">Teikėjas %1$s naudojamas.</string>
+  <string name="process_service_in_use_description">Paslauga %1$s naudojama.</string>
+  <string name="process_stats_total_duration">%1$s iš %2$s per pask. %3$s</string>
+  <string name="process_stats_total_duration_percentage">%1$s RAM sunaudota per %2$s</string>
+  <string name="profile_owner_add_title">Aktyvinti profilio tvarkyklę?</string>
+  <string name="proxy_error">Dėmesio</string>
+  <string name="proxy_error_dismiss">Gerai</string>
+  <string name="proxy_error_empty_host_set_port">Prievado laukas turi būti tuščias, jei tuščias prieglobos laukas.</string>
+  <string name="proxy_error_empty_port">Turite užpildyti prievado lauką.</string>
+  <string name="proxy_error_invalid_exclusion_list">Įvestas išimčių sąrašas netinkamai suformatuotas. Įveskite kableliais atskirtą išskirtų domenų sąrašą.</string>
+  <string name="proxy_error_invalid_port">Prievadas, kurį įvedėte, netinkamas.</string>
+  <string name="proxy_exclusionlist_label">Išjungti įgaliotąjį serverį, skirtą</string>
+  <string name="proxy_hostname_label">Tarpinio serverio prieglobos pavadinimas</string>
+  <string name="proxy_port_label">Tarpinio serverio prievadas</string>
+  <string name="proxy_settings_title">Tarpinis serveris</string>
+  <string name="proxy_url_title">PAC URL: </string>
+  <string name="proxy_warning_limited_support">HTTP įgaliotąjį serverį naudoja naršyklė, bet jo negali naudoti kitos programos.</string>
+  <string name="radioInfo_data_connected">Prijungtas</string>
+  <string name="radioInfo_data_disconnected">Atsijungęs</string>
+  <string name="radioInfo_data_suspended">Pristabdyta</string>
+  <string name="radioInfo_display_bytes">baitai</string>
+  <string name="radio_info_ims_feature_status_unavailable">Nepasiekiamas</string>
+  <string name="rarely_running">Retai veikia (%s)</string>
+  <string name="really_remove_account_message">Pašalinus šią paskyrą iš telefono bus ištrinti visi jos pranešimai, kontaktai ir kiti duomenys!</string>
+  <string name="recompute_size">Perskaičiuojamas dydis…</string>
+  <string name="reset_app_preferences_desc">Tai atkurs visas parinktis, skirtas:
+
+ <li>Išjungtoms programoms</li><li>Išjungtiems programų pranešimams</li><li>Numatytosioms veiksmų programoms</li><li>Foninių programų duomenų apribojimams</li><li>Bet kokiems leidimų apribojimams</li>
+
+ Neprarasite jokių programos duomenų.</string>
+  <string name="reset_network_desc">Bus ištrinti visi tinklo nustatymai, įskaitant:
+
+<li>„Wi‑Fi“</li><li>korinio ryšio duomenis</li><li>„Bluetooth“</li></string>
+  <string name="restriction_nfc_enable_summary">Leisti keistis duomenimis, kai telefonas paliečia kitą įrenginį</string>
+  <string name="restriction_nfc_enable_summary_config">Leisti keitimąsi duomenimis, kai šis %1$s paliečia kitą NFC įrenginį</string>
+  <string name="restriction_wifi_config_summary">Leisti „Wi‑Fi“ ir mobiliųjų nustatymų keitimą</string>
+  <string name="restriction_wifi_config_title">„Wi‑Fi“ ir mob.</string>
+  <string name="retail_demo_reset_next">Kitas</string>
+  <string name="ringtone_set_toast">"%s" nustatytas kaip telefono skambėjimo tonas.</string>
+  <string name="ringtone_sim1_title">Telefono skambėjimo tonas (SIM1)</string>
+  <string name="ringtone_sim2_title">Telefono skambėjimo tonas (SIM2)</string>
+  <string name="ringtone_title">Telefono skambėjimo tonas</string>
+  <string name="ringtone_title_sim1">SIM1 telefono skambėjimo tonas</string>
+  <string name="ringtone_title_sim2">SIM2 telefono skambėjimo tonas</string>
+  <string name="ringtone_title_uim1">UIM1 telefono skambėjimo tonas</string>
+  <string name="ringtone_uim1_title">Telefono skambėjimo tonas (UIM1)</string>
+  <string name="roaming_warning_multiuser">Kai leidžiate tarptinklinį duomenų ryšį, gali būti taikomi dideli tarptinklinio ryšio mokesčiai.
+
+Šis nustatymas turi įtakos visiems šio telefono naudotojams.</string>
+  <string name="running_frequency">Dažnis</string>
+  <string name="running_processes_item_description_p_p">%1$d procesai ir %2$d paslaugos</string>
+  <string name="running_processes_item_description_p_s">%1$d procesai ir %2$d paslauga</string>
+  <string name="running_processes_item_description_s_p">%1$d procesas ir %2$d paslaugos</string>
+  <string name="running_processes_item_description_s_s">%1$d procesas ir %2$d paslauga</string>
+  <string name="runningservicedetails_stop_dlg_text">Jei sustabdysite šią paslaugą, kai kurios telefono funkcijos gali nustoti tinkamai veikti, kol jį išjungsite ir vėl įjungsite.</string>
+  <string name="save">Išsaugoti</string>
+  <string name="saved_network">Išsaugojo "%1$s"</string>
+  <string name="screen_compatibility_text">Ši programa gali būti nesukurta jūsų ekranui. Galite valdyti, kaip ji pritaikoma prie jūsų ekrano čia.</string>
+  <string name="screen_timeout_summary">Po %1$s neveiklos</string>
+  <string name="screen_zoom_summary_default">Numatytoji</string>
+  <string name="screensaver_settings_summary_either_short">Arba</string>
+  <string name="screensaver_settings_summary_off">Išjungta</string>
+  <string name="sd_card_settings_label">SD kortelė</string>
+  <string name="sd_card_storage">SD kort. atm.</string>
+  <string name="sd_eject">Išimti SD kortelę</string>
+  <string name="sd_eject_summary">Atjunkite SD kortelę, kad galėtumėte saugiai ją išimti</string>
+  <string name="sd_format">Ištrinti SD kortelę</string>
+  <string name="sd_format_summary">Ištrinami visi SD kortelės duomenys, pvz., muzikos failai ir nuotraukos</string>
+  <string name="sd_insert_summary">Įdėti SD kortelę, kad ji būtų įmontuota</string>
+  <string name="sd_memory">SD kortelė</string>
+  <string name="sd_mount">Įdėti SD kortelę</string>
+  <string name="sdcard_format">Ištrinti SD kortelę</string>
+  <string name="sdcard_setting">SD kortelė</string>
+  <string name="sdcard_settings_bad_removal_status">SD kortelė buvo pašalinta tuo metu, kai buvo naudojama!</string>
+  <string name="sdcard_settings_mass_storage_status">SD kortelė naudojama kaip didelės talpos atminties įrenginys</string>
+  <string name="sdcard_settings_not_present_status">Nėra SD kortelės.</string>
+  <string name="sdcard_settings_read_only_status">Įdėta tik skait. SD kortelė.</string>
+  <string name="sdcard_settings_scanning_status">Nuskaitoma laikmenos SD kortelė…</string>
+  <string name="sdcard_settings_unmounted_status">Dabar saugu pašalinti SD kortelę.</string>
+  <string name="sdcard_unmount">Išimti SD kortelę</string>
+  <string name="secure_lock_encryption_warning">Kadangi įjungėte pasiekiamumo paslaugą, jūsų įrenginys nenaudos užrakinimo ekrano, kad sustiprintų duomenų šifravimą.</string>
+  <string name="security_passwords_title">Privatumas</string>
+  <string name="security_settings_desc">Ši programa telefone gali pasiekti:</string>
+  <string name="security_settings_desc_multi">Ši programa gali pasiekti toliau pateiktą ir jūsų telefone esančią informaciją. Kad pagerintumėte našumą ir sumažintumėte atminties naudojimą, kai kurie šių leidimų pasiekiami %1$s , kadangi ji valdo tuo pačius procesus kaip %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Ištrinti</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">Pavadinimas</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">Gerai</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">Atšaukti</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Kitas</string>
+  <string name="security_settings_summary">Nustatyti mano vietą, ekrano atrakinimas, SIM kortelės užrakinimas, kredencialų saugyklos užrakinimas</string>
+  <string name="select_sim_for_calls">Skambinti su</string>
+  <string name="select_sim_for_data">Pasirinkti SIM duom.</string>
+  <string name="service_background_processes">%1$s nemok.</string>
+  <string name="service_foreground_processes">%1$s naud.</string>
+  <string name="service_manage_description">%1$s: šiuo metu naudojamas. Bakstelėkite Nustatymai norėdami valdyti.</string>
+  <string name="service_stop_description">Šią paslaugą paleido programa. Sustabdžius programa gali neveikti.</string>
+  <string name="set_ringtone">Naudoti kaip telefono skambėjimo toną</string>
+  <string name="settings_manual_activity_title">Neautomatinis</string>
+  <string name="settings_shortcut">Nustatymo nuoroda</string>
+  <string name="setup_lock_settings_picker_message">Neleiskite kitiems asmenims naudoti šio telefono be jūsų leidimo, suaktyvinę įrenginio apsaugos funkcijas. Pasirinkite norimą naudoti užrakinimo ekraną.</string>
+  <string name="setup_lock_settings_picker_title">Apsaugokite savo telefoną</string>
+  <string name="show_operator_name_title">Tinklo pavadinimas</string>
+  <string name="sim_bad_pin">Klaidingas PIN</string>
+  <string name="sim_call_back_title">Perskambinti iš numatytosios SIM</string>
+  <string name="sim_card_number_title">SIM %1$d</string>
+  <string name="sim_card_select_title">Pasirinkti SIM kortelę</string>
+  <string name="sim_cellular_data_unavailable_summary">Bakstelėkite norėdami pasirinkti duomenų SIM</string>
+  <string name="sim_change_data_title">Keisti duomenų SIM?</string>
+  <string name="sim_change_failed">Negalima keisti PIN.
+Galimai klaidingas PIN.</string>
+  <string name="sim_editor_color">SIM spalva</string>
+  <string name="sim_editor_name">SIM pavadinimas</string>
+  <string name="sim_editor_title">SIM kortelės lizdas %1$d</string>
+  <string name="sim_enabler_both_inactive">Klaida, negalima išjungti visų SIM</string>
+  <string name="sim_enabler_disabling">Išjungiama...</string>
+  <string name="sim_enabler_enabling">Įjungiama...</string>
+  <string name="sim_enabler_need_switch_data_service">Išjungs jį ir perjungs į SIM%1$s duomenų paslaugas, ar tikrai to norite?</string>
+  <string name="sim_enter_cancel">Atšaukti</string>
+  <string name="sim_enter_ok">Gerai</string>
+  <string name="sim_lock_failed">Negalima keisti SIM kortelės užrakto būsenos.
+Galimai klaidingas PIN.</string>
+  <string name="sim_lock_off">Reikalauti PIN kodo, kad būtų galima naudoti telefoną</string>
+  <string name="sim_lock_on">Reikalauti PIN kodo, kad būtų galima naudoti telefoną</string>
+  <string name="sim_lock_settings_summary_off">Išjungta</string>
+  <string name="sim_multi_sims_title">Rastos kelios SIM</string>
+  <string name="sim_outgoing_call_title">SIM išeinantiems skambučiams</string>
+  <string name="sim_pins_dont_match">PIN nesutampa</string>
+  <string name="sim_pref_divider">Pageidaujama SIM</string>
+  <string name="sim_reenter_new">Iš naujo į‑veskite naują PIN</string>
+  <string name="sim_settings_summary">%1$s – %2$s</string>
+  <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
+  <string name="sim_slot_empty">SIM tuščia</string>
+  <string name="sim_status_title">SIM būsena</string>
+  <string name="slot_number">(Lizdas%1$d)</string>
+  <string name="smart_battery_footer">Kai akumuliatoriaus tvarkytuvė aptinka, kad programos eikvoja akumuliatoriaus energiją, galite apriboti šias programas. Ribojamos programos gali tinkamai neveikti ir pranešimai gali būti atidėti.</string>
+  <string name="sms_change_default_dialog_text">Naudoti %1$s vietoj %2$s kaip SMS programą?</string>
+  <string name="sms_change_default_no_previous_dialog_text">Naudoti %s kaip SMS programą?</string>
+  <string name="sometimes_running">Kartais veikia (%s)</string>
+  <string name="spellchecker_security_warning">Šis rašybos tikrinimas gali rinkti visą jūsų rašomą tekstą, įskaitant asmeniniu duomenis, pavyzdžiui, slaptažodžius ir kredito kortelės numerius. Jis atsirado iš programos %1$s. Naudoti šį kalbos tikrinimą?</string>
+  <string name="starting_android">Paleidžiamas „Android“…</string>
+  <string name="status_invalid_password">Neteisingas slaptažodis, bandykite dar kartą.</string>
+  <string name="status_number">Telefono numeris</string>
+  <string name="status_number_sim_slot">Telefono Nr. (%1$d SIM lizdas)</string>
+  <string name="status_number_sim_status">SIM telefono numeris</string>
+  <string name="status_signal_strength">Signalo stiprumas</string>
+  <string name="status_wifi_mac_address">„Wi‑Fi“ MAC adresas</string>
+  <string name="storage_detail_explore">Naršyti ^1</string>
+  <string name="storage_dialog_unmountable">Ši ^1 sugadinta. 
+
+Norėdami naudoti šią ^1, pirmiausia ją nustatykite.</string>
+  <string name="storage_dialog_unmounted">Ši ^1 saugiai išstumta, bet vis dar pasiekiama. 
+
+Norėdami naudoti šią ^1, pirmiausia turite ją sumontuoti.</string>
+  <string name="storage_dialog_unsupported">Šis įrenginys nepalaiko šios ^1. 
+
+Norėdami naudoti šią ^1 su šiuo įrenginiu, pirmiausia ją nustatykite.</string>
+  <string name="storage_format_failure">Nepavyko formatuoti %1$s</string>
+  <string name="storage_format_success">%1$s suformatuota</string>
+  <string name="storage_internal_forget_confirm">Visos programos, nuotraukos ir duomenys, saugomi šioje ^1, bus prarasti visam laikui.</string>
+  <string name="storage_internal_forget_confirm_title">Užmiršti ^1?</string>
+  <string name="storage_internal_forget_details">Norėdami naudoti šios ^1 programas, nuotraukas ar duomenis, perdėkite ją. 
+
+Arba galite pasirinkti pamiršti šią saugyklą, jei įrenginys neprieinamas. N
+Jei pasirinksite pamiršti, visi įrenginio duomenys bus visam laikui prarasti. 
+
+Programas vėliau galėsite perdiegti, bet jų duomenys, išsaugoti įrenginyje, bus prarasti.</string>
+  <string name="storage_internal_format_details">Po formatavimo šią ^1galėsite naudoti kitiems įrenginiams. 
+
+Visi šios ^1 duomenys bus ištrinti. Apsvarstykite kopijavimą. 
+
+<b>Padarykite nuotraukų ir kitų laikmenų atsargines kopijas</b> 
+Perkelkite medijos failus į kitą saugyklą šiame įrenginyje arba į kompiuterį per USB laidą. 
+
+<b>Kopijuokite programas</b> 
+Visos šioje ^1 laikytos programos bus išdiegtos, o jų duomenys – ištrinti. Jei norite pasilikti šias programas, perkelkite į kitą įrenginio saugyklą.</string>
+  <string name="storage_internal_unmount_details"><b>Kai ištrauksite šią ^1, joje esančios programos nustos veikti, o medijos failai bus neprieinami, kol vėl jos neįdėsite.</b> 
+
+Ši ^1 suformatuota veikti tik šiame įrenginyje. Jis neveiks su jokiais kitais.</string>
+  <string name="storage_manager_indicator_off">Išjungta</string>
+  <string name="storage_manager_indicator_on">Įjungta</string>
+  <string name="storage_menu_forget">Pamiršti</string>
+  <string name="storage_mount_failure">Nepavyko sumontuoti %1$s</string>
+  <string name="storage_mount_success">%1$s sumontuota</string>
+  <string name="storage_settings_summary">Išimti SD kortelę, žiūrėti galimą saugyklą</string>
+  <string name="storage_size_large">^1<small><small> ^2</small></small></string>
+  <string name="storage_unmount_failure">Nepavyko saugiai išstumti %1$s</string>
+  <string name="storage_unmount_success">%1$s saugiai išstumta</string>
+  <string name="storage_wizard_format_confirm_body">Tam reikia saugos tikslais formatuoti ^1. 
+
+Po formatavimo ši ^1 veiks tik šiame įrenginyje. 
+
+<b>Formatavimas ištrina visus tuo metu ^1 saugomus duomenis.</b> kad neprarastumėte duomenų, juos nukopijuokite. </string>
+  <string name="storage_wizard_format_confirm_public_body">Tam reikia, kad ^1 būtų suformatuota. 
+
+<b>Formatavimas ištrina visus tuo metu ^1 saugomus duomenis.</b> kad neprarastumėte duomenų, juos nukopijuokite. </string>
+  <string name="storage_wizard_format_progress_title">Formatuojama ^1…</string>
+  <string name="storage_wizard_init_title">Nustatykite savo ^1</string>
+  <string name="storage_wizard_init_v2_internal_action">Telefono saugykla</string>
+  <string name="storage_wizard_init_v2_internal_summary">Tik šio telefono programoms, failams ir medijai</string>
+  <string name="storage_wizard_init_v2_internal_title">Papildomai telefono saugyklai</string>
+  <string name="storage_wizard_migrate_body">Savo nuotraukas, failus ir kai kurias programas galėsite perkelti į šią naują ^1. N
+Pirminės saugyklos perkėlimas trunka apie ^2 and will free ^3. Kai kurios programos neveikia, kol jis vyksta.</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>Perkėlimas trunka apie ^1. Tai atlaisvins ^2 ^3.</b></string>
+  <string name="storage_wizard_migrate_details">Perkėlimo metu: 
+• Nepašalinkite ^1. 
+• Kai kurios programos tinkamai neveiks. 
+• Laikykite įrenginį įkrautą.</string>
+  <string name="storage_wizard_migrate_progress_title">Perkeliami duomenys…</string>
+  <string name="storage_wizard_migrate_v2_body">Failus, mediją ir tam tikras programas galite perkelti į saugyklą (^1). 
+
+Taip atlaisvinsite ^2 telefono saugyklos vietos. Perkėlimas turėtų trukti apie ^3.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">Laikykite šį telefoną prijungtą prie įkroviklio</string>
+  <string name="storage_wizard_move_confirm_body">^1 ir jo duomenų perkėlimas ^2 užtruks tik keletą sekundžių. Negalėsite naudoti programos, kol perkėlimas nebus baigtas. 
+
+Nepašalinkite ^2 perkėlimo metu.</string>
+  <string name="storage_wizard_move_confirm_title">Perkelti ^1</string>
+  <string name="storage_wizard_move_progress_body">Neišimkite ^1 perkėlimo metu. 
+
+Programa ^2 nebus pasiekiama šiame įrenginyje, kol nebus baigtas perkėlimas.</string>
+  <string name="storage_wizard_move_progress_title">Perkeliama ^1…</string>
+  <string name="storage_wizard_ready_external_body">Jūsų ^1 nustatyta ir gali būti naudojama su nuotraukomis ir kitomis laikmenomis.</string>
+  <string name="storage_wizard_ready_internal_body">Jūsų nauja ^1 veikia. 
+
+Norėdami perkelti nuotraukas, failus ir programos duomenis į šį įrenginį, eikite į Nustatymai ir saugojimas.</string>
+  <string name="storage_wizard_slow_body">Ši ^1 veikia lėtai. 
+
+Galite tęsti, tačiau į šią vietą perkeltos programos gali užsikirsti, ir duomenų perdavimas gali užtrukti ilgai. N
+Geresniam efektyvumui apsvarstykite naudoti greitesnę ^1.</string>
+  <string name="sub_activate_failed">Aktyvinti nepavyko.</string>
+  <string name="sub_deactivate_failed">Išjungti nepavyko.</string>
+  <string name="suggested_lock_settings_summary">Nustatykite ekrano užraktą, kad apsaugotumėte telefoną</string>
+  <string name="suggestion_additional_fingerprints">Pridėti kitą pirštų antspaudą</string>
+  <string name="suggestion_button_text">Gerai</string>
+  <string name="switch_off_text">Išjungta</string>
+  <string name="switch_on_text">Įjungta</string>
+  <string name="sync_in_progress">Sinchronizuojama dabar…</string>
+  <string name="sync_one_time_sync">Bastelėkite norėdami sinchronizuoti dabar
+%1$s</string>
+  <string name="sync_plug"><font fgcolor="#ffffffff">Sveiki atvykę į „Google“ sinchronizavimą!</font> 
+A „Google“ siekia sinchronizuoti duomenis, kad galėtumėte pasiekti savo kontaktus, susitikimus ir daugiau, kad ir kur bebūtumėte. </string>
+  <string name="testing_phone_info">Telefono informacija</string>
+  <string name="tether_settings_disabled_on_data_saver">Negalima susieti arba naudoti mobilių vieš. interneto prieigos taškų, kai „Data Saver“ įjungta</string>
+  <string name="touch_filtered_warning">Kadangi programa trukdo leidimo užklausai, Nustatymai negali patikrinti jūsų atsakymo.</string>
+  <string name="touch_firmware_version">Lietimo skydelio programinės aparatinės įrangos versija</string>
+  <string name="tts_install_voices_cancel">Atšaukti</string>
+  <string name="uep_setting_page_name">Naudotojo patirties programa</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">Įrenginio apsaugos funkcijos neveiks be jūsų slaptažodžio.
+
+Jūsų įrašyti pirštų antspaudai taip pat bus pašalinti iš šio įrenginio ir juos naudodami negalėsite atrakinti savo telefono, leisti vykdyti pirkimus arba pasirašyti programas.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Profilio apsaugos funkcijos neveiks be jūsų slaptažodžio.
+
+Jūsų įrašyti pirštų antspaudai taip pat bus pašalinti iš šio profilio ir juos naudodami negalėsite atrakinti savo profilio, leisti vykdyti pirkimus arba pasirašyti programas.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Įrenginio apsaugos funkcijos neveiks be jūsų modelio.
+
+Jūsų įrašyti pirštų antspaudai taip pat bus pašalinti iš šio įrenginio ir juos naudodami negalėsite atrakinti savo telefono, leisti vykdyti pirkimus arba pasirašyti programas.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Profilio apsaugos funkcijos neveiks be jūsų šablono.
+
+Jūsų įrašyti pirštų antspaudai taip pat bus pašalinti iš šio profilio ir juos naudodami negalėsite atrakinti savo profilio, leisti vykdyti pirkimus arba pasirašyti programas.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">Įrenginio apsaugos funkcijos neveiks be jūsų PIN.
+
+Jūsų įrašyti pirštų antspaudai taip pat bus pašalinti iš šio įrenginio ir juos naudodami negalėsite atrakinti savo telefono, leisti vykdyti pirkimus arba pasirašyti programas.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Profilio apsaugos funkcijos neveiks be jūsų PIN.
+
+Jūsų įrašyti pirštų antspaudai taip pat bus pašalinti iš šio profilio ir juos naudodami negalėsite atrakinti savo profilio, leisti vykdyti pirkimus arba pasirašyti programas.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Įrenginio apsaugos funkcijos neveiks be jūsų ekrano užrakto.
+
+Jūsų įrašyti pirštų antspaudai taip pat bus pašalinti iš šio įrenginio ir juos naudodami negalėsite atrakinti savo telefono, leisti vykdyti pirkimus arba pasirašyti programas.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Profilio apsaugos funkcijos neveiks be jūsų ekrano užrakto.
+
+Jūsų įrašyti pirštų antspaudai taip pat bus pašalinti iš šio profilio ir juos naudodami negalėsite atrakinti savo profilio, leisti vykdyti pirkimus arba pasirašyti programas.</string>
+  <string name="unlock_set_unlock_mode_off">Nėra</string>
+  <string name="unlock_set_unlock_mode_password">Slaptažodis</string>
+  <string name="unlock_set_unlock_off_title">Nėra</string>
+  <string name="unlock_set_unlock_password_title">Slaptažodis</string>
+  <string name="unmount_inform_text">SD kortelė bus atjungta.</string>
+  <string name="unrestricted_app_summary">Leisti neribojamą duomenų prieigą, kai įjungta „Data Saver“</string>
+  <string name="unsupported_setting_summary">Šiame telefone nustatymas nepalaikomas</string>
+  <string name="usage_type_data_wifi_recv">„Wi‑Fi“ paketai gauti</string>
+  <string name="usage_type_data_wifi_send">„Wi‑Fi“ paketai išsiųsti</string>
+  <string name="usage_type_phone">Telefonas</string>
+  <string name="usage_type_video">Vaizdo įrašas</string>
+  <string name="usage_type_wifi_running">„Wi‑Fi“ veikia</string>
+  <string name="usb_mtp_summary">Leidžia perkelti laikmenų failus „Windows“ arba naudojant „Android“ failų siuntimą „Mac“ (žr. www.android.com/filetransfer)</string>
+  <string name="usb_tethering_subtext">Bendrinkite telefono interneto ryšį per USB</string>
+  <string name="user_add_max_count">Galite pridėti iki %1$d naudotojų</string>
+  <string name="user_adding_new_user">Pridedamas naujas naudotojas…</string>
+  <string name="user_cannot_manage_message">Tik telefono savininkas gali tvarkyti naudotojus.</string>
+  <string name="user_confirm_remove_self_message">Jūsų vieta ir duomenys dings iš šio telefono. Šio veiksmo anuliuoti negalima.</string>
+  <string name="user_delete_button">Ištrinti</string>
+  <string name="user_dict_settings_add_dialog_confirm">Gerai</string>
+  <string name="user_dict_settings_add_shortcut_hint">Pasirenkama nuoroda</string>
+  <string name="user_dict_settings_add_shortcut_option_name">Sparčioji nuoroda</string>
+  <string name="user_dict_settings_context_menu_delete_title">Ištrinti</string>
+  <string name="user_remove_user_menu">Ištrinti %1$s iš šio įrenginio</string>
+  <string name="user_restrictions_controlled_by">Valdo %1$s</string>
+  <string name="user_you">Jūs (%s)</string>
+  <string name="version_text">versija %1$s</string>
+  <string name="voice_interaction_security_warning">Ši balso įvesties paslauga leis savo nuožiūra prižiūrėti ir kontroliuoti programas su įjungta valdymo balsu funkcija. Tai leidžia %s programa. Įjungti šios paslaugos naudojimą?</string>
+  <string name="vpn_cancel">Atšaukti</string>
+  <string name="vpn_cant_connect_title">%1$s negalima prijungti</string>
+  <string name="vpn_connect">Prijungti</string>
+  <string name="vpn_connect_to">Prijungti prie %s</string>
+  <string name="vpn_disconnected_summary">Nėra</string>
+  <string name="vpn_forget">Pamiršti</string>
+  <string name="vpn_lockdown_none">Nėra</string>
+  <string name="vpn_name">Pavadinimas</string>
+  <string name="vpn_password">Slaptažodis</string>
+  <string name="vpn_save">Išsaugoti</string>
+  <string name="vpn_username">Naudotojo vardas</string>
+  <string name="vpn_version">Versija %s</string>
+  <string name="vr_listener_security_warning_summary">%1$s veiks, kai naudosite programas virtualios realybės režimu.</string>
+  <string name="vr_listener_security_warning_title">Leisti VR paslaugos prieigą %1$s?</string>
+  <string name="wallpaper_settings_summary_default">Numatytoji</string>
+  <string name="wapi_auto_sel_cert">Rinktis automatiškai</string>
+  <string name="wapi_cert_manage_title">WAPI sertifikatų tvarkymas</string>
+  <string name="wifi_access_points">„Wi‑Fi“ tinklai</string>
+  <string name="wifi_add_network">Pridėti tinklą</string>
+  <string name="wifi_advanced_ip_address_title">IP adresas</string>
+  <string name="wifi_advanced_not_available">„Wi‑Fi“ pažangūs nustatymai nėra pasiekiami šiam naudotojui</string>
+  <string name="wifi_advanced_settings_label">IP nustatymai</string>
+  <string name="wifi_advanced_titlebar">Pažangus „Wi‑Fi“</string>
+  <string name="wifi_advanced_toggle_description_collapsed">Išplėstinės išplečiamojo sąrašo parinktys. Dukart palieskite norėdami išplėsti.</string>
+  <string name="wifi_advanced_toggle_description_expanded">Išplėstinės išplečiamojo sąrašo parinktys. Dukart palieskite norėdami sutraukti.</string>
+  <string name="wifi_ap_2G">2,4 GHz</string>
+  <string name="wifi_ap_choose_auto">Automatinis</string>
+  <string name="wifi_ap_client_details_title">Išsami informacija</string>
+  <string name="wifi_ap_client_ip_label">IP adresas</string>
+  <string name="wifi_band_24ghz">2,4 GHz</string>
+  <string name="wifi_band_5ghz">5 GHz</string>
+  <string name="wifi_calling_dialog_comfirm">Daugiau nerodyti.</string>
+  <string name="wifi_calling_dialog_msg">Skambinti pagalbos numeriais negalima naudojant "Wi-FI" Šis prietaisas automatiškai prisijungia prie mobiliojo ryšio tinklo (2G/3G), kad būtų galima skambinti pagalbos numeriu. Skambinti pagalbos numeriais galima tik mobiliojo ryšio zonose.</string>
+  <string name="wifi_calling_dialog_title">Skambučiai pagalbos numeriais naudojant "Wi-FI"</string>
+  <string name="wifi_calling_notifybar_msg">Skambinti pagalbos numeriais galima tik mobiliojo ryšio zonose</string>
+  <string name="wifi_calling_notifybar_title">"Vodafone" "Wi-Fi" skambinimas</string>
+  <string name="wifi_cancel">Atšaukti</string>
+  <string name="wifi_connect">Prijungti</string>
+  <string name="wifi_disabled_generic">Išjungta</string>
+  <string name="wifi_disabled_network_failure">IP konfigūracijos klaida</string>
+  <string name="wifi_disabled_password_failure">Tapatybės nustatymo problema</string>
+  <string name="wifi_display_options_forget">Pamiršti</string>
+  <string name="wifi_display_options_name">Pavadinimas</string>
+  <string name="wifi_display_status_connected">Prijungtas</string>
+  <string name="wifi_display_status_not_available">Nepasiekiamas</string>
+  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_do_not_provide_eap_user_cert">Neteikti</string>
+  <string name="wifi_do_not_validate_eap_server">Nepatvirtinti</string>
+  <string name="wifi_do_not_validate_eap_server_warning">Nenurodytas sertifikatas. Jūsų ryšys nebus privatus.</string>
+  <string name="wifi_eap_anonymous">Anoniminė tapatybė</string>
+  <string name="wifi_eap_ca_cert">CA sertifikatas</string>
+  <string name="wifi_eap_domain">Domenas</string>
+  <string name="wifi_eap_identity">Tapatybė</string>
+  <string name="wifi_eap_method">EAP metodas</string>
+  <string name="wifi_eap_user_cert">Naudotojo sertifikatas</string>
+  <string name="wifi_empty_list_user_restricted">Neturite leidimo keisti „Wi‑Fi“ tinklą.</string>
+  <string name="wifi_empty_list_wifi_off">Norėdami matyti pasiekiamus tinklus, įjunkite „Wi‑Fi“.</string>
+  <string name="wifi_empty_list_wifi_on">Ieškoma „Wi‑Fi“ tinklų…</string>
+  <string name="wifi_fail_to_scan">Nepavyksta nuskaityti tinklų</string>
+  <string name="wifi_failed_connect_message">Jungiantis prie tinklo įvyko klaida.</string>
+  <string name="wifi_failed_forget_message">Ištrinant tinklą įvyko klaida.</string>
+  <string name="wifi_failed_save_message">Išsaugant tinklą įvyko klaida.</string>
+  <string name="wifi_forget">Pamiršti</string>
+  <string name="wifi_frequency">Dažnis</string>
+  <string name="wifi_gateway">Tinklų sietuvas</string>
+  <string name="wifi_hotspot_checkbox_text">„Wi‑Fi“ vieš. interneto prieigos taškas</string>
+  <string name="wifi_hotspot_configure_ap_text">„Wi‑Fi“ vieš. interneto prieigos taško nustatymas</string>
+  <string name="wifi_hotspot_message">%1$s prašo jūsų prisijungti internetu prieš prisijungiant prie tinklo.</string>
+  <string name="wifi_hotspot_tethering_on_subtext">Šio telefono interneto ryšys bendrinamas per viešosios interneto prieigos tašką</string>
+  <string name="wifi_ip_address">IP adresas</string>
+  <string name="wifi_ip_settings">IP nustatymai</string>
+  <string name="wifi_ip_settings_invalid_dns">Įveskite galiojantį DNS adresą.</string>
+  <string name="wifi_ip_settings_invalid_gateway">Įveskite galiojantį tinklų sietuvo adresą.</string>
+  <string name="wifi_ip_settings_invalid_ip_address">Įveskite galiojantį IP adresą.</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Įveskite nuo 0 iki 32 simbolių ilgio tinklo kodą.</string>
+  <string name="wifi_ip_settings_menu_cancel">Atšaukti</string>
+  <string name="wifi_ip_settings_menu_save">Išsaugoti</string>
+  <string name="wifi_limit_optimizations_summary">Riboti „Wi‑Fi“ energijos sąnaudas</string>
+  <string name="wifi_menu_advanced">Išplėstinės</string>
+  <string name="wifi_menu_p2p">„Wi‑Fi Direct“</string>
+  <string name="wifi_modify">Pakeisti:</string>
+  <string name="wifi_multiple_cert_added">(Pridėti keli sertifikatai)</string>
+  <string name="wifi_network_prefix_length">Tinklo kodo ilgis</string>
+  <string name="wifi_no_domain_warning">Būtina nurodyti domeną.</string>
+  <string name="wifi_no_internet_no_reconnect">Automatiškai neprisijungs</string>
+  <string name="wifi_not_in_range">Nepatenka į diapazoną</string>
+  <string name="wifi_on_time">„Wi‑Fi“ laiku</string>
+  <string name="wifi_p2p_cancel_connect_message">Ar norite atšaukti pakvietimą prisijungti su %1$s?</string>
+  <string name="wifi_p2p_disconnect_message">Jei atsijungiate, jūsų ryšys su %1$s bus baigtas.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Jei atsijungsite, jūsų ryšys su %1$s ir %2$s kitais įrenginiais baigsis.</string>
+  <string name="wifi_p2p_menu_searching">Ieškoma…</string>
+  <string name="wifi_p2p_persist_network">Prisiminti šį ryšį</string>
+  <string name="wifi_p2p_settings_title">„Wi‑Fi Direct“</string>
+  <string name="wifi_password">Slaptažodis</string>
+  <string name="wifi_quick_toggle_summary">Įjungti „Wi‑Fi“</string>
+  <string name="wifi_quick_toggle_title">„Wi‑Fi“</string>
+  <string name="wifi_remembered">Išsaugota</string>
+  <string name="wifi_save">Išsaugoti</string>
+  <string name="wifi_scan_always_turnon_message">Norint pagerinti vietos tikslumą ir kitais tikslais, %1$s nori įjungti tinklo nuskaitymą, net jei „Wi-Fi“ išjungtas.
+
+Leisti tai visoms programoms, kurios nori nuskaityti?</string>
+  <string name="wifi_security">Sauga</string>
+  <string name="wifi_security_none">Nėra</string>
+  <string name="wifi_select_network">Pasirinkite „Wi‑Fi“</string>
+  <string name="wifi_setting_on_during_sleep_title">„Wi‑Fi“ įjungtas miego metu</string>
+  <string name="wifi_setting_sleep_policy_title">Palikti „Wi‑Fi“ įjungtą miego metu</string>
+  <string name="wifi_settings">„Wi‑Fi“</string>
+  <string name="wifi_settings_category">„Wi‑Fi“ nustatymai</string>
+  <string name="wifi_settings_title">„Wi‑Fi“</string>
+  <string name="wifi_setup_add_network">Pridėti tinklą</string>
+  <string name="wifi_setup_back">Atgal</string>
+  <string name="wifi_setup_cancel">Atšaukti</string>
+  <string name="wifi_setup_connect">Prijungti</string>
+  <string name="wifi_setup_description_connected">Bakstelėkite <b>Toliau</b> norėdami tęsti nustatymą.
+
+Bakstelėkite <b>Atgal</b> norėdami prisijungti prie kito „Wi‑Fi“ tinklo.</string>
+  <string name="wifi_setup_description_connecting">Prisijungimas gali užtrukti kelias minutes…</string>
+  <string name="wifi_setup_eap_not_supported">Negalite konfigūruoti EAP „Wi‑Fi“ ryšio nustatymo metu. Po nustatymo galite tai atlikti Nustatymai &gt; Belaidžiai &amp; tinklai.</string>
+  <string name="wifi_setup_forget">Pamiršti</string>
+  <string name="wifi_setup_next">Kitas</string>
+  <string name="wifi_setup_save">Išsaugoti</string>
+  <string name="wifi_setup_status_connecting">Jungiamasi…</string>
+  <string name="wifi_setup_status_scanning">Nuskaitomi tinklai…</string>
+  <string name="wifi_setup_title">„Wi‑Fi“ nustatymas</string>
+  <string name="wifi_setup_title_connected_network">Prisijungta prie „Wi‑Fi“ tinklo %s</string>
+  <string name="wifi_setup_title_connecting_network">Prisijungiama prie „Wi‑Fi“ tinklo %s…</string>
+  <string name="wifi_setup_title_editing_network">Prisijungti prie „Wi‑Fi“ tinklo %s</string>
+  <string name="wifi_shared">Bendrinti su kitais įrenginio naudotojais</string>
+  <string name="wifi_show_advanced">Išplėstinės parinktys</string>
+  <string name="wifi_show_password">Rodyti slaptažodį</string>
+  <string name="wifi_signal">Signalo stiprumas</string>
+  <string name="wifi_speed">Susiejimo greitis</string>
+  <string name="wifi_ssid">Tinklo pavadinimas</string>
+  <string name="wifi_ssid_hint">Įveskite SSID</string>
+  <string name="wifi_starting">Įjungiamas „Wi‑Fi“…</string>
+  <string name="wifi_status">Būsena</string>
+  <string name="wifi_stopping">Išjungiamas „Wi‑Fi“…</string>
+  <string name="wifi_suspend_optimizations">„Wi‑Fi“ optimizavimas</string>
+  <string name="wifi_suspend_optimizations_summary">Mažinti energijos sąnaudas, kai „Wi‑Fi“ įjungtas</string>
+  <string name="wifi_tether_configure_ap_text">Nustatyti „Wi‑Fi“ vieš. interneto prieigos tašką</string>
+  <string name="wifi_tether_failed_subtext">Mobilaus „Wi‑Fi“ vieš. interneto prieigos taško klaida</string>
+  <string name="wifi_tether_starting">Įjungiamas vieš. interneto prieigos taškas…</string>
+  <string name="wifi_tether_stopping">Išjungiamas vieš. interneto prieigos taškas…</string>
+  <string name="wifi_unchanged">(nepakeista)</string>
+  <string name="wifi_unspecified">Pasirinkite</string>
+  <string name="wifi_use_system_certs">Naudoti sistemos sertifikatus</string>
+  <string name="wifi_wps_available_second_item"> (WPS pasiekiamas)</string>
+  <string name="wizard_back">Atgal</string>
+  <string name="wizard_next">Kitas</string>
+  <string name="work_sim_title">Darbo SIM</string>
+  <string name="zen_access_revoke_warning_dialog_title">Atšaukti prieigą prie „Netrukdyti“ %1$s?</string>
+  <string name="zen_access_warning_dialog_summary">Programa įjungs / išjungs „Netrukdyti“ ir keis susijusius nustatymus.</string>
+  <string name="zen_access_warning_dialog_title">Leisti prieigą prie „Netrukdyti“ %1$s?</string>
+  <string name="zen_event_rule_type_name">Įvykis</string>
+  <string name="zen_mode_and_condition">%1$s. %2$s</string>
+  <string name="zen_mode_delete_rule_button">Ištrinti</string>
+  <string name="zen_mode_delete_rule_confirmation">Ištrinti “%1$s” taisyklę?</string>
+  <string name="zen_mode_end_time_next_day_summary_format">%s kita diena</string>
+  <string name="zen_mode_event_rule_summary_calendar_template">Įvykiu metu %1$s</string>
+  <string name="zen_mode_event_rule_summary_reply_template">Kai atsakymas yra %1$s</string>
+  <string name="zen_mode_from_none">Nėra</string>
+  <string name="zen_mode_no_exceptions">Nėra</string>
+  <string name="zen_mode_rule_delete_button">Ištrinti</string>
+  <string name="zen_mode_rule_summary_enabled_combination">Įj. / %1$s</string>
+  <string name="zen_mode_rule_summary_provider_combination">%1$s
+%2$s</string>
+  <string name="zen_mode_schedule_rule_days_none">Nėra</string>
+  <string name="zen_mode_sound_summary_off">Išjungta</string>
+  <string name="zen_mode_sound_summary_on">Įjungta</string>
+  <string name="zen_mode_summary_alarms_only_by_time">Keisti į tik įspėjimai iki %1$s</string>
+  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
+  <string name="zzz_certification_settings_title">Sertifikavimas</string>
+  <string name="zzz_fih_invalid_battery_charging">Rekomenduojame naudoti originalias baterijas, nes nepatvirtintos baterijos gali sukelti netikėtą pavojų, pavyzdžiui, gaisrą ar sprogimą.</string>
+  <string name="zzz_hmd_open_source_info_text">Atviroji programinė įranga 
+
+Šiame produkte naudojama atviroji programinė įranga, kuriai taikoma GPL ir LGPL licencijos. HMD siūlo galimybę suteikti pirminį programos kodą, kaip tai nustatyta taikytinoje atvirosios programinės įrangos licencijoje. Atsiųskite rašytinį prašymą adresu:
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Finland. Šis pasiūlymas galioja trejus (3) metus nuo dienos, kada HMD pradėjo platinti šį produktą. Pateikdami prašymą sutinkate, kad HMD (arba trečiosios šalys HMD vardu ir tiesiogiai jos įgaliotos) apdorotų jūsų asmeninius duomenis.
+
+Duomenys bus apdorojami nagrinėjant prašymą ir laikantis HMD privatumo politikos bei taikytinų teisės aktų.</string>
+  <string name="zzz_hmd_open_source_info_title">HMD informacija apie atvirąją programinę įrangą</string>
+  <string name="zzz_roaming_item_title">Pasauliniai duomenys</string>
+  <string name="zzz_security_power_off_password_summary">Jei norite išjungti / paleisti iš naujo, įveskite įrenginio slaptažodį</string>
+  <string name="zzz_security_power_off_password_title">Išjungimo / paleidimo iš naujo užraktas</string>
+  <string name="zzz_sim_no_services">Nėra paslaugos</string>
+  <string name="zzz_version">Versija</string>
+</resources>

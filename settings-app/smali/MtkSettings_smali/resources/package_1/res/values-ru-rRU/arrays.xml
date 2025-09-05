@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="apn_auth_entries">
+    <item name="r0x00000000">Нет</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">CHAP</item>
+    <item name="r0x00000000">PAP или CHAP</item>
+  </string-array>
+  <string-array name="apn_auth_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\3</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item name="r0x00000000">IPv4</item>
+    <item name="r0x00000000">IPv6</item>
+    <item name="r0x00000000">IPv4/IPv6</item>
+  </string-array>
+  <string-array name="apn_protocol_values">
+    <item name="r0x00000000">IP</item>
+    <item name="r0x00000000">IPV6</item>
+    <item name="r0x00000000">IPV4V6</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+    <item name="r0x00000000">Внутренняя память устройства</item>
+    <item name="r0x00000000">Съемная SD-карта</item>
+    <item name="r0x00000000">На усмотрение системы</item>
+  </string-array>
+  <string-array name="app_install_location_values">
+    <item name="r0x00000000">device</item>
+    <item name="r0x00000000">sdcard</item>
+    <item name="r0x00000000">auto</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item name="r0x00000000">Местоположение</item>
+    <item name="r0x00000000">Личные данные</item>
+    <item name="r0x00000000">SMS/MMS</item>
+    <item name="r0x00000000">Мультимедиа</item>
+    <item name="r0x00000000">Устройство</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item name="r0x00000000">Местоположение</item>
+    <item name="r0x00000000">Местоположение</item>
+    <item name="r0x00000000">Местоположение</item>
+    <item name="r0x00000000">Вибросигнал</item>
+    <item name="r0x00000000">Считывать данные контактов</item>
+    <item name="r0x00000000">Изменение контактов</item>
+    <item name="r0x00000000">Просмотр списка вызовов</item>
+    <item name="r0x00000000">Изменение списка вызовов</item>
+    <item name="r0x00000000">Считывать данные календаря</item>
+    <item name="r0x00000000">Изменение календаря</item>
+    <item name="r0x00000000">Местоположение</item>
+    <item name="r0x00000000">Разместить уведомление</item>
+    <item name="r0x00000000">Местоположение</item>
+    <item name="r0x00000000">Позвонить</item>
+    <item name="r0x00000000">Чтение SMS/MMS</item>
+    <item name="r0x00000000">Запись SMS/MMS</item>
+    <item name="r0x00000000">Получение SMS/MMS</item>
+    <item name="r0x00000000">Получение SMS/MMS</item>
+    <item name="r0x00000000">Получение SMS/MMS</item>
+    <item name="r0x00000000">Получение SMS/MMS</item>
+    <item name="r0x00000000">Отправка SMS/MMS</item>
+    <item name="r0x00000000">Чтение SMS/MMS</item>
+    <item name="r0x00000000">Запись SMS/MMS</item>
+    <item name="r0x00000000">Изменение настроек</item>
+    <item name="r0x00000000">Отображать поверх других элементов</item>
+    <item name="r0x00000000">Доступ к уведомлениям</item>
+    <item name="r0x00000000">Камера</item>
+    <item name="r0x00000000">Записать аудио</item>
+    <item name="r0x00000000">Воспроизвести аудио</item>
+    <item name="r0x00000000">Считать из буфера обмена</item>
+    <item name="r0x00000000">Изменить буфер обмена</item>
+    <item name="r0x00000000">Кнопки мультимедиа</item>
+    <item name="r0x00000000">Аудиофокус</item>
+    <item name="r0x00000000">Общая громкость</item>
+    <item name="r0x00000000">Громкость голоса</item>
+    <item name="r0x00000000">Громкость звонка</item>
+    <item name="r0x00000000">Громкость мультимедиа</item>
+    <item name="r0x00000000">Громкость будильника</item>
+    <item name="r0x00000000">Громкость уведомлений</item>
+    <item name="r0x00000000">Громкость Bluetooth-устройств</item>
+    <item name="r0x00000000">Не отключать</item>
+    <item name="r0x00000000">Местоположение</item>
+    <item name="r0x00000000">Местоположение</item>
+    <item name="r0x00000000">Посмотреть статистику использования</item>
+    <item name="r0x00000000">Включить/отключить микрофон</item>
+    <item name="r0x00000000">Показ оповещения</item>
+    <item name="r0x00000000">Активация VPN</item>
+    <item name="r0x00000000">Активировать VPN</item>
+    <item name="r0x00000000">Сохранение обоев</item>
+    <item name="r0x00000000">Вспомогательная структура</item>
+    <item name="r0x00000000">Вспомогательный скриншот</item>
+    <item name="r0x00000000">Чтение состояния телефона</item>
+    <item name="r0x00000000">Добавление голосовой почты</item>
+    <item name="r0x00000000">Использование SIP</item>
+    <item name="r0x00000000">Обработка исходящих вызовов</item>
+    <item name="r0x00000000">Отпечатки пальцев</item>
+    <item name="r0x00000000">Нательные датчики</item>
+    <item name="r0x00000000">Чтение сообщений системы оповещения населения</item>
+    <item name="r0x00000000">Подмена геоданных</item>
+    <item name="r0x00000000">Чтение из хранилища</item>
+    <item name="r0x00000000">Запись в хранилище</item>
+    <item name="r0x00000000">Включение экрана</item>
+    <item name="r0x00000000">Получить учетные записи</item>
+    <item name="r0x00000000">Запуск в фоновом режиме</item>
+    <item name="r0x00000000">Громкость подсказок</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item name="r0x00000000">приблизительное местоположение</item>
+    <item name="r0x00000000">точное местоположение</item>
+    <item name="r0x00000000">GPS</item>
+    <item name="r0x00000000">вибросигнал</item>
+    <item name="r0x00000000">считывать данные контактов</item>
+    <item name="r0x00000000">изменение контактов</item>
+    <item name="r0x00000000">просмотр списка вызовов</item>
+    <item name="r0x00000000">изменение списка вызовов</item>
+    <item name="r0x00000000">считывать данные календаря</item>
+    <item name="r0x00000000">изменение календаря</item>
+    <item name="r0x00000000">поиск Wi-Fi</item>
+    <item name="r0x00000000">уведомление</item>
+    <item name="r0x00000000">поиск мобильных сетей</item>
+    <item name="r0x00000000">позвонить</item>
+    <item name="r0x00000000">чтение SMS</item>
+    <item name="r0x00000000">создание SMS</item>
+    <item name="r0x00000000">Получение SMS</item>
+    <item name="r0x00000000">получение экстренных SMS</item>
+    <item name="r0x00000000">получение MMS</item>
+    <item name="r0x00000000">получение сообщений WAP PUSH</item>
+    <item name="r0x00000000">отправка SMS</item>
+    <item name="r0x00000000">чтение SMS со смарт-карты</item>
+    <item name="r0x00000000">запись SMS на смарт-карту</item>
+    <item name="r0x00000000">изменение настроек</item>
+    <item name="r0x00000000">отображать поверх других элементов</item>
+    <item name="r0x00000000">Доступ к уведомлениям</item>
+    <item name="r0x00000000">камера</item>
+    <item name="r0x00000000">записать аудио</item>
+    <item name="r0x00000000">воспроизвести аудио</item>
+    <item name="r0x00000000">считать из буфера обмена</item>
+    <item name="r0x00000000">изменить буфер обмена</item>
+    <item name="r0x00000000">кнопки мультимедиа</item>
+    <item name="r0x00000000">аудиофокус</item>
+    <item name="r0x00000000">общая громкость</item>
+    <item name="r0x00000000">громкость голоса</item>
+    <item name="r0x00000000">громкость звонка</item>
+    <item name="r0x00000000">громкость мультимедиа</item>
+    <item name="r0x00000000">громкость будильника</item>
+    <item name="r0x00000000">громкость уведомлений</item>
+    <item name="r0x00000000">громкость Bluetooth-устройств</item>
+    <item name="r0x00000000">не отключать</item>
+    <item name="r0x00000000">Отслеживать местоположение</item>
+    <item name="r0x00000000">контролировать использование энергии при определении местоположения</item>
+    <item name="r0x00000000">посмотреть статистику использования</item>
+    <item name="r0x00000000">включить/отключить микрофон</item>
+    <item name="r0x00000000">показ оповещения</item>
+    <item name="r0x00000000">активация VPN</item>
+    <item name="r0x00000000">активировать VPN</item>
+    <item name="r0x00000000">сохранение обоев</item>
+    <item name="r0x00000000">вспомогательная структура</item>
+    <item name="r0x00000000">вспомогательный скриншот</item>
+    <item name="r0x00000000">чтение состояния телефона</item>
+    <item name="r0x00000000">добавление голосовой почты</item>
+    <item name="r0x00000000">использование SIP</item>
+    <item name="r0x00000000">обработка исходящих вызовов</item>
+    <item name="r0x00000000">отпечатки пальцев</item>
+    <item name="r0x00000000">нательные датчики</item>
+    <item name="r0x00000000">чтение сообщений системы оповещения населения</item>
+    <item name="r0x00000000">подмена геоданных</item>
+    <item name="r0x00000000">чтение из хранилища</item>
+    <item name="r0x00000000">запись в хранилище</item>
+    <item name="r0x00000000">включение экрана</item>
+    <item name="r0x00000000">получение данных об учетных записях</item>
+    <item name="r0x00000000">запуск в фоновом режиме</item>
+    <item name="r0x00000000">громкость подсказок</item>
+  </string-array>
+  <string-array name="auto_time_entries">
+    <item name="r0x00000000">Использовать время сети</item>
+    <item name="r0x00000000">Использовать время GPS</item>
+    <item name="r0x00000000">Выкл.</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item name="r0x00000000">Добавленные более 30 дней назад</item>
+    <item name="r0x00000000">Добавленные более 60 дней назад</item>
+    <item name="r0x00000000">Добавленные более 60 дней назад</item>
+  </string-array>
+  <string-array name="bearer_entries">
+    <item name="r0x00000000">Не указано</item>
+    <item name="r0x00000000">LTE</item>
+    <item name="r0x00000000">HSPAP</item>
+    <item name="r0x00000000">HSPA</item>
+    <item name="r0x00000000">HSUPA</item>
+    <item name="r0x00000000">HSDPA</item>
+    <item name="r0x00000000">UMTS</item>
+    <item name="r0x00000000">EDGE</item>
+    <item name="r0x00000000">GPRS</item>
+    <item name="r0x00000000">eHRPD</item>
+    <item name="r0x00000000">EVDO_B</item>
+    <item name="r0x00000000">EVDO_A</item>
+    <item name="r0x00000000">EVDO_0</item>
+    <item name="r0x00000000">1xRTT</item>
+    <item name="r0x00000000">IS95B</item>
+    <item name="r0x00000000">IS95A</item>
+    <item name="r0x00000000">GSM</item>
+    <item name="r0x00000000">TD_SCDMA</item>
+    <item name="r0x00000000">IWLAN</item>
+  </string-array>
+  <string-array name="bearer_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\14</item>
+    <item name="r0x00000000">\15</item>
+    <item name="r0x00000000">\11</item>
+    <item name="r0x00000000">\10</item>
+    <item name="r0x00000000">\9</item>
+    <item name="r0x00000000">\3</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\13</item>
+    <item name="r0x00000000">\12</item>
+    <item name="r0x00000000">\8</item>
+    <item name="r0x00000000">\7</item>
+    <item name="r0x00000000">\6</item>
+    <item name="r0x00000000">\5</item>
+    <item name="r0x00000000">\4</item>
+    <item name="r0x00000000">\16</item>
+    <item name="r0x00000000">\17</item>
+    <item name="r0x00000000">\18</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item name="r0x00000000">2 мин.</item>
+    <item name="r0x00000000">5 мин.</item>
+    <item name="r0x00000000">1 ч.</item>
+    <item name="r0x00000000">Без тайм-аута</item>
+  </string-array>
+  <array name="captioning_color_selector_titles">
+    <item name="r0x00000000">@string/color_unspecified</item>
+    <item name="r0x00000000">@string/color_white</item>
+    <item name="r0x00000000">@string/color_black</item>
+    <item name="r0x00000000">@string/color_red</item>
+    <item name="r0x00000000">@string/color_yellow</item>
+    <item name="r0x00000000">@string/color_green</item>
+    <item name="r0x00000000">@string/color_cyan</item>
+    <item name="r0x00000000">@string/color_blue</item>
+    <item name="r0x00000000">@string/color_magenta</item>
+  </array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item name="r0x00000000">По умолчанию</item>
+    <item name="r0x00000000">Нет</item>
+    <item name="r0x00000000">Контур</item>
+    <item name="r0x00000000">С тенью</item>
+    <item name="r0x00000000">Приподнятый</item>
+    <item name="r0x00000000">Утопленный</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item name="r0x00000000">Очень мелкий</item>
+    <item name="r0x00000000">Мелкий</item>
+    <item name="r0x00000000">Средний</item>
+    <item name="r0x00000000">Крупный</item>
+    <item name="r0x00000000">Очень крупный</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_values">
+    <item name="r0x00000000">\0.25</item>
+    <item name="r0x00000000">\0.5</item>
+    <item name="r0x00000000">\1.0</item>
+    <item name="r0x00000000">\1.5</item>
+    <item name="r0x00000000">\2.0</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item name="r0x00000000">\25%</item>
+    <item name="r0x00000000">\50%</item>
+    <item name="r0x00000000">\75%</item>
+    <item name="r0x00000000">\100%</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item name="r0x00000000">По умолчанию</item>
+    <item name="r0x00000000">Белый на черном</item>
+    <item name="r0x00000000">Черный на белом</item>
+    <item name="r0x00000000">Желтый на черном</item>
+    <item name="r0x00000000">Желтый на синем</item>
+    <item name="r0x00000000">Специальный</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item name="r0x00000000">По умолчанию</item>
+    <item name="r0x00000000">Без засечек</item>
+    <item name="r0x00000000">Без засечек, сжатый</item>
+    <item name="r0x00000000">Без засечек, моноширинный</item>
+    <item name="r0x00000000">С засечками</item>
+    <item name="r0x00000000">C засечками, моноширинный</item>
+    <item name="r0x00000000">Обычный</item>
+    <item name="r0x00000000">Курсив</item>
+    <item name="r0x00000000">Капитель</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_values">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">sans-serif</item>
+    <item name="r0x00000000">sans-serif-condensed</item>
+    <item name="r0x00000000">sans-serif-monospace</item>
+    <item name="r0x00000000">serif</item>
+    <item name="r0x00000000">serif-monospace</item>
+    <item name="r0x00000000">casual</item>
+    <item name="r0x00000000">cursive</item>
+    <item name="r0x00000000">sans-serif-smallcaps</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item name="r0x00000000">Зеленовато-голубой</item>
+    <item name="r0x00000000">Синий</item>
+    <item name="r0x00000000">Темно-синий</item>
+    <item name="r0x00000000">Фиолетовый</item>
+    <item name="r0x00000000">Розовый</item>
+    <item name="r0x00000000">Красный</item>
+  </string-array>
+  <array name="daltonizer_type_entries">
+    <item name="r0x00000000">@string/daltonizer_mode_deuteranomaly</item>
+    <item name="r0x00000000">@string/daltonizer_mode_protanomaly</item>
+    <item name="r0x00000000">@string/daltonizer_mode_tritanomaly</item>
+  </array>
+  <string-array name="daltonizer_type_values">
+    <item name="r0x00000000">\12</item>
+    <item name="r0x00000000">\11</item>
+    <item name="r0x00000000">\13</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item name="r0x00000000">Автоматически (в зависимости от времени суток)</item>
+    <item name="r0x00000000">Всегда включено</item>
+    <item name="r0x00000000">Всегда отключен</item>
+  </string-array>
+  <string-array name="data_usage_data_range">
+    <item name="r0x00000000">За последние 30 дней</item>
+    <item name="r0x00000000">Цикл использования данных</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+    <item name="r0x00000000">Никогда</item>
+    <item name="r0x00000000">15 сек.</item>
+    <item name="r0x00000000">30 сек.</item>
+    <item name="r0x00000000">1 мин.</item>
+    <item name="r0x00000000">2 мин.</item>
+    <item name="r0x00000000">5 мин.</item>
+    <item name="r0x00000000">10 мин.</item>
+    <item name="r0x00000000">30 мин.</item>
+  </string-array>
+  <string-array name="dream_timeout_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="eap_method_without_sim_auth">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="entries_font_size">
+    <item name="r0x00000000">Мелкий</item>
+    <item name="r0x00000000">По умолчанию</item>
+    <item name="r0x00000000">Крупный</item>
+    <item name="r0x00000000">Максимальный</item>
+  </string-array>
+  <string-array name="entryvalues_font_size">
+    <item name="r0x00000000">\0.85</item>
+    <item name="r0x00000000">\1.0</item>
+    <item name="r0x00000000">\1.15</item>
+    <item name="r0x00000000">\1.30</item>
+  </string-array>
+  <string-array name="lock_after_timeout_entries">
+    <item name="r0x00000000">Сразу</item>
+    <item name="r0x00000000">Через 5 сек.</item>
+    <item name="r0x00000000">Через 15 сек.</item>
+    <item name="r0x00000000">Через 30 сек.</item>
+    <item name="r0x00000000">Через 1 мин.</item>
+    <item name="r0x00000000">Через 2 мин.</item>
+    <item name="r0x00000000">Через 5 мин.</item>
+    <item name="r0x00000000">Через 10 мин.</item>
+    <item name="r0x00000000">Через 30 мин.</item>
+  </string-array>
+  <string-array name="lock_after_timeout_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\5000</item>
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+    <item name="r0x00000000">Небольшая</item>
+    <item name="r0x00000000">Средняя</item>
+    <item name="r0x00000000">Большая</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_values">
+    <item name="r0x00000000">\400</item>
+    <item name="r0x00000000">\1000</item>
+    <item name="r0x00000000">\1500</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item name="r0x00000000">Нет</item>
+    <item name="r0x00000000">SPN</item>
+    <item name="r0x00000000">IMSI</item>
+    <item name="r0x00000000">GID</item>
+  </string-array>
+  <string-array name="mvno_type_values">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">spn</item>
+    <item name="r0x00000000">imsi</item>
+    <item name="r0x00000000">gid</item>
+  </string-array>
+  <string-array name="proc_stats_memory_states">
+    <item name="r0x00000000">Нормальное</item>
+    <item name="r0x00000000">Умеренное</item>
+    <item name="r0x00000000">Низкое</item>
+    <item name="r0x00000000">Высокое</item>
+  </string-array>
+  <string-array name="proc_stats_process_states">
+    <item name="r0x00000000">Стабильное</item>
+    <item name="r0x00000000">Наиболее частое действие</item>
+    <item name="r0x00000000">Важное (активный режим)</item>
+    <item name="r0x00000000">Важное (фоновый режим)</item>
+    <item name="r0x00000000">Резервное копирование</item>
+    <item name="r0x00000000">Большой объем данных</item>
+    <item name="r0x00000000">Служба (работает)</item>
+    <item name="r0x00000000">Служба (перезапуск)</item>
+    <item name="r0x00000000">Получатель</item>
+    <item name="r0x00000000">Главная</item>
+    <item name="r0x00000000">Последнее действие</item>
+    <item name="r0x00000000">Кешировано (действие)</item>
+    <item name="r0x00000000">Кешировано (клиент)</item>
+    <item name="r0x00000000">Кешировано (пусто)</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item name="r0x00000000">Достаточно</item>
+    <item name="r0x00000000">Пока хватает</item>
+    <item name="r0x00000000">Мало</item>
+    <item name="r0x00000000">Очень мало</item>
+    <item name="r0x00000000">?</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item name="r0x00000000">15 сек.</item>
+    <item name="r0x00000000">30 сек.</item>
+    <item name="r0x00000000">1 мин.</item>
+    <item name="r0x00000000">2 мин.</item>
+    <item name="r0x00000000">5 мин.</item>
+    <item name="r0x00000000">10 мин.</item>
+    <item name="r0x00000000">30 мин.</item>
+  </string-array>
+  <string-array name="screen_timeout_values">
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item name="r0x00000000">Спрашивать</item>
+    <item name="r0x00000000">Не разрешать</item>
+    <item name="r0x00000000">Разрешать всегда</item>
+  </string-array>
+  <string-array name="timezone_filters">
+    <item name="r0x00000000">Америка</item>
+    <item name="r0x00000000">Европа</item>
+    <item name="r0x00000000">Африка</item>
+    <item name="r0x00000000">Азия</item>
+    <item name="r0x00000000">Австралия</item>
+    <item name="r0x00000000">Тихий океан</item>
+    <item name="r0x00000000">Все</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item name="r0x00000000">Время использования</item>
+    <item name="r0x00000000">Последнее использование</item>
+    <item name="r0x00000000">Название приложения</item>
+  </string-array>
+  <string-array name="user_content_ratings_entries">
+    <item name="r0x00000000">Ascended being</item>
+    <item name="r0x00000000">Human</item>
+    <item name="r0x00000000">Neanderthal</item>
+    <item name="r0x00000000">Chimp</item>
+    <item name="r0x00000000">Monkey</item>
+  </string-array>
+  <string-array name="user_content_ratings_values">
+    <item name="r0x00000000">\5</item>
+    <item name="r0x00000000">\4</item>
+    <item name="r0x00000000">\3</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item name="r0x00000000">Отключена</item>
+    <item name="r0x00000000">Инициализация...</item>
+    <item name="r0x00000000">Подключение...</item>
+    <item name="r0x00000000">Подключена</item>
+    <item name="r0x00000000">Время ожидания истекло</item>
+    <item name="r0x00000000">Сбой</item>
+  </string-array>
+  <string-array name="vpn_types">
+    <item name="r0x00000000">PPTP</item>
+    <item name="r0x00000000">L2TP/IPSec PSK</item>
+    <item name="r0x00000000">L2TP/IPSec RSA</item>
+    <item name="r0x00000000">IPSec Xauth PSK</item>
+    <item name="r0x00000000">IPSec Xauth RSA</item>
+    <item name="r0x00000000">IPSec Hybrid RSA</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item name="r0x00000000">VPN-соединение по протоколу PPTP</item>
+    <item name="r0x00000000">VPN-соединение по протоколу L2TP/IPSec с общими ключами</item>
+    <item name="r0x00000000">VPN-подключение по протоколу L2TP/IPSec с использованием сертификатов</item>
+    <item name="r0x00000000">VPN-подключение IPSec с общими ключами и аутентификацией Xauth</item>
+    <item name="r0x00000000">VPN-подключение IPSec с использованием сертификатов и аутентификации Xauth</item>
+    <item name="r0x00000000">VPN-подключение IPSec с использованием сертификатов и комбинированной аутентификации</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices">
+    <item name="r0x00000000">Приоритет Wi-Fi</item>
+    <item name="r0x00000000">Приоритет мобильного Интернета</item>
+    <item name="r0x00000000">Только Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2">
+    <item name="r0x00000000">Wi-Fi</item>
+    <item name="r0x00000000">Мобильный Интернет</item>
+    <item name="r0x00000000">Только Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+    <item name="r0x00000000">Wi-Fi</item>
+    <item name="r0x00000000">Мобильный Интернет</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_without_wifi_only">
+    <item name="r0x00000000">Приоритет Wi-Fi</item>
+    <item name="r0x00000000">Приоритет мобильного Интернета</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\0</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values_without_wifi_only">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="wifi_eap_method">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_hotspot_disable_policy_entries">
+    <item name="r0x00000000">Не выключать</item>
+    <item name="r0x00000000">Отключить при бездействии в течение 5 мин.</item>
+    <item name="r0x00000000">Отключить при бездействии в течение 10 мин.</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item name="r0x00000000">DHCP</item>
+    <item name="r0x00000000">Пользовательские</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item name="r0x00000000">Определять автоматически</item>
+    <item name="r0x00000000">Рассматривать как с ограничением трафика</item>
+    <item name="r0x00000000">Рассматривать как без ограничения трафика</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item name="r0x00000000">Подключено</item>
+    <item name="r0x00000000">Приглашено</item>
+    <item name="r0x00000000">Сбой</item>
+    <item name="r0x00000000">Доступно</item>
+    <item name="r0x00000000">Вне диапазона</item>
+  </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+    <item name="r0x00000000">Push-кнопка</item>
+    <item name="r0x00000000">PIN-код с обнаруженного устройства</item>
+    <item name="r0x00000000">PIN-код этого устройства</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item name="r0x00000000">Нет</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+    <item name="r0x00000000">Нет</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_phase2_entries">
+    <item name="r0x00000000">Нет</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">MSCHAP</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item name="r0x00000000">Нет</item>
+    <item name="r0x00000000">Вручную</item>
+    <item name="r0x00000000">Автоконфигурация прокси</item>
+  </string-array>
+  <array name="wifi_security">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+    <item name="r0x00000000">@string/wifi_security_eap</item>
+  </array>
+  <array name="wifi_security_no_eap">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+  </array>
+  <string-array name="wifi_signal">
+    <item name="r0x00000000">Слабый</item>
+    <item name="r0x00000000">Слабый</item>
+    <item name="r0x00000000">Хороший</item>
+    <item name="r0x00000000">Хороший</item>
+    <item name="r0x00000000">Отличный</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Поиск...</item>
+    <item name="r0x00000000">Подключение...</item>
+    <item name="r0x00000000">Аутентификация...</item>
+    <item name="r0x00000000">Получение IP-адреса...</item>
+    <item name="r0x00000000">Подключено</item>
+    <item name="r0x00000000">Приостановлено</item>
+    <item name="r0x00000000">Отключение...</item>
+    <item name="r0x00000000">Нет подключения</item>
+    <item name="r0x00000000">Сбой</item>
+    <item name="r0x00000000">Заблокировано</item>
+    <item name="r0x00000000">Временно избегать плохого соединения</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Поиск...</item>
+    <item name="r0x00000000">Соединение с сетью %1$s…</item>
+    <item name="r0x00000000">Аутентификация в сети %1$s...</item>
+    <item name="r0x00000000">Получение IP-адреса от %1$s…</item>
+    <item name="r0x00000000">Подключено к %1$s</item>
+    <item name="r0x00000000">Приостановлено</item>
+    <item name="r0x00000000">Отключение от %1$s…</item>
+    <item name="r0x00000000">Нет подключения</item>
+    <item name="r0x00000000">Сбой</item>
+    <item name="r0x00000000">Заблокировано</item>
+    <item name="r0x00000000">Временно избегать плохого соединения</item>
+  </string-array>
+</resources>

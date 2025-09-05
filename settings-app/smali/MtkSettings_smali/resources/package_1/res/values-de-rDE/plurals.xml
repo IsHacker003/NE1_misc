@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">Extrem kurze Verzögerung (%1$d ms)</item>
+    <item quantity="other">Extrem kurze Verzögerung (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">Lange Verzögerung (%1$d ms)</item>
+    <item quantity="other">Lange Verzögerung (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">Kurze Verzögerung (%1$d ms)</item>
+    <item quantity="other">Kurze Verzögerung (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">Sehr lange Verzögerung (%1$d ms)</item>
+    <item quantity="other">Sehr lange Verzögerung (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">Sehr kurze Verzögerung (%1$d ms)</item>
+    <item quantity="other">Sehr kurze Verzögerung (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">1 App darf uneingeschränkt Daten verbrauchen, auch wenn der Datensparmodus aktiviert ist</item>
+    <item quantity="other">%1$d Apps dürfen uneingeschränkt Daten verbrauchen, auch wenn der Datensparmodus aktiviert ist</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">Ausgewählte Sprache entfernen?</item>
+    <item quantity="other">Ausgewählte Sprachen entfernen?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">1 Stunde</item>
+    <item quantity="other">%s Stunden</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">Es muss mindestens ein Buchstabe enthalten sein</item>
+    <item quantity="other">Das Passwort muss mindestens %d Buchstaben enthalten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">Es muss mindestens ein Kleinbuchstabe enthalten sein</item>
+    <item quantity="other">Das Passwort muss mindestens %d Kleinbuchstaben enthalten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">Es muss mindestens ein Zeichen enthalten sein, das kein Buchstabe ist</item>
+    <item quantity="other">Das Passwort muss mindestens %d Zeichen enthalten, die keine Buchstaben sind</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">Es muss mindestens eine Ziffer enthalten sein</item>
+    <item quantity="other">Das Passwort muss mindestens %d Ziffern enthalten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">Es muss mindestens ein Sonderzeichen enthalten sein</item>
+    <item quantity="other">Das Passwort muss mindestens %d Sonderzeichen enthalten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">Es muss mindestens ein Großbuchstabe enthalten sein</item>
+    <item quantity="other">Das Passwort muss mindestens %d Großbuchstaben enthalten</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d App kann Benachrichtigungen lesen</item>
+    <item quantity="other">%d Apps können Benachrichtigungen lesen</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">1 App hat den Speicher in den letzten %2$s verbraucht.</item>
+    <item quantity="other">%1$d Apps haben den Speicher in den letzten %2$s verbraucht.</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">1 Minute</item>
+    <item quantity="other">%s Minuten</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d Berechtigung gewährt</item>
+    <item quantity="other">%d Berechtigungen gewährt</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d zusätzliche Berechtigung</item>
+    <item quantity="other">%d zusätzliche Berechtigungen</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">%d von %d Berechtigung gewährt</item>
+    <item quantity="other">%d von %d Berechtigungen gewährt</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">1 Sekunde</item>
+    <item quantity="other">%s Sekunden</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d Fingerabdruck einrichten</item>
+    <item quantity="other">%1$d Fingerabdrücke einrichten</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">%d ausgeblendetes Element anzeigen</item>
+    <item quantity="other">%d ausgeblendete Elemente anzeigen</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">In %1$d Schritt sind Sie ein Entwickler.</item>
+    <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">Zertifikat vertrauen oder entfernen</item>
+    <item quantity="other">Zertifikaten vertrauen oder sie entfernen</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s hat eine Zertifizierungsstelle für Ihr Arbeitsprofil installiert. Damit können Ihre geschäftlichen Netzwerkaktivitäten überwacht werden, einschließlich E-Mails, Apps und sicherer Websites.
+
+Weitere Informationen zu diesem Zertifikat erhalten Sie von Ihrem Administrator.</item>
+    <item quantity="other">%s hat Zertifizierungsstellen für Ihr Arbeitsprofil installiert. Damit können Ihre geschäftlichen Netzwerkaktivitäten überwacht werden, einschließlich E-Mails, Apps und sicherer Websites.
+
+Weitere Informationen zu diesen Zertifikaten erhalten Sie von Ihrem Administrator.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s hat eine Zertifizierungsstelle auf dem Gerät installiert. Damit können die Netzwerkaktivitäten des Geräts wie E-Mails, Apps und sichere Websites überwacht werden.
+
+Weitere Informationen zu diesem Zertifikat erhalten Sie von Ihrem Administrator.</item>
+    <item quantity="other">%s hat Zertifizierungsstellen auf Ihrem Gerät installiert. Damit können die Netzwerkaktivitäten des Geräts wie E-Mails, Apps und sichere Websites überwacht werden.
+
+Weitere Informationen zu diesen Zertifikaten erhalten Sie von Ihrem Administrator.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">Zertifikat prüfen</item>
+    <item quantity="other">Zertifikate prüfen</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">1 Element</item>
+    <item quantity="other">%d Elemente</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Falscher PIN-Code der SIM-Karte. Sie haben noch %d Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</item>
+    <item quantity="other">Falscher PIN-Code der SIM-Karte. Sie haben noch %d Versuche.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">Für eine Stunde bis %2$s zur Option "Nur Wecker" wechseln</item>
+    <item quantity="other">Für %1$d Stunden bis %2$s zur Option "Nur Wecker" wechseln</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">Für eine Minute bis %2$s zur Option "Nur Wecker" wechseln</item>
+    <item quantity="other">Für %1$d Minuten bis %2$s zur Option "Nur Wecker" wechseln</item>
+  </plurals>
+</resources>

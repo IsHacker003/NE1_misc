@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">અત્યંત ટૂંકો વિલંબ (%1$d મિલિસેકંડ)</item>
+    <item quantity="other">અત્યંત ટૂંકો વિલંબ (%1$d મિલિસેકંડ)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">લાંબો વિલંબ (%1$d ms)</item>
+    <item quantity="other">લાંબો વિલંબ (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">ટૂંકો વિલંબ (%1$d ms)</item>
+    <item quantity="other">ટૂંકો વિલંબ (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">ખૂબ લાંબો વિલંબ (%1$d ms)</item>
+    <item quantity="other">ખૂબ લાંબો વિલંબ (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">ખૂબ ટૂંકો વિલંબ (%1$d ms)</item>
+    <item quantity="other">ખૂબ ટૂંકો વિલંબ (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">જ્યારે ડેટા સેવર ચાલુ હોય ત્યારે 1 ઍપ્લિકેશનને અપ્રતિબંધિત ડેટાનો ઉપયોગ કરવાની મંજૂરી છે</item>
+    <item quantity="other">જ્યારે ડેટા સેવર ચાલુ હોય ત્યારે %1$d ઍપ્લિકેશનને અપ્રતિબંધિત ડેટાનો ઉપયોગ કરવાની મંજૂરી છે</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">પસંદ કરેલ ભાષાને દૂર કરીએ?</item>
+    <item quantity="other">પસંદ કરેલ ભાષાઓને દૂર કરીએ?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">%s કલાક</item>
+    <item quantity="other">%s કલાક</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">ઓછામાં ઓછા %d અક્ષર હોવા આવશ્યક છે</item>
+    <item quantity="other">ઓછામાં ઓછા %d અક્ષર ધરાવતો હોવો જોઈએ</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">ઓછામાં ઓછા %d લોઅરકેસ અક્ષર હોવા આવશ્યક છે</item>
+    <item quantity="other">ઓછામાં ઓછા %d લોઅરકેસ અક્ષર ધરાવતો હોવો જોઈએ</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">ઓછામાં ઓછા %d વર્ણ સિવાયના અક્ષર હોવા આવશ્યક છે</item>
+    <item quantity="other">ઓછામાં ઓછા %d વર્ણ સિવાયના અક્ષર ધરાવતો હોવો જોઈએ</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">ઓછામાં ઓછા %d સંખ્યાવાચક અંક હોવા આવશ્યક છે</item>
+    <item quantity="other">ઓછામાં ઓછા %d સંખ્યાવાચક અંક ધરાવતો હોવો જોઈએ</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">ઓછામાં ઓછા %d વિશિષ્ટ પ્રતિક હોવા આવશ્યક છે</item>
+    <item quantity="other">ઓછામાં ઓછા %d વિશિષ્ટ પ્રતીક ધરાવતો હોવો જોઈએ</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">ઓછામાં ઓછા %d અપરકેસ અક્ષર હોવા આવશ્યક છે</item>
+    <item quantity="other">ઓછામાં ઓછા %d અપરકેસ અક્ષર ધરાવતો હોવો જોઈએ</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d એપ્લિકેશન સૂચનાઓ વાંચી શકે છે</item>
+    <item quantity="other">%d ઍપ્લિકેશનો સૂચનાઓ વાંચી શકે છે</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">1 એપ્લિકેશન એ છેલ્લા %2$s માં મેમરી ઉપયોગ કરી</item>
+    <item quantity="other">%1$d એપ્લિકેશન એ છેલ્લા %2$s માં મેમરી ઉપયોગ કરી</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">%s મિનિટ</item>
+    <item quantity="other">%s મિનિટ</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d પરવાનગીઓ આપી</item>
+    <item quantity="other">%d પરવાનગીઓ આપી</item>
+  </plurals>
+  <plurals name="print_jobs_summary">
+    <item quantity="one">1 પ્રિ‌ન્ટ કાર્ય</item>
+    <item quantity="other">%1$d પ્રિન્ટ જોબ</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d વધારાની પરવાનગીઓ</item>
+    <item quantity="other">%d વધારાની પરવાનગીઓ</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">%d માંથી %d પરવાનગી આપી</item>
+    <item quantity="other">%d માંથી %d પરવાનગી આપી</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">%s સેકંડ</item>
+    <item quantity="other">%s સેકંડ</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d ફિંગરપ્રિન્ટ્સ સેટ અપ</item>
+    <item quantity="other">%1$d ફિંગરપ્રિન્ટ્સ સેટ અપ</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">%d છુપાયેલ આઇટમ બતાવો</item>
+    <item quantity="other">%d છુપાયેલ આઇટમ બતાવો</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">તમે હવે એક વિકાસકર્તા બનવાથી %1$d પગલાં દૂર છો.</item>
+    <item quantity="other">તમે હવે એક વિકાસકર્તા બનવાથી %1$d પગલાં દૂર છો.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">પ્રમાણપત્ર પર વિશ્વાસ કરો અથવા તો દૂર કરો</item>
+    <item quantity="other">પ્રમાણપત્રો પર વિશ્વાસ કરો અથવા તો દૂર કરો</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s એ તમારી કાર્ય પ્રોફાઇલ માટે પ્રમાણપત્ર સત્તાધિકારીઓ ઇન્સ્ટૉલ કર્યા, જે તેમને ઇમેઇલ્સ, ઍપ્લિકેશનો અને સુરક્ષિત વેબસાઇટ્સ સહિત કાર્ય નેટવર્ક પ્રવૃત્તિને મૉનિટર કરવાની મંજૂરી આપી શકે છે.
+
+આ પ્રમાણપત્રો વિશે વધુ માહિતી માટે, તમારા વ્યવસ્થાપકનો સંપર્ક કરો.</item>
+    <item quantity="other">%s એ તમારી કાર્ય પ્રોફાઇલ માટે પ્રમાણપત્ર સત્તાધિકારીઓ ઇન્સ્ટૉલ કર્યા, જે તેમને ઇમેઇલ્સ, ઍપ્લિકેશનો અને સુરક્ષિત વેબસાઇટ્સ સહિત કાર્ય નેટવર્ક પ્રવૃત્તિને મૉનિટર કરવાની મંજૂરી આપી શકે છે.
+
+આ પ્રમાણપત્રો વિશે વધુ માહિતી માટે, તમારા વ્યવસ્થાપકનો સંપર્ક કરો.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s એ તમારા ઉપકરણ પર પ્રમાણપત્ર સત્તાધિકારીઓ ઇન્સ્ટૉલ કર્યા, જે તેમને ઇમેઇલ્સ, ઍપ્લિકેશનો અને સુરક્ષિત વેબસાઇટ્સ સહિત તમારા ઉપકરણની નેટવર્ક પ્રવૃત્તિને મૉનિટર કરવાની મંજૂરી આપી શકે છે.
+
+આ પ્રમાણપત્રો વિશે વધુ માહિતી માટે, તમારા વ્યવસ્થાપકનો સંપર્ક કરો.</item>
+    <item quantity="other">%s એ તમારા ઉપકરણ પર પ્રમાણપત્ર સત્તાધિકારીઓ ઇન્સ્ટૉલ કર્યા, જે તેમને ઇમેઇલ્સ, ઍપ્લિકેશનો અને સુરક્ષિત વેબસાઇટ્સ સહિત તમારા ઉપકરણની નેટવર્ક પ્રવૃત્તિને મૉનિટર કરવાની મંજૂરી આપી શકે છે.
+
+આ પ્રમાણપત્રો વિશે વધુ માહિતી માટે, તમારા વ્યવસ્થાપકનો સંપર્ક કરો.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">પ્રમાણપત્ર તપાસો</item>
+    <item quantity="other">પ્રમાણપત્રો તપાસો</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">1 આઇટમ</item>
+    <item quantity="other">%d આઇટમ્સ</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Iખોટો SIM PIN કોડ, તમારી પાસે %d પ્રયાસ બાકી છે.</item>
+    <item quantity="other">Iખોટો SIM PIN કોડ, તમારી પાસે %d પ્રયાસ બાકી છે.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">%2$s સુધી ફક્ત એક કલાક માટે એલાર્મ્સ પર બદલો</item>
+    <item quantity="other">%2$s સુધી ફક્ત %1$d કલાક માટે એલાર્મ્સ પર બદલો</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">%2$s સુધી ફક્ત એક મિનિટ માટે એલાર્મ્સ પર બદલો</item>
+    <item quantity="other">ફક્ત %1$d મિનિટ માટે એલાર્મ્સ પર બદલો (%2$s સુધી)</item>
+  </plurals>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">Izjemno kratka zakasnitev (%1$d ms)</item>
+    <item quantity="other">Izjemno kratka zakasnitev (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">Dolga zakasnitev (%1$d ms)</item>
+    <item quantity="other">Dolga zakasnitev (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">Kratka zakasnitev (%1$d ms)</item>
+    <item quantity="other">Kratka zakasnitev (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">Zelo dolga zakasnitev (%1$d ms)</item>
+    <item quantity="other">Zelo dolga zakasnitev (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">Zelo kratka zakasnitev (%1$d ms)</item>
+    <item quantity="other">Zelo kratka zakasnitev (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">Ko je vklopljeno varčevanje s podatki, je neomejen prenos podatkov dovoljen 1 aplikaciji.</item>
+    <item quantity="other">Ko je vklopljeno varčevanje s podatki, je neomejen prenos podatkov dovoljen %1$d aplikacijam.</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">Želite odstraniti izbrane jezike?</item>
+    <item quantity="other">Želite odstraniti izbrane jezike?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">%s ura</item>
+    <item quantity="other">%s ur</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">Mora vsebovati vsaj 1 črko</item>
+    <item quantity="other">Vsebovati mora vsaj %d črk</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">Mora vsebovati vsaj 1 malo črko</item>
+    <item quantity="other">Vsebovati mora vsaj %d malih črk</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">Mora vsebovati vsaj 1 nečrkovni znak</item>
+    <item quantity="other">Vsebovati mora vsaj %d znakov, ki niso črka</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">Mora vsebovati vsaj 1 števko</item>
+    <item quantity="other">Vsebovati mora vsaj %d števk</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">Mora vsebovati vsaj 1 posebni simbol</item>
+    <item quantity="other">Vsebovati mora vsaj %d posebnih znakov</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">Mora vsebovati vsaj 1 veliko črko</item>
+    <item quantity="other">Vsebovati mora vsaj %d velikih črk</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">Aplikacija (%d) lahko bere obvestila</item>
+    <item quantity="other">Aplikacije (%d) lahko berejo obvestila</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">1 aplikacija je uporabljala pomnilnik v zadnjega toliko časa: %2$s</item>
+    <item quantity="other">%1$d aplikacij je uporabljalo pomnilnik v zadnjega toliko časa: %2$s</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">%s minuta</item>
+    <item quantity="other">%s minut</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d odobreno dovoljenje</item>
+    <item quantity="other">%d odobrenih dovoljenj</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d dodatno dovoljenje</item>
+    <item quantity="other">%d dodatnih dovoljenj</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">Št. odobrenih dovoljenj: %d od %d</item>
+    <item quantity="other">Št. odobrenih dovoljenj: %d od %d</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">%d sekunda</item>
+    <item quantity="other">%s s</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d prstni odtis je nastavljen</item>
+    <item quantity="other">%1$d prstnih odtisov je nastavljenih</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">Prikaži %d skrit element</item>
+    <item quantity="other">Prikaži toliko skritih elementov: %d</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">Št. korakov, ki vas loči od tega, da postanete razvijalec: %1$d.</item>
+    <item quantity="other">Št. korakov, ki vas loči od tega, da postanete razvijalec: %1$d.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">Označevanje potrdil kot zaupanja vrednih ali odstranitev potrdil</item>
+    <item quantity="other">Označevanje potrdil kot zaupanja vrednih ali odstranitev potrdil</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">Skrbnik domene %s je namestil overitelje potrdil za vaš delovni profil, s čimer morda lahko spremlja dejavnost v službenem omrežju, vključno z e-pošto, aplikacijami in varnimi spletnimi mesti.
+
+Če želite več informacij o teh potrdilih, se obrnite na skrbnika.</item>
+    <item quantity="other">Skrbnik domene %s je namestil overitelje potrdil za vaš delovni profil, s čimer morda lahko spremlja dejavnost v službenem omrežju, vključno z e-pošto, aplikacijami in varnimi spletnimi mesti.
+
+Če želite več informacij o teh potrdilih, se obrnite na skrbnika.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">Skrbnik domene %s je v napravi namestil overitelje potrdil, s čimer morda lahko spremlja dejavnost naprave v omrežju, vključno z e-pošto, aplikacijami in varnimi spletnimi mesti.
+
+Če želite več informacij o teh potrdilih, se obrnite na skrbnika.</item>
+    <item quantity="other">Skrbnik domene %s je v napravi namestil overitelje potrdil, s čimer morda lahko spremlja dejavnost naprave v omrežju, vključno z e-pošto, aplikacijami in varnimi spletnimi mesti.
+
+Če želite več informacij o teh potrdilih, se obrnite na skrbnika.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">Preveri potrdila</item>
+    <item quantity="other">Preveri potrdila</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">1 element</item>
+    <item quantity="other">%d elementov</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Napačna koda PIN kartice SIM. Na voljo imate še %d poskus. Potem se boste morali za odklenitev naprave obrniti na operaterja.</item>
+    <item quantity="other">Napačna koda PIN kartice SIM. Poskusite lahko še %d-krat.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">Sprememba na samo alarme za eno uro do %2$s</item>
+    <item quantity="other">Sprememba na samo alarme za %1$d ur do %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">Sprememba na samo alarme za eno minuto do %2$s</item>
+    <item quantity="other">Sprememba na samo alarme za %1$d minut (do %2$s)</item>
+  </plurals>
+</resources>

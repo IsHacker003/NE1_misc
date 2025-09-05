@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<RelativeLayout android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="15.0dp"
+                android:layout_marginTop="10.0dp"
+                android:layout_marginRight="15.0dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  <RadioGroup android:id="@id/hd_voice_video_group"
+              android:paddingTop="10.0dp"
+              android:paddingRight="20.0dp"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content">
+    <RadioButton android:textSize="20.0sp"
+                 android:id="@id/hd_voice_only"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:text="@string/hd_voice_calling_only" />
+    <View android:background="#bdbdbd"
+          android:layout_width="fill_parent"
+          android:layout_height="1.0dp"
+          android:layout_marginTop="18.0dp" />
+  </RadioGroup>
+</RelativeLayout>

@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">Meer oor foon</string>
+  <string name="accelerometer_summary_off">Wissel oriëntering outomaties wanneer foon draai</string>
+  <string name="accelerometer_summary_on">Wissel oriëntering outomaties wanneer foon draai</string>
+  <string name="accessibility_feature_state_off">Af</string>
+  <string name="accessibility_feature_state_on">Aan</string>
+  <string name="accessibility_summary_state_disabled">Af</string>
+  <string name="accessibility_summary_state_enabled">Aan</string>
+  <string name="accessibility_vibration_intensity_off">Af</string>
+  <string name="advanced_apps">Gevorderd</string>
+  <string name="advanced_section_header">Gevorderd</string>
+  <string name="advanced_security_title">Gevorderd</string>
+  <string name="ambient_display_pickup_summary">Tel jou foon op om na tyd, kennisgewingikone en ander inligting te kyk.</string>
+  <string name="ambient_display_pickup_title">Tel foon op om te kyk</string>
+  <string name="ambient_display_title">Dubbeltik om na foon te kyk</string>
+  <string name="android_beam_off_summary">Af</string>
+  <string name="apn_apn">APN</string>
+  <string name="apn_auth_type">Stawingstipe</string>
+  <string name="apn_auth_type_chap">CHAP</string>
+  <string name="apn_auth_type_none">Geen</string>
+  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_pap_chap">PAP of CHAP</string>
+  <string name="apn_http_port">Poort</string>
+  <string name="apn_http_proxy">Instaanbediener</string>
+  <string name="apn_mcc">MCC</string>
+  <string name="apn_mms_port">MMS-poort</string>
+  <string name="apn_mms_proxy">MMS-volmag</string>
+  <string name="apn_mmsc">MMSC</string>
+  <string name="apn_mnc">MNC</string>
+  <string name="apn_name">Naam</string>
+  <string name="apn_not_set">Nie gestel nie</string>
+  <string name="apn_password">Wagwoord</string>
+  <string name="apn_server">Bediener</string>
+  <string name="apn_type">APN-tipe</string>
+  <string name="apn_user">Gebruikernaam</string>
+  <string name="app_list_preference_none">Geen</string>
+  <string name="app_notification_row_banned">Geblokkeer</string>
+  <string name="assistant_security_warning_agree">Stem in</string>
+  <string name="auto_boot_pref_title">Outobegin bestuur</string>
+  <string name="auto_brightness_default_title">Verstek</string>
+  <string name="auto_brightness_off_title">Af</string>
+  <string name="auto_brightness_summary_off">Af</string>
+  <string name="available_via_passpoint">Beskikbaar via %1$s</string>
+  <string name="backup_pw_cancel_button_text">Kanselleer</string>
+  <string name="band_mode_failed">Onsuksesvol</string>
+  <string name="battery_desc_standby">Battery gebruik wanneer foon ledig is</string>
+  <string name="battery_manager_off">Af</string>
+  <string name="battery_saver_off_summary">Af</string>
+  <string name="battery_saver_on_summary">Aan</string>
+  <string name="battery_suggestion_title">Verbeter foon se batterylewe</string>
+  <string name="battery_tip_dialog_message">Jou foon is meer as normaalweg gebruik. Jou battery kan gouer as verwag afloop.
+
+%1$d programme wat jy die meeste gebruik het sedert battery vol gelaai is:</string>
+  <string name="battery_tip_dialog_summary_message">Jou programme gebruik 'n gewone hoeveelheid batterykrag. As programme te veel batterykrag gebruik, sal jou foon handelinge voorstel wat jy kan uitvoer.
+
+Jy kan altyd Batterybespaarder aanskakel as jou battery begin pap raak.</string>
+  <string name="battery_tip_high_usage_title">Foon is meer as gewoonlik gebruik</string>
+  <string name="battery_tip_restrict_app_dialog_ok">Perk in</string>
+  <string name="battery_tip_smart_battery_title">Verbeter jou foon se batterylewe</string>
+  <string name="battery_tip_summary_summary">Foon het gewone agtergrondbatteryverbruik</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">Kanselleer</string>
+  <string name="bluetooth_ask_discovery">%1$s wil jou foon %2$d sekondes lank vir ander Bluetooth-toestelle sigbaar maak.</string>
+  <string name="bluetooth_ask_discovery_no_name">'n Program wil jou foon %1$d sekondes lank vir ander Bluetooth-toestelle sigbaar maak.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">%1$s wil Bluetooth aanskakel en jou foon %2$d sekondes lank vir ander toestelle sigbaar maak.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">'n Program wil Bluetooth aanskakel en jou foon %1$d sekondes lank vir ander toestelle sigbaar maak.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s wil Bluetooth aanskakel en jou foon vir ander toestelle sigbaar maak. Jy kan dit later in Bluetooth-instellings verander.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">'n Program wil Bluetooth aanskakel en jou foon vir ander toestelle sigbaar maak. Jy kan dit later in Bluetooth-instellings verander.</string>
+  <string name="bluetooth_ask_lasting_discovery">%1$s wil jou foon vir ander Bluetooth-toestelle sigbaar maak. Jy kan dit later in Bluetooth-instellings verander.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">'n Program wil jou foon vir ander Bluetooth-toestelle sigbaar maak. Jy kan dit later in Bluetooth-instellings verander.</string>
+  <string name="bluetooth_connecting">Koppel tans…</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Koppel</string>
+  <string name="bluetooth_device_context_connect">Koppel</string>
+  <string name="bluetooth_device_name">Toestelnaam</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Kanselleer</string>
+  <string name="bluetooth_disabled">Af</string>
+  <string name="bluetooth_disconnect_all_profiles">Jou foon sal van %1$s ontkoppel.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s sal ontkoppel word en nie meer hierdie foon se internetverbinding deel nie.</string>
+  <string name="bluetooth_disconnected">Ontkoppel</string>
+  <string name="bluetooth_disconnecting">Ontkoppel tans…</string>
+  <string name="bluetooth_footer_mac_message">Foon se Bluetooth-adres: %1$s</string>
+  <string name="bluetooth_menu_advanced">Gevorderd</string>
+  <string name="bluetooth_pairing_decline">Kanselleer</string>
+  <string name="bluetooth_pref_summary">Laat jou foon toe om met Bluetooth-toestelle in die omtrek te kommunikeer</string>
+  <string name="bluetooth_preference_paired_dialog_name_label">Naam</string>
+  <string name="bluetooth_tethering_subtext">Deel foon se internetverbinding via Bluetooth</string>
+  <string name="bluetooth_unpair_dialog_body">Jou foon sal nie meer met %1$s saamgebind wees nie</string>
+  <string name="cancel">Kanselleer</string>
+  <string name="color_blue">Blou</string>
+  <string name="color_green">Groen</string>
+  <string name="color_none">Geen</string>
+  <string name="color_orange">Oranje</string>
+  <string name="color_purple">Rooi</string>
+  <string name="color_title">Kleur</string>
+  <string name="color_unspecified">Verstek</string>
+  <string name="color_yellow">Geel</string>
+  <string name="condition_device_muted_title">Foon is gedemp</string>
+  <string name="condition_device_vibrate_summary">Oproepe en kennisgewings sal foon laat vibreer</string>
+  <string name="condition_device_vibrate_title">Foon is gestel om te vibreer</string>
+  <string name="condition_expand_show">Wys</string>
+  <string name="connected_via_passpoint">Gekoppel via %1$s</string>
+  <string name="credentials_install">Installeer vanaf SD-kaart</string>
+  <string name="credentials_install_summary">Installeer sertifikate uit SD-kaart</string>
+  <string name="crypt_keeper_button_text">Enkripteer foon</string>
+  <string name="crypt_keeper_data_corrupt_summary">Die wagwoord wat jy ingevoer het, is korrek, maar ongelukkig is jou data korrup. 
+
+Jy moet 'n fabriekterugstelling doen om die foon weer te kan gebruik. Wanneer jy jou foon na die terugstelling opstel, sal jy die geleentheid hê om enige data te herwin wat in jou Google-rekening gerugsteun is.</string>
+  <string name="crypt_keeper_desc">Jy kan jou rekeninge, instellings, afgelaaide programme en hul data, media en ander lêers enkripteer. As aanvaar word dat jy 'n skermslot opgestel het (dit is 'n patroon of numeriese PIN of wagwoord), sal jy nadat jy jou foon geënkripteer het, die skerm moet ontsluit om die foon te dekripteer elke keer as jy dit aanskakel. Die enigste ander manier om dit te dekripteer, is om 'n fabriekdataterugstelling te doen wat al jou data sal uitvee.
+
+Enkripsie duur 'n uur of langer. Jy moet met 'n gelaaide battery begin en jou foon regdeur die proses ingeprop hou. As jy dit onderbreek, sal jy sommige of al jou data verloor.</string>
+  <string name="crypt_keeper_encrypt_title">Enkripteer foon</string>
+  <string name="crypt_keeper_failed_summary">Enkripsie is onderbreek en kan nie voltooi word nie. Gevolglik is die data op jou foon nie langer toeganklik nie. 
+
+Om gebruik van jou foon te hervat, moet jy 'n fabriekterugstelling doen. As jy jou foon na die terugstelling weer opstel, sal jy 'n geleentheid kry om enige inligting te herstel wat na jou Google-rekening gerugsteun was.</string>
+  <string name="crypt_keeper_final_desc">Die enkripsiehandeling is onomkeerbaar en as jy dit onderbreek, sal jy data verloor. Enkripsie neem 'n uur of langer en in daardie tyd sal die foon 'n paar keer herbegin.</string>
+  <string name="crypt_keeper_force_power_cycle">Om jou foon te ontsluit, skakel dit af en dan aan.</string>
+  <string name="crypt_keeper_setup_description">Wag asseblief terwyl jou foon geënkripteer word. ^1% voltooi.</string>
+  <string name="crypt_keeper_setup_time_remaining">Wag terwyl jou foon geënkripteer word. Oorblywende tyd: ^1</string>
+  <string name="daltonizer_mode_disabled">Gedeaktiveer</string>
+  <string name="data_protection_title">Databeskerming</string>
+  <string name="data_saver_off">Af</string>
+  <string name="data_saver_on">Aan</string>
+  <string name="data_service_enable_mobile">Tydelike datadiens</string>
+  <string name="data_service_prompt">Waneer ŉ nie-data-SIM in VoLTE-bel is, sal dit vir datadiens gebruik word. Dit sal tot ekstra datagebruik op die SIM lei.</string>
+  <string name="data_service_summary">Waneer ŉ nie-data-SIM in VoLTE-bel is, sal dit vir datadiens gebruik word.</string>
+  <string name="data_usage_auto_sync_on_dialog">Enige veranderings wat jy aan jou rekeninge aanbring, sal outomaties na jou foon gekopieer word.
+
+Sommige rekeninge kan ook outomaties enige veranderings wat jy op die tablet maak, na die web kopieer. 'n Google-rekening werk so.</string>
+  <string name="data_usage_limit_dialog_mobile">Jou foon sal mobiele data afskakel wanneer dit die limiet wat jy gestel het, bereik het.
+
+Oorweeg dit om 'n konserwatiewe limiet te stel omdat die datagebruik deur jou foon gemeet word terwyl jou diensverskaffer die gebruik dalk anders bereken.</string>
+  <string name="data_usage_list_none">Geen</string>
+  <string name="data_usage_restrict_background_multiuser">As jy mobiele agtergronddata beperk, sal sommige programme en dienste nie werk nie tensy jy aan Wi-Fi gekoppel is.
+
+Hierdie instelling raak alle gebruikers van hierdie foon.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: ongeveer %1$s is gebruik, soos gemeet deur jou foon. Jou diensverskaffer kan datagebruik dalk anders bereken.</string>
+  <string name="decryption_settings_summary">Foon is nie geënkripteer nie</string>
+  <string name="default_apps_title">Verstek</string>
+  <string name="default_keyboard_layout">Verstek</string>
+  <string name="default_theme">Verstek</string>
+  <string name="delete">Vee uit</string>
+  <string name="deletion_helper_manual_title">Handmatig</string>
+  <string name="device_info_settings">Foonstatus</string>
+  <string name="device_status">Status</string>
+  <string name="device_status_activity_title">Status</string>
+  <string name="device_status_summary">Foonnommer, sein, ens.</string>
+  <string name="dialog_background_check_message">Jou foon kan nie die battery op normale wyse bestuur nie omdat %1$s aanhou om jou foon wakker te maak.
+
+Om te probeer om hierdie kwessie op te los, kan jy %1$s stop en dit verhoed om op die agtergrond te werk.</string>
+  <string name="dialog_location_message">Jou foon kan nie die battery op normale wyse bestuur nie omdat %1$s aanhou om jou ligging te versoek wanneer jy nie die program gebruik nie.
+
+Om hierdie kwessie reg te stel, kan jy ligging vir hierdie program afskakel.</string>
+  <string name="dialog_stop_message">Jou foon kan nie die battery op normale wyse bestuur nie omdat %1$s jou foon wakker hou.
+
+Om te probeer om hierdie kwessie op te los, kan jy die program stop.
+
+As dit aanhou gebeur, sal jy dalk die program moet deïnstalleer om die batterywerkverrigting te verbeter.</string>
+  <string name="dialog_stop_message_wakeup_alarm">Jou foon kan nie die battery op normale wyse bestuur nie omdat %1$s aanhou om jou foon wakker te maak.
+
+Om te probeer om hierdie kwessie op te los, kan jy %1$s stop.
+
+As dit aanhou gebeur, sal jy dalk die program moet deïnstalleer om die batterywerkverrigting te verbeter.</string>
+  <string name="disabled">Gedeaktiveer</string>
+  <string name="display_cutout_emulation_none">Geen</string>
+  <string name="dlg_cancel">Kanselleer</string>
+  <string name="dlg_close">Maak toe</string>
+  <string name="dlg_confirm_unmount_text">As jy die SD-kaart ontheg, sal sekere programme wat jy gebruik, stop en dalk nie beskikbaar wees nie tot jy die SD-kaart weer heg.</string>
+  <string name="dlg_confirm_unmount_title">Ontheg SD-kaart?</string>
+  <string name="dlg_error_unmount_text">Kan nie SD-kaart ontheg nie. Probeer later weer.</string>
+  <string name="dlg_ok">OK</string>
+  <string name="dock_audio_summary_none">Foon nie gedok nie</string>
+  <string name="dock_not_found_text">Jy moet die foon dok voordat jy die dok-oudio opstel.</string>
+  <string name="dock_sounds_enable_summary_off">Moenie klank speel wanneer foon in dok gesit of uitgehaal word nie</string>
+  <string name="dock_sounds_enable_summary_on">Speel klank wanneer foon in dok gesit of uitgehaal word</string>
+  <string name="doze_always_on_title">Altyd aan</string>
+  <string name="encryption_and_credential_settings_summary">Foon is geënkripteer</string>
+  <string name="enterprise_privacy_none">Geen</string>
+  <string name="erase_esim_storage_description">Vee alle e-SIM's op die foon uit. Dit sal nie jou mobielediensplan kanselleer nie.</string>
+  <string name="erase_external_storage">Vee SD-kaart uit</string>
+  <string name="erase_external_storage_description">Vee al die data op die SD-kaart uit, soos musiek of foto's.</string>
+  <string name="external_data_size_label">SD-kaart</string>
+  <string name="fih_color_picker_blue">Blou</string>
+  <string name="fih_color_picker_green">Groen</string>
+  <string name="fih_color_picker_orange">Oranje</string>
+  <string name="fih_color_picker_pink">Pienk</string>
+  <string name="fih_color_picker_purple">Pers</string>
+  <string name="fih_color_picker_yellow">Geel</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">Bevestig</string>
+  <string name="fih_message_vibrate">Vibreer</string>
+  <string name="fih_ringtone_add">Voeg by</string>
+  <string name="fih_ringtone_remove">Verwyder</string>
+  <string name="fih_ringtone_select_all">Alles</string>
+  <string name="filter_apps_onsdcard">Op SD-kaart</string>
+  <string name="fingerprint_enroll_button_next">Volgende</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Swiep na onder op die vingerafdruksensor aan die agterkant van jou foon om jou kennisgewings na te gaan.</string>
+  <string name="font_setting_title">Fontstyl</string>
+  <string name="font_size_save">OK</string>
+  <string name="forget">Vergeet</string>
+  <string name="gesture_preference_summary">Vinnige gebare om jou foon te beheer</string>
+  <string name="gesture_setting_off">Af</string>
+  <string name="gesture_setting_on">Aan</string>
+  <string name="hdmi_auto">OUTO</string>
+  <string name="install_all_warning">Jou foon en persoonlike data is meer kwesbaar vir aanvalle deur onbekende programme. Deur programme van hierdie bron af te installeer, stem jy in dat jy verantwoordelik is vir enige skade aan jou foon of verlies van data wat uit hul gebruik kan spruit.</string>
+  <string name="intent_sender_account_label">Rekening</string>
+  <string name="keyboard_layout_default_label">Verstek</string>
+  <string name="launch_instant_app">Maak oop</string>
+  <string name="link_speed">%1$d Mbps</string>
+  <string name="locale_default">Verstek</string>
+  <string name="location_off_summary">Af</string>
+  <string name="location_on_summary">Aan</string>
+  <string name="location_street_level">Laat programme toe om GPS op jou foon te gebruik om jou ligging presies vas te stel</string>
+  <string name="lock_screen_intro_skip_dialog_text">Toestelbeskermingkenmerke sal nie aangeskakel word nie. Jy sal nie ander mense kan keer om hierdie foon te gebruik as dit verloor of gesteel word nie.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Toestelbeskermingkenmerke sal nie aangeskakel word nie. Jy sal nie ander mense kan keer om hierdie te foon gebruik as dit verloor, gesteel of teruggestel word nie.</string>
+  <string name="lockpassword_cancel_label">Kanselleer</string>
+  <string name="lockpattern_tutorial_cancel_label">Kanselleer</string>
+  <string name="lockpattern_tutorial_continue_label">Volgende</string>
+  <string name="manage_trust_agents_summary">Geen</string>
+  <string name="manual">Handmatig</string>
+  <string name="master_clear_accounts">
+
+Jy is tans aangemeld by die volgende rekeninge:
+</string>
+  <string name="master_clear_button_text">Stel foon terug</string>
+  <string name="master_clear_desc">Dit sal al die data uit jou foon se <b>interne geheue</b> uitvee, insluitend: 
+
+<li>jou Google-rekening</li><li>stelsel- en programdata en instellings</li><li>afgelaaide programme</li></string>
+  <string name="master_clear_desc_erase_external_storage">
+
+Om musiek, prente en ander gebruikersdata uit te vee, moet die <b>SD-kaart</b> uitgevee word.</string>
+  <string name="master_clear_other_users_present">
+
+Daar is ander gebruikers op hierdie toestel teenwoordig.
+</string>
+  <string name="media_output_summary">Foon</string>
+  <string name="media_output_summary_unavailable">Onbeskikbaar</string>
+  <string name="menu_save">Stoor</string>
+  <string name="motion_turn_over_reject_call_help">Wanneer 'n oproep inkom, draai die foon om om oproep te weier</string>
+  <string name="motion_volume_quiet_pickup_help">Wanneer 'n oproep inkom, tel dit op om die luitoon te doof terwyl die foon horisontaal is</string>
+  <string name="motion_volume_quiet_pickup_title">Doof tydens optel</string>
+  <string name="move_app_to_internal">Skuif na foon</string>
+  <string name="move_app_to_sdcard">Skuif na SD-kaart</string>
+  <string name="mvno_type_none">Geen</string>
+  <string name="my_device_info_account_preference_title">Rekening</string>
+  <string name="my_device_info_device_name_preference_title">Toestelnaam</string>
+  <string name="network_scorer_picker_none_preference">Geen</string>
+  <string name="new_device_suggestion_summary">Kry 'n kykie van jou nuwe foon</string>
+  <string name="next_label">Volgende</string>
+  <string name="nfc_payment_default_not_set">Nie gestel nie</string>
+  <string name="nfc_quick_toggle_summary">Laat dataruiling toe wanneer die foon aan 'n ander toestel raak</string>
+  <string name="nfc_service_summary_disabled">Gedeaktiveer</string>
+  <string name="nfc_service_summary_enabled">Geaktiveer</string>
+  <string name="night_display_auto_mode_never">Geen</string>
+  <string name="night_display_status_title">Status</string>
+  <string name="notification_listener_disable_warning_cancel">Kanselleer</string>
+  <string name="notification_toggle_off">Af</string>
+  <string name="notification_toggle_on">Aan</string>
+  <string name="notification_volume_title">Kennisgewing</string>
+  <string name="notifications_disabled">Af</string>
+  <string name="notifications_enabled">Aan</string>
+  <string name="okay">OK</string>
+  <string name="owner_info_settings_summary">Geen</string>
+  <string name="passpoint_content">%1$s aanmeldinligting</string>
+  <string name="passpoint_label">Gestoor via</string>
+  <string name="phone_info_label">Fooninligting</string>
+  <string name="please_select_phase2">Fase 2-stawing</string>
+  <string name="power_idle">Foon ledig</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Foon kan binnekort afgaan</string>
+  <string name="power_remaining_duration_shutdown_imminent">Foon kan binnekort afgaan (%1$s)</string>
+  <string name="poweroff_animation_summary">Speel afskakelingsanimasie</string>
+  <string name="poweroff_animation_title">Afskakelingsanimasie</string>
+  <string name="preference_change_password_title">Verander wagwoord</string>
+  <string name="prevent_ringing_option_none_summary">Af</string>
+  <string name="print_cancel">Kanselleer</string>
+  <string name="print_feature_state_off">Af</string>
+  <string name="print_feature_state_on">Aan</string>
+  <string name="print_settings_summary_no_service">Af</string>
+  <string name="proxy_error">Aandag</string>
+  <string name="proxy_error_dismiss">OK</string>
+  <string name="proxy_error_empty_host_set_port">Die poort-veld moet leeg wees as die gasheer-veld leeg is.</string>
+  <string name="proxy_error_empty_port">Jy moet die poort-veld voltooi.</string>
+  <string name="proxy_error_invalid_exclusion_list">Die uitsluitlys wat jy ingetik het, is nie behoorlik geformateer nie.Tik 'n kommageskeide lys van uitgeslote domeine in.</string>
+  <string name="proxy_error_invalid_port">Die poort wat jy ingevoer het, is nie geldig nie.</string>
+  <string name="proxy_exclusionlist_label">Omseil instaanbediener vir</string>
+  <string name="proxy_hostname_label">Instaanbediener-gasheernaam</string>
+  <string name="proxy_port_label">Instaanbediener-poort</string>
+  <string name="proxy_settings_title">Instaanbediener</string>
+  <string name="proxy_url_title">PAC-URL:</string>
+  <string name="proxy_warning_limited_support">Die HTTP-instaanbediener word deur die blaaier gebruik, maar kan nie deur die ander programme gebruik word nie.</string>
+  <string name="radioInfo_data_connected">Gekoppel</string>
+  <string name="radioInfo_data_disconnected">Ontkoppel</string>
+  <string name="radioInfo_data_suspended">Opgeskort</string>
+  <string name="radio_info_ims_feature_status_unavailable">Onbeskikbaar</string>
+  <string name="radio_off_during_emergency_call">Kan nie SIM-kaart afskakel tydens ŉ noodoproep nie.</string>
+  <string name="really_remove_account_message">Verwydering van hierdie rekening sal ook al sy boodskappe, kontakte en ander data van die foon uitvee!</string>
+  <string name="reset_network_desc">Dit sal alle netwerkinstellings terugstel, insluitend:
+
+<li>Wi‑Fi</li><li>Sellulêre data</li><li>Bluetooth</li></string>
+  <string name="restriction_nfc_enable_summary">Laat dataruiling toe wanneer die foon aan 'n ander toestel raak</string>
+  <string name="retail_demo_reset_next">Volgende</string>
+  <string name="roaming_warning_multiuser">As jy dataswerwing toelaat, kan hoë swerwingskoste jou in die gesig staar! 
+
+Hierdie instelling beïnvloed alle gebruikers op hierdie foon.</string>
+  <string name="running_frequency">Frekwensie</string>
+  <string name="runningservicedetails_stop_dlg_text">As jy hierdie diens stop sal sommige eienskappe van jou foon dalk nie behoorlik werk nie totdat jy dit eers aan- en af skakel.</string>
+  <string name="save">Stoor</string>
+  <string name="saved_network">Gestoor deur %1$s</string>
+  <string name="screen_zoom_summary_default">Verstek</string>
+  <string name="screensaver_settings_summary_off">Af</string>
+  <string name="sd_card_settings_label">SD-kaart</string>
+  <string name="sd_card_storage">SD-kaartberging</string>
+  <string name="sd_eject">Ontkoppel SD-kaart</string>
+  <string name="sd_eject_summary">Ontheg die SD-kaart sodat jy dit veilig kan verwyder</string>
+  <string name="sd_format">Vee SD-kaart uit</string>
+  <string name="sd_format_summary">Vee alle data op die SD-kaart uit, soos musiek en foto's</string>
+  <string name="sd_insert_summary">Steek 'n SD-kaart in vir hegting</string>
+  <string name="sd_memory">SD-kaart</string>
+  <string name="sd_mount">Heg SD-kaart</string>
+  <string name="sdcard_format">Vee SD-kaart uit</string>
+  <string name="sdcard_setting">SD-kaart</string>
+  <string name="sdcard_settings_bad_removal_status">SD-kaart is uitgehaal terwyl dit nog in gebruik was!</string>
+  <string name="sdcard_settings_mass_storage_status">SD-kaart word gebruik as bergingstoestel.</string>
+  <string name="sdcard_settings_not_present_status">Geen SD-kaart nie.</string>
+  <string name="sdcard_settings_read_only_status">SD-kaart is leesalleen geheg.</string>
+  <string name="sdcard_settings_scanning_status">Skandeer tans SD-kaart vir media…</string>
+  <string name="sdcard_settings_unmounted_status">Dit is nou veilig om die SD-kaart uit te haal.</string>
+  <string name="sdcard_unmount">Ontkoppel SD-kaart</string>
+  <string name="security_passwords_title">Privaatheid</string>
+  <string name="security_settings_desc">Hierdie program het toegang die volgende op jou foon:</string>
+  <string name="security_settings_desc_multi">Hierdie program het toegang tot die volgende inligting op jou foon. Om prestasie te verbeter en geheuegebruik te verminder, is sommige van hierdie toestemmings vir %1$s beskikbaar, want dit loop in dieselfde proses as %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Vee uit</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">Naam</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">Kanselleer</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Volgende</string>
+  <string name="settings_manual_activity_title">Handmatig</string>
+  <string name="setup_lock_settings_picker_message">Keer ander mense om hierdie foon sonder jou toestemming te gebruik deur kenmerke vir toestelbeskerming te aktiveer. Kies die skermslot wat jy wil gebruik.</string>
+  <string name="setup_lock_settings_picker_title">Beskerm jou foon</string>
+  <string name="show_operator_name_title">Netwerknaam</string>
+  <string name="sim_card_select_title">Kies SIM-kaart</string>
+  <string name="sim_editor_title">SIM-gleuf %1$d</string>
+  <string name="sim_enabler_both_inactive">Fout, kan nie al die SIM's deaktiveer nie</string>
+  <string name="sim_enabler_disabling">Deaktiveer tans …</string>
+  <string name="sim_enabler_need_switch_data_service">Sal dit deaktiveer en oorskakel na SIM%1$s vir datadienste; is jy seker?</string>
+  <string name="sim_enter_cancel">Kanselleer</string>
+  <string name="sim_enter_ok">OK</string>
+  <string name="sim_lock_off">Benodig PIN om foon te gebruik</string>
+  <string name="sim_lock_on">Benodig PIN om foon te gebruik</string>
+  <string name="sim_lock_settings_summary_off">Af</string>
+  <string name="smart_battery_footer">Wanneer Batterybestuurder bespeur dat programme jou battery leegmaak, het jy die opsie om daardie programme te beperk. Beperkte programme sal dalk nie behoorlik werk nie en kennisgewings sal dalk vertraag word.</string>
+  <string name="sound_enhance_hifi_mode">Hi-Fi-modus</string>
+  <string name="sound_enhance_hifi_mode_summary">Hoë getrouheid</string>
+  <string name="status_number">Foonnommer</string>
+  <string name="status_number_sim_slot">Foonnommer (SIM-gleuf %1$d)</string>
+  <string name="status_number_sim_status">Foonnommer op SIM</string>
+  <string name="status_signal_strength">Seinsterkte</string>
+  <string name="storage_manager_indicator_off">Af</string>
+  <string name="storage_manager_indicator_on">Aan</string>
+  <string name="storage_menu_forget">Vergeet</string>
+  <string name="storage_settings_summary">Ontheg SD-kaart; kyk hoeveel stoorplek beskikbaar is</string>
+  <string name="storage_wizard_init_v2_internal_action">Foonberging</string>
+  <string name="storage_wizard_init_v2_internal_summary">Net vir programme, lêers en media op hierdie foon</string>
+  <string name="storage_wizard_init_v2_internal_title">Gebruik vir ekstra foonberging</string>
+  <string name="storage_wizard_migrate_v2_body">Jy kan lêers, media en sekere programme na hierdie ^1 toe skuif. 
+
+Dit sal ^2 van jou foon se bergingspasie beskikbaar maak en sal waarskynlik sowat ^3 neem.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">Hou hierdie foon gelaai</string>
+  <string name="sub_activate_failed">Aktivering het misluk.</string>
+  <string name="sub_deactivate_failed">Deaktivering het misluk.</string>
+  <string name="suggested_lock_settings_summary">Stel skermslot om foon te beskerm</string>
+  <string name="suggestion_button_text">OK</string>
+  <string name="switch_off_text">Af</string>
+  <string name="switch_on_text">Aan</string>
+  <string name="testing_phone_info">Fooninligting</string>
+  <string name="tts_install_voices_cancel">Kanselleer</string>
+  <string name="two_cdma_dialog_msg">Gleuwe 1 en 2 kan nie gelyktydig CDMA ondersteun nie.</string>
+  <string name="unlock_set_unlock_mode_off">Geen</string>
+  <string name="unlock_set_unlock_mode_password">Wagwoord</string>
+  <string name="unlock_set_unlock_off_title">Geen</string>
+  <string name="unlock_set_unlock_password_title">Wagwoord</string>
+  <string name="unmount_inform_text">SD-kaart sal ontheg word.</string>
+  <string name="unsupported_setting_summary">Instelling word nie op hierdie foon gesteun nie</string>
+  <string name="usage_type_phone">Foon</string>
+  <string name="usage_type_video">Video</string>
+  <string name="usb_tethering_subtext">Deel foon se internetverbinding via USB</string>
+  <string name="user_cannot_manage_message">Net die eienaar van die foon kan gebruikers bestuur.</string>
+  <string name="user_confirm_remove_self_message">Jy sal jou ruimte en data op hierdie foon verloor. Jy kan nie hierdie handeling ontdoen nie.</string>
+  <string name="user_delete_button">Vee uit</string>
+  <string name="user_dict_settings_add_dialog_confirm">OK</string>
+  <string name="user_dict_settings_context_menu_delete_title">Vee uit</string>
+  <string name="vision_settings_title">Visie-instellings</string>
+  <string name="vpn_cancel">Kanselleer</string>
+  <string name="vpn_connect">Koppel</string>
+  <string name="vpn_disconnected_summary">Geen</string>
+  <string name="vpn_forget">Vergeet</string>
+  <string name="vpn_lockdown_none">Geen</string>
+  <string name="vpn_name">Naam</string>
+  <string name="vpn_password">Wagwoord</string>
+  <string name="vpn_save">Stoor</string>
+  <string name="vpn_username">Gebruikernaam</string>
+  <string name="wallpaper_settings_summary_default">Verstek</string>
+  <string name="wapi_auto_sel_cert">Kies outomaties</string>
+  <string name="wapi_cert_manage_title">WAPI-sertifikaatbestuur</string>
+  <string name="wifi_add_network">Voeg netwerk by</string>
+  <string name="wifi_advanced_ip_address_title">IP-adres</string>
+  <string name="wifi_advanced_settings_label">IP-instellings</string>
+  <string name="wifi_advanced_toggle_description_collapsed">"Gevorderde opsies"-aftreklys.Dubbelklik om uit te vou.</string>
+  <string name="wifi_advanced_toggle_description_expanded">"Gevorderde opsies"-aftreklys.Dubbelklik om in te vou.</string>
+  <string name="wifi_ap_2G">2,4 GHz</string>
+  <string name="wifi_ap_blocked_title">Geblokkeerde gebruikers</string>
+  <string name="wifi_ap_choose_auto">Outomaties</string>
+  <string name="wifi_ap_client_block_title">Blokkeer</string>
+  <string name="wifi_ap_client_details_title">Besonderhede</string>
+  <string name="wifi_ap_client_ip_label">IP-adres</string>
+  <string name="wifi_ap_client_mac_label">MAC-adres:</string>
+  <string name="wifi_ap_client_unblock_title">Deblokkeer</string>
+  <string name="wifi_ap_connected_title">Verbinde gebruikers</string>
+  <string name="wifi_ap_max_connection_title">Maksimum verbindings</string>
+  <string name="wifi_ap_reset_OOB">Stel OOB terug</string>
+  <string name="wifi_ap_reset_OOB_title">Stel netwerk-SSID, sekuriteit en wagwoord terug na verstek (uit-die-boks-konfigurasie vir WPS)</string>
+  <string name="wifi_ap_wps_dialog_title">WPS-koppel</string>
+  <string name="wifi_ap_wps_mode_title">WPS-modus</string>
+  <string name="wifi_ap_wps_pin_title">Tik PIN vanaf kliënt in</string>
+  <string name="wifi_band_24ghz">2,4 GHz</string>
+  <string name="wifi_band_5ghz">5 GHz</string>
+  <string name="wifi_calling_dialog_comfirm">Moet nie weer wys nie.</string>
+  <string name="wifi_calling_dialog_msg">Noodoproepe nie moontlik via Wi-Fi-oproepe nie.Die toestel wissel outomaties na 'n sellulêre netwerk (2G/3G) om 'n noodoproep te maak.Noodoproepe is slegs moontlik in gebiede met sellulêre dekking.</string>
+  <string name="wifi_calling_dialog_title">Noodoproepe via Wi-Fi-oproepe</string>
+  <string name="wifi_calling_notifybar_msg">Noodoproepe in gebiede met slegs sellulêre dekking</string>
+  <string name="wifi_calling_notifybar_title">Vodafone-Wi-Fi-oproepe</string>
+  <string name="wifi_cancel">Kanselleer</string>
+  <string name="wifi_connect">Koppel</string>
+  <string name="wifi_disabled_generic">Gedeaktiveer</string>
+  <string name="wifi_disabled_network_failure">Kon nie IP opstel nie</string>
+  <string name="wifi_disabled_password_failure">Kon nie staaf nie</string>
+  <string name="wifi_display_options_forget">Vergeet</string>
+  <string name="wifi_display_options_name">Naam</string>
+  <string name="wifi_display_status_connected">Gekoppel</string>
+  <string name="wifi_display_status_not_available">Onbeskikbaar</string>
+  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_do_not_provide_eap_user_cert">Moenie verskaf nie</string>
+  <string name="wifi_do_not_validate_eap_server">Moenie staaf nie</string>
+  <string name="wifi_do_not_validate_eap_server_warning">Geen sertifikaat gespesifiseer nie.Jou verbinding sal nie privaat wees nie.</string>
+  <string name="wifi_eap_anonymous">Anonieme identiteit</string>
+  <string name="wifi_eap_ca_cert">CA-sertifikaat</string>
+  <string name="wifi_eap_domain">Domein</string>
+  <string name="wifi_eap_identity">Identiteit</string>
+  <string name="wifi_eap_method">EAP-metode</string>
+  <string name="wifi_eap_user_cert">Gebruikersertifikaat</string>
+  <string name="wifi_fail_to_scan">Kan nie vir netwerke soek nie</string>
+  <string name="wifi_failed_connect_message">Kon nie aan netwerk koppel nie</string>
+  <string name="wifi_failed_forget_message">Kon netwerk nie vergeet nie</string>
+  <string name="wifi_failed_save_message">Kon nie netwerk stoor nie</string>
+  <string name="wifi_forget">Vergeet</string>
+  <string name="wifi_frequency">Frekwensie</string>
+  <string name="wifi_gateway">Deurgang</string>
+  <string name="wifi_hotspot_tethering_on_subtext">Deel tans hierdie foon se internetverbinding via warmkol</string>
+  <string name="wifi_ip_address">IP-adres</string>
+  <string name="wifi_ip_settings">IP-instellings</string>
+  <string name="wifi_ip_settings_invalid_dns">Voer 'n geldige DNS-adres in.</string>
+  <string name="wifi_ip_settings_invalid_gateway">Voer 'n geldige deurgangadres in.</string>
+  <string name="wifi_ip_settings_invalid_ip_address">Voer 'n geldige IP-adres in.</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Voer 'n netwerkvoorvoegsel in met lengte tussen 0 en 32.</string>
+  <string name="wifi_ip_settings_menu_cancel">Kanselleer</string>
+  <string name="wifi_ip_settings_menu_save">Stoor</string>
+  <string name="wifi_menu_advanced">Gevorderd</string>
+  <string name="wifi_multiple_cert_added">(Meerdere sertifikate is bygevoeg)</string>
+  <string name="wifi_network_prefix_length">Lengte van netwerkvoorvoegsel</string>
+  <string name="wifi_no_domain_warning">Moet 'n domein spesifiseer.</string>
+  <string name="wifi_no_internet_no_reconnect">Sal nie outomaties koppel nie</string>
+  <string name="wifi_not_in_range">Nie binne omvang nie</string>
+  <string name="wifi_password">Wagwoord</string>
+  <string name="wifi_remembered">Gestoor</string>
+  <string name="wifi_save">Stoor</string>
+  <string name="wifi_security">Sekuriteit</string>
+  <string name="wifi_security_none">Geen</string>
+  <string name="wifi_setup_add_network">Voeg netwerk by</string>
+  <string name="wifi_setup_back">Terug</string>
+  <string name="wifi_setup_cancel">Kanselleer</string>
+  <string name="wifi_setup_connect">Koppel</string>
+  <string name="wifi_setup_forget">Vergeet</string>
+  <string name="wifi_setup_next">Volgende</string>
+  <string name="wifi_setup_save">Stoor</string>
+  <string name="wifi_setup_status_connecting">Koppel tans…</string>
+  <string name="wifi_shared">Deel met ander toestelgebruikers</string>
+  <string name="wifi_show_advanced">Gevorderde opsies</string>
+  <string name="wifi_show_password">Wys wagwoord</string>
+  <string name="wifi_signal">Seinsterkte</string>
+  <string name="wifi_speed">Koppelspoed</string>
+  <string name="wifi_ssid">Netwerknaam</string>
+  <string name="wifi_ssid_hint">Voer die SSID in</string>
+  <string name="wifi_status">Status</string>
+  <string name="wifi_tether_auto_disable_title">Hou Wi‑Fi-warmkol aan</string>
+  <string name="wifi_tether_wps_connect_summary">Gekose Wi-FI beskermde opstellingmodus om voort te gaan</string>
+  <string name="wifi_tether_wps_connect_title">WPS-koppel</string>
+  <string name="wifi_tether_wps_pin_error">Ongeldige PIN</string>
+  <string name="wifi_tethering_title">Wi‑Fi-warmkol</string>
+  <string name="wifi_unchanged">(onveranderd)</string>
+  <string name="wifi_unspecified">Kies asseblief</string>
+  <string name="wifi_use_system_certs">Gebruik stelselsertifikate</string>
+  <string name="wizard_back">Terug</string>
+  <string name="wizard_next">Volgende</string>
+  <string name="zen_mode_delete_rule_button">Vee uit</string>
+  <string name="zen_mode_from_none">Geen</string>
+  <string name="zen_mode_no_exceptions">Geen</string>
+  <string name="zen_mode_rule_delete_button">Vee uit</string>
+  <string name="zen_mode_schedule_rule_days_none">Geen</string>
+  <string name="zen_mode_sound_summary_off">Af</string>
+  <string name="zen_mode_sound_summary_on">Aan</string>
+  <string name="zzz_certification_settings_title">Sertifisering</string>
+  <string name="zzz_fih_invalid_battery_charging">Egte batterye word aanbeveel; ongoedgekeurde batterye kan onverwagse gevare soos brand of ontploffing veroorsaak.</string>
+  <string name="zzz_hmd_open_source_info_text">Oopbronsagteware 
+
+Hierdie produk sluit oopbronsagteware in wat onder die GPL en LGPL gelisensieer is. HMD bied aan om u van die bronkode te voorsien, soos in die toepaslike oopbron-sagtewarelisensie gedefinieer is. Stuur asseblief ´n geskrewe versoek aan:
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Finland. Hierdie aanbod is vir ´n tydperk van drie (3) jaar geldig vanaf die verspreidingsdatum van hierdie produk deur HMD. Deur ´n versoek in te dien, gee u u toestemming dat HMD (of derde partye names en onder regstreekse gesag van HMD) u persoonlike data sal verwerk.
+
+Die dataverwerking sal vir die doel van die versoek gedoen word in ooreenstemming met HMD-privaatheidsbeleid en toepaslike wetgewing.</string>
+  <string name="zzz_hmd_open_source_info_title">HMD-oopbroninligting</string>
+  <string name="zzz_roaming_item_title">Globale data</string>
+  <string name="zzz_security_power_off_password_summary">Voer toestelwagwoord in vir krag af / herbegin</string>
+  <string name="zzz_security_power_off_password_title">Krag af- / herbegin-slot</string>
+  <string name="zzz_sim_no_services">Geen diens nie</string>
+  <string name="zzz_version">Weergawe</string>
+</resources>

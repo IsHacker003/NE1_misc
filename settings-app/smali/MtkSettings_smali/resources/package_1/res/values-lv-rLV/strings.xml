@@ -1,0 +1,980 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">Par tālruni</string>
+  <string name="accelerometer_summary_off">Automātiski pārslēgt orientāciju, kad tālrunis tiek pagriezts</string>
+  <string name="accelerometer_summary_on">Automātiski pārslēgt orientāciju, kad tālrunis tiek pagriezts</string>
+  <string name="accessibility_category_work">Darba profila konti — %s</string>
+  <string name="accessibility_feature_state_off">Izslēgts</string>
+  <string name="accessibility_feature_state_on">Ieslēgts</string>
+  <string name="accessibility_lock_screen_progress">Izmantota %1$d no %2$d rakstzīmēm</string>
+  <string name="accessibility_personal_account_title">Personīgais konts — %s</string>
+  <string name="accessibility_summary_state_disabled">Izslēgts</string>
+  <string name="accessibility_summary_state_enabled">Ieslēgts</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Automātiska atjauninājumu ekrāna palielināšana</string>
+  <string name="accessibility_vibration_intensity_off">Izslēgts</string>
+  <string name="accessibility_vibration_settings_title">Vibrācija</string>
+  <string name="accessibility_work_account_title">Darba konts — %s</string>
+  <string name="account_settings_menu_auto_sync_personal">Automātiski sinhronizēt personas datus</string>
+  <string name="account_settings_menu_auto_sync_work">Automātiski sinhronizēt darba datus</string>
+  <string name="activity_not_found">Lietotne nav instalēta tālrunī.</string>
+  <string name="additional_permissions_more">Vairāk %1$d</string>
+  <string name="advanced_apps">Papildu</string>
+  <string name="advanced_section_header">Papildu</string>
+  <string name="advanced_security_title">Papildu</string>
+  <string name="allow_bind_app_widget_activity_allow_bind">Pēc logrīka izveides %1$s var piekļūt visiem tā rādītajiem datiem.</string>
+  <string name="allow_bind_app_widget_activity_always_allow_bind">Vienmēr atļaut %1$s izveidot logrīkus un piekļūt to datiem</string>
+  <string name="always_running">Vienmēr darbojas (%s)</string>
+  <string name="ambient_display_pickup_summary">Lai skatītu laiku, paziņojumu ikonas un citu informāciju, paņemiet tālruni.</string>
+  <string name="ambient_display_pickup_title">Paceliet, lai pārbaudītu tālruni</string>
+  <string name="ambient_display_title">Divreiz pieskarieties, lai pārbaudītu tālruni</string>
+  <string name="android_beam_off_summary">Izslēgts</string>
+  <string name="apn_apn">APN</string>
+  <string name="apn_auth_type">Autentifikācijas veids</string>
+  <string name="apn_auth_type_chap">CHAP</string>
+  <string name="apn_auth_type_none">Nav</string>
+  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_pap_chap">PAP vai CHAP</string>
+  <string name="apn_http_port">Ports</string>
+  <string name="apn_http_proxy">Starpniekserveris</string>
+  <string name="apn_mcc">MCC</string>
+  <string name="apn_mms_port">MMS ports</string>
+  <string name="apn_mms_proxy">MMS starpniekserveris</string>
+  <string name="apn_mmsc">MMSC</string>
+  <string name="apn_mnc">MNC</string>
+  <string name="apn_name">Vārds</string>
+  <string name="apn_not_set">Nav iestatīts</string>
+  <string name="apn_password">Parole</string>
+  <string name="apn_server">Serveris</string>
+  <string name="apn_type">APN veids</string>
+  <string name="apn_user">Lietotājvārds</string>
+  <string name="app_install_details_summary">Lietotne instalēta no %1$s</string>
+  <string name="app_list_preference_none">Nav</string>
+  <string name="app_notification_row_banned">Bloķēti</string>
+  <string name="app_sees_restricted_accounts">Šī lietotne var piekļūt jūsu kontiem</string>
+  <string name="app_sees_restricted_accounts_and_controlled_by">Šī lietotne var piekļūt jūsu kontiem. Kontrolē %1$s</string>
+  <string name="apps_summary">Instalētas %1$d lietotnes</string>
+  <string name="apps_with_restrictions_header">Lietotnes ar ierobežojumiem</string>
+  <string name="apps_with_restrictions_settings_button">Izvērst lietotnes iestatījumus</string>
+  <string name="assist_flash_summary">Rādīt mirgojošas ekrāna malas, kad palīdzības lietotne piekļūst ekrāna vai ekrānuzņēmuma tekstam</string>
+  <string name="assist_flash_title">Rādīt mirgojošas ekrāna malas</string>
+  <string name="assistant_security_warning_agree">Piekrist</string>
+  <string name="assistant_security_warning_title">Vai padarīt %s par palīgu?</string>
+  <string name="auto_boot_pref_title">Automātiskas sākšanas pārvaldība</string>
+  <string name="auto_brightness_default_title">Noklusējums</string>
+  <string name="auto_brightness_off_title">Izslēgts</string>
+  <string name="auto_brightness_summary_off">Izslēgts</string>
+  <string name="auto_punctuate_summary">Divreiz nospiediet atstarpes taustiņu, lai ievietotu "."</string>
+  <string name="automatic_storage_manager_activation_warning">Krātuvi tagad pārvalda krātuves pārvaldnieks</string>
+  <string name="automatic_storage_manager_days_title">Noņemt fotoattēlus un video</string>
+  <string name="automatic_storage_manager_freed_bytes">Kopā padarīti pieejami %1$s
+
+Pēdējoreiz palaists %2$s</string>
+  <string name="automatic_storage_manager_preference_title">Krātuves pārvaldnieks</string>
+  <string name="automatic_storage_manager_settings">P?rvald?t kr?tuvi</string>
+  <string name="automatic_storage_manager_text">Lai atbrīvotu vietu krātuvē, krātuves pārvaldnieks ierīcē noņem dublētos fotoattēlus un video.</string>
+  <string name="available_via_passpoint">Pieejams, izmantojot %1$s</string>
+  <string name="background_data_dialog_message">Atspējojot fona datus, tiek pagarināts akumulatora darbības laiks un samazināts datu lietojums. Dažas lietotnes, iespējams, joprojām lieto fona datu savienojumu.</string>
+  <string name="background_data_summary">Lietotnes var jebkurā laikā veikt sinhronizāciju, sūtīt un saņemt datus</string>
+  <string name="backup_pw_cancel_button_text">Atcelt</string>
+  <string name="band_mode_failed">Neizdevās</string>
+  <string name="band_mode_loading">Ielādē joslu sarakstu…</string>
+  <string name="battery_desc_standby">Akumulatora patēriņš dīkstāvē</string>
+  <string name="battery_manager_off">Izslēgts</string>
+  <string name="battery_saver_off_summary">Izslēgts</string>
+  <string name="battery_saver_on_summary">Ieslēgts</string>
+  <string name="battery_stats_duration">%1$s kopš atvienošanas</string>
+  <string name="battery_stats_on_battery">%1$s akumulatoram</string>
+  <string name="battery_suggestion_title">Tālruņa akumulatora darbības ilguma uzlabošana</string>
+  <string name="battery_tip_dialog_message">Jūsu tālrunis tika izmantots vairāk nekā parasti. Akumulators var izlādēties ātrāk nekā paredzēts.
+
+%1$d jūsu izmantotā(-ās) lietotne(-nes), kas kopš pēdējās uzlādes patērēja visvairāk akumulatora enerģijas:</string>
+  <string name="battery_tip_dialog_summary_message">Jūsu lietotnes patērē normālu akumulatora enerģijas apjomu. Ja lietotnes patērē pārāk daudz akumulatora enerģijas, jūsu tālrunī tiks parādītas ieteicamās darbības.
+
+Ja akumulatora uzlādes līmenis ir zems, varat jebkurā laikā ieslēgt akumulatora jaudas taupīšanas režīmu.</string>
+  <string name="battery_tip_high_usage_title">Tālrunis tika izmantots vairāk nekā parasti.</string>
+  <string name="battery_tip_restrict_app_dialog_ok">Ierobežot</string>
+  <string name="battery_tip_smart_battery_title">Tālruņa akumulatora darbības ilguma uzlabošana</string>
+  <string name="battery_tip_summary_summary">Tālrunis patērē normālu akumulatora enerģijas apjomu fonā</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">Atcelt</string>
+  <string name="bluetooth_ask_discovery">Tālrunī instalētā lietotnē %1$s tiek mēģināts uz %2$d sekundēm padarīt tālruni redzamu citām Bluetooth ierīcēm.</string>
+  <string name="bluetooth_ask_discovery_no_name">Tālrunī instalētā lietotnē tiek mēģināts uz %1$d sekundēm padarīt tālruni redzamu citām Bluetooth ierīcēm.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">Tālrunī instalētā lietotnē %1$s tiek mēģināts uz %2$d sekundēm ieslēgt Bluetooth savienojumu un padarīt tālruni redzamu citām ierīcēm.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">Tālrunī instalētā lietotnē tiek mēģināts uz %1$d sekundēm ieslēgt Bluetooth savienojumu un padarīt tālruni redzamu citām ierīcēm.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">Tālrunī instalētā lietotnē %1$s tiek mēģināts ieslēgt Bluetooth savienojumu un padarīt tālruni redzamu citām ierīcēm. Vēlāk varēsiet to mainīt Bluetooth iestatījumos.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Tālrunī instalētā lietotnē tiek mēģināts ieslēgt Bluetooth savienojumu un padarīt tālruni redzamu citām ierīcēm. Vēlāk varēsiet to mainīt Bluetooth iestatījumos.</string>
+  <string name="bluetooth_ask_lasting_discovery">Tālrunī instalētā lietotnē %1$s tiek mēģināts padarīt tālruni redzamu citām Bluetooth ierīcēm. Vēlāk varēsiet to mainīt Bluetooth iestatījumos.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">Tālrunī instalētā lietotnē tiek mēģināts padarīt tālruni redzamu citām Bluetooth ierīcēm. Vēlāk varēsiet to mainīt Bluetooth iestatījumos.</string>
+  <string name="bluetooth_confirm_passkey_msg">Lai sapārotu ar:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;pārliecinieties, vai tiek rādīta šī ieejas atslēga:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_connect_specific_profiles_title">Savienot ar…</string>
+  <string name="bluetooth_connecting">Notiek savienojuma izveide ar…</string>
+  <string name="bluetooth_connecting_error_message">Nevarēja izveidot savienojumu ar %1$s.</string>
+  <string name="bluetooth_connection_dialog_text">Vai vēlaties izveidot savienojumu ar "%1$s"?</string>
+  <string name="bluetooth_connection_notif_message">Pieskarieties, lai izveidotu savienojumu ar "%1$s".</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Izveidot savienojumu</string>
+  <string name="bluetooth_device_context_connect">Izveidot savienojumu</string>
+  <string name="bluetooth_device_context_connect_advanced">Opcijas…</string>
+  <string name="bluetooth_device_name">Ierīces nosaukums</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Atcelt</string>
+  <string name="bluetooth_disable_profile_message">Tā rīkojoties, tiks atspējots:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;no:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disabled">Izslēgts</string>
+  <string name="bluetooth_disconnect_a2dp_profile">%1$s atvienos savienojumu ar multivides audio.</string>
+  <string name="bluetooth_disconnect_all_profiles">Jūsu tālrunis tiks atvienots no ierīces %1$s.</string>
+  <string name="bluetooth_disconnect_headset_profile">%1$s atvienos savienojumu ar bezvadu audio.</string>
+  <string name="bluetooth_disconnect_hid_profile">%1$s atvienos savienojumu ar ievades ierīci.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">Ierīcei %1$s tiks pārtraukta šī tālruņa interneta savienojuma koplietošana.</string>
+  <string name="bluetooth_disconnect_pan_user_profile">Interneta piekļuve, izmantojot %1$s, tiks atvienota.</string>
+  <string name="bluetooth_disconnected">Atvienots</string>
+  <string name="bluetooth_disconnecting">Atvieno…</string>
+  <string name="bluetooth_display_passkey_pin_msg">Lai sapārotu ar ierīci:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;ievadiet:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, pēc tam nospiediet Atgriezties vai Enter.</string>
+  <string name="bluetooth_footer_mac_message">Tālruņa Bluetooth adrese: %1$s</string>
+  <string name="bluetooth_incoming_pairing_msg">No:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Vai savienot pārī ar ierīci?</string>
+  <string name="bluetooth_is_disconnect_question">Vai atvienot %1$s?</string>
+  <string name="bluetooth_is_discoverable">Redzama visām tuvumā esošām Bluetooth ierīcēm (%1$s)</string>
+  <string name="bluetooth_is_visible_message">%1$s ir redzama tuvumā esošām ierīcēm, kamēr ir atvērti Bluetooth iestatījumi.</string>
+  <string name="bluetooth_map_acceptance_dialog_text">%1$s vēlas piekļūt ziņojumiem. Vai piešķirt %2$s piekļuvi?</string>
+  <string name="bluetooth_menu_advanced">Papildu</string>
+  <string name="bluetooth_notif_message">Pieskarieties, lai savienotu pārī ar %1$s.</string>
+  <string name="bluetooth_pairing_decline">Atcelt</string>
+  <string name="bluetooth_pairing_dialog_contants_request">%1$s vēlas piekļūt kontaktiem un zvanu vēsturei.</string>
+  <string name="bluetooth_pairing_dialog_paring_request">%1$s vēlas savienot pārī ar Bluetooth. Kad savienojums ir izveidots, tai ir piekļuve kontaktiem un zvanu vēsturei.</string>
+  <string name="bluetooth_pairing_request">Vai savienot pārī ar %1$s?</string>
+  <string name="bluetooth_pref_summary">Ļaujiet tālrunim izveidot savienojumu ar tuvumā esošām Bluetooth ierīcēm.</string>
+  <string name="bluetooth_preference_paired_dialog_name_label">Vārds</string>
+  <string name="bluetooth_tethering_overflow_error">Nevar izveidot saiti ar vairāk par %1$d ierīcēm.</string>
+  <string name="bluetooth_tethering_subtext">Koplietojiet tālruņa interneta savienojumu, izmantojot Bluetooth</string>
+  <string name="bluetooth_turning_off">Izslēdz Bluetooth…</string>
+  <string name="bluetooth_turning_on">Ieslēdz Bluetooth…</string>
+  <string name="bluetooth_unpair_dialog_body">Jūsu tālrunis vairs nebūs savienots pārī ar ierīci %1$s</string>
+  <string name="bluetooth_untether_blank">%1$s saite tiks noņemta.</string>
+  <string name="boot_sounds_title">Ieslēgšanas signāli</string>
+  <string name="camera_firmware_version">Kameras aparātprogrammatūras versija</string>
+  <string name="cancel">Atcelt</string>
+  <string name="capabilities_list_title">%1$s nepieciešams:</string>
+  <string name="checking_decryption">Pārbauda…</string>
+  <string name="choose_spell_checker">Atlasīt pareizrakstības pārbaudītāju</string>
+  <string name="color_blue">Zila</string>
+  <string name="color_green">Zaļa</string>
+  <string name="color_mode_title">Krāsas</string>
+  <string name="color_none">Nav</string>
+  <string name="color_orange">Oranža</string>
+  <string name="color_purple">Violeta</string>
+  <string name="color_title">Krāsa</string>
+  <string name="color_unspecified">Noklusējums</string>
+  <string name="color_yellow">Dzeltena</string>
+  <string name="computing_size">Aprēķina…</string>
+  <string name="condition_device_muted_title">Tālruņa skaņa ir izslēgta</string>
+  <string name="condition_device_vibrate_summary">Zvani un paziņojumi aktivizēs tālruņa vibrāciju</string>
+  <string name="condition_device_vibrate_title">Tālrunim ir iestatīts vibrācijas režīms</string>
+  <string name="condition_expand_show">Rādīt</string>
+  <string name="condition_hotspot_summary">Pārvietojamais Wi-Fi tīklājs %1$s ir aktīvs, ierīces Wi-Fi ir izslēgts.</string>
+  <string name="condition_night_display_summary">Ekrāns tiek tonēts oranžā krāsā. Tas var palīdzēt iemigt.</string>
+  <string name="condition_night_display_title">Nakts apgaismojums ir ieslēgts</string>
+  <string name="connected_via_passpoint">Savienojums izveidots, izmantojot %1$s</string>
+  <string name="credentials_install">Instalēt no SD kartes</string>
+  <string name="credentials_install_summary">Instalēt sertifikātus no SD kartes</string>
+  <string name="credentials_not_erased">Akreditācijas datu krātuvi nevar izdzēst.</string>
+  <string name="credentials_reset_warning_plural">Nepareiza parole. Jums ir atlikuši %1$d mēģinājumi, līdz akreditācijas datu krātuve tiks izdzēsta.</string>
+  <string name="crypt_keeper_button_text">Šifrēt tālruni</string>
+  <string name="crypt_keeper_data_corrupt_summary">Ievadītā parole ir pareiza, bet diemžēl jūsu dati ir bojāti.
+
+Lai varētu atsākt lietot tālruni, ir jāatiestata rūpnīcas dati. Kad tālrunis būs atiestatīts, varēsiet atjaunot visus datus, kas bija dublēti jūsu Google kontā.</string>
+  <string name="crypt_keeper_desc">Varat šifrēt savus kontus, iestatījumus, lejupielādētās lietotnes un to datus, multivides un citu formātu failus. Pēc tālruņa šifrēšanas, pieņemot, ka esat iestatījis bloķēšanas ekrānu (t.i., izmantojot kombināciju, skaitlisku PIN kodu vai paroli), jums būs jāatbloķē ekrāns vai jāatšifrē tālrunis katru reizi, kad to ieslēgsiet. Vienīgais alternatīvais veids, kā atšifrēt tālruni, ir veikt rūpnīcas datu atiestatīšanu, izdzēšot visus datus.
+
+Šifrēšana ilgst vismaz stundu. Tālruņa akumulatoram šī procesa sākumā ir jābūt uzlādētam, un tālrunim visu procesa laiku ir jābūt pievienotam lādētājam. Ja tiks pārtraukta lādēšana, zaudēsiet daļu datu vai visus datus.</string>
+  <string name="crypt_keeper_encrypt_title">Šifrēt tālruni</string>
+  <string name="crypt_keeper_failed_summary">Šifrēšana tika pārtraukta, un to nevar pabeigt. Tālruņa dati vairs nav pieejami.
+
+Lai atsāktu lietot tālruni, ir jāveic rūpnīcas iestatījumu atiestatīšana. Kad pēc atiestatīšanas esat pabeidzis tālruņa iestatīšanu, varat atjaunot visus datus, kas tika dublēti jūsu Google kontā.</string>
+  <string name="crypt_keeper_final_desc">Šifrēšanas darbība ir neatgriezeniska; pārtraucot šifrēšanu, dati tiks zaudēti. Šifrēšana ilgst vienu stundu vai ilgāk, un tās laikā tālrunis vairākas reizes tiks restartēts.</string>
+  <string name="crypt_keeper_force_power_cycle">Lai atbloķētu tālruni, izslēdziet un atkal ieslēdziet to.</string>
+  <string name="crypt_keeper_setup_description">Uzgaidiet, kamēr tālrunis tiek šifrēts. Pabeigts(-i) ^1%.</string>
+  <string name="crypt_keeper_setup_time_remaining">Uzgaidiet, kamēr tālrunis tiek šifrēts. Atlikušais laiks: ^1</string>
+  <string name="daltonizer_mode_disabled">Atspējots</string>
+  <string name="data_protection_title">Datu aizsardzība</string>
+  <string name="data_saver_off">Izslēgts</string>
+  <string name="data_saver_on">Ieslēgts</string>
+  <string name="data_service_enable_mobile">Pagaidu datu pakalpojums</string>
+  <string name="data_service_prompt">Ar datiem neizmantota SIM karte VoLTE zvana laikā tiek izmantota datu pakalpojumam. Tas izraisa papildu SIM datu lietojumu.</string>
+  <string name="data_service_summary">Ar datiem neizmantota SIM karte VoLTE zvana laikā tiek izmantota datu pakalpojumam</string>
+  <string name="data_summary_format">%1$s izlietoti kopš %2$s</string>
+  <string name="data_usage_auto_sync_on_dialog">Visas izmaiņas, ko veiksiet kontos tīmeklī, tiks automātiski pārkopētas tālrunī.
+
+Dažos kontos tālrunī veiktās izmaiņas var automātiski pārkopēt tīmeklī. Šādi darbojas Google konts.</string>
+  <string name="data_usage_disable_wifi_limit">Iestatīt Wi‑Fi datu ierobežojumu</string>
+  <string name="data_usage_limit_dialog_mobile">Kad tālrunī būs sasniegts jūsu iestatītais ierobežojums, mobilie dati tiks izslēgti.
+
+Tā kā datu lietojums tiek noteikts tālrunī un jūsu mobilo sakaru operators var citādi uzskaitīt datu lietojumu, ieteicams iestatīt pārdomātu ierobežojumu.</string>
+  <string name="data_usage_list_none">Nav</string>
+  <string name="data_usage_received_sent">Saņemti %1$s, nosūtīti %2$s</string>
+  <string name="data_usage_restrict_background_multiuser">Ierobežojot mobilos fona datus, dažas lietotnes un pakalpojumi nedarbosies, ja nebūs savienojuma ar Wi-Fi tīklu.
+
+Šis iestatījums ietekmē visus šī tālruņa lietotājus.</string>
+  <string name="data_usage_summary_format">Izmantoti %1$s no datiem</string>
+  <string name="data_usage_total_during_range">Laika posmā %2$s: izlietoti aptuveni %1$s.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: izlietoti aptuveni %1$s, kā izmērīts tālrunī, kā noteicis tālrunis. Mobilo sakaru operatora datu uzskaite var atšķirties.</string>
+  <string name="data_used_template">Izlietots %1$s</string>
+  <string name="date_picker_title">Datums</string>
+  <string name="date_time_auto">Automātisks datums un laiks</string>
+  <string name="date_time_select_region">Reģions</string>
+  <string name="date_time_set_date_title">Datums</string>
+  <string name="decryption_settings_summary">Tālrunis nav šifrēts</string>
+  <string name="default_apps_title">Noklusējums</string>
+  <string name="default_keyboard_layout">Noklusējums</string>
+  <string name="default_spell_checker">Noklusējuma pareizrakstības pārbaudītājs</string>
+  <string name="default_theme">Noklusējums</string>
+  <string name="delete">Dzēst</string>
+  <string name="deletion_helper_manual_title">Manuāls</string>
+  <string name="deletion_helper_preference_title">Atbrīvot vietu tūlīt</string>
+  <string name="device_info_settings">Tālruņa statuss</string>
+  <string name="device_status">Statuss</string>
+  <string name="device_status_activity_title">Statuss</string>
+  <string name="device_status_summary">Tālruņa numurs, signāls u.c.</string>
+  <string name="dialog_background_check_message">Jūsu tālrunis nevar pārvaldīt akumulatora darbību kā parasti, jo lietotne %1$s arvien aktivizē jūsu tālruni.
+
+Lai novērstu šo problēmu, varat apturēt lietotnes %1$s darbību un neļaut tai darboties fonā.</string>
+  <string name="dialog_location_message">Jūsu tālrunis nevar pārvaldīt akumulatora darbību kā parasti, jo lietotne %1$s arvien pieprasa atrašanās vietas datus, kad neizmantojat lietotni.
+
+Lai novērstu šo problēmu, varat izslēgt atrašanās vietas datus šai lietotnei.</string>
+  <string name="dialog_stop_message">Jūsu tālrunis nevar pārvaldīt akumulatora darbību kā parasti, jo lietotne %1$s arvien aktivizē jūsu tālruni.
+
+Lai novērstu šo problēmu, varat apturēt lietotnes darbību.
+
+Ja problēma atkārtojas, iespējams, būs jāatinstalē lietotne, lai uzlabotu akumulatora darbību.</string>
+  <string name="dialog_stop_message_wakeup_alarm">Jūsu tālrunis nevar pārvaldīt akumulatora darbību kā parasti, jo lietotne %1$s arvien aktivizē jūsu tālruni.
+
+Lai novērstu šo problēmu, varat apturēt lietotnes %1$s darbību.
+
+Ja problēma atkārtojas, iespējams, būs jāatinstalē lietotne, lai uzlabotu akumulatora darbību.</string>
+  <string name="direct_boot_unaware_dialog_message">Piezīme. Pēc atsāknēšanas šī lietotne sāks darboties tikai pēc tam, kad atbloķēsit tālruni</string>
+  <string name="disable_service_message">Pieskaroties Labi, tiks apturēts %1$s.</string>
+  <string name="disable_service_title">Vai apturēt %1$s?</string>
+  <string name="disabled">Atspējots</string>
+  <string name="display_cutout_emulation_none">Nav</string>
+  <string name="display_vr_pref_low_persistence">Samazināt izplūdumu (ieteicams)</string>
+  <string name="display_vr_pref_off">Samazināt mirgošanu</string>
+  <string name="display_vr_pref_title">Kad ierīce ir VR režīmā</string>
+  <string name="dlg_cancel">Atcelt</string>
+  <string name="dlg_close">Aizvērt</string>
+  <string name="dlg_confirm_unmount_text">Ja atvienosiet SD karti, tiks apturēta dažu izmantoto lietotņu darbība; tās, iespējams, nebūs pieejamas līdz brīdim, kad atkal pievienosiet SD karti.</string>
+  <string name="dlg_confirm_unmount_title">Vai atvienot SD karti?</string>
+  <string name="dlg_error_unmount_text">Nevarēja atvienot SD karti. Vēlāk mēģiniet vēlreiz.</string>
+  <string name="dlg_ok">Labi</string>
+  <string name="dock_audio_summary_none">Tālrunis nav dokots</string>
+  <string name="dock_not_found_text">Pirms dokošanas skaņas iestatīšanas veiciet tālruņa dokošanu.</string>
+  <string name="dock_sounds_enable_summary_off">Neatskaņot skaņu, kad tālrunis tiek ievietots dokā vai tiek izņemts no tā</string>
+  <string name="dock_sounds_enable_summary_on">Atskaņot skaņu, kad tālrunis tiek ievietots dokā vai tiek izņemts no tā</string>
+  <string name="domain_url_section_title">Instalētās lietotnes</string>
+  <string name="domain_urls_summary_one">Atvērt %s</string>
+  <string name="domain_urls_summary_some">Atvērt %s un citus vietrāžus URL</string>
+  <string name="double_tap_power_for_camera_summary">Lai ātri atvērtu kameru, divreiz nospiediet ieslēgšanas/izslēgšanas pogu. Darbojas visos ekrānos</string>
+  <string name="double_twist_for_camera_mode_title">Apvērst kameru</string>
+  <string name="doze_always_on_title">Vienmēr ieslēgts</string>
+  <string name="enable_service_encryption_warning">Ja ieslēdzat %1$s, ierīce nevar izmantot ekrāna bloķēšanu, lai uzlabotu datu šifrēšanu.</string>
+  <string name="enable_service_password_reason">Tā kā %1$s ieslēgšana ietekmē datu šifrēšanu, nepieciešams apstiprināt paroli.</string>
+  <string name="enable_service_pattern_reason">Tā kā %1$s ieslēgšana ietekmē datu šifrēšanu, nepieciešams apstiprināt rakstu.</string>
+  <string name="enable_service_pin_reason">Tā kā %1$s ieslēgšana ietekmē datu šifrēšanu, nepieciešams apstiprināt PIN kodu.</string>
+  <string name="enable_service_title">Vai lietot %1$s?</string>
+  <string name="encrypt_talkback_dialog_message_password">Kad ievadāt savu paroli, lai palaistu šo ierīci, piekļuves pakalpojumi, piemēram, %1$s, nebūs vēl pieejami.</string>
+  <string name="encrypt_talkback_dialog_message_pattern">Kad ievadāt savu rakstu, lai palaistu šo ierīci, piekļuves pakalpojumi, piemēram, %1$s, nebūs vēl pieejami.</string>
+  <string name="encrypt_talkback_dialog_message_pin">Kad ievadāt savu PIN kodu, lai palaistu šo ierīci, piekļuves pakalpojumi, piemēram, %1$s, nebūs vēl pieejami.</string>
+  <string name="encrypt_talkback_dialog_require_pin">Vai pieprasīt PIN kodu?</string>
+  <string name="encryption_and_credential_settings_summary">Tālrunis ir šifrēts</string>
+  <string name="enterprise_privacy_none">Nav</string>
+  <string name="erase_esim_storage_description">Dzēsiet visas tālrunī esošās eSIM kartes. Veicot šo darbību, netiks atcelts jūsu mobilo pakalpojumu plāns.</string>
+  <string name="erase_external_storage">Dzēst SD karti</string>
+  <string name="erase_external_storage_description">Izdzēst visus SD kartē saglabātos datus, piemēram, mūziku vai fotoattēlus</string>
+  <string name="external_data_size_label">SD karte</string>
+  <string name="fih_color_picker_blue">Zila</string>
+  <string name="fih_color_picker_green">Zaļa</string>
+  <string name="fih_color_picker_orange">Oranža</string>
+  <string name="fih_color_picker_pink">Rozā</string>
+  <string name="fih_color_picker_purple">Violeta</string>
+  <string name="fih_color_picker_yellow">Dzeltena</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">Apstiprināt</string>
+  <string name="fih_message_sound_title_sim1">Ziņojumu signāls (SIM1)</string>
+  <string name="fih_message_sound_title_sim2">Ziņojumu signāls (SIM2)</string>
+  <string name="fih_message_vibrate">Vibrozvans</string>
+  <string name="fih_mtp_enable_dialog_content">Pēc savienojuma izveides varat pārsūtīt uzticama datora failus un piekļūt datiem tālrunī.</string>
+  <string name="fih_mtp_enable_dialog_title">Vai failu pārsūtīšanai izmantot USB?</string>
+  <string name="fih_music_song_count">dziesma(s)</string>
+  <string name="fih_ringtone_add">Pievienot</string>
+  <string name="fih_ringtone_deselect_all">Atcelt izvēli</string>
+  <string name="fih_ringtone_listview_empty">Nav mūzikas failu</string>
+  <string name="fih_ringtone_remove">Noņemt</string>
+  <string name="fih_ringtone_select_all">Viss</string>
+  <string name="fih_ringtone_selected">Atlasīts</string>
+  <string name="fih_ringtone_tab_folder">Mape</string>
+  <string name="fih_ringtone_tab_song">Dziesmas</string>
+  <string name="fih_sound_category_message_notirication_vibrate_title">Ziņojumu signāli un vibrācija</string>
+  <string name="filter_apps_onsdcard">SD kartē</string>
+  <string name="filter_enabled_apps">Instalētās lietotnes</string>
+  <string name="fingerprint_add_max">Varat pievienot līdz pat%d pirkstu nospiedumiem</string>
+  <string name="fingerprint_enroll_button_next">Tālāk</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Lai apskatītu paziņojumus, tālruņa aizmugurē pavelciet uz leju no pirkstu nospiedumu sensora</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Turpināt bez pirksta nospieduma</string>
+  <string name="fingerprint_unlock_title">Tālruni var atbloķēt, izmantojot pirksta nospiedumu. Drošības apsvērumu dēļ ir nepieciešama arī ekrāna rezerves atbloķēšanas iespēja.</string>
+  <string name="font_setting_title">Fonta stils</string>
+  <string name="font_size_save">Labi</string>
+  <string name="forget">Aizmirst</string>
+  <string name="gadget_brightness_template">Spilgtums %1$s</string>
+  <string name="gesture_preference_summary">Ātrie žesti tālruņa vadībai</string>
+  <string name="gesture_preference_title">Žesti</string>
+  <string name="gesture_setting_off">Izslēgts</string>
+  <string name="gesture_setting_on">Ieslēgts</string>
+  <string name="hardware_revision">Aparatūras versija</string>
+  <string name="hdmi_auto">AUTOMĀTISKI</string>
+  <string name="hdmi_video_resolution">Video izšķirtspēja</string>
+  <string name="ignore_optimizations_title">Vai atļaut %s ignorēt akumulatora optimizāciju?</string>
+  <string name="input_methods_settings_label_format">%1$s iestatījumi</string>
+  <string name="install_all_warning">Jūsu tālrunis un personīgie dati ir neaizsargātāki pret nezināmu lietotņu uzbrukumiem. Instalējot no šī avota iegūtas lietotnes, jūs piekrītat, ka esat atbildīgs par jebkādiem tālruņa bojājumiem vai datu zudumu, kas varētu rasties šo lietotņu izmantošanas dēļ.</string>
+  <string name="intent_sender_account_label">Konts</string>
+  <string name="intent_sender_action_label">Darbība:</string>
+  <string name="intent_sender_resource_label">Resurss:</string>
+  <string name="intent_sender_sendbroadcast_text">Nosūtīt apraidi</string>
+  <string name="intent_sender_startactivity_text">Sākt activity</string>
+  <string name="join_many_items_first">%1$s, %2$s</string>
+  <string name="join_many_items_middle">%1$s, %2$s</string>
+  <string name="join_two_items">%1$s and %2$s</string>
+  <string name="join_two_unrelated_items">%1$s, %2$s</string>
+  <string name="keyboard_layout_default_label">Noklusējums</string>
+  <string name="keyboard_layout_dialog_switch_hint">Lai pārslēgtu, kopā nospiediet taustiņu Control un atstarpes taustiņu</string>
+  <string name="keywords_assist_gesture_launch">žests</string>
+  <string name="last_synced">Pēdējo reizi sinhronizēts %1$s</string>
+  <string name="launch_instant_app">Atvērt</string>
+  <string name="link_speed">%1$d Mb/s</string>
+  <string name="locale_default">Noklusējums</string>
+  <string name="location_off_summary">Izslēgts</string>
+  <string name="location_on_summary">Ieslēgts</string>
+  <string name="location_street_level">Ļaut lietotnēm izmantot jūsu tālrunī esošo GPS, lai noteiktu jūsu atrašanās vietu.</string>
+  <string name="lock_after_timeout_summary">%1$s pēc miega režīma</string>
+  <string name="lock_after_timeout_summary_with_exception">%1$s pēc miega režīma, izņemot, kad tiek atstāts atbloķēts ar %2$s</string>
+  <string name="lock_failed_attempts_before_wipe">Mēģiniet vēlreiz. Mēģiniet %1$d no %2$d.</string>
+  <string name="lock_immediately_summary_with_exception">Uzreiz pēc miega režīma, izņemot, kad tiek atstāts atbloķēts ar %1$s</string>
+  <string name="lock_screen_intro_skip_dialog_text">Ierīces aizsardzības funkcijas netiks ieslēgtas. Jūs nevarēsiet nodrošināt, ka šo tālruni neizmantos citas personas, ja tas tiks pazaudēts vai nozagts.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Ierīces aizsardzības funkcijas netiks ieslēgtas. Jūs nevarēsiet nodrošināt, ka šo tālruni neizmantos citas personas, ja tas tiks pazaudēts, nozagts vai atiestatīts.</string>
+  <string name="lock_screen_notifications_summary_disable">Vispār nerādīt paziņojumus</string>
+  <string name="lock_settings_picker_title">Izvēlēties ekrāna bloķēšanu</string>
+  <string name="lock_settings_profile_unification_dialog_confirm">Izmantot vienu un to pašu bloķēšanu</string>
+  <string name="lock_settings_profile_unification_dialog_title">Vai izmantot vienu un to pašu bloķēšanu?</string>
+  <string name="lock_settings_profile_unification_dialog_uncompliant_body">Jūsu darba profila bloķēšana neatbilst organizācijas drošības prasībām. Varat izmantot vienu un to pašu bloķēšanu gan ierīces ekrānam, gan darba profilam, bet tiks lietotas darba bloķēšanas politikas.</string>
+  <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Izmantot vienu un to pašu bloķēšanu</string>
+  <string name="lock_settings_profile_unification_summary">Izmantot vienu un to pašu bloķēšanu darba profilam un ierīces ekrānam</string>
+  <string name="lock_settings_profile_unification_title">Izmantot vienu un to pašu bloķēšanu</string>
+  <string name="lockpassword_cancel_label">Atcelt</string>
+  <string name="lockpassword_choose_your_screen_lock_header">Iestatīt ekrāna bloķēšanu</string>
+  <string name="lockpassword_illegal_character">Nedrīkst saturēt nederīgas rakstzīmes</string>
+  <string name="lockpassword_invalid_password">Nepareiza parole</string>
+  <string name="lockpassword_password_requires_alpha">Parolē jābūt vismaz vienam burtam</string>
+  <string name="lockpassword_password_requires_digit">Parolē jābūt vismaz vienam ciparam</string>
+  <string name="lockpassword_password_requires_symbol">Parolē jābūt vismaz vienam simbolam</string>
+  <string name="lockpassword_password_too_long">Ievadiet ne vairāk kā %d rakstzīmes.</string>
+  <string name="lockpassword_pin_contains_non_digits">Drīkst saturēt tikai ciparus no 0 līdz 9.</string>
+  <string name="lockpassword_pin_too_long">Ievadiet ne vairāk kā %d ciparus.</string>
+  <string name="lockpattern_recording_incorrect_too_short">Pievienojiet vismaz %d punktus. Mēģiniet vēlreiz.</string>
+  <string name="lockpattern_settings_power_button_instantly_locks_summary">Izņemot, kad tiek atstāts atbloķēts ar %1$s</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts">Pārāk daudz nepareizu mēģinājumu. Pēc %d sekundēm mēģiniet vēlreiz.</string>
+  <string name="lockpattern_tutorial_cancel_label">Atcelt</string>
+  <string name="lockpattern_tutorial_continue_label">Tālāk</string>
+  <string name="lost_internet_access_cancel">Turpināt lietot Wi‑Fi</string>
+  <string name="lost_internet_access_persist">Turpmāk nerādīt</string>
+  <string name="mah">%d mAh</string>
+  <string name="manage_trust_agents_summary">Nav</string>
+  <string name="manage_zen_access_title">Piekļuve opcijai Netraucēt</string>
+  <string name="manageapplications_settings_summary">Pārvaldīt un noņemt instalētās lietotnes</string>
+  <string name="managing_admin">Pārvalda %s</string>
+  <string name="manual">Manuāls</string>
+  <string name="master_clear_accounts">
+
+Pašlaik esat pierakstījies šādos kontos:
+</string>
+  <string name="master_clear_button_text">Atiestatīt tālruni</string>
+  <string name="master_clear_desc">Tiks dzēsti visi tālruņa <b>iekšējā atmiņā</b> esošie dati, tostarp:
+
+<li>Google konta dati;</li><li>sistēmas un lietotņu dati un iestatījumi;</li><li>lejupielādētās lietotnes.</li></string>
+  <string name="master_clear_desc_also_erases_external"><li>Mūzika</li><li>Fotoattēli</li><li>Citi lietotāja dati</li></string>
+  <string name="master_clear_desc_erase_external_storage">
+
+Lai notīrītu mūziku, attēlus un citus lietotāja datus, ir jāizdzēš <b>SD kartes</b> saturs.</string>
+  <string name="master_clear_other_users_present">
+
+Šo ierīci izmanto vēl citi lietotāji.
+</string>
+  <string name="media_output_summary">Tālrunis</string>
+  <string name="media_output_summary_unavailable">Nav pieejams</string>
+  <string name="memory_avg_desc">Vidēji %1$s</string>
+  <string name="memory_max_desc">Maksimāli %1$s</string>
+  <string name="memory_summary">Izlietoti vidēji %1$s no %2$s atmiņas</string>
+  <string name="memory_use_running_format">%1$s / %2$s</string>
+  <string name="memory_use_summary">Pēdējo 3 stundu laikā izmantoti aptuveni %1$s atmiņas</string>
+  <string name="menu_save">Saglabāt</string>
+  <string name="menu_stats_last_unplugged">Pēdējo reizi atvienots %1$s</string>
+  <string name="menu_stats_unplugged">%1$s kopš atvienošanas</string>
+  <string name="misc_files_selected_count">Atlasīti %1$d no %2$d</string>
+  <string name="misc_files_selected_count_bytes">Atlasīti %1$s no %2$s</string>
+  <string name="motion_turn_over_reject_call_help">Ienākošā zvana gadījumā apgrieziet tālruni otrādi, lai noraidītu zvanu</string>
+  <string name="motion_turn_over_reject_call_title">Apgriezt, lai noraidītu zvanu</string>
+  <string name="motion_volume_quiet_pickup_help">Kad horizontāli nolikts tālrunis sāk zvanīt, paņemiet to, lai izslēgtu skaņu</string>
+  <string name="motion_volume_quiet_pickup_title">Skaņas izslēgšanās paņemot</string>
+  <string name="move_app_failed_dlg_text">Nevarēja pārvietot lietotni. %1$s</string>
+  <string name="move_app_to_internal">Pārvietot uz tālruni</string>
+  <string name="move_app_to_sdcard">Pārvietot uz SD karti</string>
+  <string name="mvno_type_none">Nav</string>
+  <string name="my_device_info_account_preference_title">Konts</string>
+  <string name="my_device_info_device_name_preference_title">Ierīces nosaukums</string>
+  <string name="network_scorer_change_active_dialog_text">Vai %2$s vietā lietot %1$s, lai pārvaldītu tīkla savienojumus?</string>
+  <string name="network_scorer_change_active_no_previous_dialog_text">Vai lietot %s, lai pārvaldītu tīkla savienojumus?</string>
+  <string name="network_scorer_picker_none_preference">Nav</string>
+  <string name="new_device_suggestion_summary">Apskatiet savu jauno tālruni</string>
+  <string name="next_label">Tālāk</string>
+  <string name="nfc_disclaimer_content">Izmantojot NFC, ierīce var apmainīties datiem ar citām tuvumā esošām ierīcēm vai mērķiem, piemēram, maksājumu termināļiem, piekļuves lasītājiem un interaktīvajām reklāmām vai etiķetēm.</string>
+  <string name="nfc_disclaimer_title">Ieslēgt NFC</string>
+  <string name="nfc_payment_default_not_set">Nav iestatīts</string>
+  <string name="nfc_payment_pay_with">Terminālī Pieskarties un maksāt maksāt ar:</string>
+  <string name="nfc_payment_set_default">Vai vienmēr izmantot %1$s, kad lietojat Pieskarties un maksāt?</string>
+  <string name="nfc_payment_set_default_instead_of">Vai vienmēr %2$s vietā lietot %1$s, kad lietojat Pieskarties un maksāt?</string>
+  <string name="nfc_quick_toggle_summary">Atļaut datu apmaiņu, kad tālrunis saskaras ar citu ierīci</string>
+  <string name="nfc_service_summary_disabled">Atspējots</string>
+  <string name="nfc_service_summary_enabled">Iespējots</string>
+  <string name="night_display_auto_mode_never">Nav</string>
+  <string name="night_display_auto_mode_title">Grafiks</string>
+  <string name="night_display_status_title">Statuss</string>
+  <string name="night_display_summary_off_auto_mode_custom">Tiks automātiski ieslēgts %1$s.</string>
+  <string name="night_display_summary_off_auto_mode_never">Nekad netiks automātiski ieslēgts.</string>
+  <string name="night_display_summary_off_auto_mode_twilight">Tiks automātiski ieslēgts vakarā.</string>
+  <string name="night_display_summary_on_auto_mode_custom">Tiks automātiski izslēgts %1$s.</string>
+  <string name="night_display_summary_on_auto_mode_never">Nekad netiks automātiski izslēgts.</string>
+  <string name="night_display_summary_on_auto_mode_twilight">Tiks automātiski izslēgts no rīta.</string>
+  <string name="night_display_text">Nakts apgaismojums tonē ekrānu oranžā krāsā. Tādējādi ir vieglāk skatīties uz ekrānu vai lasīt vājā apgaismojumā, un tas var palīdzēt vieglāk iemigt.</string>
+  <string name="night_display_title">Nakts apgaismojums</string>
+  <string name="notification_listener_disable_warning_cancel">Atcelt</string>
+  <string name="notification_listener_disable_warning_summary">Ja izslēdzat %1$s paziņojumu piekļuvi, tiks izslēgta arī piekļuve opcijai Netraucēt.</string>
+  <string name="notification_listener_security_warning_summary">%1$s varēs lasīt visus paziņojumus, tostarp personas datus, piemēram, kontaktu vārdus un saņemtās īsziņas. Tā varēs arī noraidīt paziņojumus vai aktivizēt tās ietvertās darbības pogas. 
+
+Tā varēs arī lietotnei piešķirt iespēju ieslēgt vai izslēgt opciju Netraucēt un mainīt saistītos iestatījumus.</string>
+  <string name="notification_listener_security_warning_title">Vai atļaut %1$s paziņojumu piekļuvi?</string>
+  <string name="notification_toggle_off">Izslēgts</string>
+  <string name="notification_toggle_on">Ieslēgts</string>
+  <string name="notification_volume_title">Paziņojums</string>
+  <string name="notifications_disabled">Izslēgts</string>
+  <string name="notifications_enabled">Ieslēgts</string>
+  <string name="notifications_priority">Ignorēta opcija Netraucēt</string>
+  <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Palaišanas ielādētājs jau ir atbloķēts</string>
+  <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Nav pieejams sakaru operatora bloķētās ierīcēs</string>
+  <string name="okay">Labi</string>
+  <string name="owner_info_settings_status">%1$d / %2$d</string>
+  <string name="owner_info_settings_summary">Nav</string>
+  <string name="owner_info_settings_title">Bloķēšanas ekrāna ziņojums</string>
+  <string name="page_tab_title_summary">Viss</string>
+  <string name="passpoint_content">Lietotāja %1$s akreditācijas dati</string>
+  <string name="passpoint_label">Saglabāts, izmantojot</string>
+  <string name="payment_summary">%1$s ir noklusējuma lietotne</string>
+  <string name="phone_info_label">Tālruņa informācija</string>
+  <string name="please_select_phase2">2. fāzes autentifikācija</string>
+  <string name="power_charge_remaining">%1$s līdz uzlādei</string>
+  <string name="power_discharge_remaining">Atlicis %1$s</string>
+  <string name="power_idle">Tālrunis dīkstāvē</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Iespējams, tālrunis drīz izslēgsies</string>
+  <string name="power_remaining_duration_shutdown_imminent">Iespējams, tālrunis drīz izslēgsies (%1$s)</string>
+  <string name="power_usage_level_and_status">%1$s - %2$s</string>
+  <string name="power_usage_not_available">Akumulatora lietojuma dati nav pieejami.</string>
+  <string name="poweroff_animation_summary">Atskaņot izslēgšanas animāciju</string>
+  <string name="poweroff_animation_title">Izslēgšanas animācija</string>
+  <string name="preference_change_password_title">Mainīt paroli</string>
+  <string name="preferred_network_offload_header">Atspējot tīkla nosaukuma apraidi</string>
+  <string name="prevent_ringing_option_none_summary">Izslēgts</string>
+  <string name="preview_page_indicator_content_description">Priekšskatījums, %1$d. lapa no %2$d</string>
+  <string name="print_blocked_state_title_template">Printeris bloķēja %1$s</string>
+  <string name="print_cancel">Atcelt</string>
+  <string name="print_cancelling_state_title_template">Atceļ %1$s</string>
+  <string name="print_failed_state_title_template">Printera kļūda %1$s</string>
+  <string name="print_feature_state_off">Izslēgts</string>
+  <string name="print_feature_state_on">Ieslēgts</string>
+  <string name="print_job_summary">%1$s
+%2$s</string>
+  <string name="print_printing_state_title_template">Drukā %1$s</string>
+  <string name="print_settings_summary_no_service">Izslēgts</string>
+  <string name="print_settings_title">Drukāšanas pakalpojumi</string>
+  <string name="process_format">%1$s (%2$d)</string>
+  <string name="process_provider_in_use_description">Tiek lietots pakalpojumu sniedzējs %1$s.</string>
+  <string name="process_service_in_use_description">Tiek lietots pakalpojums %1$s.</string>
+  <string name="process_stats_total_duration">Pēdējā %3$s izmantoti %1$s no %2$s</string>
+  <string name="process_stats_total_duration_percentage">%2$s izmantoti %1$s no RAM</string>
+  <string name="proxy_error">Uzmanību!</string>
+  <string name="proxy_error_dismiss">Labi</string>
+  <string name="proxy_error_empty_host_set_port">Ja saimniekdatora lauks ir tukšs, porta laukam jābūt tukšam.</string>
+  <string name="proxy_error_empty_port">Aizpildiet lauku Ports.</string>
+  <string name="proxy_error_invalid_exclusion_list">Ierakstītais izslēgšanas saraksts nav pareizi formatēts. Ierakstiet ar komatiem atdalītu izslēgto domēnu sarakstu.</string>
+  <string name="proxy_error_invalid_port">Ierakstītais porta numurs nav derīgs.</string>
+  <string name="proxy_exclusionlist_label">Apiet starpniekserveri:</string>
+  <string name="proxy_hostname_label">Starpniekservera saimniekdatora nosaukums</string>
+  <string name="proxy_port_label">Starpniekservera ports</string>
+  <string name="proxy_settings_title">Starpniekserveris</string>
+  <string name="proxy_url_title">PAC URL: </string>
+  <string name="proxy_warning_limited_support">HTTP starpniekserveris tiek izmantots pārlūkprogrammā, taču, iespējams, netiek izmantots citās lietotnēs.</string>
+  <string name="radioInfo_data_connected">Pievienota</string>
+  <string name="radioInfo_data_disconnected">Atvienots</string>
+  <string name="radioInfo_data_suspended">Atlikts</string>
+  <string name="radio_info_ims_feature_status_unavailable">Nav pieejams</string>
+  <string name="rarely_running">Darbojas reti (%s)</string>
+  <string name="really_remove_account_message">Noņemot šo kontu, no tālruņa tiks dzēsti arī visi šajā kontā esošie ziņojumi, kontaktpersonas un citi dati!</string>
+  <string name="recompute_size">Pārrēķina izmēru…</string>
+  <string name="regulatory_labels">Reglamentējošās uzlīmes</string>
+  <string name="reset_app_preferences_desc">Tādējādi tiks atiestatītas visas preferences:
+
+ <li>atspējotās lietotnes;</li><li>atspējoto lietotņu paziņojumi;</li><li>noklusējuma darbību lietotnes;</li><li>lietotņu fona datu ierobežojumi;</li><li>jebkādi atļauju ierobežojumi.</li>
+
+ Netiks zaudēti nekādi lietotņu dati.</string>
+  <string name="reset_app_preferences_title">Vai atiestatīt lietotņu preferences?</string>
+  <string name="reset_network_desc">Tādējādi tiks atiestatīti visi tīklu iestatījumi, tostarp: 
+
+<li>Wi‑Fi</li><li>Mobilie dati</li><li>Bluetooth</li></string>
+  <string name="reset_shortcut_manager_throttling">Atiestatīt ShortcutManager vērtējumu ierobežošanu</string>
+  <string name="reset_shortcut_manager_throttling_complete">ShortcutManager vērtējumu ierobežošana ir atiestatīta</string>
+  <string name="restriction_menu_change_pin">Mainīt PIN kodu</string>
+  <string name="restriction_nfc_enable_summary">Atļaut datu apmaiņu, kad tālrunis saskaras ar citu ierīci</string>
+  <string name="restriction_nfc_enable_summary_config">Atļaut datu apmaiņu, kad %1$s pieskaras citai NFC ierīcei</string>
+  <string name="retail_demo_reset_next">Tālāk</string>
+  <string name="ringtone_set_toast">"%s" iestatīts kā tālruņa zvana signāls.</string>
+  <string name="ringtone_sim1_title">Tālruņa zvana melodija (SIM1)</string>
+  <string name="ringtone_sim2_title">Tālruņa zvana melodija (SIM2)</string>
+  <string name="ringtone_title">Tālruņa zvana signāls</string>
+  <string name="ringtone_title_sim1">1. SIM kartes tālruņa zvana signāls</string>
+  <string name="ringtone_title_sim2">2. SIM kartes tālruņa zvana signāls</string>
+  <string name="ringtone_title_uim1">UIM1 tālruņa zvana melodija</string>
+  <string name="ringtone_uim1_title">Tālruņa zvana melodija (UIM1)</string>
+  <string name="roaming_warning_multiuser">Atļaujot datu viesabonēšanu, var rasties ievērojamas viesabonēšanas izmaksas.
+
+Šis iestatījums ietekmē visus tālruņa lietotājus.</string>
+  <string name="running_frequency">Biežums</string>
+  <string name="running_processes_header_ram">%1$s no RAM</string>
+  <string name="running_processes_item_description_p_p">%1$d procesi un %2$d pakalpojumi</string>
+  <string name="running_processes_item_description_p_s">%1$d procesi un %2$d pakalpojums</string>
+  <string name="running_processes_item_description_s_p">%1$d process un %2$d pakalpojumi</string>
+  <string name="running_processes_item_description_s_s">%1$d process un %2$d pakalpojums</string>
+  <string name="runningservicedetails_stop_dlg_text">Ja apturēsiet šī pakalpojuma darbību, dažas tālruņa funkcijas var nedarboties pareizi līdz brīdim, kad tālrunis tiks izslēgts un atkal ieslēgts.</string>
+  <string name="safety_and_regulatory_info">Drošības un reglamentējošās informācijas rokasgrāmata</string>
+  <string name="save">Saglabāt</string>
+  <string name="saved_network">Saglabāts, izmantojot %1$s</string>
+  <string name="screen_timeout_summary">Pēc %1$s neaktivitātes</string>
+  <string name="screen_zoom_summary_default">Noklusējums</string>
+  <string name="screensaver_settings_summary_off">Izslēgts</string>
+  <string name="sd_card_settings_label">SD karte</string>
+  <string name="sd_card_storage">SD kartes atmiņa</string>
+  <string name="sd_eject">Atvienot SD karti</string>
+  <string name="sd_eject_summary">Atvienojiet SD karti, lai varat to droši noņemt</string>
+  <string name="sd_format">Dzēst SD karti</string>
+  <string name="sd_format_summary">Dzēš visus SD kartē saglabātos datus, piemēram, mūzikas failus un fotoattēlus.</string>
+  <string name="sd_insert_summary">Ievietot SD karti uzstādīšanai</string>
+  <string name="sd_memory">SD karte</string>
+  <string name="sd_mount">Pievienot SD karti</string>
+  <string name="sdcard_format">Dzēst SD karti</string>
+  <string name="sdcard_setting">SD karte</string>
+  <string name="sdcard_settings_bad_removal_status">SD karte tika izņemta lietošanas laikā!</string>
+  <string name="sdcard_settings_mass_storage_status">SD karte tiek izmantota kā lielapjoma atmiņas ierīce.</string>
+  <string name="sdcard_settings_not_present_status">Nav SD kartes.</string>
+  <string name="sdcard_settings_read_only_status">SD karte ir uzstādīta kā tikai lasāma.</string>
+  <string name="sdcard_settings_scanning_status">SD kartē meklē multividi…</string>
+  <string name="sdcard_settings_screen_mass_storage_text">Iespējot USB lielapjoma atmiņas ierīci</string>
+  <string name="sdcard_settings_unmounted_status">Tagad var droši izņemt SD karti.</string>
+  <string name="sdcard_unmount">Atvienot SD karti</string>
+  <string name="security_passwords_title">Konfidencialitāte</string>
+  <string name="security_settings_desc">Šai lietotnei tālrunī ir tiesības piekļūt šādam saturam:</string>
+  <string name="security_settings_desc_multi">Šī lietotne tālrunī var piekļūt tālāk norādītajam. Lai uzlabotu veiktspēju un samazinātu atmiņas lietojumu, %1$s ir pieejamas dažas no šīm atļaujām, jo tā darbojas tādā pašā procesā kā %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Dzēst</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">Vārds</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">Labi</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">Atcelt</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Tālāk</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">Vienkārši pieskarieties pirksta nospieduma sensoram, lai atbloķētu tālruni, apstiprinātu pirkumus vai pierakstītos lietotnēs. Uzmanīgi izvērtējiet, kā pirksta nospiedumu pievienot. Pat viens pievienots pirksta nospiedums vai izpildīt jebkuru no šiem uzdevumiem
+
+Piezīme. Pirksta nospiedums var būt nedrošāks par sarežģītu rakstu vai PIN kodu.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Izmantojiet pirksta nospiedumu</string>
+  <string name="select_all">Atlasīt visu</string>
+  <string name="service_background_processes">Brīva atmiņa: %1$s</string>
+  <string name="service_foreground_processes">Izmantota atmiņa: %1$s</string>
+  <string name="service_manage_description">%1$s: šobrīd lieto. Pieskarieties Iestatījumi, lai vadītu to.</string>
+  <string name="set_data_warning">Iestatīt datu brīdinājumu</string>
+  <string name="set_ringtone">Izmantot kā tālruņa zvana signālu</string>
+  <string name="settings_manual_activity_title">Manuāls</string>
+  <string name="setup_lock_settings_picker_message">Aktivizējiet ierīces aizsardzības funkcijas, lai neļautu citiem lietot šo tālruni bez jūsu atļaujas. Izvēlieties bloķēšanas ekrānu, kuru vēlaties izmantot.</string>
+  <string name="setup_lock_settings_picker_title">Aizsargājiet tālruni</string>
+  <string name="show_background_processes">Rādīt kešatmiņā ievadītos procesus</string>
+  <string name="show_operator_name_title">Tīkla nosaukums</string>
+  <string name="show_running_services">Rādīt aktīvos pakalpojumus</string>
+  <string name="sim_card_number_title">SIM karte %1$d</string>
+  <string name="sim_card_select_title">Atlasiet SIM karti</string>
+  <string name="sim_change_succeeded">SIM PIN kods ir sekmīgi nomainīts</string>
+  <string name="sim_editor_title">SIM kartes slots: %1$d</string>
+  <string name="sim_enabler_both_inactive">Kļūda. Nevar atspējot visas SIM kartes</string>
+  <string name="sim_enabler_disabling">Deaktivizē...</string>
+  <string name="sim_enabler_enabling">Aktivizē...</string>
+  <string name="sim_enabler_need_switch_data_service">Tā tiks atspējota, un ierīce pārslēgsies uz SIM%1$s datu pārraides pakalpojumiem. Vai esat pārliecināts?</string>
+  <string name="sim_enter_cancel">Atcelt</string>
+  <string name="sim_enter_new">Jauns SIM PIN kods</string>
+  <string name="sim_enter_ok">Labi</string>
+  <string name="sim_lock_off">Lai izmantotu tālruni, ir nepieciešams PIN kods</string>
+  <string name="sim_lock_on">Lai izmantotu tālruni, ir nepieciešams PIN kods</string>
+  <string name="sim_lock_settings_summary_off">Izslēgts</string>
+  <string name="sim_name_hint">Ievadiet SIM kartes nosaukumu</string>
+  <string name="sim_settings_summary">%1$s - %2$s</string>
+  <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
+  <string name="slot_number">(Atvere %1$d)</string>
+  <string name="smart_battery_footer">Ja akumulatora pārvaldnieks konstatēs, ka lietotnes patērē daudz akumulatora enerģijas, varēsiet ierobežot šo lietotņu darbību. Šīs lietotnes var darboties neatbilstoši, un paziņojumi var tikt parādīti aizkavēti.</string>
+  <string name="sms_change_default_dialog_text">Vai %2$s vietā lietot %1$s kā īsziņu lietotni?</string>
+  <string name="sms_change_default_no_previous_dialog_text">Vai lietot %s kā īsziņu lietotni?</string>
+  <string name="sometimes_running">Dažreiz darbojas (%s)</string>
+  <string name="sound_settings_example_summary">Zvana signāla skaļums: 80%</string>
+  <string name="sound_settings_summary">Zvana signāla skaļums: %1$s</string>
+  <string name="sound_settings_summary_silent">Iestatītais zvana signāls: klusums</string>
+  <string name="sound_settings_summary_vibrate">Iestatītais zvana signāls: vibrēšana</string>
+  <string name="spellchecker_security_warning">Šis pareizrakstības pārbaudītājs var apkopot visu ievadīto tekstu, tostarp personas datus, piemēram, paroles un kredītkaršu numurus. To nodrošina lietotne %1$s. Vai lietot šo pareizrakstības pārbaudītāju?</string>
+  <string name="starting_android">Startē Android…</string>
+  <string name="status_number">Tālruņa numurs</string>
+  <string name="status_number_sim_slot">Tālr. nr. (%1$d. SIM k. slots)</string>
+  <string name="status_number_sim_status">SIM kartes tālruņa numurs</string>
+  <string name="status_signal_strength">Signāla stiprums</string>
+  <string name="storage_detail_explore">Apskatīt ^1</string>
+  <string name="storage_dialog_unmountable">Šī ^1 ir bojāta. 
+
+Lai lietotu šo ^1, tā vispirms ir jāiestata.</string>
+  <string name="storage_dialog_unmounted">Karte ^1 ir droši izstumta, bet tā joprojām ir pieejama. 
+
+Lai lietotu šo ^1, tā vispirms ir jāuzstāda.</string>
+  <string name="storage_dialog_unsupported">Šī ierīce neatbalsta šo ^1. 
+
+Lai ar šo ierīci lietotu šo ^1, tā vispirms ir jāiestata.</string>
+  <string name="storage_files">Faili</string>
+  <string name="storage_format_failure">Nevar formatēt %1$s</string>
+  <string name="storage_format_success">%1$s ir formatēta</string>
+  <string name="storage_internal_forget_confirm">Visas šajā ^1 saglabātās lietotnes un saglabātie fotoattēli un dati tiks neatgriezeniski zaudēti.</string>
+  <string name="storage_internal_forget_confirm_title">Vai aizmirst ^1?</string>
+  <string name="storage_internal_forget_details">Lai izmantotu lietotnes, fotoattēlus vai citus datus, kurus satur šī ^1, atkārtoti ievietojiet to. 
+
+Vai arī varat izvēlēties aizmirst šo krātuvi, ja ierīce nav pieejama. 
+
+Ja izvēlaties aizmirst, visi ierīces dati tiek neatgriezeniski zaudēti. 
+
+Vēlāk varat atkārtoti instalēt lietotnes, bet šajā ierīcē saglabātie dati tiks zaudēti.</string>
+  <string name="storage_internal_format_details">Pēc formatēšanas varat izmantot šo ^1 citās ierīcēs. 
+
+Visi šīs ^1 dati tiks dzēsti. Vispirms apsveriet dublēšanu. 
+
+<b>Dublēt fotoattēlus &amp; citus multivides failus</b> 
+Pārvietojiet savus multivides failus uz citu šīs ierīces krātuvi vai pārsūtiet tos uz datoru, izmantojot USB kabeli. 
+
+<b>Dublēt lietotnes</b> 
+Visas šajā ^1 saglabātās lietotnes tiks atinstalētas, un to dati izdzēsti. Lai paturētu šīs lietotnes, pārvietojiet tās uz citu šīs ierīces krātuvi.</string>
+  <string name="storage_internal_unmount_details"><b>Kad izstumjat šo ^1, tajā saglabātās lietotnes pārtrauc darboties un tajā saglabātie multivides faili nav pieejami, līdz tā tiek ievietota.</b> 
+
+Šī ^1 ir formatēta, lai darbotos tikai šajā ierīcē. Tā nedarbosies citās ierīcēs.</string>
+  <string name="storage_manager_indicator_off">Izslēgts</string>
+  <string name="storage_manager_indicator_on">Ieslēgts</string>
+  <string name="storage_menu_forget">Aizmirst</string>
+  <string name="storage_menu_free">Atbrīvot vietu</string>
+  <string name="storage_menu_manage">Pārvaldīt krātuvi</string>
+  <string name="storage_mount_failure">Nevar uzstādīt %1$s</string>
+  <string name="storage_mount_success">%1$s ir uzstādīta</string>
+  <string name="storage_settings_summary">Atvienojiet SD karti, skatiet pieejamo krātuvi</string>
+  <string name="storage_size_large">^1<small><small> ^2</small></small></string>
+  <string name="storage_summary_format">%1$s izmantoti iekšējā krātuvē %2$s</string>
+  <string name="storage_type_external">Ārējā krātuve</string>
+  <string name="storage_unmount_failure">Nevar droši izstumt %1$s</string>
+  <string name="storage_unmount_success">%1$s droši izstumta</string>
+  <string name="storage_used">Izmantotā krātuve</string>
+  <string name="storage_volume_summary">%1$s izmantoti no %2$s</string>
+  <string name="storage_wizard_format_confirm_body">Nepieciešams formatēt ^1, lai padarītu to drošu. 
+
+Pēc formatēšanas šī ^1 darbosies tikai šajā ierīcē. 
+
+<b>Formatējot dzēš visus ^1.</b> saglabātos datus. Lai novērstu datu zaudēšanu, apsveriet tās satura dublēšanu. </string>
+  <string name="storage_wizard_format_confirm_public_body">Nepieciešams formatēt ^1. 
+
+<b>Formatējot dzēš visus ^1.</b> saglabātos datus. Lai novērstu datu zaudēšanu, apsveriet tās satura dublēšanu. </string>
+  <string name="storage_wizard_format_confirm_public_title">Formatēt kā pārvietojamo krātuvi</string>
+  <string name="storage_wizard_format_progress_title">Formatē ^1…</string>
+  <string name="storage_wizard_init_external_title">Izmantot kā pārvietojamo krātuvi</string>
+  <string name="storage_wizard_init_internal_summary">Tikai šīs ierīces datu, tostarp lietotņu un fotoattēlu, uzglabāšanai. Nepieciešams formatēt, kas novērš to darbību ar citām ierīcēm.</string>
+  <string name="storage_wizard_init_title">Iestatiet savu ^1</string>
+  <string name="storage_wizard_init_v2_internal_action">Tālruņa krātuve</string>
+  <string name="storage_wizard_init_v2_internal_summary">Lietotnēm, failiem un multivides saturam tikai šajā tālrunī</string>
+  <string name="storage_wizard_init_v2_internal_title">Tālruņa papildu krātuvei</string>
+  <string name="storage_wizard_migrate_body">Varat pārvietot savus fotoattēlus, failus un dažas lietotnes uz šo jauno ^1. 
+
+Pārvietošana ilgst aptuveni ^2 un atbrīvo ^3 iekšējā krātuvē. Dažas lietotnes šajā laikā nedarbosies.</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>Pārvietošana aizņem aptuveni ^1. Tā atbrīvos ^2 krātuvē ^3.</b></string>
+  <string name="storage_wizard_migrate_details">Pārvietošanas laikā: 
+• Neatvienojiet ^1. 
+• Dažas lietotnes nedarbojas pareizi. 
+• Nodrošiniet, ka ierīce ir uzlādēta.</string>
+  <string name="storage_wizard_migrate_progress_title">Notiek datu pārvietošana…</string>
+  <string name="storage_wizard_migrate_title">Pārvietot datus uz jauno krātuvi</string>
+  <string name="storage_wizard_migrate_v2_body">Varat pārvietot failus, multivides saturu un noteiktas lietotnes uz šo ierīci: ^1. 
+
+Tādējādi atbrīvosiet ^2 vietas tālruņa krātuvē. Process ilgs aptuveni ^3.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">Tālrunim jābūt uzlādētam</string>
+  <string name="storage_wizard_move_confirm_body">^1 un tās datu pārvietošana uz ^2 ilgst tikai īsu brīdi. Šo lietotni nevar izmantot, līdz pārvietošana ir pabeigta. 
+
+Pārvietošanas laikā neizņemiet ^2.</string>
+  <string name="storage_wizard_move_confirm_title">Pārvietot ^1</string>
+  <string name="storage_wizard_move_progress_body">Pārvietošanas laikā neatvienojiet ^1. 
+
+Kamēr pārvietošana nav pabeigta, lietotne ^2 ierīcē nav pieejama.</string>
+  <string name="storage_wizard_move_progress_title">Pārvieto ^1…</string>
+  <string name="storage_wizard_ready_external_body">Karte ^1 ir iestatīta, lai to izmantotu fotoattēliem un citai multividei.</string>
+  <string name="storage_wizard_ready_internal_body">Jaunā ^1 darbojas. 
+
+Lai pārvietotu fotoattēlus, failus un lietotnes datus uz šo ierīci, atveriet Iestatījumi &gt; Krātuve.</string>
+  <string name="storage_wizard_slow_body">Izskatās, ka šī ^1 ir lēna. 
+
+Varat turpināt, bet uz šo atrašanās vietu pārvietotās lietotnes var uzkārties un datu pārvietošana var aizņemt daudz laika. 
+
+Lai nodrošinātu labāku veiktspēju, ieteicams lietot ātrāku ^1.</string>
+  <string name="storageuse_settings_title">Krātuves lietojums</string>
+  <string name="sub_activate_failed">Aktivizēšana neizdevās.</string>
+  <string name="sub_deactivate_failed">Deaktivizēšana neizdevās.</string>
+  <string name="suggested_lock_settings_summary">Iestatiet ekrāna bloķēšanas opciju tālruņa aizsardzībai</string>
+  <string name="suggestion_additional_fingerprints_summary">Atbloķēt ar citu pirkstu</string>
+  <string name="suggestion_button_text">Labi</string>
+  <string name="suggestions_summary">+%1$d</string>
+  <string name="suggestions_title">Ieteikumi</string>
+  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
+  <string name="summary_range_verbal_combination">%1$s to %2$s</string>
+  <string name="switch_off_text">Izslēgts</string>
+  <string name="switch_on_text">Ieslēgts</string>
+  <string name="sync_disabled">Sinhronizācija ir IZSLĒGTA</string>
+  <string name="sync_enabled">Sinhronizācija ir IESLĒGTA</string>
+  <string name="sync_in_progress">Sinhronizēt tūlīt…</string>
+  <string name="sync_one_time_sync">Pieskarieties, lai sinhronizētu tūlīt
+%1$s</string>
+  <string name="testing_phone_info">Informācija par tālruni</string>
+  <string name="touch_firmware_version">Skārienpaneļa aparātprogrammatūras versija</string>
+  <string name="tts_install_voices_cancel">Atcelt</string>
+  <string name="uep_setting_page_name">Lietotāju pieredzes programma</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">Ierīces aizsardzības funkcijas nedarbojas bez jūsu paroles.
+
+Saglabātie pirkstu nospiedumi arī tiks noņemti no šīs ierīces, un ar tiem nevarēs atbloķēt tālruni, apstiprināt pirkumus un pierakstīties lietotnēs.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Profila aizsardzības funkcijas nedarbojas bez jūsu paroles.
+
+Saglabātie pirkstu nospiedumi arī tiks noņemti no šī profila, un ar tiem nevarēs atbloķēt profilu, apstiprināt pirkumus un pierakstīties lietotnēs.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Ierīces aizsardzības funkcijas nedarbojas bez jūsu raksta.
+
+Saglabātie pirkstu nospiedumi arī tiks noņemti no šīs ierīces, un ar tiem nevarēs atbloķēt tālruni, apstiprināt pirkumus un pierakstīties lietotnēs.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">Ierīces aizsardzības funkcijas nedarbojas bez jūsu PIN koda.
+
+Saglabātie pirkstu nospiedumi arī tiks noņemti no šīs ierīces, un ar tiem nevarēs atbloķēt tālruni, apstiprināt pirkumus un pierakstīties lietotnēs.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Profila aizsardzības funkcijas nedarbojas bez jūsu PIN koda.
+
+Saglabātie pirkstu nospiedumi arī tiks noņemti no šī profila, un ar tiem nevarēs atbloķēt profilu, apstiprināt pirkumus un pierakstīties lietotnēs.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Ierīces aizsardzības funkcijas nedarbojas bez jūsu ekrāna bloķēšanas koda.
+
+Saglabātie pirkstu nospiedumi arī tiks noņemti no šīs ierīces, un ar tiem nevarēs atbloķēt tālruni, apstiprināt pirkumus un pierakstīties lietotnēs.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Profila aizsardzības funkcijas nedarbojas bez jūsu ekrāna bloķēšanas koda.
+
+Saglabātie pirkstu nospiedumi arī tiks noņemti no šī profila, un ar tiem nevarēs atbloķēt profilu, apstiprināt pirkumus un pierakstīties lietotnēs.</string>
+  <string name="unlock_set_unlock_launch_picker_change_title">Mainīt bloķēšanas ekrānu</string>
+  <string name="unlock_set_unlock_mode_off">Nav</string>
+  <string name="unlock_set_unlock_mode_password">Parole</string>
+  <string name="unlock_set_unlock_off_title">Nav</string>
+  <string name="unlock_set_unlock_password_title">Parole</string>
+  <string name="unmount_inform_text">SD karte tiks atvienota.</string>
+  <string name="unsupported_setting_summary">Iestatīšana šajā tālrunī netiek atbalstīta.</string>
+  <string name="usage_type_phone">Tālrunis</string>
+  <string name="usage_type_video">Video</string>
+  <string name="usage_type_wake_lock">Neļaut pāriet miega režīmā</string>
+  <string name="usb_midi_summary">Ļauj MIDI iespējotām lietotnēm darboties, izmantojot USB ar datora MIDI programmatūru.</string>
+  <string name="usb_mtp_summary">Ļauj pārsūtīt multivides failus uz operētājsistēmu Windows vai ar programmatūras Android File Transfer palīdzību operētājsistēmā Mac (skatiet www.android.com/filetransfer)</string>
+  <string name="usb_tethering_subtext">Koplietojiet tālruņa interneta savienojumu, izmantojot USB</string>
+  <string name="user_add_max_count">Varat pievienot līdz pat %1$d lietotājiem</string>
+  <string name="user_cannot_manage_message">Lietotājus var pārvaldīt tikai tālruņa īpašnieks.</string>
+  <string name="user_confirm_remove_self_message">Jūs zaudēsiet savu vidi un datus šajā tālrunī. Šo darbību nevar atsaukt.</string>
+  <string name="user_delete_button">Dzēst</string>
+  <string name="user_dict_settings_add_dialog_confirm">Labi</string>
+  <string name="user_dict_settings_context_menu_delete_title">Dzēst</string>
+  <string name="user_remove_user_menu">Dzēst %1$s no šīs ierīces</string>
+  <string name="user_restrictions_controlled_by">Kontrolē %1$s</string>
+  <string name="user_you">Jūs (%s)</string>
+  <string name="version_text">versija %1$s</string>
+  <string name="vision_settings_title">Redzes iestatījumi</string>
+  <string name="voice_interaction_security_warning">Šis balss ievades pakalpojums varēs veikt nepārtrauktu balss uzraudzību un vadīt ar balsi aktivizējamas lietotnes jūsu vārdā. To nodrošina lietojumprogramma %s. Vai iespējot šī pakalpojuma lietošanu?</string>
+  <string name="vpn_always_on_summary_not_supported">Šī lietotne neatbalsta</string>
+  <string name="vpn_cancel">Atcelt</string>
+  <string name="vpn_cant_connect_title">%1$s nevar izveidot savienojumu</string>
+  <string name="vpn_connect">Izveidot savienojumu</string>
+  <string name="vpn_connect_to">Izveidot savienojumu ar %s</string>
+  <string name="vpn_disconnected_summary">Nav</string>
+  <string name="vpn_forget">Aizmirst</string>
+  <string name="vpn_ipsec_ca_cert">IPSec CA sertifikāts</string>
+  <string name="vpn_ipsec_identifier">IPSec identifikators</string>
+  <string name="vpn_ipsec_secret">IPSec iepriekš kopīgota atslēga</string>
+  <string name="vpn_ipsec_server_cert">IPSec servera sertifikāts</string>
+  <string name="vpn_ipsec_user_cert">IPSec lietotāja sertifikāts</string>
+  <string name="vpn_lockdown_none">Nav</string>
+  <string name="vpn_name">Vārds</string>
+  <string name="vpn_password">Parole</string>
+  <string name="vpn_save">Saglabāt</string>
+  <string name="vpn_username">Lietotājvārds</string>
+  <string name="vpn_version">Versija %s</string>
+  <string name="vr_listener_security_warning_summary">%1$s var darboties, kad izmantojat lietotnes virtuālās realitātes režīmā.</string>
+  <string name="vr_listener_security_warning_title">Vai atļaut VR pakalpojumiem piekļūt %1$s?</string>
+  <string name="vt_provisioned_switch_string">Tiek nodrošināti videozvani</string>
+  <string name="wallpaper_settings_summary_custom">Pielāgots</string>
+  <string name="wallpaper_settings_summary_default">Noklusējums</string>
+  <string name="wapi_auto_sel_cert">Atlasīt automātiski</string>
+  <string name="wapi_cert_manage_title">WAPI sertifikātu pārvaldība</string>
+  <string name="wfc_provisioned_switch_string">Tiek nodrošināta Wi-Fi zvanīšana</string>
+  <string name="wifi_add_network">Pievienot tīklu</string>
+  <string name="wifi_advanced_ip_address_title">IP adrese</string>
+  <string name="wifi_advanced_settings_label">IP iestatījumi</string>
+  <string name="wifi_advanced_toggle_description_collapsed">Nolaižamais saraksts Papildopcijas. Divreiz pieskarieties, lai izvērstu.</string>
+  <string name="wifi_advanced_toggle_description_expanded">Nolaižamais saraksts Papildopcijas. Divreiz pieskarieties, lai sakļautu.</string>
+  <string name="wifi_ap_2G">2,4 GHz</string>
+  <string name="wifi_ap_choose_auto">Automātiski</string>
+  <string name="wifi_ap_client_details_title">Detalizēta informācija</string>
+  <string name="wifi_ap_client_ip_label">IP adrese</string>
+  <string name="wifi_band_24ghz">2,4 GHz</string>
+  <string name="wifi_band_5ghz">5 GHz</string>
+  <string name="wifi_calling_dialog_comfirm">Vairs nerādīt.</string>
+  <string name="wifi_calling_dialog_msg">Wi-Fi zvanos nav iespējams veikt ārkārtas zvanus. Lai veiktu ārkārtas zvanu, ierīce tiek automātiski pārslēgta uz mobilo tīklu (2G/3G). Ārkārtas zvani pieejami tikai vietās, kurās ir mobilā tīkla pārklājums.</string>
+  <string name="wifi_calling_dialog_title">Ārkārtas zvani Wi-Fi zvanos</string>
+  <string name="wifi_calling_notifybar_msg">Ārkārtas zvani pieejami tikai vietās, kurās ir mobilā tīkla pārklājums</string>
+  <string name="wifi_calling_notifybar_title">Vodafone Wi-Fi zvanīšana</string>
+  <string name="wifi_calling_roaming_mode_dialog_title">Viesabonēšanas preference</string>
+  <string name="wifi_calling_roaming_mode_title">Viesabon?šanas preference</string>
+  <string name="wifi_cancel">Atcelt</string>
+  <string name="wifi_connect">Izveidot savienojumu</string>
+  <string name="wifi_disabled_generic">Atspējots</string>
+  <string name="wifi_disabled_network_failure">IP konfigurācijas kļūme</string>
+  <string name="wifi_disabled_password_failure">Autentifikācijas problēma</string>
+  <string name="wifi_display_options_forget">Aizmirst</string>
+  <string name="wifi_display_options_name">Vārds</string>
+  <string name="wifi_display_status_connected">Pievienota</string>
+  <string name="wifi_display_status_not_available">Nav pieejams</string>
+  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_do_not_provide_eap_user_cert">Nenorādīt</string>
+  <string name="wifi_do_not_validate_eap_server">Neapstiprināt</string>
+  <string name="wifi_do_not_validate_eap_server_warning">Nav norādītu sertifikātu. Savienojums nebūs privāts.</string>
+  <string name="wifi_eap_anonymous">Anonīmi identifikācijas dati</string>
+  <string name="wifi_eap_ca_cert">CA sertifikāts</string>
+  <string name="wifi_eap_domain">Domēns</string>
+  <string name="wifi_eap_identity">Identifikācijas dati</string>
+  <string name="wifi_eap_method">EAP metode</string>
+  <string name="wifi_eap_user_cert">Lietotāja sertifikāts</string>
+  <string name="wifi_empty_list_wifi_on">Meklē Wi‑Fi tīklus…</string>
+  <string name="wifi_fail_to_scan">Nevar meklēt tīklus</string>
+  <string name="wifi_failed_connect_message">Neizdevās izveidot savienojumu ar tīklu</string>
+  <string name="wifi_failed_forget_message">Neizdevās aizmirst tīklu.</string>
+  <string name="wifi_failed_save_message">Neizdevās saglabāt tīklu.</string>
+  <string name="wifi_forget">Aizmirst</string>
+  <string name="wifi_frequency">Biežums</string>
+  <string name="wifi_gateway">Vārteja</string>
+  <string name="wifi_hotspot_message">%1$s nepieciešams pierakstīties tiešsaistē, pirms izveidojat savienojumu ar tīklu.</string>
+  <string name="wifi_hotspot_tethering_on_subtext">Šī tālruņa interneta savienojums tiek koplietots, izmantojot tīklāju.</string>
+  <string name="wifi_ip_address">IP adrese</string>
+  <string name="wifi_ip_settings">IP iestatījumi</string>
+  <string name="wifi_ip_settings_invalid_dns">Ierakstiet derīgu sistēmas DNS adresi.</string>
+  <string name="wifi_ip_settings_invalid_gateway">Ierakstiet derīgu vārtejas adresi.</string>
+  <string name="wifi_ip_settings_invalid_ip_address">Ierakstiet derīgu IP adresi.</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Ierakstiet tīkla prefiksa garumu diapazonā 0–32.</string>
+  <string name="wifi_ip_settings_menu_cancel">Atcelt</string>
+  <string name="wifi_ip_settings_menu_save">Saglabāt</string>
+  <string name="wifi_menu_advanced">Papildu</string>
+  <string name="wifi_modify">Modificēt:</string>
+  <string name="wifi_multiple_cert_added">(Pievienoti vairāki sertifikāti)</string>
+  <string name="wifi_network_prefix_length">Tīkla prefiksa garums</string>
+  <string name="wifi_no_domain_warning">Norādiet domēnu.</string>
+  <string name="wifi_no_internet_no_reconnect">Nevar savienot automātiski</string>
+  <string name="wifi_not_in_range">Nav diapazonā</string>
+  <string name="wifi_p2p_cancel_connect_message">Vai vēlaties atcelt uzaicinājumu izveidot savienojumu ar %1$s?</string>
+  <string name="wifi_p2p_disconnect_message">Ja atvienojat, savienojums ar %1$s tiek izbeigts.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Ja atvienojat, savienojums ar %1$s un %2$s citām ierīcēm tiek izbeigts.</string>
+  <string name="wifi_password">Parole</string>
+  <string name="wifi_remembered">Saglabāts</string>
+  <string name="wifi_save">Saglabāt</string>
+  <string name="wifi_scan_always_turnon_message">Lai uzlabotu atrašanās vietas precizitāti un citiem mērķiem, %1$s vēlas ieslēgt tīkla meklēšanu, pat ja Wi-Fi ir izslēgts.
+
+Vai atļaut visām lietotnēm, kas vēlas meklēt?</string>
+  <string name="wifi_security">Drošība</string>
+  <string name="wifi_security_none">Nav</string>
+  <string name="wifi_setup_add_network">Pievienot tīklu</string>
+  <string name="wifi_setup_back">Atpakaļ</string>
+  <string name="wifi_setup_cancel">Atcelt</string>
+  <string name="wifi_setup_connect">Izveidot savienojumu</string>
+  <string name="wifi_setup_description_connected">Pieskarieties <b>Tālāk</b>, lai turpinātu iestatīšanu.
+
+Pieskarieties <b>Atpakaļ</b>, lai savienotu ar citu Wi‑Fi tīklu.</string>
+  <string name="wifi_setup_description_connecting">Savienojuma izveide var aizņemt dažas minūtes…</string>
+  <string name="wifi_setup_forget">Aizmirst</string>
+  <string name="wifi_setup_next">Tālāk</string>
+  <string name="wifi_setup_save">Saglabāt</string>
+  <string name="wifi_setup_status_connecting">Notiek savienojuma izveide ar…</string>
+  <string name="wifi_setup_status_scanning">Meklē tīklus…</string>
+  <string name="wifi_setup_status_unsecured_network">Izveidot savienojumu ar nedrošu tīklu</string>
+  <string name="wifi_setup_title_connected_network">Izveidots savienojums ar Wi‑Fi tīklu %s</string>
+  <string name="wifi_setup_title_connecting_network">Izveido savienojumu ar Wi‑Fi tīklu %s…</string>
+  <string name="wifi_setup_title_editing_network">Izveidot savienojumu ar Wi‑Fi tīklu %s</string>
+  <string name="wifi_setup_wps">Automātiskā iestatīšana (WPS)</string>
+  <string name="wifi_shared">Koplietot ar citiem ierīces lietotājiem</string>
+  <string name="wifi_show_advanced">Papildu opcijas</string>
+  <string name="wifi_show_password">Rādīt paroli</string>
+  <string name="wifi_sign_in_button_text">Pierakstīties</string>
+  <string name="wifi_signal">Signāla stiprums</string>
+  <string name="wifi_speed">Saites izveides ātrums</string>
+  <string name="wifi_ssid">Tīkla nosaukums</string>
+  <string name="wifi_ssid_hint">Ievadīt SSID</string>
+  <string name="wifi_starting">Ieslēdz Wi‑Fi…</string>
+  <string name="wifi_status">Statuss</string>
+  <string name="wifi_tether_starting">Ieslēdz tīklāju…</string>
+  <string name="wifi_tether_stopping">Izslēdz tīklāju…</string>
+  <string name="wifi_unchanged">(bez izmaiņām)</string>
+  <string name="wifi_unspecified">Lūdzu, atlasiet</string>
+  <string name="wifi_use_system_certs">Izmantot sistēmas sertifikātus</string>
+  <string name="wizard_back">Atpakaļ</string>
+  <string name="wizard_next">Tālāk</string>
+  <string name="zen_access_empty_text">Neviena lietotne nav pieprasījusi piekļuvi opcijai Netraucēt</string>
+  <string name="zen_access_revoke_warning_dialog_summary">Visi šās lietotnes izveidotie opcijas Netraucēt noteikumi tiks noņemti.</string>
+  <string name="zen_access_revoke_warning_dialog_title">Vai %1$s atsaukt piekļuvi opcijai Netraucēt?</string>
+  <string name="zen_access_warning_dialog_summary">Lietotne var ieslēgt/izslēgt opciju Netraucēt un veikt saistīto iestatījumu izmaiņas.</string>
+  <string name="zen_access_warning_dialog_title">Vai atļaut %1$s piekļuvi opcijai Netraucēt?</string>
+  <string name="zen_category_schedule">Grafiks</string>
+  <string name="zen_event_rule_enabled_toast">Automātisks noteikums iestatīts noteiktos gadījumos ieslēgt opciju Netraucēt</string>
+  <string name="zen_event_rule_type_name">Notikums</string>
+  <string name="zen_mode_and_condition">%1$s. %2$s</string>
+  <string name="zen_mode_automation_settings_page_title">Automātiskie noteikumi</string>
+  <string name="zen_mode_behavior_summary_custom">Pielāgots</string>
+  <string name="zen_mode_delete_rule_button">Dzēst</string>
+  <string name="zen_mode_delete_rule_confirmation">Vai dzēst “%1$s” noteikumu?</string>
+  <string name="zen_mode_end_time_next_day_summary_format">%s nākamajā dienā</string>
+  <string name="zen_mode_event_rule_summary_calendar_template">Notikumu %1$s laikā</string>
+  <string name="zen_mode_event_rule_summary_reply_template">Kad atbilde ir %1$s</string>
+  <string name="zen_mode_from_none">Nav</string>
+  <string name="zen_mode_no_exceptions">Nav</string>
+  <string name="zen_mode_restrict_notifications_custom">Pielāgots</string>
+  <string name="zen_mode_rule_delete_button">Dzēst</string>
+  <string name="zen_mode_rule_summary_enabled_combination">Ieslēgt / %1$s</string>
+  <string name="zen_mode_rule_summary_provider_combination">%1$s
+%2$s</string>
+  <string name="zen_mode_schedule_rule_days_none">Nav</string>
+  <string name="zen_mode_sound_summary_off">Izslēgts</string>
+  <string name="zen_mode_sound_summary_on">Ieslēgts</string>
+  <string name="zen_mode_summary_alarms_only_by_time">Mainīt uz modinātājiem tikai līdz %1$s</string>
+  <string name="zen_mode_summary_alarms_only_indefinite">Mainīt uz modinātājiem tikai nenoteikti</string>
+  <string name="zen_mode_summary_always">Mainīt uz pārtraukšanu vienmēr</string>
+  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
+  <string name="zen_schedule_rule_enabled_toast">Automātisks noteikums iestatīt opciju Netraucēt noteiktos laikos</string>
+  <string name="zzz_certification_settings_title">Sertifikācija</string>
+  <string name="zzz_fih_invalid_battery_charging">Ieteicams izmantot oriģinālos akumulatorus; neapstiprināti akumulatori var radīt risku, piemēram, ugunsgrēku vai eksploziju.</string>
+  <string name="zzz_hmd_open_source_info_text">Atklātā pirmkoda programmatūra 
+
+Šajā izstrādājumā ir iekļauta atklātā pirmkoda programmatūra, kas ir licencēta saskaņā ar GPL un LGPL. HMD piedāvā jums piegādāt atklāto pirmkodu saskaņā ar piemērojamajās atklātā pirmkoda programmatūras licences noteikumiem. Lūdzu, sūtiet rakstisku pieprasījumu uz adresi:
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Somija. Šis piedāvājums ir spēkā trīs (3) gadus kopš dienas, kad HMD ir izplatījis šo izstrādājumu. Iesniedzot pieprasījumu, jūs dodat piekrišanu tam, ka HMD (vai trešās puses HMD vārdā un tiešā pakļautībā) apstrādās jūsu personas datus.
+
+Datu apstrāde notiks pieprasījuma nolūkos atbilstīgi HMD privātuma politikai un piemērojamajiem normatīvajiem aktiem.</string>
+  <string name="zzz_hmd_open_source_info_title">HMD atklātā pirmkoda informācija</string>
+  <string name="zzz_roaming_item_title">Globālie dati</string>
+  <string name="zzz_security_power_off_password_summary">Ievadiet ierīces kodu, lai izslēgtu vai restartētu</string>
+  <string name="zzz_security_power_off_password_title">Izslēgšanas vai restartēšanas bloķēšana</string>
+  <string name="zzz_sim_no_services">Pakalpojums nav pieejams</string>
+  <string name="zzz_version">Versija</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">Mimořádně krátká prodleva (%1$d ms)</item>
+    <item quantity="other">Mimořádně krátká prodleva (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">Dlouhá prodleva (%1$d ms)</item>
+    <item quantity="other">Dlouhá prodleva (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">Krátká prodleva (%1$d ms)</item>
+    <item quantity="other">Krátká prodleva (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">Velmi dlouhá prodleva (%1$d ms)</item>
+    <item quantity="other">Velmi dlouhá prodleva (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">Velmi krátká prodleva (%1$d ms)</item>
+    <item quantity="other">Velmi krátká prodleva (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">I při zapnutém režimu úspory dat múže 1 aplikace využívat neomezená data.</item>
+    <item quantity="other">I při zapnutém režimu úspory dat mohou některé aplikace (%1$d) využívat neomezená data.</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">Odstranit vybraný jazyk?</item>
+    <item quantity="other">Odstranit vybrané jazyky?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">1 hodina</item>
+    <item quantity="other">%s hodin</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">Heslo musí obsahovat alespoň 1 písmeno.</item>
+    <item quantity="other">Heslo musí obsahovat alespoň %d písmen</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">Heslo musí obsahovat alespoň 1 malé písmeno.</item>
+    <item quantity="other">Heslo musí obsahovat alespoň %d malých písmen</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">Heslo musí obsahovat alespoň 1 znak jiný než písmeno.</item>
+    <item quantity="other">Heslo musí obsahovat alespoň %d znaků jiných než písmeno</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">Heslo musí obsahovat alespoň 1 číslici.</item>
+    <item quantity="other">Heslo musí obsahovat alespoň %d číslic</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">Heslo musí obsahovat alespoň 1 speciální symbol.</item>
+    <item quantity="other">Heslo musí obsahovat alespoň %d speciálních symbolů</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">Heslo musí obsahovat alespoň 1 velké písmeno.</item>
+    <item quantity="other">Heslo musí obsahovat alespoň %d velkých písmen</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d aplikace může číst oznámení</item>
+    <item quantity="other">Aplikace, které mohou číst oznámení: %d</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">Za poslední období (%2$s) využila paměť 1 aplikace</item>
+    <item quantity="other">Za poslední období (%2$s) využil paměť tento počet aplikací: %1$d</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">1 minuta</item>
+    <item quantity="other">%s minut</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">Byla udělena oprávnění: %d</item>
+    <item quantity="other">Byla udělena oprávnění: %d</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d další oprávnění</item>
+    <item quantity="other">Další oprávnění: %d</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">Bylo uděleno %d z %d oprávnění</item>
+    <item quantity="other">Udělená oprávnění: %d z %d</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">1 sekunda</item>
+    <item quantity="other">%s sekund</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">Byl nastaven %1$d otisk prstu</item>
+    <item quantity="other">Byly nastaveny otisky prstů (%1$d)</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">Zobrazit %d skrytou položku</item>
+    <item quantity="other">Zobrazit %d skrytých položek</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">Ještě %1$d krok a bude z vás vývojář.</item>
+    <item quantity="other">Po dalších krocích (%1$d) se z vás stane vývojář.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">Označit certifikát jako důvěryhodný nebo jej odstranit</item>
+    <item quantity="other">Označit certifikáty jako důvěryhodné nebo je odstranit</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">Doména %s pro váš pracovní profil nainstalovala certifikační autoritu, která může umožnit monitorování aktivity v pracovní síti, včetně odesílání e-mailů, aplikací a zabezpečených webů.
+
+Další informace o tomto certifikátu vám poskytne správce.</item>
+    <item quantity="other">Doména %s pro váš pracovní profil nainstalovala certifikační autority, které mohou umožnit monitorování aktivity v pracovní síti, včetně odesílání e-mailů, aplikací a zabezpečených webů.
+
+Další informace o těchto certifikátech vám poskytne správce.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">Doména %s do vašeho zařízení nainstalovala certifikační autoritu, která umožňuje sledování aktivity zařízení na síti, včetně e-mailů, aplikací a zabezpečených webů.
+
+Další informace o tomto certifikátu vám poskytne správce.</item>
+    <item quantity="other">Doména %s do vašeho zařízení nainstalovala certifikační autority, které umožňují sledování aktivity zařízení na síti, včetně e-mailů, aplikací a zabezpečených webů.
+
+Další informace o těchto certifikátech vám poskytne správce.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">Zkontrolovat certifikát</item>
+    <item quantity="other">Zkontrolovat certifikáty</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">1 položka</item>
+    <item quantity="other">Položky: %d</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Zadali jste nesprávný PIN SIM karty. Zbývá %d pokus, poté bude muset zařízení odemknout operátor.</item>
+    <item quantity="other">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokusů.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">Na hodinu (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+    <item quantity="other">Na %1$d hod. (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">Na minutu (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+    <item quantity="other">Na %1$d min. (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+  </plurals>
+</resources>

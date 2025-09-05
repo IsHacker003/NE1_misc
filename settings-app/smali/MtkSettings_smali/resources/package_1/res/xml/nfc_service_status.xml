@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen android:title="@string/nfc_service_status_title"
+                  settings:keywords="@string/nfc_service_status_title" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" />

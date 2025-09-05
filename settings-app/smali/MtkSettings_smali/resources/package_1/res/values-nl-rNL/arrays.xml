@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="apn_auth_entries">
+    <item name="r0x00000000">Geen</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">CHAP</item>
+    <item name="r0x00000000">PAP of CHAP</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item name="r0x00000000">IPv4</item>
+    <item name="r0x00000000">IPv6</item>
+    <item name="r0x00000000">IPv4/IPv6</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+    <item name="r0x00000000">Interne apparaatopslag</item>
+    <item name="r0x00000000">Verwisselbare SD-kaart</item>
+    <item name="r0x00000000">Het systeem laten bepalen</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item name="r0x00000000">Locatie</item>
+    <item name="r0x00000000">Persoonlijk</item>
+    <item name="r0x00000000">Berichten</item>
+    <item name="r0x00000000">Media</item>
+    <item name="r0x00000000">Apparaat</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item name="r0x00000000">Locatie</item>
+    <item name="r0x00000000">Locatie</item>
+    <item name="r0x00000000">Locatie</item>
+    <item name="r0x00000000">Trillen</item>
+    <item name="r0x00000000">Contacten lezen</item>
+    <item name="r0x00000000">Contacten aanpassen</item>
+    <item name="r0x00000000">Gesprekkenlijst lezen</item>
+    <item name="r0x00000000">Oproeplijst wijzigen</item>
+    <item name="r0x00000000">Agenda lezen</item>
+    <item name="r0x00000000">Agenda aanpassen</item>
+    <item name="r0x00000000">Locatie</item>
+    <item name="r0x00000000">Melding verzenden</item>
+    <item name="r0x00000000">Locatie</item>
+    <item name="r0x00000000">Nummer bellen</item>
+    <item name="r0x00000000">Sms/mms lezen</item>
+    <item name="r0x00000000">Sms/mms schrijven</item>
+    <item name="r0x00000000">Sms/mms ontvangen</item>
+    <item name="r0x00000000">Sms/mms ontvangen</item>
+    <item name="r0x00000000">Sms/mms ontvangen</item>
+    <item name="r0x00000000">Sms/mms ontvangen</item>
+    <item name="r0x00000000">Sms/mms verzenden</item>
+    <item name="r0x00000000">Sms/mms lezen</item>
+    <item name="r0x00000000">Sms/mms schrijven</item>
+    <item name="r0x00000000">Instellingen aanpassen</item>
+    <item name="r0x00000000">Bovenop tekenen</item>
+    <item name="r0x00000000">Toegang tot meldingen</item>
+    <item name="r0x00000000">Camera</item>
+    <item name="r0x00000000">Audio opnemen</item>
+    <item name="r0x00000000">Audio afspelen</item>
+    <item name="r0x00000000">Klembord lezen</item>
+    <item name="r0x00000000">Klembord aanpassen</item>
+    <item name="r0x00000000">Mediaknoppen</item>
+    <item name="r0x00000000">Audiofocus</item>
+    <item name="r0x00000000">Hoofdvolume</item>
+    <item name="r0x00000000">Stemvolume</item>
+    <item name="r0x00000000">Beltoonvolume</item>
+    <item name="r0x00000000">Mediavolume</item>
+    <item name="r0x00000000">Alarmvolume</item>
+    <item name="r0x00000000">Meldingsvolume</item>
+    <item name="r0x00000000">Bluetooth-volume</item>
+    <item name="r0x00000000">Ingeschakeld houden</item>
+    <item name="r0x00000000">Locatie</item>
+    <item name="r0x00000000">Locatie</item>
+    <item name="r0x00000000">Gebruiksstatistieken ophalen</item>
+    <item name="r0x00000000">Microfoon dempen/dempen opheffen</item>
+    <item name="r0x00000000">Toast weergeven</item>
+    <item name="r0x00000000">Media projecteren</item>
+    <item name="r0x00000000">VPN activeren</item>
+    <item name="r0x00000000">Achtergrond schrijven</item>
+    <item name="r0x00000000">Structuur voor ondersteuning</item>
+    <item name="r0x00000000">Hulpscreenshot</item>
+    <item name="r0x00000000">Telefoonstatus lezen</item>
+    <item name="r0x00000000">Voicemail toevoegen</item>
+    <item name="r0x00000000">SIP gebruiken</item>
+    <item name="r0x00000000">Uitgaande oproep verwerken</item>
+    <item name="r0x00000000">Vingerafdruk</item>
+    <item name="r0x00000000">Lichaamssensoren</item>
+    <item name="r0x00000000">Cell broadcasts lezen</item>
+    <item name="r0x00000000">Neplocatie</item>
+    <item name="r0x00000000">Opslag lezen</item>
+    <item name="r0x00000000">Schrijven naar opslag</item>
+    <item name="r0x00000000">Scherm inschakelen</item>
+    <item name="r0x00000000">Accounts ophalen</item>
+    <item name="r0x00000000">Uitvoeren op de achtergrond</item>
+    <item name="r0x00000000">Toegankelijkheidsvolume</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item name="r0x00000000">geschatte locatie</item>
+    <item name="r0x00000000">nauwkeurige locatie</item>
+    <item name="r0x00000000">GPS</item>
+    <item name="r0x00000000">trillen</item>
+    <item name="r0x00000000">contacten lezen</item>
+    <item name="r0x00000000">contacten aanpassen</item>
+    <item name="r0x00000000">oproeplogboek lezen</item>
+    <item name="r0x00000000">gesprekkenlijst aanpassen</item>
+    <item name="r0x00000000">agenda lezen</item>
+    <item name="r0x00000000">agenda aanpassen</item>
+    <item name="r0x00000000">wifi-scan</item>
+    <item name="r0x00000000">melding</item>
+    <item name="r0x00000000">mobiele scan</item>
+    <item name="r0x00000000">nummer bellen</item>
+    <item name="r0x00000000">sms lezen</item>
+    <item name="r0x00000000">sms schrijven</item>
+    <item name="r0x00000000">sms ontvangen</item>
+    <item name="r0x00000000">nood-sms ontvangen</item>
+    <item name="r0x00000000">mms ontvangen</item>
+    <item name="r0x00000000">WAP-push ontvangen</item>
+    <item name="r0x00000000">sms verzenden</item>
+    <item name="r0x00000000">ICC sms lezen</item>
+    <item name="r0x00000000">ICC sms schrijven</item>
+    <item name="r0x00000000">instellingen aanpassen</item>
+    <item name="r0x00000000">bovenop tekenen</item>
+    <item name="r0x00000000">toegang tot meldingen</item>
+    <item name="r0x00000000">camera</item>
+    <item name="r0x00000000">audio opnemen</item>
+    <item name="r0x00000000">audio afspelen</item>
+    <item name="r0x00000000">klembord lezen</item>
+    <item name="r0x00000000">klembord aanpassen</item>
+    <item name="r0x00000000">mediaknoppen</item>
+    <item name="r0x00000000">audiofocus</item>
+    <item name="r0x00000000">hoofdvolume</item>
+    <item name="r0x00000000">stemvolume</item>
+    <item name="r0x00000000">beltoonvolume</item>
+    <item name="r0x00000000">mediavolume</item>
+    <item name="r0x00000000">alarmvolume</item>
+    <item name="r0x00000000">meldingsvolume</item>
+    <item name="r0x00000000">bluetooth-volume</item>
+    <item name="r0x00000000">ingeschakeld houden</item>
+    <item name="r0x00000000">locatie volgen</item>
+    <item name="r0x00000000">locatie met hoog energieverbruik controleren</item>
+    <item name="r0x00000000">gebruiksstatistieken ophalen</item>
+    <item name="r0x00000000">microfoon dempen/dempen opheffen</item>
+    <item name="r0x00000000">toast weergeven</item>
+    <item name="r0x00000000">media projecteren</item>
+    <item name="r0x00000000">VPN activeren</item>
+    <item name="r0x00000000">achtergrond schrijven</item>
+    <item name="r0x00000000">structuur voor ondersteuning</item>
+    <item name="r0x00000000">schermafbeelding voor ondersteuning</item>
+    <item name="r0x00000000">telefoonstatus lezen</item>
+    <item name="r0x00000000">voicemail toevoegen</item>
+    <item name="r0x00000000">SIP gebruiken</item>
+    <item name="r0x00000000">uitgaande oproep verwerken</item>
+    <item name="r0x00000000">vingerafdruk</item>
+    <item name="r0x00000000">lichaamssensoren</item>
+    <item name="r0x00000000">cell broadcasts lezen</item>
+    <item name="r0x00000000">neplocatie</item>
+    <item name="r0x00000000">opslag lezen</item>
+    <item name="r0x00000000">schrijven naar opslag</item>
+    <item name="r0x00000000">scherm inschakelen</item>
+    <item name="r0x00000000">accounts ophalen</item>
+    <item name="r0x00000000">uitvoeren op de achtergrond</item>
+    <item name="r0x00000000">toegankelijkheidsvolume</item>
+  </string-array>
+  <string-array name="auto_time_entries">
+    <item name="r0x00000000">Gebruik door netwerk aangeboden tijd</item>
+    <item name="r0x00000000">Gebruik door GPS aangeboden tijd</item>
+    <item name="r0x00000000">Uit</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item name="r0x00000000">Meer dan 30 dagen oud</item>
+    <item name="r0x00000000">Meer dan 60 dagen oud</item>
+    <item name="r0x00000000">Meer dan 90 dagen oud</item>
+  </string-array>
+  <string-array name="bearer_entries">
+    <item name="r0x00000000">Niet opgegeven</item>
+    <item name="r0x00000000">LTE</item>
+    <item name="r0x00000000">HSPAP</item>
+    <item name="r0x00000000">HSPA</item>
+    <item name="r0x00000000">HSUPA</item>
+    <item name="r0x00000000">HSDPA</item>
+    <item name="r0x00000000">UMTS</item>
+    <item name="r0x00000000">EDGE</item>
+    <item name="r0x00000000">GPRS</item>
+    <item name="r0x00000000">eHRPD</item>
+    <item name="r0x00000000">EVDO_B</item>
+    <item name="r0x00000000">EVDO_A</item>
+    <item name="r0x00000000">EVDO_0</item>
+    <item name="r0x00000000">1xRTT</item>
+    <item name="r0x00000000">IS95B</item>
+    <item name="r0x00000000">IS95A</item>
+    <item name="r0x00000000">GSM</item>
+    <item name="r0x00000000">TD_SCDMA</item>
+    <item name="r0x00000000">IWLAN</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item name="r0x00000000">Systeemselectie gebruiken (standaard)</item>
+    <item name="r0x00000000">Mono</item>
+    <item name="r0x00000000">Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item name="r0x00000000">Systeemselectie gebruiken (standaard)</item>
+    <item name="r0x00000000">Mono</item>
+    <item name="r0x00000000">Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item name="r0x00000000">2 minuten</item>
+    <item name="r0x00000000">5 minuten</item>
+    <item name="r0x00000000">1 uur</item>
+    <item name="r0x00000000">Geen time-out</item>
+  </string-array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item name="r0x00000000">Standaard</item>
+    <item name="r0x00000000">Geen</item>
+    <item name="r0x00000000">Contour</item>
+    <item name="r0x00000000">Slagschaduw</item>
+    <item name="r0x00000000">Verhoogd</item>
+    <item name="r0x00000000">Verlaagd</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item name="r0x00000000">Zeer klein</item>
+    <item name="r0x00000000">Klein</item>
+    <item name="r0x00000000">Normaal</item>
+    <item name="r0x00000000">Groot</item>
+    <item name="r0x00000000">Zeer groot</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item name="r0x00000000">\25%</item>
+    <item name="r0x00000000">\50%</item>
+    <item name="r0x00000000">\75%</item>
+    <item name="r0x00000000">\100%</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item name="r0x00000000">Standaard</item>
+    <item name="r0x00000000">Wit op zwart</item>
+    <item name="r0x00000000">Zwart op wit</item>
+    <item name="r0x00000000">Geel op zwart</item>
+    <item name="r0x00000000">Geel op blauw</item>
+    <item name="r0x00000000">Aangepast</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item name="r0x00000000">Standaard</item>
+    <item name="r0x00000000">Sans Serif</item>
+    <item name="r0x00000000">Sans Serif versmald</item>
+    <item name="r0x00000000">Sans-serif monospace</item>
+    <item name="r0x00000000">Serif</item>
+    <item name="r0x00000000">Serif monospace</item>
+    <item name="r0x00000000">Casual</item>
+    <item name="r0x00000000">Cursief</item>
+    <item name="r0x00000000">Kleine kapitalen</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item name="r0x00000000">Blauwgroen</item>
+    <item name="r0x00000000">Blauw</item>
+    <item name="r0x00000000">Indigo</item>
+    <item name="r0x00000000">Paars</item>
+    <item name="r0x00000000">Roze</item>
+    <item name="r0x00000000">Rood</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item name="r0x00000000">Automatisch (gebaseerd op tijdstip van de dag)</item>
+    <item name="r0x00000000">Altijd aan</item>
+    <item name="r0x00000000">Altijd uit</item>
+  </string-array>
+  <string-array name="data_usage_data_range">
+    <item name="r0x00000000">Afgelopen 30 dagen</item>
+    <item name="r0x00000000">Gebruikscyclus instellen…</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item name="r0x00000000">Uit</item>
+    <item name="r0x00000000">Gedeeltes met overbelasting weergeven</item>
+    <item name="r0x00000000">Gebieden voor deuteranomalie weergeven</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+    <item name="r0x00000000">Nooit</item>
+    <item name="r0x00000000">15 seconden</item>
+    <item name="r0x00000000">30 seconden</item>
+    <item name="r0x00000000">1 minuut</item>
+    <item name="r0x00000000">2 minuten</item>
+    <item name="r0x00000000">5 minuten</item>
+    <item name="r0x00000000">10 minuten</item>
+    <item name="r0x00000000">30 minuten</item>
+  </string-array>
+  <string-array name="eap_method_without_sim_auth">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item name="r0x00000000">Geen</item>
+    <item name="r0x00000000">Logcat</item>
+    <item name="r0x00000000">Systrace (graphics)</item>
+    <item name="r0x00000000">Oproepstack op glGetError</item>
+  </string-array>
+  <string-array name="entries_font_size">
+    <item name="r0x00000000">Klein</item>
+    <item name="r0x00000000">Standaard</item>
+    <item name="r0x00000000">Groot</item>
+    <item name="r0x00000000">Grootst</item>
+  </string-array>
+  <string-array name="lock_after_timeout_entries">
+    <item name="r0x00000000">Onmiddellijk</item>
+    <item name="r0x00000000">5 seconden</item>
+    <item name="r0x00000000">15 seconden</item>
+    <item name="r0x00000000">30 seconden</item>
+    <item name="r0x00000000">1 minuut</item>
+    <item name="r0x00000000">2 minuten</item>
+    <item name="r0x00000000">5 minuten</item>
+    <item name="r0x00000000">10 minuten</item>
+    <item name="r0x00000000">30 minuten</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+    <item name="r0x00000000">Kort</item>
+    <item name="r0x00000000">Normaal</item>
+    <item name="r0x00000000">Lang</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item name="r0x00000000">Geen</item>
+    <item name="r0x00000000">SPN</item>
+    <item name="r0x00000000">IMSI</item>
+    <item name="r0x00000000">GID</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item name="r0x00000000">Geen</item>
+    <item name="r0x00000000">480p</item>
+    <item name="r0x00000000">480p (veilig)</item>
+    <item name="r0x00000000">720p</item>
+    <item name="r0x00000000">720p (veilig)</item>
+    <item name="r0x00000000">1080p</item>
+    <item name="r0x00000000">1080p (veilig)</item>
+    <item name="r0x00000000">4K</item>
+    <item name="r0x00000000">4K (veilig)</item>
+    <item name="r0x00000000">4K (opgeschaald)</item>
+    <item name="r0x00000000">4K (opgeschaald, veilig)</item>
+    <item name="r0x00000000">720p, 1080p (dubbel scherm)</item>
+  </string-array>
+  <string-array name="proc_stats_memory_states">
+    <item name="r0x00000000">Normaal</item>
+    <item name="r0x00000000">Gemiddeld</item>
+    <item name="r0x00000000">Laag</item>
+    <item name="r0x00000000">Kritiek</item>
+  </string-array>
+  <string-array name="proc_stats_process_states">
+    <item name="r0x00000000">Permanent</item>
+    <item name="r0x00000000">Topactiviteit</item>
+    <item name="r0x00000000">Belangrijk (voorgrond)</item>
+    <item name="r0x00000000">Belangrijk (achtergrond)</item>
+    <item name="r0x00000000">Back-up</item>
+    <item name="r0x00000000">Zwaar gewicht</item>
+    <item name="r0x00000000">Service (actief)</item>
+    <item name="r0x00000000">Service (opnieuw starten)</item>
+    <item name="r0x00000000">Ontvanger</item>
+    <item name="r0x00000000">Thuis</item>
+    <item name="r0x00000000">Laatste activiteit</item>
+    <item name="r0x00000000">Gecacht (activiteit)</item>
+    <item name="r0x00000000">Gecacht (activiteitsclient)</item>
+    <item name="r0x00000000">Gecacht (leeg)</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item name="r0x00000000">Normaal</item>
+    <item name="r0x00000000">Gemiddeld</item>
+    <item name="r0x00000000">Laag</item>
+    <item name="r0x00000000">Kritiek</item>
+    <item name="r0x00000000">?</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item name="r0x00000000">15 seconden</item>
+    <item name="r0x00000000">30 seconden</item>
+    <item name="r0x00000000">1 minuut</item>
+    <item name="r0x00000000">2 minuten</item>
+    <item name="r0x00000000">5 minuten</item>
+    <item name="r0x00000000">10 minuten</item>
+    <item name="r0x00000000">30 minuten</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item name="r0x00000000">Vragen</item>
+    <item name="r0x00000000">Nooit toestaan</item>
+    <item name="r0x00000000">Altijd toestaan</item>
+  </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item name="r0x00000000">Uit</item>
+    <item name="r0x00000000">64 K</item>
+    <item name="r0x00000000">256 K</item>
+    <item name="r0x00000000">1 M</item>
+  </string-array>
+  <string-array name="select_logd_size_summaries">
+    <item name="r0x00000000">Uit</item>
+    <item name="r0x00000000">64 K per logbuffer</item>
+    <item name="r0x00000000">256 K per logbuffer</item>
+    <item name="r0x00000000">1 M per logbuffer</item>
+    <item name="r0x00000000">4 M per logbuffer</item>
+    <item name="r0x00000000">16 M per logbuffer</item>
+  </string-array>
+  <string-array name="select_logd_size_titles">
+    <item name="r0x00000000">Uit</item>
+    <item name="r0x00000000">64 K</item>
+    <item name="r0x00000000">256 K</item>
+    <item name="r0x00000000">1 M</item>
+    <item name="r0x00000000">4 M</item>
+    <item name="r0x00000000">16 M</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item name="r0x00000000">Uit</item>
+    <item name="r0x00000000">Alle logboekbuffers</item>
+    <item name="r0x00000000">Alle logboekbuffers behalve voor keuzerondjes</item>
+    <item name="r0x00000000">alleen kernel-logbuffer</item>
+  </string-array>
+  <string-array name="select_logpersist_titles">
+    <item name="r0x00000000">Uit</item>
+    <item name="r0x00000000">Alle</item>
+    <item name="r0x00000000">Alle beh. keuzerondje</item>
+    <item name="r0x00000000">alleen kernel</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item name="r0x00000000">Uit</item>
+    <item name="r0x00000000">Niet-rechthoekige bijsnijdregio tekenen in blauw</item>
+    <item name="r0x00000000">Geteste tekenopdrachten markeren in groen</item>
+  </string-array>
+  <string-array name="timezone_filters">
+    <item name="r0x00000000">Amerika</item>
+    <item name="r0x00000000">Europa</item>
+    <item name="r0x00000000">Afrika</item>
+    <item name="r0x00000000">Azië</item>
+    <item name="r0x00000000">Australië</item>
+    <item name="r0x00000000">Stille Oceaan</item>
+    <item name="r0x00000000">Alles</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item name="r0x00000000">Uit</item>
+    <item name="r0x00000000">Op het scherm als balken</item>
+    <item name="r0x00000000">In adb shell dumpsys gfxinfo</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item name="r0x00000000">Gebruikstijd</item>
+    <item name="r0x00000000">Laatst gebruikt</item>
+    <item name="r0x00000000">App-naam</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item name="r0x00000000">Verbinding verbroken</item>
+    <item name="r0x00000000">Initialiseren...</item>
+    <item name="r0x00000000">Verbinding maken...</item>
+    <item name="r0x00000000">Verbonden</item>
+    <item name="r0x00000000">Time-out</item>
+    <item name="r0x00000000">Mislukt</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item name="r0x00000000">PPTP-VPN</item>
+    <item name="r0x00000000">L2TP/IPSec-VPN met van tevoren gedeelde sleutels</item>
+    <item name="r0x00000000">L2TP/IPSec-VPN met certificaten</item>
+    <item name="r0x00000000">IPSec VPN-met van tevoren gedeelde sleutels en Xauth-verificatie</item>
+    <item name="r0x00000000">IPSec-VPN met certificaten en Xauth-verificatie</item>
+    <item name="r0x00000000">IPSec-VPN met certificaten en hybride verificatie</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices">
+    <item name="r0x00000000">Voorkeur voor wifi</item>
+    <item name="r0x00000000">Voorkeur voor mobiel</item>
+    <item name="r0x00000000">Alleen wifi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2">
+    <item name="r0x00000000">Wifi</item>
+    <item name="r0x00000000">Mobiel</item>
+    <item name="r0x00000000">Alleen wifi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+    <item name="r0x00000000">Wifi</item>
+    <item name="r0x00000000">Mobiel</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_without_wifi_only">
+    <item name="r0x00000000">Voorkeur voor wifi</item>
+    <item name="r0x00000000">Voorkeur voor mobiel</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\0</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values_without_wifi_only">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="wifi_eap_method">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_hotspot_disable_policy_entries">
+    <item name="r0x00000000">Altijd</item>
+    <item name="r0x00000000">Uitschakelen indien 5 minuten werkeloos</item>
+    <item name="r0x00000000">Uitschakelen indien 10 minuten werkeloos</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item name="r0x00000000">DHCP</item>
+    <item name="r0x00000000">Statisch</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item name="r0x00000000">Automatisch detecteren</item>
+    <item name="r0x00000000">Als gemeten behandelen</item>
+    <item name="r0x00000000">Als niet-gemeten behandelen</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item name="r0x00000000">Verbonden</item>
+    <item name="r0x00000000">Uitgenodigd</item>
+    <item name="r0x00000000">Mislukt</item>
+    <item name="r0x00000000">Beschikbaar</item>
+    <item name="r0x00000000">Geen bereik</item>
+  </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+    <item name="r0x00000000">Knop indrukken</item>
+    <item name="r0x00000000">Pincode van peer-apparaat</item>
+    <item name="r0x00000000">Pincode van dit apparaat</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item name="r0x00000000">Geen</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+    <item name="r0x00000000">Geen</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_phase2_entries">
+    <item name="r0x00000000">Geen</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">MSCHAP</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item name="r0x00000000">Geen</item>
+    <item name="r0x00000000">Handmatig</item>
+    <item name="r0x00000000">Proxy auto-configuratie</item>
+  </string-array>
+  <string-array name="wifi_security">
+    <item name="r0x00000000">Openen</item>
+    <item name="r0x00000000">WEP</item>
+    <item name="r0x00000000">WPA/WPA2 PSK</item>
+    <item name="r0x00000000">802.1x EAP</item>
+  </string-array>
+  <string-array name="wifi_signal">
+    <item name="r0x00000000">Slecht</item>
+    <item name="r0x00000000">Slecht</item>
+    <item name="r0x00000000">Redelijk</item>
+    <item name="r0x00000000">Goed</item>
+    <item name="r0x00000000">Uitstekend</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Scannen...</item>
+    <item name="r0x00000000">Verbinding maken...</item>
+    <item name="r0x00000000">Verifiëren...</item>
+    <item name="r0x00000000">IP-adres ophalen…</item>
+    <item name="r0x00000000">Verbonden</item>
+    <item name="r0x00000000">Opgeschort</item>
+    <item name="r0x00000000">Verbinding verbreken...</item>
+    <item name="r0x00000000">Verbinding verbroken</item>
+    <item name="r0x00000000">Mislukt</item>
+    <item name="r0x00000000">Geblokkeerd</item>
+    <item name="r0x00000000">Slechte verbinding tijdelijk vermijden</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Scannen...</item>
+    <item name="r0x00000000">Verbinding maken met %1$s...</item>
+    <item name="r0x00000000">Verifiëren met %1$s…</item>
+    <item name="r0x00000000">IP-adres ophalen van %1$s…</item>
+    <item name="r0x00000000">Verbonden met %1$s</item>
+    <item name="r0x00000000">Opgeschort</item>
+    <item name="r0x00000000">Verbinding verbreken met %1$s…</item>
+    <item name="r0x00000000">Verbinding verbroken</item>
+    <item name="r0x00000000">Mislukt</item>
+    <item name="r0x00000000">Geblokkeerd</item>
+    <item name="r0x00000000">Slechte verbinding tijdelijk vermijden</item>
+  </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen android:title="@string/motion_volume_quiet_pickup_title" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+  <com.android.settings.widget.VideoPreference android:key="gesture_mute_on_pickup_video"
+                        app:animation="@raw/mute_on_pickup"
+                        app:preview="@drawable/gesture_double_tap" />
+  <SwitchPreference android:title="@string/motion_volume_quiet_pickup_title"
+                    android:key="gesture_mute_on_pickup"
+                    android:summary="@string/motion_volume_quiet_pickup_help"
+                    app:controller="cust.settings.gestures.MuteOnPickupPreferenceController"
+                    app:keywords="@string/keywords_gesture" />
+</PreferenceScreen>

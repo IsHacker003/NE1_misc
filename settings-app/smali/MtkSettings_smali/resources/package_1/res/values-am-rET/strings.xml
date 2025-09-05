@@ -1,0 +1,529 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">ስለስልክ</string>
+  <string name="accelerometer_summary_off">ስልክ ስታሽከረክር በራስሰር ገጽ አቀማመጡን ቀይር</string>
+  <string name="accelerometer_summary_on">ስልክ ስታሽከረክር በራስሰር ገጽ አቀማመጡን ቀይር</string>
+  <string name="accessibility_feature_state_off">አጥፋ</string>
+  <string name="accessibility_feature_state_on">አብራ</string>
+  <string name="accessibility_summary_state_disabled">አጥፋ</string>
+  <string name="accessibility_summary_state_enabled">አብራ</string>
+  <string name="accessibility_vibration_intensity_off">አጥፋ</string>
+  <string name="advanced_apps">የላቀ</string>
+  <string name="advanced_section_header">የላቀ</string>
+  <string name="advanced_security_title">የላቀ</string>
+  <string name="ambient_display_pickup_summary">ጊዜን፣ የማሳወቂያ አዶዎችን፣ እና ሌላ መረጃን ለመፈተሽ የእርስዎን ስልክ ያንሱት።</string>
+  <string name="ambient_display_pickup_title">ስልኩን ለማረጋገጥ ያንሱ</string>
+  <string name="ambient_display_title">ስልኩን ለመመልከት ሁለቴ መታ ያድርጉ</string>
+  <string name="android_beam_off_summary">አጥፋ</string>
+  <string name="apn_apn">APN</string>
+  <string name="apn_auth_type">የማረጋገጫ አይነት</string>
+  <string name="apn_auth_type_chap">CHAP</string>
+  <string name="apn_auth_type_none">የለም</string>
+  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_pap_chap">PAP ወይም CHAP</string>
+  <string name="apn_http_port">ወደብ</string>
+  <string name="apn_http_proxy">እጅ አዙር</string>
+  <string name="apn_mcc">MCC</string>
+  <string name="apn_mms_port">የMMS ወደብ</string>
+  <string name="apn_mms_proxy">የMMS እጅ አዙር</string>
+  <string name="apn_mmsc">MMSC</string>
+  <string name="apn_mnc">MNC</string>
+  <string name="apn_name">ስም</string>
+  <string name="apn_not_set">አልተዘጋጀም</string>
+  <string name="apn_password">የይለፍ ቃል፦</string>
+  <string name="apn_server">አገልጋይ</string>
+  <string name="apn_type">የAPN አይነት</string>
+  <string name="apn_user">የተጠቃሚ ስም</string>
+  <string name="app_list_preference_none">የለም</string>
+  <string name="app_notification_row_banned">በማለያየት ላይ…</string>
+  <string name="assistant_security_warning_agree">እስማማለሁ</string>
+  <string name="auto_boot_pref_title">አስተዳደርን በራስ ሰር አስጀምር</string>
+  <string name="auto_brightness_default_title">ዝጋ</string>
+  <string name="auto_brightness_off_title">አጥፋ</string>
+  <string name="auto_brightness_summary_off">አጥፋ</string>
+  <string name="available_via_passpoint">በ%1$s በኩል ይገኛል</string>
+  <string name="backup_pw_cancel_button_text">ተወው</string>
+  <string name="band_mode_failed">ለጊዜው ደካማ ግንኙነትን በማስወገድ ላይ</string>
+  <string name="battery_desc_standby">ስልክ ሲቦዝን የተጠቀመበት ባትሪ መጠን</string>
+  <string name="battery_manager_off">አጥፋ</string>
+  <string name="battery_saver_off_summary">አጥፋ</string>
+  <string name="battery_saver_on_summary">አብራ</string>
+  <string name="battery_suggestion_title">የስልክ ባትሪ ህይወትን ያሻሽሉ</string>
+  <string name="battery_tip_dialog_message">የእርስዎ ስልክ ከመደበኛው በላይ ስራ ላይ ውሏል። ባትሪዎ ከተጠበቀው ጊዜ ቀድሞ ሊያልቅ ይችላል።
+
+ከመጨረሻው ሙሉ ኃይል መሙላት ወዲህ ከፍተኛዎቹ ጥቅም ላይ የዋሉ %1$d መተግበሪያዎች፦</string>
+  <string name="battery_tip_dialog_summary_message">የእርስዎ መተግበሪያዎች መደበኛ የባትሪ መጠንን በመጠቀም ላይ ናቸው። መተግበሪያዎች ከልክ በላይ ብዙ ባትሪ የሚጠቀሙ ከሆነ፣ የእርስዎ ስልክ እርስዎ የሚወስዱዋቸውን እርምጃዎች ጥቆማ ይሰጣል።
+
+ባትሪ እየጨረሱ ያሉ ከሆነ ባትሪ ቆጣቢን ሁልጊዜ ማብራት ይችላሉ።</string>
+  <string name="battery_tip_high_usage_title">ስልኩ ከተለመደው በላይ ስራ ላይ ውሏል</string>
+  <string name="battery_tip_restrict_app_dialog_ok">ገድብ</string>
+  <string name="battery_tip_smart_battery_title">የስልክዎን የባትሪ ህይወትን ያሻሽሉ</string>
+  <string name="battery_tip_summary_summary">ስልክ የታወቀ የዳራ ባትሪ አጠቃቀም አለው</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">ተወው</string>
+  <string name="bluetooth_ask_discovery">%1$s ስልክዎን ለ%2$d ሰከንዶች ያህል ለሌሎች የብሉቱዝ መሣሪያዎች እንዲታይ ይፈልጋል።</string>
+  <string name="bluetooth_ask_discovery_no_name">አንድ መተግበሪያ ስልክዎን ለ%1$d ሰከንዶች ያህል ለሌሎች የብሉቱዝ መሣሪያዎች እንዲታይ ሊያደርገው ይፈልጋል።</string>
+  <string name="bluetooth_ask_enablement_and_discovery">%1$s ብሉቱዝን አብርቶ ስልክዎ ለ%2$d ሰከንዶች ለሌሎች መሣሪያዎች እንዲታይ ሊያደርገው ይፈልጋል።</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">አንድ መተግበሪያ ብሉቱዝን አብርቶ ስልክዎን ለ%1$d ሰከንዶች ያህል ለሌሎች መሣሪያዎች እንዲታይ ሊያደርገው ይፈልጋል።</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s ብሉቱዝን አብርቶ ስልክዎን ለሌሎች መሣሪያዎች እንዲታይ ሊያደርገው ይፈልጋል። ይህን በኋላ ላይ በብሉቱዝ ቅንብሮች ውስጥ መቀየር ይችላሉ።</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">አንድ መተግበሪያ ብሉቱዝን አብርቶ ስልክዎን ለሌሎች መሣሪያዎች እንዲታይ ሊያደርገው ይፈልጋል። ይሄን በኋላ ላይ በብሉቱዝ ቅንብሮች ውስጥ ሊቀይሩት ይችላሉ።</string>
+  <string name="bluetooth_ask_lasting_discovery">%1$s ስልክዎን ለሌሎች የብሉቱዝ መሣሪያዎች እንዲታይ ሊያደርገው ይፈልጋል። ይሄን በኋላ ላይ በብሉቱዝ ቅንብሮች ውስጥ ሊቀይሩት ይችላሉ።</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">አንድ መተግበሪያ ስልክዎን ለሌሎች የብሉቱዝ መሣሪያዎች እንዲታይ ሊያደርገው ይፈልጋል። ይሄን በኋላ ላይ በብሉቱዝ ቅንብሮች ውስጥ ሊቀይሩት ይችላሉ።</string>
+  <string name="bluetooth_connecting">በማገናኘት ላይ…</string>
+  <string name="bluetooth_device_advanced_online_mode_title">አገናኝ</string>
+  <string name="bluetooth_device_context_connect">አገናኝ</string>
+  <string name="bluetooth_device_name">የመሳሪያ ስም</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">ተወው</string>
+  <string name="bluetooth_disabled">አጥፋ</string>
+  <string name="bluetooth_disconnect_all_profiles">የእርስዎን ስልክ ከ%1$s ግንኙነቱ ይቋረጣል።</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s የዚህን ስልክ የበይነመረብ ግንኙነት እንዳያጋራ ግንኙነቱ ይቋረጣል።</string>
+  <string name="bluetooth_disconnected">ግንኙነት ተቋርጧል</string>
+  <string name="bluetooth_disconnecting">ን በማለያየት ላይ…</string>
+  <string name="bluetooth_footer_mac_message">የስልክ የብሉቱዝ አድራሻ፦ %1$s</string>
+  <string name="bluetooth_menu_advanced">የላቀ</string>
+  <string name="bluetooth_pairing_decline">ተወው</string>
+  <string name="bluetooth_pref_summary">ከአቅራቢያ ካሉ የብሉቱዝ መሣሪያዎች ጋር መልዕክት ለመለዋወጥ እንዲችል የእርስዎን ስልክ ይፍቀዱለት</string>
+  <string name="bluetooth_preference_paired_dialog_name_label">ስም</string>
+  <string name="bluetooth_tethering_subtext">የስልክ በይነመረብ ግንኙነትን በብሉቱዝ በኩል አጋራ</string>
+  <string name="bluetooth_unpair_dialog_body">የእርስዎ ስልክ ከእንግዲህ ከ%1$s ጋር አይጣመርም</string>
+  <string name="camera_firmware_version">የካሜራ ፊርምዌር ስሪት</string>
+  <string name="cancel">ተወው</string>
+  <string name="color_blue">ሰማያዊ</string>
+  <string name="color_green">አረንጓዴ</string>
+  <string name="color_none">የለም</string>
+  <string name="color_orange">ብርቱካናማ</string>
+  <string name="color_purple">ወይን ጠጅ</string>
+  <string name="color_title">ቀለም</string>
+  <string name="color_unspecified">ዝጋ</string>
+  <string name="color_yellow">ቢጫ</string>
+  <string name="condition_device_muted_title">ስልክ ድምፀ-ከል ተደርጎበታል</string>
+  <string name="condition_device_vibrate_summary">ጥሪዎች እና ማሳወቂያዎች ስልክን ያነዝራሉ</string>
+  <string name="condition_device_vibrate_title">ስልክ እንዲነዝር ተቀናብሯል</string>
+  <string name="condition_expand_show">አሳይ</string>
+  <string name="connected_via_passpoint">በ%1$s በኩል ተገናኝቷል</string>
+  <string name="credentials_install">ከSD ካርድ ጫን</string>
+  <string name="credentials_install_summary">ከ ኤስዲ ካርድ ምስክሮችንጫን</string>
+  <string name="crypt_keeper_button_text">ስልክ አመስጥር</string>
+  <string name="crypt_keeper_data_corrupt_summary">ያስገቡት የይለፍ ቃል ትክክል ነው፣ ይሁንና ውሂብዎ የተበላሸ ነው። 
+
+ስልክዎን መጠቀሙን ለመቀጠል የፋብሪካ ዳግም ማስጀመር ማከናወን ያስፈልግዎታል። ከዳግም ማስጀመሩ በኋላ ስልክዎን ሲያዋቅሩት በGoogle መለያዎ ላይ ምትኬ የተቀመጠለት ማንኛውም ውሂብ ወደነበረበት የመመለስ አጋጣሚ ይኖርዎታል።</string>
+  <string name="crypt_keeper_desc">የእርስዎን መለያዎች፣ ቅንብሮች፣ የወረዱ መተግበሪያዎች እና ውሂባቸው፣ ማህደረመረጃቸው እና ሌሎች ፋይሎቻቸውን ማመስጠር ይችላሉ። ስልክዎን ካመሰጠሩት በኋላ የማያ ገጽ ቁልፍ እንዳዋቀሩ ታሳቢ በማድረግ (ማለትም ስርዓተ-ጥለት፣ ቁጥራዊ ፒን ወይም የይለፍ ቃል) ስልክዎን ባበሩት ቁጥር ስልኩን ለመፍታት ማያ ገጹን መክፈት ይኖርብዎታል። የሚፈቱበት ሌላኛው ብቻ መንገድ የፋብሪካ ዳግም ማስጀመር ነው፣ ሁሉንም ውሂብዎን በመደምሰስ።
+
+ማመስጠር አንድ ሰዓት ወይም ከዚያ በላይ ይወስዳል። በሙሉ ባትሪ መጀመር አለብዎት፣ እና ሂደቱ እስኪያልቅ ድረስ ስልክዎ መሰካት አለበት። ካቋረጡት አንዳንድ ወይም ሁሉም ውሂብዎን ያጣሉ።</string>
+  <string name="crypt_keeper_encrypt_title">ስልክ አመስጥር</string>
+  <string name="crypt_keeper_failed_summary">ማመስጠር ተቆራርጧል እና መጨረስ አይችልም። በመሆኑም፣ በስልክዎ ላይ ያለውን ውሂብ እስከነጭራሹ መድረስ አይቻልም። 
+
+ ስልክዎን በመጠቀም ለመቀጠል፣ የፋብሪካ ዳግም አስጀምር ማከናወን አለብዎት። ስልክዎን ዳግም ካስጀመሩ በኋላ ሲያዘጋጁ፣ ወደ Google መለያዎ አስጠብቀው የነበረውን ውሂብ እነበረበት ለመመለስ እድሉን ያገኛሉ።</string>
+  <string name="crypt_keeper_final_desc">የምስጠራ ክንውኑ የማይመለስ ነው እና ካቋረጡት፤ ውሂብ ያጣሉ።ምስጠራ 1 ሰዓት ወይም ከዛ የበለጠ ይወስዳል፤ በዛ ጊዜ ስልኩ ለብዙ ጊዜያቶች በድጋሚ ይነሳል።</string>
+  <string name="crypt_keeper_force_power_cycle">ስልክዎን ለማስከፈት ያጥፉትና ከዚያ ያብሩት።</string>
+  <string name="crypt_keeper_setup_description">እባክህ ስልክህ እስኪመሳጠር ድረስ ጠብቅ። ^1% ተጠናቋል።</string>
+  <string name="crypt_keeper_setup_time_remaining">ስልክዎ እስኪመሰጠር ድረስ ይጠብቁ። ቀሪ ጊዜ፦ ^1</string>
+  <string name="daltonizer_mode_disabled">ተሰናክሏል</string>
+  <string name="data_protection_title">የውሂብ ጥበቃ</string>
+  <string name="data_saver_off">አጥፋ</string>
+  <string name="data_saver_on">አብራ</string>
+  <string name="data_service_enable_mobile">ጊዜያዊ የውሂብ አገልግሎት</string>
+  <string name="data_service_prompt">ውሂብ የሌለው SIM በ VoLTE ጥሪ ላይ በሚሆንበት ጊዜ፣ ለውሂብ አገልግሎት ጥቅም ላይ ይውላል። ይህ ወደ ተጨማሪ የ SIM ውሂብ አጠቃቀም ይመራል።</string>
+  <string name="data_service_summary">ውሂብ የሌለው SIM በ VoLTE ጥሪ ላይ በሚሆንበት ጊዜ፣ ለውሂብ አገልግሎት ጥቅም ላይ ይውላል።</string>
+  <string name="data_usage_auto_sync_on_dialog">ድር ላይ በመለያዎችዎ ላይ የሚያደርጓቸው ማንኛቸውም ለውጦች በራስሰር ወደ ስልክዎ ይቀዳሉ።
+
+አንዳንድ መለያዎች እንዲሁም በስልክ ላይ የሚያደርጓቸውን ማንኛቸውም ለውጦች ወደ ድሩ ሊቀዱት ይችላሉ። የGoogle መለያ በዚህ መንገድ ነው የሚሰራው።</string>
+  <string name="data_usage_limit_dialog_mobile">ስልክዎ አንዴ ያዘጋጁት የውሂብ ገደብ ላይ ሲደርስ የተንቀሳቃሽ ስልክ ውሂቡን ያጠፋዋል።
+
+የውሂብ አጠቃቀም የሚለካው በስልክዎ፣ እና የአገልግሎት አቅራቢዎ አጠቃቀም በተለየ መልኩ ሊቆጥር የሚችል እንደመሆኑ መጠን ቆጠብ ያለ ገደብ ማዘጋጀቱን ያስቡበት።</string>
+  <string name="data_usage_list_none">የለም</string>
+  <string name="data_usage_restrict_background_multiuser">የጀርባ ተንቀሳቃሽ ስልክ ውሂብ ከገደቡ አንዳንድ መተግበሪያዎች እና አገልግሎቶች ከWi-Fi ጋር ካልተገናኙ በስተቀር ድረስ አይሠሩም።
+
+ይህ ቅንብር እዚህ ስልክ ላይ ያሉት ሁሉም ተጠቃሚዎች ይመለከታቸዋል።</string>
+  <string name="data_usage_total_during_range_mobile">%2$s፦ %1$s ገደማ ስራ ላይ ውሏል፣ በስልክዎ በተለካው መሠረት። የድምጸ ተያያዥዎ ውሂብ አጠቃቀም ሒሳብ አያያዝ ሊለይ ይችላል።</string>
+  <string name="decryption_settings_summary">ስልክ አልተመሰጠረም</string>
+  <string name="default_apps_title">ዝጋ</string>
+  <string name="default_keyboard_layout">ዝጋ</string>
+  <string name="default_theme">ዝጋ</string>
+  <string name="delete">ይሰርዙ</string>
+  <string name="deletion_helper_manual_title">በእጅ</string>
+  <string name="device_info_settings">የስልክ ሁኔታዎች</string>
+  <string name="device_status">የላቁ አማራጮች</string>
+  <string name="device_status_activity_title">የላቁ አማራጮች</string>
+  <string name="device_status_summary">ስልክቁጥር፣ሲግናል፣ወዘተ።</string>
+  <string name="dialog_background_check_message">%1$s ዝም ብሎ ስልክዎን ስለሚያነቃው ያለው የስልክዎን ባትሪውን በጤናማ ሁኔታ ማስተዳደር አልተቻለም።
+
+ይህን ችግር ለመፍታት ይሞክሩ፣ %1$sን ማስቆም እና በበስተጀርባ ማሄዱን እንዳይቀጥል ማድረግ ይችላሉ።</string>
+  <string name="dialog_location_message">%1$s በማይጠቀሙበት ጊዜ የእርስዎን አካባቢ ዝም ብሎ ስለሚጠይቅ ስልክዎ ባትሪውን በጤናማ ሁኔታ ማስተዳደር አልተቻለም።
+
+ይህን ችግር ለመፍታት ለዚህ መተግበሪያ አካባቢን ማጥፋት ይችላሉ።</string>
+  <string name="dialog_stop_message">%1$s ስልክዎን እንደነቃ እያቆየው ስለሆነ ስልክዎ ባትሪውን በጤናማ ሁኔታ ማስተዳደር አልቻለም።
+
+ይህን ችግር ለመፍታት መተግበሪያውን ማቆም ይችላሉ።
+
+ይህ ሁኔታ ከቀጠለ የባትሪ አፈጻጸም ብቃትን ለማሻሻል ሲባል መተግበሪያውን ማራገፍ ሊኖርብዎት ይችላል።</string>
+  <string name="dialog_stop_message_wakeup_alarm">%1$s ዝም ብሎ ስልክዎን እያነቃው ስለሆነ ስልክዎ ባትሪውን በጤናማ ሁኔታ ማስተዳደር አልቻለም።
+
+ይህን ችግር ለመፍታት ለመሞከር %1$sን ማስቆም ይችላሉ።
+
+ይህ ሁኔታ ከቀጠለ የባትሪ አፈጻጸም ብቃትን ለማሻሻል ሲባል መተግበሪያውን ማረገፍ ሊኖርብዎ ይችላል።</string>
+  <string name="disabled">ተሰናክሏል</string>
+  <string name="display_cutout_emulation_none">የለም</string>
+  <string name="dlg_cancel">ተወው</string>
+  <string name="dlg_close">ታግዷል</string>
+  <string name="dlg_confirm_unmount_text">የኤስዲ ካርዱን ከነቀልክ አንዳንድ እየተጠቀምክባቸው ያሉ መተግበሪያዎች ይቆሙ እና ኤስዲ ካርዱን እስከምትሰካ ላይገኙ ይችላሉ።</string>
+  <string name="dlg_confirm_unmount_title">ኤስዲ ካርድ ንቀል?</string>
+  <string name="dlg_error_unmount_text">ኤስዲ ካርድ መንቀል አልተቻለም። ኋላ እንደገና ሞክር።</string>
+  <string name="dlg_ok">እሺ</string>
+  <string name="dock_audio_summary_none">ስልክ አልተተከለም</string>
+  <string name="dock_not_found_text">ተሰኪ ድምጽን ከማቀናበርህ በፊት ስልኩን መሰካት ያስፈልግሃል።</string>
+  <string name="dock_sounds_enable_summary_off">ስልኩን ከትከል ስታስገባ ወይም ስታስወግድ ዘፈን አታጫውት</string>
+  <string name="dock_sounds_enable_summary_on">ስልክ ከትከል ሲከት ወይም ሲያስወግድ በድምጽ አጫውት</string>
+  <string name="doze_always_on_title">ሁልጊዜ የበራ</string>
+  <string name="encryption_and_credential_settings_summary">ስልክ ተመስጥሯል</string>
+  <string name="enterprise_privacy_none">የለም</string>
+  <string name="erase_esim_storage_description">በስልኩ ላይ ያሉ ሁሉንም eSIMዎች ይደምስሱ። ይሄ የእርስዎን የተንቀሳቃሽ ስልክ አገልግሎት ዕቅድ አይሰርዘውም።</string>
+  <string name="erase_external_storage">የኤስዲ ካርድ አጥፋ</string>
+  <string name="erase_external_storage_description">እንደ ሙዚቃ እና ፎቶዎች፣ ሁሉንም ውሂብ በኤስዲ ካርድ ላይ አጥፋ።</string>
+  <string name="external_data_size_label">ኤስዲ ካርድ</string>
+  <string name="fih_color_picker_blue">ሰማያዊ</string>
+  <string name="fih_color_picker_green">አረንጓዴ</string>
+  <string name="fih_color_picker_orange">ብርቱካናማ</string>
+  <string name="fih_color_picker_pink">ጥቁር አረንጓዴ-ሰማያዊ</string>
+  <string name="fih_color_picker_purple">ወይን ጠጅ</string>
+  <string name="fih_color_picker_yellow">ቢጫ</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">አረጋግጥ</string>
+  <string name="fih_message_sound_title_sim1">የመልዕክት ማሳወቂያ (SIM1)</string>
+  <string name="fih_message_sound_title_sim2">የመልዕክት ማሳወቂያ (SIM2)</string>
+  <string name="fih_message_vibrate">ንዘር</string>
+  <string name="fih_ringtone_add">ያክሉ</string>
+  <string name="fih_ringtone_remove">አስወግድ</string>
+  <string name="fih_ringtone_select_all">ሁሉም</string>
+  <string name="fih_sound_category_message_notirication_vibrate_title">መልዕክት ማሳወቂያ እና መርገብገብ</string>
+  <string name="filter_apps_onsdcard">በ SD ካርድ ላይ</string>
+  <string name="fingerprint_enroll_button_next">ቀጣይ</string>
+  <string name="fingerprint_swipe_for_notifications_summary">የእርስዎን ማሳወቂያዎች ለመመልከት በስልክዎ ጀርባ ላይ ባለው የጣት አሻራ ዳሳሽ ላይ ወደ ታች ጠረግ ያድርጉት</string>
+  <string name="font_setting_title">የቅርጸ ቁምፊ ቅጥ</string>
+  <string name="font_size_save">እሺ</string>
+  <string name="forget">አታቅርብ</string>
+  <string name="gesture_preference_summary">ስልክዎን የሚቆጣጠሩባቸው ፈጣን የጣት ምልክቶች</string>
+  <string name="gesture_setting_off">አጥፋ</string>
+  <string name="gesture_setting_on">አብራ</string>
+  <string name="hardware_revision">የሃርድዌር ስሪት</string>
+  <string name="hdmi_auto">ራስ-ሰር</string>
+  <string name="install_all_warning">የእርስዎ ስልክ እና የግል ውሂብ ባልታወቁ መተግበሪያዎች ለሚፈጸም ጥቃት ይበልጥ ተጋላጭ ናቸው። ከዚህ ምንጭ የመጡ መተግበሪያዎችን በመጫን እነሱን በመጠቀምዎ በስልክዎ ላይ ለሚከሰት ማንኛውም ጉዳት ወይም ለውሂብ መጥፋት ኃላፊነቱን የሚወስዱት እርስዎ መሆኑን ተስማምተዋል።</string>
+  <string name="intent_sender_account_label">መለያ</string>
+  <string name="keyboard_layout_default_label">ዝጋ</string>
+  <string name="launch_instant_app">ክፈት</string>
+  <string name="link_speed">%1$d ሜባበሴ</string>
+  <string name="locale_default">ዝጋ</string>
+  <string name="location_off_summary">አጥፋ</string>
+  <string name="location_on_summary">አብራ</string>
+  <string name="location_street_level">መተግበሪያዎች አካባቢዎትን ለይተው እንዲያስቀምጡ ስልክዎ ላይ ያለውን GPS ይጠቀሙ</string>
+  <string name="lock_screen_intro_skip_dialog_text">የመሣሪያ ጥበቃ ባህሪያት አይበሩም። ይህ ስልክ ቢጠፋ ወይም ቢሰረቅ ሌሎች እንዳይጠቀሙበት መከላከል አይችሉም።</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">የመሣሪያ ጥበቃ ባህሪያት አይበሩም። ይህ ስልክ ቢጠፋ፣ ቢሰረቅ ወይም ዳግም እንዲቀናበር ቢደረግ ሌሎች እንዳይጠቀሙበት መከላከል አይችሉም።</string>
+  <string name="lockpassword_cancel_label">ተወው</string>
+  <string name="lockpattern_tutorial_cancel_label">ተወው</string>
+  <string name="lockpattern_tutorial_continue_label">ቀጣይ</string>
+  <string name="manage_trust_agents_summary">የለም</string>
+  <string name="manual">በእጅ</string>
+  <string name="master_clear_accounts">
+
+ እርስዎ በአሁን ጊዜ የሚከተለው መለያዎች ውስጥ ገብተዋል፡
+</string>
+  <string name="master_clear_button_text">ስልክ ድጋሚ አስጀምር</string>
+  <string name="master_clear_desc">ይህ ከእርስዎ ጡባዊ <b>ውስጣዊ ማከማቻ</b> የሚከተሉትን ጨምሮ:
+
+<li>የእርስዎ  Google መለያ</li><li>ስርዓት እና መተግበሪያ ውሂብ እና የክንውን አውዶች</li><li>የወረዱ መተግበሪያዎች</li> ላይ ያሉ ሁሉንም ውሂብ ይሰርዛል።</string>
+  <string name="master_clear_desc_erase_external_storage">
+
+ ሙዚቃ፣ ምስሎች፣ እና ሌላ ተጠቃሚ ውሂብ ለማጥራት፣<b> የኤስዲ ካርድ </b>መጥፋት ያስፈልገዋል።</string>
+  <string name="master_clear_other_users_present">
+
+በዚህ መሳሪያ ላይ ያሉ ሌሎች ተጠቃሚዎች አሉ።
+</string>
+  <string name="media_output_summary">ስልክ</string>
+  <string name="media_output_summary_unavailable">አይገኝም</string>
+  <string name="menu_save">አስቀምጥ</string>
+  <string name="motion_turn_over_reject_call_help">የስልክ ጥሪ በሚገባ ጊዜ፣ ጥሪውን ላለመቀበል ስልኩን ይገልብጡ</string>
+  <string name="motion_volume_quiet_pickup_help">የስልክ ጥሪ በሚገባ ጊዜ፣ የጥሪ ደወሉን ዝም ለማሰኘት ስልኩን አግድም ተቀምጦ እያለ ያንሱ</string>
+  <string name="motion_volume_quiet_pickup_title">ሲነሳ ዝም አሰኝ</string>
+  <string name="move_app_to_internal">ወደ ስልክ አንቀሳቅስ</string>
+  <string name="move_app_to_sdcard">ወደ ኤስዲ ካርድ አንቀሳቅስ</string>
+  <string name="mvno_type_none">የለም</string>
+  <string name="my_device_info_account_preference_title">መለያ</string>
+  <string name="my_device_info_device_name_preference_title">የመሳሪያ ስም</string>
+  <string name="network_scorer_picker_none_preference">የለም</string>
+  <string name="new_device_suggestion_summary">በአዲሱ ስልክዎ ላይ ጉብኝት ያድርጉ</string>
+  <string name="next_label">ቀጣይ</string>
+  <string name="nfc_payment_default_not_set">አልተዘጋጀም</string>
+  <string name="nfc_quick_toggle_summary">ስልኩ ሌላ መሳሪያ ሲነካ የውሂብ ልውውጥ ፍቀድ</string>
+  <string name="nfc_service_summary_disabled">ተሰናክሏል</string>
+  <string name="nfc_service_summary_enabled">የነቁ</string>
+  <string name="night_display_auto_mode_never">የለም</string>
+  <string name="night_display_status_title">ሁኔታ</string>
+  <string name="notification_listener_disable_warning_cancel">ተወው</string>
+  <string name="notification_toggle_off">አጥፋ</string>
+  <string name="notification_toggle_on">አብራ</string>
+  <string name="notification_volume_title">ማሳወቂያ</string>
+  <string name="notifications_disabled">አጥፋ</string>
+  <string name="notifications_enabled">አብራ</string>
+  <string name="okay">እሺ</string>
+  <string name="owner_info_settings_summary">የለም</string>
+  <string name="passpoint_content">%1$s ምስክሮች</string>
+  <string name="passpoint_label">ተቀምጧል በ</string>
+  <string name="phone_info_label">የስልክ መረጃ</string>
+  <string name="please_select_phase2">ክፍል 2 ማረጋገጥ</string>
+  <string name="power_idle">ስልክ ስራ የፈታበት</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">ስልኩ በቅርቡ ሊዘጋ ይችላል</string>
+  <string name="power_remaining_duration_shutdown_imminent">ስልኩ በቅርቡ ሊዘጋ ይችላል (%1$s)</string>
+  <string name="poweroff_animation_summary">የመዝጋት እነማ አጫውት</string>
+  <string name="poweroff_animation_title">የመዝጋት እነማ</string>
+  <string name="preference_change_password_title">የይለፍ ቃል ቀይር</string>
+  <string name="prevent_ringing_option_none_summary">አጥፋ</string>
+  <string name="print_cancel">ተወው</string>
+  <string name="print_feature_state_off">አጥፋ</string>
+  <string name="print_feature_state_on">አብራ</string>
+  <string name="print_settings_summary_no_service">አጥፋ</string>
+  <string name="proxy_error">ትኩረት</string>
+  <string name="proxy_error_dismiss">እሺ</string>
+  <string name="proxy_error_empty_host_set_port">የአስተናጋጁ መስክ ባዶ ከሆነ የወደብ መስኩ ባዶ መሆን አለበት።</string>
+  <string name="proxy_error_empty_port">የወደብ መስኩን ማጠናቀቅ ያስፈልግሃል።</string>
+  <string name="proxy_error_invalid_exclusion_list">እርስዎ የተየቡት ያለማካተት ዝርዝር በትክክል ቅርጸት አልተሰጠውም።</string>
+  <string name="proxy_error_invalid_port">ያልተካተቱ ጎራዎች ዝርዝር</string>
+  <string name="proxy_exclusionlist_label">የተየቡት ወደብ ትክክል አይደለም።</string>
+  <string name="proxy_hostname_label">የእጅ አዙሩን በጎንእለፍ</string>
+  <string name="proxy_port_label">የእጅ አዙር ስመ ካዳም</string>
+  <string name="proxy_settings_title">እጅ አዙር</string>
+  <string name="proxy_url_title">የእጅ አዙርወደብ </string>
+  <string name="proxy_warning_limited_support"></string>
+  <string name="radioInfo_data_connected">ደካማ</string>
+  <string name="radioInfo_data_disconnected">የይለፍ ቃል አሳይ</string>
+  <string name="radioInfo_data_suspended">እጅግ በጣም ጥሩ</string>
+  <string name="radio_info_ims_feature_status_unavailable">አይገኝም</string>
+  <string name="radio_off_during_emergency_call">በአደጋ ጊዜ ጥሪ ወቅት SIM ካርድ ማጥፋት አይቻልም።</string>
+  <string name="really_remove_account_message">ይህን መለያ ማስወገድ ሁሉንም መልዕክቶቹን፣ እውቂያዎቹን፣ እና ከስልኩ ውስጥ ያለ ሌላ ውሂብን ይሰርዛል!</string>
+  <string name="reset_network_desc">የሚከተሉትን ጨምሮ ይህ ሁሉንም የአውታረ መረብ የክንውን አውዶች ዳግም ያስጀምራል፦
+
+<li>Wi‑Fi</li><li>የተንቀስቃሽ ስልክ ውሂብ</li><li>Bluetooth</li></string>
+  <string name="restriction_nfc_enable_summary">ስልኩ ሌላ መሳሪያ ሲነካ የውሂብ ልውውጥ ፍቀድ</string>
+  <string name="retail_demo_reset_next">ቀጣይ</string>
+  <string name="ringtone_sim1_title">የስልክ ደወል ድምጽ (SIM1)</string>
+  <string name="ringtone_sim2_title">የስልክ ደወል ድምጽ (SIM2)</string>
+  <string name="ringtone_title_uim1">UIM1 የስልክ ደወል ድምጽ</string>
+  <string name="ringtone_uim1_title">የስልክ ደወል ድምጽ (UIM1)</string>
+  <string name="roaming_warning_multiuser">የውሂብ ዝውውር ሲፈቅዱ ጉልህ የሆኑ የውሂብ ዝውውር ክፍያዎች ሊደርስብዎት ይችላል!
+
+ይህ ቅንብር እዚህ ስልክ ላይ ያሉት ሁሉም ተጠቃሚዎች ይመለከታቸዋል።</string>
+  <string name="running_frequency">አታረጋግጥ</string>
+  <string name="runningservicedetails_stop_dlg_text">ይህን አገልግሎት ለማቆም ከፈለግክ አጥፍተህ እንደገና እስክታበራው ድረስ አንዳንድ የስልክህ ገጽታዎች በትክክል መስራት ያቆማሉ ።</string>
+  <string name="save">አስቀምጥ</string>
+  <string name="saved_network">በ%1$s የተቀመጠ</string>
+  <string name="screen_zoom_summary_default">ነባሪ</string>
+  <string name="screensaver_settings_summary_off">አጥፋ</string>
+  <string name="sd_card_settings_label">ኤስዲ ካርድ</string>
+  <string name="sd_card_storage">ኤስዲ ካርድ ማከማቻ</string>
+  <string name="sd_eject">ኤስዲ ካርድ ንቀል</string>
+  <string name="sd_eject_summary">በደህና ለማስወገድ የኤስዲ ካርዱን ንቀል</string>
+  <string name="sd_format">የኤስዲ ካርድ አጥፋ</string>
+  <string name="sd_format_summary">እንደ ሙዚቃ እና ፎቶዎች፣ በ ኤስዲ ካርድ ላይ ያለን ውሂብ ሁሉ ያጠፋል</string>
+  <string name="sd_insert_summary">የኤስዲ ካርድ ለመሰካት አስገባ</string>
+  <string name="sd_memory">ኤስዲ ካርድ</string>
+  <string name="sd_mount">ኤስዲ ካርድ ሰካ</string>
+  <string name="sdcard_format">የኤስዲ ካርድ አጥፋ</string>
+  <string name="sdcard_setting">ኤስዲ ካርድ</string>
+  <string name="sdcard_settings_bad_removal_status">የSD ማከማቻ በጥቅም ላይ እያለ ተወግዶ ነበር!</string>
+  <string name="sdcard_settings_mass_storage_status">ኤስዲ ካርድ እንደብዙ ማከማቻ መሳሪያ በማገልገል ላይ ነው።</string>
+  <string name="sdcard_settings_not_present_status">ምንም ኤስዲ ካርድ የለም።</string>
+  <string name="sdcard_settings_read_only_status">የኤስዲ ካርድ አንባቢ- ብቻ ተሰክቷል።</string>
+  <string name="sdcard_settings_scanning_status">ለማህደረ መረጃ የ ኤስዲ ካርደ በመቃኘት ላይ…</string>
+  <string name="sdcard_settings_unmounted_status">አሁን የSD ማከማቻውን ለማስወገድ አስተማመኝ ነው።</string>
+  <string name="sdcard_unmount">ኤስዲ ካርድ ንቀል</string>
+  <string name="security_passwords_title">ግላዊነት</string>
+  <string name="security_settings_desc">ይህ መተግበሪያ ስልክዎ ላይ የሚከተለውን መድረስ ይችላል፦</string>
+  <string name="security_settings_desc_multi">ይህ መተግበሪያ ስልክዎ ላይ የሚከተሉትን ሊደርስባቸው ይችላል። አፈጻጸሙን ለማሻሻልና የማህደረ ትውስታውን አጠቃቀም ለመቀነስ ሲባል ከእነኚህ ፍቃዶች ውስጥ አንዳንዶቹ ልክ %1$s ባለበት ሂደት ውስጥ ስለሚካሄዱ ለ%2$sም ይገኛሉ፦</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">ይሰርዙ</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">ስም</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">እሺ</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">ተወው</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">ቀጣይ</string>
+  <string name="settings_manual_activity_title">በእጅ</string>
+  <string name="setup_lock_settings_picker_message">የመሳሪያ ጥበቃ ባህሪያትን በማግበር ሌሎች ይህን ስልክ ያለእርስዎ ፈቃድ እንዳይጠቀሙበት ይከልክሉ። መጠቀም የሚፈልጉትን የማያ ገጽ መቆለፊያ ይምረጡ።</string>
+  <string name="setup_lock_settings_picker_title">ለእርስዎ ስልክ ጥበቃ ይድርጉ</string>
+  <string name="show_operator_name_title">አውታረ መረብ ስም</string>
+  <string name="sim_card_select_title">ሲም ካርድ ይምረጡ</string>
+  <string name="sim_editor_title">የSIM ማስገቢያ %1$d</string>
+  <string name="sim_enabler_both_inactive">ስህተት፣ ሁሉንም SIM ማሰናከል አልተቻለም</string>
+  <string name="sim_enabler_disabling">በማቦዘን ላይ...</string>
+  <string name="sim_enabler_need_switch_data_service">ይሰናከልና ለውሂብ አገልግሎት ወደ SIM%1$s ይቀይራል፣ እርግጠኛ ነዎት?</string>
+  <string name="sim_enter_cancel">ተወው</string>
+  <string name="sim_enter_ok">እሺ</string>
+  <string name="sim_lock_off">ስልክ ለመጠቀም ፒን ጠይቅ</string>
+  <string name="sim_lock_on">ስልክ ለመጠቀም ፒን ጠይቅ</string>
+  <string name="sim_lock_settings_summary_off">አጥፋ</string>
+  <string name="smart_battery_footer">ባትሪ አስተዳዳሪ መተግበሪያዎች ባትሪን አንጠፍጥፈው እየጨረሱት እንደሆነ ፈልጎ ሲደርስበት እነዚህን መተግበሪያዎች ለመገደብ አማራጭ ይኖርዎታል። የተገደቡ መተግበሪያዎች በአግባቡ ላይሠሩ ይችላሉ እና ማሳወቂያዎች ሊዘገዩ ይችሉ ይሆናል።</string>
+  <string name="sound_enhance_hifi_mode">Hi-Fi ሁነታ</string>
+  <string name="sound_enhance_hifi_mode_summary">ከፍተኛ-ትክክለኝነት</string>
+  <string name="status_number">የስልክ ቁጥር</string>
+  <string name="status_number_sim_slot">የስልክ ቁጥር (የሲም ማስገቢያ %1$d)</string>
+  <string name="status_number_sim_status">ስልክ ቁጥር በሲም ላይ</string>
+  <string name="status_signal_strength">የበይነመረብ ግንኙነት የለም</string>
+  <string name="storage_manager_indicator_off">አጥፋ</string>
+  <string name="storage_manager_indicator_on">አብራ</string>
+  <string name="storage_menu_forget">አታቅርብ</string>
+  <string name="storage_settings_summary">የኤስዲ ካርድ ንቀል፣ የሚገኝ ማከማቻ ዕይ</string>
+  <string name="storage_wizard_init_v2_internal_action">የስልክ ማከማቻ</string>
+  <string name="storage_wizard_init_v2_internal_summary">በዚህ ስልክ ላይ ብቻ ለመተግበሪያዎች፣ ፋይሎች እና ማህደረ መረጃ</string>
+  <string name="storage_wizard_init_v2_internal_title">ለትርፍ የስልክ ማከማቻ ተጠቀም</string>
+  <string name="storage_wizard_migrate_v2_body">ፋይሎችን፣ ማህደረ መረጃን እና የተወሰኑ መተግበሪያዎችን ወደዚህ ^1 ማንቀሳቀስ ይችላሉ። 
+
+ይህ እንቅስቃሴ ከእርስዎ ስልክ ማከማቻ ^2 ነጻ ያደርጋል እና ወደ ^3 ገደማ መውሰድ አለበት።</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">ይህ ስልክ ኃይል መሙላቱን ይቀጥሉ</string>
+  <string name="sub_activate_failed">ማንቃት አልተሳካም።</string>
+  <string name="sub_deactivate_failed">ማቦዘን አልተሳካም።</string>
+  <string name="suggested_lock_settings_summary">ስልክን ለመጠበቅ የማያ ገጽ ቁልፍን ያቀናብሩ</string>
+  <string name="suggestion_button_text">እሺ</string>
+  <string name="switch_off_text">አጥፋ</string>
+  <string name="switch_on_text">አብራ</string>
+  <string name="testing_phone_info">የስልክ መረጃ</string>
+  <string name="touch_firmware_version">የመንካት ፓነል ፊርምዌር ስሪት</string>
+  <string name="tts_install_voices_cancel">ተወው</string>
+  <string name="two_cdma_dialog_msg">ማስገቢያ ቀዳዳዎች 1 እና 2 CDMA በተመሳሳይ ጊዜ መደገፍ አይችሉም።</string>
+  <string name="unlock_set_unlock_mode_off">የለም</string>
+  <string name="unlock_set_unlock_mode_password">የይለፍ ቃል፦</string>
+  <string name="unlock_set_unlock_off_title">የለም</string>
+  <string name="unlock_set_unlock_password_title">የይለፍ ቃል፦</string>
+  <string name="unmount_inform_text">ኤስዲ ካርድ ይነቀላል።</string>
+  <string name="unsupported_setting_summary">ቅንብር በዚህ ስልክ ላይ አይደገፍም</string>
+  <string name="usage_type_phone">ስልክ</string>
+  <string name="usage_type_video">ቪዲዮ</string>
+  <string name="usb_tethering_subtext">የስልክ በይነመረብ ግንኙነትን በዩኤስቢ በኩል አጋራ</string>
+  <string name="user_cannot_manage_message">የስልኩ ባለቤት ብቻ ነው ተጠቃሚዎችን ማስተዳደር የሚችለው።</string>
+  <string name="user_confirm_remove_self_message">በዚህ ስልክ ላይ ቦታዎን እና ውሂብዎን ያጣሉ። ይህን እርምጃ መቀልበስ አይችሉም።</string>
+  <string name="user_delete_button">ይሰርዙ</string>
+  <string name="user_dict_settings_add_dialog_confirm">እሺ</string>
+  <string name="user_dict_settings_context_menu_delete_title">ይሰርዙ</string>
+  <string name="vision_settings_title">የዕይታ ቅንጅቶች</string>
+  <string name="vpn_cancel">ተወው</string>
+  <string name="vpn_connect">አገናኝ</string>
+  <string name="vpn_disconnected_summary">የለም</string>
+  <string name="vpn_forget">አታቅርብ</string>
+  <string name="vpn_lockdown_none">የለም</string>
+  <string name="vpn_name">ስም</string>
+  <string name="vpn_password">የይለፍ ቃል፦</string>
+  <string name="vpn_save">አስቀምጥ</string>
+  <string name="vpn_username">የተጠቃሚ ስም</string>
+  <string name="wallpaper_settings_summary_default">ዝጋ</string>
+  <string name="wapi_auto_sel_cert">በራስ ሰር ይምረጡ</string>
+  <string name="wapi_cert_manage_title">WAPI ሰርቲፊኬት አስተዳደር</string>
+  <string name="wifi_add_network">አዝራሩን መታ በማድረግ፣ ከ &lt;a href='launch.TermOfServiceActivity://Kode'&gt;አገልግሎት ውሎች&lt;/a&gt; እና &lt;a href='launch.AddUploadAgentHandler://Kode'&gt;የግላዊነት መመሪያ&lt;/a&gt; ጋር ይስማማሉ</string>
+  <string name="wifi_advanced_settings_label">ስም አልባ መታወቂያ</string>
+  <string name="wifi_advanced_toggle_description_collapsed">የመሳሪያ ማንቂያ መረጃ ከአንድ ጊዜ የመሳሪያ አካባቢ ጋር ወደ HMD Global ይላካል። &lt;br/&gt;&lt;br/&gt; የራስ ሰር ሶፍትዌር ዝማኔ ማሳወቂያ ይነቃል፣ ይህም የቅርብ ጊዜዎቹን ዝማኔዎች ይጭንልዎታል።</string>
+  <string name="wifi_advanced_toggle_description_expanded">ይህ የእርስዎን የውሂብ በጀት አነስተኛ ድርሻ ሊይዝ ይችላል።</string>
+  <string name="wifi_ap_2G">2.4 ጊኸ</string>
+  <string name="wifi_ap_blocked_title">የታገዱ ተጠቃሚዎች</string>
+  <string name="wifi_ap_choose_auto">ራስሰር</string>
+  <string name="wifi_ap_client_details_title">ዝርዝሮች</string>
+  <string name="wifi_ap_client_ip_label">IP አድራሻ</string>
+  <string name="wifi_ap_connected_title">የተገናኙ ተጠቃሚዎች</string>
+  <string name="wifi_ap_max_connection_title">ከፍተኛ ግንኙነቶች</string>
+  <string name="wifi_ap_reset_OOB">OOB ዳግም አስጀምር</string>
+  <string name="wifi_ap_reset_OOB_title">የአውታረመረብ SSID, የደህንነት እና የይለፍ ቃል ወደ ነባሪ ዳግም ያስጀምሩ (ከሳጥን-ውጭ ቅንብሮች ለ WPS)</string>
+  <string name="wifi_ap_wps_dialog_title">WPS ግንኙነት</string>
+  <string name="wifi_ap_wps_mode_title">WPS ሁነታ</string>
+  <string name="wifi_ap_wps_pin_title">PIN ከተገልጋይ ይተይቡ</string>
+  <string name="wifi_band_5ghz">ለመሰብሰብ ሁለቴ መታ ያድርጉ።</string>
+  <string name="wifi_calling_dialog_comfirm">ዳግም አያሳዩ።</string>
+  <string name="wifi_calling_dialog_msg">የአስቸኳይ ጊዜ ጥሪዎች በWi-Fi ጥሪ በኩል አይቻሉም። መሳሪያው የአደጋ ጊዜ ጥሪዎችን ለማድረግ በራስ ሰር ወደ ሴሉላር አውታረመረብ (2G/3G) ይቀየራል። የአደጋ ጊዜ ጥሪዎች የሚቻሉት የሴሉላር ሽፋን ባላቸው ቦታዎች ብቻ ነው።</string>
+  <string name="wifi_calling_dialog_title">የአደጋ ጊዜ ጥሪዎች በWi-Fi ጥሪዎች በኩል</string>
+  <string name="wifi_calling_notifybar_msg">የአደጋ ጊዜ ጥሪዎች የሴሉላር ሽፋን ባላቸው አካባቢዎች ብቻ</string>
+  <string name="wifi_calling_notifybar_title">Vodafone Wi-Fi ጥሪ</string>
+  <string name="wifi_cancel">ተወው</string>
+  <string name="wifi_connect">አገናኝ</string>
+  <string name="wifi_disabled_generic">ተሰናክሏል</string>
+  <string name="wifi_disabled_network_failure">IP ውቅረት ስህተት</string>
+  <string name="wifi_disabled_password_failure">የማረጋገጥ ችግር</string>
+  <string name="wifi_display_options_forget">አታቅርብ</string>
+  <string name="wifi_display_options_name">ስም</string>
+  <string name="wifi_display_status_connected">ደካማ</string>
+  <string name="wifi_display_status_not_available">አይገኝም</string>
+  <string name="wifi_dns1"></string>
+  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_do_not_provide_eap_user_cert">የሶፍትዌር ዝማኔዎችን ያግኙ</string>
+  <string name="wifi_do_not_validate_eap_server">አታረጋግጥ</string>
+  <string name="wifi_do_not_validate_eap_server_warning">ምንም ሰርቲፊኬት አልተገለጸም። ግንኙነትዎ የግል አይሆንም</string>
+  <string name="wifi_eap_anonymous">ስም አልባ መታወቂያ</string>
+  <string name="wifi_eap_ca_cert">የይለፍ ቃል የተሳሳተ ሊሆን ይችላል</string>
+  <string name="wifi_eap_domain">2.4 ጊኸ</string>
+  <string name="wifi_eap_identity">5 ጊኸ</string>
+  <string name="wifi_eap_method">ሰርቲፊኬት</string>
+  <string name="wifi_eap_user_cert">ከበይነመረብ ጋር ተገናኝቷል</string>
+  <string name="wifi_fail_to_scan">ለአውታረመረብ መቃኘት አልተቻለም</string>
+  <string name="wifi_failed_connect_message">የማረጋገጥ ችግር</string>
+  <string name="wifi_failed_forget_message">አውታረ መረብ መርሳት አልተሳካም</string>
+  <string name="wifi_failed_save_message">አውታረ መረብ ማስቀመጥ አልተሳካም</string>
+  <string name="wifi_forget">አታቅርብ</string>
+  <string name="wifi_frequency">አታረጋግጥ</string>
+  <string name="wifi_gateway">ምንም ሰርቲፊኬት አልተገለጸም።</string>
+  <string name="wifi_hotspot_tethering_on_subtext">የዚህን ስልክ የበይነመረብ ግንኙነት በመገናኛ ነጥብ በኩል በማጋራት ላይ</string>
+  <string name="wifi_ip_settings">ስም አልባ መታወቂያ</string>
+  <string name="wifi_ip_settings_invalid_dns">CA ምስክር</string>
+  <string name="wifi_ip_settings_invalid_gateway">ጎራ</string>
+  <string name="wifi_ip_settings_invalid_ip_address">መታወቂያ</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">EAP ዘዴ</string>
+  <string name="wifi_ip_settings_menu_cancel">ተወው</string>
+  <string name="wifi_ip_settings_menu_save">አስቀምጥ</string>
+  <string name="wifi_menu_advanced">የላቀ</string>
+  <string name="wifi_multiple_cert_added">የተጠቃሚ የምስክር ወረቀት</string>
+  <string name="wifi_network_prefix_length">ለአውታረመረብ መቃኘት አልተቻለም</string>
+  <string name="wifi_no_domain_warning">ከአውታረ መረቡ ጋር መገናኘት አልተሳካም</string>
+  <string name="wifi_no_internet_no_reconnect">በራስ ሰር አይገናኝም</string>
+  <string name="wifi_not_in_range">በክልል ውስጥ አይደለም</string>
+  <string name="wifi_password">የይለፍ ቃል፦</string>
+  <string name="wifi_remembered">ተቀምጧል</string>
+  <string name="wifi_save">አስቀምጥ</string>
+  <string name="wifi_security">እባክህ ትክክለኛ ኣግባቢ ፍኖት አድራሻ ተይብ።</string>
+  <string name="wifi_security_none">የለም</string>
+  <string name="wifi_setup_add_network">አዝራሩን መታ በማድረግ፣ ከ &lt;a href='launch.TermOfServiceActivity://Kode'&gt;አገልግሎት ውሎች&lt;/a&gt; እና &lt;a href='launch.AddUploadAgentHandler://Kode'&gt;የግላዊነት መመሪያ&lt;/a&gt; ጋር ይስማማሉ</string>
+  <string name="wifi_setup_back">ተመለስ</string>
+  <string name="wifi_setup_cancel">ተወው</string>
+  <string name="wifi_setup_connect">አገናኝ</string>
+  <string name="wifi_setup_forget">አታቅርብ</string>
+  <string name="wifi_setup_next">ቀጣይ</string>
+  <string name="wifi_setup_save">አስቀምጥ</string>
+  <string name="wifi_setup_status_connecting">ተቀምጧል</string>
+  <string name="wifi_shared">እባክህ በ0 እና 32 መካከል የአውታረ መረብ ቅድመ ቅጥያ ርዝመት ተይብ።</string>
+  <string name="wifi_show_advanced">(በርካታ የእውቅና ማረጋገጫዎች ታክለዋል)</string>
+  <string name="wifi_show_password">የአውታረ መረብ ቅድመ ቅጥያ ርዝመት</string>
+  <string name="wifi_signal">የበይነመረብ ግንኙነት የለም</string>
+  <string name="wifi_speed">MSCHAPV2</string>
+  <string name="wifi_ssid">MSCHAP</string>
+  <string name="wifi_ssid_hint">GTC</string>
+  <string name="wifi_status">የላቁ አማራጮች</string>
+  <string name="wifi_tether_auto_disable_title">Wi-Fi ሆትስፖት በርቷል</string>
+  <string name="wifi_tether_wps_connect_summary">ለመቀጠል Wi-Fi የተጠበቀ ውቅረት ሁነታ ተመርጧል</string>
+  <string name="wifi_tether_wps_connect_title">WPS ግንኙነት</string>
+  <string name="wifi_tether_wps_pin_error">ልክ ያልሆነ PIN</string>
+  <string name="wifi_tethering_title">Wi-Fi ሆትስፖት</string>
+  <string name="wifi_unchanged">ያልተሳካ</string>
+  <string name="wifi_unspecified">የታገዱ</string>
+  <string name="wifi_use_system_certs">IP አድራሻ በማግኘት ላይ…</string>
+  <string name="wizard_back">ተመለስ</string>
+  <string name="wizard_next">ቀጣይ</string>
+  <string name="zen_mode_delete_rule_button">ይሰርዙ</string>
+  <string name="zen_mode_from_none">የለም</string>
+  <string name="zen_mode_no_exceptions">የለም</string>
+  <string name="zen_mode_rule_delete_button">ይሰርዙ</string>
+  <string name="zen_mode_schedule_rule_days_none">የለም</string>
+  <string name="zen_mode_sound_summary_off">አጥፋ</string>
+  <string name="zen_mode_sound_summary_on">አብራ</string>
+  <string name="zzz_certification_settings_title">የእውቅና ማረጋገጫ</string>
+  <string name="zzz_fih_invalid_battery_charging">እውነተኛ ባትሪዎች ይመከራሉ፣ ያልተፈቀደላቸው ባትሪዎች እንደ እሳት እና ፍንዳታ የመሳሰሉ ያልተጠበቁ አደጋዎችን ሊያስከትሉ ይችላሉ።</string>
+  <string name="zzz_hmd_open_source_info_text">ክፍት ምንጭ ሶፍትዌር 
+
+ይህ ምርት በGPL እና LGPL ስር ፈቃድ የተሰጠው ክፍት ምንጭ ሶፍትዌር አካቷል። በመተግበሪያው የክፍት ምንጭ ፈቃድ በተበየነው መሰረት HMD ምንጭ ኮዱን ለማቅረብ ይጋብዛል። እባክዎ ጥያቄዎን በጽሁፍ ወደ :
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Finland ይላኩ። ይህ ግብዣ ተፈጻሚነት የሚኖረው ምርቱ በHMD ከተሰራጨበት ቀን ጀምሮ ለሶስት (3) ዓመታት ነው። ጥያቄ በማቅረብዎ፣ HMD (ወይም በHMD የተወከሉ ወይም ቀጥተኛ ቁጥጥር ስር ያሉ ሶስተኛ ወገኖች) የግል ውሂብዎን እንዲመረምሩ ይስማማሉ።
+
+የውሂብ ምርመራው ጥያቄዎ ከHMD የግላዊነት መመሪያ እና ተፈጻሚነት ካላቸው ሕጎች ጋር እንደሚጣጣም ለማረጋገጥ ነው።</string>
+  <string name="zzz_hmd_open_source_info_title">HMD ክፍት ምንጭ መረጃ</string>
+  <string name="zzz_roaming_item_title">ሉላዊ ውሂብ</string>
+  <string name="zzz_security_power_off_password_summary">ለማጥፋት / እንደገና ለማስጀመር የመሳሪያውን የይለፍ ቃል ያስገቡ</string>
+  <string name="zzz_security_power_off_password_title">አጥፋ / ዳግም አስጀምር ቆልፍ</string>
+  <string name="zzz_sim_no_services">ምንም አገልግሎት የለም</string>
+  <string name="zzz_version">ስሪት</string>
+</resources>

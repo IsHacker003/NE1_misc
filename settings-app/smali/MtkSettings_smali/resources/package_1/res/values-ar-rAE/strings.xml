@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">حول الهاتف</string>
+  <string name="accelerometer_summary_off">تبديل الاتجاه تلقائيًا عند تدوير الهاتف</string>
+  <string name="accelerometer_summary_on">تبديل الاتجاه تلقائيًا عند تدوير الهاتف</string>
+  <string name="advanced_apps">متقدّم</string>
+  <string name="advanced_section_header">متقدّم</string>
+  <string name="advanced_security_title">متقدّم</string>
+  <string name="ambient_display_pickup_summary">ما عليك سوى حمل هاتفك للاطّلاع على الوقت ورموز الإشعارات والمعلومات الأخرى.</string>
+  <string name="ambient_display_pickup_title">حمل الهاتف للاطّلاع عليه</string>
+  <string name="ambient_display_title">انقر نقرًا مزدوجًا للاطلاع على الهاتف</string>
+  <string name="apn_not_set">غير محدد</string>
+  <string name="apn_password">كلمة المرور</string>
+  <string name="assistant_security_warning_agree">أوافق</string>
+  <string name="auto_boot_pref_title">إدارة بدء التشغيل التلقائي</string>
+  <string name="backup_pw_cancel_button_text">إلغاء</string>
+  <string name="battery_desc_standby">يتم استخدام البطارية عندما يكون الهاتف في وضع الخمول</string>
+  <string name="battery_suggestion_title">تحسين عمر بطارية الهاتف</string>
+  <string name="battery_tip_dialog_message">تم استخدام هاتفك أكثر من المعتاد. قد ينفد شحن البطارية قبل الوقت المتوقع.
+
+أكثر %1$d تطبيق استهلاكًا للبطارية منذ الشحن الكامل:</string>
+  <string name="battery_tip_dialog_summary_message">تستخدم تطبيقاتك مقدارًا عاديًا من طاقة البطارية. إذا كانت التطبيقات تستهلك مقدارًا كبيرًا جدًا من طاقة البطارية، سيقترح هاتفك إجراءات يمكنك اتخاذها.
+
+يمكنك متى شئت تفعيل "توفير شحن البطارية" إذا كانت طاقة البطارية على وشك النفاد.</string>
+  <string name="battery_tip_high_usage_title">الهاتف المستخدَم أكثر من المعتاد</string>
+  <string name="battery_tip_restrict_app_dialog_ok">تقييد</string>
+  <string name="battery_tip_smart_battery_title">تحسين عمر بطارية الهاتف</string>
+  <string name="battery_tip_summary_summary">استخدام البطارية في خلفية الهاتف عادي.</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">إلغاء</string>
+  <string name="bluetooth_ask_discovery">يريد %1$s أن يكون هاتفك مرئيًا لأجهزة بلوتوث الأخرى لمدة %2$d من الثواني.</string>
+  <string name="bluetooth_ask_discovery_no_name">يريد أحد التطبيقات أن يكون هاتفك مرئيًا لأجهزة بلوتوث الأخرى لمدة %1$d من الثواني.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">يريد %1$s تشغيل البلوتوث وجعل هاتفك مرئيًا للأجهزة الأخرى لمدة %2$d من الثواني.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">يريد أحد التطبيقات تشغيل البلوتوث وجعل هاتفك مرئيًا للأجهزة الأخرى لمدة %1$d من الثواني.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">يريد %1$s تشغيل البلوتوث وجعل هاتفك مرئيًا للأجهزة الأخرى. يمكنك تغيير هذا لاحقًا في إعدادات بلوتوث.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">يريد أحد التطبيقات تشغيل البلوتوث وجعل هاتفك مرئيًا للأجهزة الأخرى. يمكنك تغيير هذا لاحقًا في إعدادات بلوتوث.</string>
+  <string name="bluetooth_ask_lasting_discovery">يريد %1$s جعل هاتفك مرئيًا لأجهزة بلوتوث الأخرى. يمكنك تغيير هذا لاحقًا في إعدادات بلوتوث.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">يريد أحد التطبيقات جعل هاتفك مرئيًا لأجهزة بلوتوث الأخرى. يمكنك تغيير هذا لاحقًا في إعدادات بلوتوث.</string>
+  <string name="bluetooth_device_advanced_online_mode_title">الاتصال</string>
+  <string name="bluetooth_device_context_connect">الاتصال</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">إلغاء</string>
+  <string name="bluetooth_disconnect_all_profiles">سيتم قطع اتصال هاتفك بجهاز %1$s.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">سيتم قطع اتصال %1$s من مشاركة اتصال الإنترنت على هذا الهاتف.</string>
+  <string name="bluetooth_footer_mac_message">عنوان البلوتوث للهاتف: %1$s</string>
+  <string name="bluetooth_menu_advanced">متقدّم</string>
+  <string name="bluetooth_pref_summary">السماح لهاتفك بالاتصال بأجهزة بلوتوث المجاورة</string>
+  <string name="bluetooth_tethering_subtext">مشاركة اتصال الإنترنت على الهاتف عبر البلوتوث</string>
+  <string name="bluetooth_unpair_dialog_body">لن يتم إقران هاتفك بعد الآن بجهاز %1$s</string>
+  <string name="cancel">إلغاء</string>
+  <string name="card_emulation_switch_error_title">خطأ</string>
+  <string name="color_blue">أزرق</string>
+  <string name="color_green">أخضر</string>
+  <string name="color_orange">برتقالي</string>
+  <string name="color_purple">أرجواني</string>
+  <string name="color_yellow">أصفر</string>
+  <string name="condition_device_muted_title">تم كتم الهاتف.</string>
+  <string name="condition_device_vibrate_summary">سيهتز الهاتف عند تلقي المكالمات والإشعارات.</string>
+  <string name="condition_device_vibrate_title">تم ضبط الهاتف إلى الاهتزاز.</string>
+  <string name="condition_expand_show">إظهار</string>
+  <string name="credentials_install">‏التثبيت من بطاقة SD</string>
+  <string name="credentials_install_summary">‏تثبيت الشهادات من بطاقة SD</string>
+  <string name="crypt_keeper_button_text">تشفير الهاتف</string>
+  <string name="crypt_keeper_data_corrupt_summary">‏كلمة المرور التي أدخلتها صحيحة، ولكن للأسف بياناتك تالفة. 
+
+لاستئناف استخدام هاتفك، يلزمك إجراء إعادة تعيين إعدادات المصنع. عند إعداد الهاتف بعد إعادة التعيين، ستكون لديك فرصة لاستعادة أية بيانات تم نسخها احتياطيًا في حسابك على Google.</string>
+  <string name="crypt_keeper_desc">يمكنك تشفير حساباتك وإعداداتك والتطبيقات التي تم تنزيلها وبياناتها والوسائط والملفات الأخرى. وبعد تشفير هاتفك، وبافتراض أنك قد أعددت قفل الشاشة (عبر النقش أو رمز PIN أو كلمة المرور)، يجب إلغاء قفل الشاشة لفك تشفير الهاتف في كل مرة تشغله فيها. الطريقة الوحيدة الأخرى لفك تشفير الجهاز هي إجراء إعادة الضبط بحسب بيانات المصنع، ومحو كل بياناتك.
+
+يستغرق التشفير ساعة أو أكثر. يجب البدء ببطارية مشحونة وتوصيل الهاتف بالشاحن أثناء عملية التشفير. فإذا أوقفت هذه العملية، ستفقد بعض أو كل البيانات.</string>
+  <string name="crypt_keeper_encrypt_title">تشفير الهاتف</string>
+  <string name="crypt_keeper_failed_summary">‏تمت مقاطعة التشفير ويتعذر الاستكمال. ونتيجة لذلك، لن تتمكن بعد الآن من الدخول إلى البيانات على هاتفك. 
+
+لاستئناف استخدام الهاتف، يجب إجراء إعادة ضبط المصنع. وعند إعداد الهاتف بعد إعادة الضبط، ستكون لديك فرصة استعادة أي بيانات تم نسخها احتياطيًا إلى حساب Google.</string>
+  <string name="crypt_keeper_final_desc">لا يمكن التراجع عن عملية التشفير، وفي حالة مقاطعتها، ستفقد البيانات. تستغرق عملية التشفير ساعة أو أكثر، وسيتم خلالها إعادة تشغيل الهاتف عدة مرات.</string>
+  <string name="crypt_keeper_force_power_cycle">لإلغاء تأمين الهاتف، يمكنك إيقافه وتشغيله مرة أخرى.</string>
+  <string name="crypt_keeper_setup_description">انتظر حتى يتم تشفير هاتفك. اكتمل ^1%.</string>
+  <string name="crypt_keeper_setup_time_remaining">انتظر بينما يتم تشفير هاتفك. الوقت المتبقي: ^1</string>
+  <string name="data_protection_title">حماية البيانات</string>
+  <string name="data_service_enable_mobile">خدمة بيانات مؤقتة</string>
+  <string name="data_service_prompt">في حالة وجود بطاقة SIM بدون بيانات في اتصال VoLTE، سيتم استخدامها في خدمة البيانات. وسيؤدي ذلك إلى استخدام مزيد من البيانات عبر بطاقة SIM.</string>
+  <string name="data_service_summary">في حالة وجود بطاقة SIM بدون بيانات في اتصال VoLTE، سيتم استخدامها في خدمة البيانات</string>
+  <string name="data_usage_auto_sync_on_dialog">‏سيتم نسخ أية تغييرات تجريها على حساباتك على الويب إلى هاتفك تلقائيًا.
+
+ويمكن أن تنسخ بعض الحسابات أيضًا أية تغييرات تجريها على الهاتف إلى الويب تلقائيًا. يعمل حساب Google بهذه الطريقة.</string>
+  <string name="data_usage_limit_dialog_mobile">سيُوقف هاتفك بيانات الجوال بعد الوصول إلى الحد الذي عيّنته.
+
+ونظرًا لقياس هاتفك لاستخدام البيانات في حين قد يحاسبك مشغل شبكة الجوال على الاستخدام بطريقة مختلفة، فإننا ننصحك بتعيين حد معتدل.</string>
+  <string name="data_usage_restrict_background_multiuser">‏في حالة تقييد بيانات الجوّال في الخلفية، لن تعمل بعض التطبيقات والخدمات ما لم تكن متصلاً بشبكة Wi‑Fi.
+
+ويؤثر هذا الإعداد على جميع مستخدمي هذا الهاتف.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: تم استخدام %1$s تقريبًا، وفقًا لحساب الهاتف. قد يختلف حساب استخدام البيانات لدى مشغل شبكة الجوال.</string>
+  <string name="decryption_settings_summary">الهاتف ليس مشفّرًا.</string>
+  <string name="device_info_settings">حالة الهاتف</string>
+  <string name="device_status_summary">رقم الهاتف أو الإشارة أو غير ذلك.</string>
+  <string name="dialog_background_check_message">لا يستطيع هاتفك إدارة البطارية بشكل طبيعي لأن %1$s يُبقي هاتفك نشطًا بشكل مستمر.
+
+لمحاولة حل هذه المشكلة، يمكنك إيقاف %1$s ومنع تشغيله في الخلفية.</string>
+  <string name="dialog_location_message">لا يستطيع هاتفك إدارة البطارية بشكل طبيعي لأن %1$s يطلب باستمرار معرفة موقعك أثناء عدم استخدامك له.
+
+لحلّ هذه المشكلة، يمكنك إيقاف خدمة الموقع لهذا التطبيق.</string>
+  <string name="dialog_stop_message">لا يستطيع هاتفك إدارة البطارية بشكل طبيعي لأن %1$s يبقي هاتفك نشطًا بشكل مستمر.
+
+لمحاولة حل هذه المشكلة، يمكنك إيقاف التطبيق.
+
+إذا استمر حدوث هذا الأمر، يمكنك إلغاء تثبيت التطبيق لتحسين أداء البطارية.</string>
+  <string name="dialog_stop_message_wakeup_alarm">لا يستطيع هاتفك إدارة البطارية بشكل طبيعي لأن %1$s يبقي هاتفك نشطًا بشكل مستمر.
+
+لمحاولة حل هذه المشكلة، يمكنك إيقاف %1$s.
+
+إذا استمر حدوث هذا الأمر، يمكنك إلغاء تثبيت التطبيق لتحسين أداء البطارية.</string>
+  <string name="dlg_cancel">إلغاء</string>
+  <string name="dlg_confirm_unmount_text">‏في حالة إلغاء تحميل بطاقة SD، ستتوقف بعض التطبيقات التي تستخدمها وربما لا تتوفر حتى يتم إعادة تحميل بطاقة SD.</string>
+  <string name="dlg_confirm_unmount_title">‏هل تريد إلغاء تحميل بطاقة SD؟</string>
+  <string name="dlg_error_unmount_text">‏تعذر إلغاء تحميل بطاقة SD. أعد المحاولة لاحقًا.</string>
+  <string name="dlg_ok">موافق</string>
+  <string name="dock_audio_summary_none">لم يتم إرساء الهاتف</string>
+  <string name="dock_not_found_text">يلزمك إرساء الهاتف قبل تهيئة إعدادات الإرساء الصوتية.</string>
+  <string name="dock_sounds_enable_summary_off">عدم تشغيل صوت عند إدراج أو إزالة الهاتف من الإرساء</string>
+  <string name="dock_sounds_enable_summary_on">تشغيل الصوت عند إدراج أو إزالة الهاتف من الإرساء</string>
+  <string name="doze_always_on_title">قيد التشغيل دائمًا</string>
+  <string name="encryption_and_credential_settings_summary">تم تشفير الهاتف</string>
+  <string name="erase_esim_storage_description">‏يمكنك محو بيانات كل شرائح eSIM على الهاتف. ولن يؤدي ذلك إلى إلغاء خطة خدمة الجوال.</string>
+  <string name="erase_external_storage">‏محو بطاقة SD</string>
+  <string name="erase_external_storage_description">‏محو جميع البيانات على بطاقة SD، مثل الموسيقى أو الصور</string>
+  <string name="external_data_size_label">بطاقة SD</string>
+  <string name="fih_color_picker_blue">أزرق</string>
+  <string name="fih_color_picker_green">أخضر</string>
+  <string name="fih_color_picker_orange">برتقالي</string>
+  <string name="fih_color_picker_pink">زهري</string>
+  <string name="fih_color_picker_purple">أرجواني</string>
+  <string name="fih_color_picker_yellow">أصفر</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">تأكيد</string>
+  <string name="fih_message_vibrate">اهتزاز</string>
+  <string name="fih_ringtone_add">إضافة</string>
+  <string name="fih_ringtone_remove">إزالة</string>
+  <string name="filter_apps_onsdcard">‏في بطاقة SD</string>
+  <string name="fingerprint_enroll_button_next">التالي</string>
+  <string name="fingerprint_swipe_for_notifications_summary">للاطّلاع على الإشعارات، مرّر سريعًا للأسفل على مستشعر بصمات الإصبع على الجزء الخلفي لهاتفك.</string>
+  <string name="font_size_save">موافق</string>
+  <string name="gesture_preference_summary">إيماءات سريعة للتحكم في الهاتف</string>
+  <string name="hdmi_auto">تلقائيًا</string>
+  <string name="install_all_warning">هاتفك والبيانات الشخصية عُرضة للهجمات من قِبل تطبيقات غير معروفة. يعني تثبيت التطبيقات من هذا المصدر أنك توافق على تحملك المسؤولية عن أي ضرر يحدث لهاتفك أو أي فقد للبيانات ينتج عن استخدامها.</string>
+  <string name="location_street_level">‏السماح للتطبيقات باستخدام GPS على هاتفك لتحديد موقعك</string>
+  <string name="lock_screen_intro_skip_dialog_text">لن يتم تشغيل ميزات حماية الجهاز. ولن تتمكن من منع الآخرين من استخدام هذا الهاتف في حالة فقدانه أو سرقته.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">لن يتم تشغيل ميزات حماية الجهاز. ولن تتمكن من منع الآخرين من استخدام هذا الهاتف في حالة فقدانه أو سرقته أو إعادة ضبطه.</string>
+  <string name="lockpassword_cancel_label">إلغاء</string>
+  <string name="lockpassword_clear_label">مسح</string>
+  <string name="lockpassword_confirm_label">تأكيد</string>
+  <string name="lockpassword_confirm_your_password_header">أعد إدخال كلمة المرور الخاصة بك</string>
+  <string name="lockpassword_confirm_your_pin_header">أعد إدخال رمز PIN الخاص بك</string>
+  <string name="lockpattern_confirm_button_text">تأكيد</string>
+  <string name="lockpattern_need_to_confirm">ارسم نمطاً مرة أخرى للتأكيد</string>
+  <string name="lockpattern_need_to_unlock_wrong">نمط خطأ</string>
+  <string name="lockpattern_pattern_entered_header">تم تسجيل النمط</string>
+  <string name="lockpattern_recording_intro_header">ارسم نمطاً غير محظور</string>
+  <string name="lockpattern_retry_button_text">مسح</string>
+  <string name="lockpattern_tutorial_cancel_label">إلغاء</string>
+  <string name="lockpattern_tutorial_continue_label">التالي</string>
+  <string name="master_clear_accounts">
+
+تم تسجيل دخولك حاليًا في الحسابات التالية:
+</string>
+  <string name="master_clear_button_text">إعادة تعيين الهاتف</string>
+  <string name="master_clear_desc">‏يؤدي ذلك إلى مسح جميع البيانات من <b>وحدة التخزين الداخلية</b> لهاتفك، بما في ذلك:
+
+<li>حسابك في Google</li><li>النظام وبيانات التطبيقات والإعدادات</li><li>التطبيقات التي تم تنزيلها</li></string>
+  <string name="master_clear_desc_erase_external_storage">‏
+
+لمحو الموسيقى والصور وبيانات المستخدم الأخرى أيضًا، يجب مسح <b>بطاقة SD</b>.</string>
+  <string name="master_clear_other_users_present">
+
+هناك مستخدمون آخرون موجودون على هذا الجهاز.
+</string>
+  <string name="media_output_summary">هاتف</string>
+  <string name="media_output_summary_unavailable">غير متاح</string>
+  <string name="motion_turn_over_reject_call_help">عندما ترد مكالمة هاتفية، اقلب الهاتف لرفض الاتصال</string>
+  <string name="motion_volume_quiet_pickup_help">عندما ترد مكالمة هاتفية، التقط الهاتف لكتم صوت نغمة الرنين أثناء وجود الهاتف في وضع أفقي</string>
+  <string name="motion_volume_quiet_pickup_title">الكتم بالالتقاط</string>
+  <string name="move_app_to_internal">نقل إلى الهاتف</string>
+  <string name="move_app_to_sdcard">‏نقل إلى بطاقة SD</string>
+  <string name="mvno_type_none">لا شيء</string>
+  <string name="new_device_suggestion_summary">الحصول على جولة في هاتفك الجديد</string>
+  <string name="next_label">التالي</string>
+  <string name="nfc_payment_default_not_set">غير محدد</string>
+  <string name="nfc_quick_toggle_summary">السماح بتبادل البيانات عندما يلمس الهاتف جهازًا آخر</string>
+  <string name="nfc_service_summary_disabled">معطّل</string>
+  <string name="nfc_service_summary_enabled">ممكّن</string>
+  <string name="notification_listener_disable_warning_cancel">إلغاء</string>
+  <string name="notification_volume_title">إشعار</string>
+  <string name="okay">موافق</string>
+  <string name="phone_info_label">معلومات الهاتف</string>
+  <string name="power_idle">الهاتف خامل</string>
+  <string name="poweroff_animation_summary">تشغيل الرسوم المتحركة عند إيقاف التشغيل</string>
+  <string name="poweroff_animation_title">الرسوم المتحركة لإيقاف التشغيل</string>
+  <string name="preference_change_password_title">تغيير كلمة المرور</string>
+  <string name="print_cancel">إلغاء</string>
+  <string name="proxy_clear_text">مسح</string>
+  <string name="proxy_error_dismiss">موافق</string>
+  <string name="radio_info_ims_feature_status_unavailable">غير متاح</string>
+  <string name="really_remove_account_message">ستؤدي إزالة هذا الحساب إلى حذف جميع ما به من الرسائل وجهات الاتصال والبيانات الأخرى من الهاتف.</string>
+  <string name="reset_network_desc">‏سيؤدي هذا إلى إعادة تعيين كل إعدادات الشبكة، بما في ذلك:
+
+<li>Wi‑Fi</li><li>بيانات الجوّال</li><li>البلوتوث</li></string>
+  <string name="restriction_nfc_enable_summary">السماح بتبادل البيانات عندما يلمس الهاتف جهازًا آخر</string>
+  <string name="roaming_warning_multiuser">عند السماح بتجوال البيانات، قد تتكلف رسوم تجوال مرتفعة!
+
+يؤثر هذا الإعداد على جميع مستخدمي هذا الهاتف.</string>
+  <string name="runningservicedetails_stop_dlg_text">في حالة إيقاف هذه الخدمة، ربما تتوقف بعض ميزات الهاتف عن العمل بشكل صحيح حتى توقف تشغيلها، ثم تشغلها مرة أخرى.</string>
+  <string name="sd_card_settings_label">بطاقة SD</string>
+  <string name="sd_card_storage">‏وحدة تخزين بطاقة SD</string>
+  <string name="sd_eject">‏إلغاء تحميل بطاقة SD</string>
+  <string name="sd_eject_summary">‏إلغاء تركيب بطاقة SD كي تتمكن من إزالتها بشكل آمن</string>
+  <string name="sd_format">‏محو بطاقة SD</string>
+  <string name="sd_format_summary">‏محو كل البيانات على بطاقة SD، مثل الموسيقى والصور</string>
+  <string name="sd_insert_summary">‏إدراج بطاقة SD للتحميل</string>
+  <string name="sd_memory">بطاقة SD</string>
+  <string name="sd_mount">‏تحميل بطاقة SD</string>
+  <string name="sdcard_format">‏محو بطاقة SD</string>
+  <string name="sdcard_setting">بطاقة SD</string>
+  <string name="sdcard_settings_bad_removal_status">‏تمت إزالة بطاقة SD بينما كانت قيد التشغيل!</string>
+  <string name="sdcard_settings_mass_storage_status">‏بطاقة SD مستخدمة كجهاز تخزين جماعي.</string>
+  <string name="sdcard_settings_not_present_status">لا توجد ذاكرة رقمية مؤمنة</string>
+  <string name="sdcard_settings_read_only_status">‏بطاقة SD تم تحميلها للقراءة فقط.</string>
+  <string name="sdcard_settings_scanning_status">‏جارٍ فحص بطاقة SD للوسائط…</string>
+  <string name="sdcard_settings_unmounted_status">‏يمكن الآن إزالة بطاقة SD بأمان.</string>
+  <string name="sdcard_unmount">‏إلغاء تحميل بطاقة SD</string>
+  <string name="security_settings_desc">يمكن لهذا التطبيق الدخول إلى ما يلي على هاتفك:</string>
+  <string name="security_settings_desc_multi">يمكن لهذا التطبيق الدخول إلى ما يلي على هاتفك. لتحسين الأداء وتقليل نسبة استخدام الذاكرة، بعض هذه الأذونات تتوفر لـ %1$s لأنه يتم تشغيله في العملية نفسها كـ %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">موافق</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">إلغاء</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">التالي</string>
+  <string name="setup_lock_settings_picker_message">يمكنك منع الآخرين من استخدام هذا الهاتف بدون إذنك من خلال تنشيط ميزات حماية الجهاز. اختر قفل الشاشة الذي تريد استخدامه.</string>
+  <string name="setup_lock_settings_picker_title">حماية هاتفك</string>
+  <string name="sim_enabler_need_switch_data_service">سيتم تعطيلها ويتم التبديل إلى SIM%1$s للحصول على خدمات البيانات، هل أنت متأكد؟</string>
+  <string name="sim_enter_cancel">إلغاء</string>
+  <string name="sim_enter_ok">موافق</string>
+  <string name="sim_lock_off">‏رمز PIN مطلوب لاستخدام الهاتف</string>
+  <string name="sim_lock_on">‏رمز PIN مطلوب لاستخدام الهاتف</string>
+  <string name="smart_battery_footer">عندما يرصد "مدير البطارية" تطبيقات تستنزف شحن البطارية، سيتوفر لديك خيار بتقييد هذه التطبيقات، علمًا بأن التطبيقات المقيدة قد لا تعمل على نحو صحيح وقد تتأخر الإشعارات.</string>
+  <string name="status_number">رقم الهاتف</string>
+  <string name="status_number_sim_slot">‏رقم الهاتف (منفذ %1$d لـ SIM)</string>
+  <string name="status_number_sim_status">‏رقم الهاتف على شريحة SIM</string>
+  <string name="storage_settings_summary">‏إلغاء تحميل بطاقة SD، عرض سعة التخزين المتاحة</string>
+  <string name="storage_wizard_init_v2_internal_action">سعة تخزين الهاتف</string>
+  <string name="storage_wizard_init_v2_internal_summary">للتطبيقات والملفات والوسائط على هذا الهاتف فقط</string>
+  <string name="storage_wizard_init_v2_internal_title">الاستخدام كوحدة تخزين إضافية بالهاتف</string>
+  <string name="storage_wizard_migrate_v2_body">يمكنك نقل الملفات والوسائط وتطبيقات معيّنة إلى ^1. 
+
+ستؤدي عملية النقل هذه إلى إخلاء مساحة قدرها ^2 من سعة التخزين بالهاتف وتستغرق في الغالب ^3 تقريبًا.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">احرص على شحن هذا الهاتف</string>
+  <string name="suggested_lock_settings_summary">تعيين قفل شاشة لحماية الهاتف</string>
+  <string name="suggestion_button_text">موافق</string>
+  <string name="testing_phone_info">معلومات الهاتف</string>
+  <string name="tts_install_voices_cancel">إلغاء</string>
+  <string name="unlock_set_unlock_mode_password">كلمة المرور</string>
+  <string name="unlock_set_unlock_mode_pattern">نمط</string>
+  <string name="unlock_set_unlock_mode_pin">رقم التعريف الشخصي (PIN)</string>
+  <string name="unlock_set_unlock_password_title">كلمة المرور</string>
+  <string name="unlock_set_unlock_pattern_title">نمط</string>
+  <string name="unlock_set_unlock_pin_title">رقم التعريف الشخصي (PIN)</string>
+  <string name="unmount_inform_text">‏سيتم إلغاء تركيب بطاقة SD.</string>
+  <string name="unsupported_setting_summary">الإعداد غير متوافق مع هذا الهاتف</string>
+  <string name="usage_type_phone">هاتف</string>
+  <string name="usb_tethering_subtext">‏مشاركة اتصال الإنترنت على الهاتف عبر USB</string>
+  <string name="user_cannot_manage_message">يمكن لمالك الهاتف فقط إدارة المستخدمين.</string>
+  <string name="user_confirm_remove_self_message">ستفقد مساحتك وبياناتك من هذا الهاتف. لا يمكنك التراجع عن هذا الإجراء.</string>
+  <string name="user_dict_settings_add_dialog_confirm">موافق</string>
+  <string name="vision_settings_title">إعدادات الرؤية</string>
+  <string name="vpn_cancel">إلغاء</string>
+  <string name="vpn_connect">الاتصال</string>
+  <string name="vpn_password">كلمة المرور</string>
+  <string name="wapi_auto_sel_cert">التحديد تلقائيًا</string>
+  <string name="wapi_cert_manage_title">إدارة شهادة WAPI</string>
+  <string name="wifi_ap_choose_auto">تلقائي</string>
+  <string name="wifi_ap_client_details_title">التفاصيل</string>
+  <string name="wifi_calling_dialog_comfirm">عدم الإظهار مرة أخرى.</string>
+  <string name="wifi_calling_dialog_msg">لا يمكن إجراء مكالمات الطوارئ من خلال الاتصال باستخدام تقنية Wi-Fi. ينتقل الجهاز تلقائيًا إلى الشبكة الخلوية (2G/3G) لإجراء مكالمة طوارئ. لا يمكن إجراء مكالمات الطوارئ إلا في المناطق المزودة بتغطية شبكة خلوية.</string>
+  <string name="wifi_calling_dialog_title">إجراء مكالمات الطوارئ من خلال الاتصال باستخدام تقنية Wi-Fi</string>
+  <string name="wifi_calling_notifybar_msg">تُجرى مكالمات الطوارئ في المناطق المزودة بتغطية شبكة خلوية فقط</string>
+  <string name="wifi_calling_notifybar_title">الاتصال عبر Vodafone Wi-Fi</string>
+  <string name="wifi_cancel">إلغاء</string>
+  <string name="wifi_connect">الاتصال</string>
+  <string name="wifi_display_status_not_available">غير متاح</string>
+  <string name="wifi_hotspot_tethering_on_subtext">تتم مشاركة اتصال الإنترنت على هذا الهاتف عبر نقطة الاتصال</string>
+  <string name="wifi_ip_settings_menu_cancel">إلغاء</string>
+  <string name="wifi_menu_advanced">متقدّم</string>
+  <string name="wifi_password">كلمة المرور</string>
+  <string name="wifi_setup_cancel">إلغاء</string>
+  <string name="wifi_setup_connect">الاتصال</string>
+  <string name="wifi_setup_next">التالي</string>
+  <string name="wizard_next">التالي</string>
+  <string name="zzz_certification_settings_title">شهادة</string>
+  <string name="zzz_hmd_open_source_info_text">برامج المصدر المفتوح 
+
+تضمن هذا المنتج برامج مفتوحة المصدر مرخصة بموجب رخصة GPL ورخصة LGPL. تعرض شركة HMD تزويدك بكود المصدر كما هو محدد في رخصة برنامج المصدر المفتوح ذي الصلة. يرجى إرسال طلب مكتوب إلى:Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Finland
+
+ هذا العرض ساري لمدة ثلاث (3) سنوات من تاريخ توزيع هذا المنتج من جانب HMD. بتقديم طلب فإنك تعطي موافقتك على أن تقوم شركة HMD (أو أطراف ثالثة نيابة عن HMD وتحت سلطتها المباشرة) بمعالجة بياناتك الشخصية.
+
+ستتم معالجة البيانات لغرض الطلب بما يتفق مع سياسة الخصوصية لدى HMD والتشريعات ذات الصلة.</string>
+  <string name="zzz_hmd_open_source_info_title">معلومات المصدر المفتوح لشركة HMD</string>
+  <string name="zzz_roaming_item_title">البيانات العمومية</string>
+  <string name="zzz_security_power_off_password_summary">أدخل كلمة سر الجهاز لإيقاف التشغيل/إعادة التشغيل</string>
+  <string name="zzz_security_power_off_password_title">إيقاف التشغيل/إعادة التشغيل</string>
+  <string name="zzz_sim_no_services">لا توجد خدمة</string>
+  <string name="zzz_version">الإصدار</string>
+</resources>

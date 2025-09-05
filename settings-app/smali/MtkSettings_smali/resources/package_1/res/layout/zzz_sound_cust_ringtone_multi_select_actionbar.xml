@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="horizontal"
+              android:id="@id/custom_title_root"
+              android:layout_width="wrap_content"
+              android:layout_height="45.0dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  <TextView android:textAppearance="?android:attr/textAppearanceMedium"
+            android:gravity="center"
+            android:id="@id/selected_count"
+            android:layout_width="0.0dp"
+            android:layout_height="45.0dp"
+            android:text="@string/fih_ringtone_selected"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:layout_weight="1.0" />
+  <TextView android:textAppearance="?android:attr/textAppearanceMedium"
+            android:gravity="center"
+            android:id="@id/select_all"
+            android:layout_width="0.0dp"
+            android:layout_height="45.0dp"
+            android:text="@string/fih_ringtone_select_all"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:layout_weight="1.0" />
+  <TextView android:textAppearance="?android:attr/textAppearanceMedium"
+            android:gravity="center"
+            android:id="@id/deselect_all"
+            android:layout_width="0.0dp"
+            android:layout_height="45.0dp"
+            android:text="@string/fih_ringtone_deselect_all"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:layout_weight="1.0" />
+</LinearLayout>

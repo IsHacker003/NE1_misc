@@ -1,0 +1,1172 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">Относно мобилното устройство</string>
+  <string name="about_settings_summary">Преглед на правна информация, състояние, версия на софтуера</string>
+  <string name="accelerometer_summary_off">Автоматично превключване на ориентацията при завъртане на мобилното устройство</string>
+  <string name="accelerometer_summary_on">Автоматично превключване на ориентацията при завъртане на мобилното устройство</string>
+  <string name="accessibility_autoclick_delay_preference_title">Време на забавяне преди щракване</string>
+  <string name="accessibility_category_personal">Лични потребителски профили</string>
+  <string name="accessibility_category_work">Служебни потребителски профили - %s</string>
+  <string name="accessibility_feature_state_off">Изключено</string>
+  <string name="accessibility_feature_state_on">Включено</string>
+  <string name="accessibility_long_press_timeout_preference_title">Време на забавяне между докосване и задържане</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Прекъсване на повикване чрез бутона за захранване</string>
+  <string name="accessibility_screen_magnification_short_summary">Докоснете три пъти за мащабиране</string>
+  <string name="accessibility_summary_state_disabled">Изключено</string>
+  <string name="accessibility_summary_state_enabled">Включено</string>
+  <string name="accessibility_sync_in_progress">Синхронизиране сега</string>
+  <string name="accessibility_toggle_master_mono_summary">Комбиниране на каналите при възпроизвеждане на аудио</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Актуализирано увеличаване на екрана при преминаване между приложения</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автоматично актуализиране на увеличаването на екрана</string>
+  <string name="accessibility_vibration_intensity_off">Изключено</string>
+  <string name="accessibility_vibration_settings_title">Вибрация</string>
+  <string name="account_settings_menu_auto_sync_personal">Автоматично синхронизиране на лични данни</string>
+  <string name="account_settings_menu_auto_sync_work">Автоматично синхронизиране на служебни данни</string>
+  <string name="action_drag_label_move_bottom">Преместване към долната част</string>
+  <string name="action_drag_label_move_top">Преместване към горната част</string>
+  <string name="action_drag_label_remove">Изтриване на език</string>
+  <string name="advanced_apps">Разширени</string>
+  <string name="advanced_section_header">Разширени</string>
+  <string name="advanced_security_title">Разширени</string>
+  <string name="advanced_settings_summary">Активиране на още опции за настройка</string>
+  <string name="allow_bind_app_widget_activity_allow_bind">След като създадете изпълнимия модул, %1$s получава достъп до всички показани в него данни.</string>
+  <string name="allow_bind_app_widget_activity_allow_bind_title">Създаване на изпълним модул и позволяване на достъп?</string>
+  <string name="allow_bind_app_widget_activity_always_allow_bind">Винаги да бъде позволено на %1$s да създава изпълними модули и да получава достъп до съдържащите се в тях данни</string>
+  <string name="allow_data_usage_title">Разрешение за използване на мобилни данни при роуминг</string>
+  <string name="always_allow_bind_appwidgets_text">Дадохте разрешение на това приложение да създава изпълними модули и да разполага с достъп до съдържащите се в тях данни.</string>
+  <string name="ambient_display_pickup_summary">За да проверите часа, иконите за известия и друга информация, вземете телефона си в ръка.</string>
+  <string name="ambient_display_pickup_title">Повдигане на телефона за проверка</string>
+  <string name="ambient_display_screen_title">Екран със сензорно активиране</string>
+  <string name="ambient_display_title">Двукратно докосване за проверка на телефона</string>
+  <string name="android_beam_disabled_summary">Не е достъпно, защото NFC е изключено</string>
+  <string name="android_beam_explained">Когато е активирана, функцията позволява предаване на съдържание от приложение към друго устройство, поддържащо NFC. За целта е необходимо устройствата да бъдат в близост едно до друго. Например, можете да прехвърляте уеб страници, видеоклипове от YouTube, контакти и др.
+
+Трябва само да приближите устройствата едно към друго (обикновено гръб до гръб) и да докоснете екрана. Приложението определя прехвърляното съдържание.</string>
+  <string name="android_beam_off_summary">Изключено</string>
+  <string name="android_beam_on_summary">Готово за предаване на съдържание от приложение чрез NFC</string>
+  <string name="apn_apn">APN</string>
+  <string name="apn_auth_type">Тип удостоверяване</string>
+  <string name="apn_auth_type_chap">CHAP</string>
+  <string name="apn_auth_type_none">Няма</string>
+  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_pap_chap">PAP или CHAP</string>
+  <string name="apn_edit">Редакция на точка за достъп</string>
+  <string name="apn_http_port">Порт</string>
+  <string name="apn_http_proxy">Прокси</string>
+  <string name="apn_mcc">MCC</string>
+  <string name="apn_mms_port">MMS порт</string>
+  <string name="apn_mms_proxy">MMS прокси</string>
+  <string name="apn_mmsc">MMSC</string>
+  <string name="apn_mnc">MNC</string>
+  <string name="apn_name">Име</string>
+  <string name="apn_not_set">Не е зададено</string>
+  <string name="apn_password">Парола</string>
+  <string name="apn_server">Сървър</string>
+  <string name="apn_type">Тип APN</string>
+  <string name="apn_user">Потребителско име</string>
+  <string name="app_cellular_data_usage">Използване на данни от приложение</string>
+  <string name="app_data_usage">Използване на данни от приложение</string>
+  <string name="app_disable_dlg_title">Деактивиране на вградено приложение?</string>
+  <string name="app_disable_notifications_dlg_title">Изключване на известията?</string>
+  <string name="app_install_details_title">Подробни данни за приложение</string>
+  <string name="app_launch_open_domain_urls_summary">Отваряне без искане на разрешение</string>
+  <string name="app_launch_other_defaults_title">Други настройки по подразбиране</string>
+  <string name="app_link_open_always">Отваряне в това приложение</string>
+  <string name="app_link_open_ask">Изискване на разрешение всеки път</string>
+  <string name="app_link_open_never">Да не бъде отваряно в това приложение</string>
+  <string name="app_list_preference_none">Няма</string>
+  <string name="app_not_found_dlg_text">Приложението не е намерено в списъка с инсталирани приложения.</string>
+  <string name="app_notification_override_dnd_title">Игнориране на Не безпокой</string>
+  <string name="app_notification_row_banned">Блокирано</string>
+  <string name="app_notification_row_priority">Приоритет</string>
+  <string name="app_notification_row_sensitive">Чувствително</string>
+  <string name="app_permissions">Разрешения за приложение</string>
+  <string name="app_restrictions_custom_label">Задаване на ограничения за приложение</string>
+  <string name="app_sees_restricted_accounts_and_controlled_by">Това приложение има достъп до Вашите акаунти. Управлява се от %1$s</string>
+  <string name="app_special_disable_dlg_title">Изтриване на данните и деактивиране на приложението?</string>
+  <string name="apps_storage">Хранилище за приложения</string>
+  <string name="apps_summary">Инсталирани са %1$d приложения</string>
+  <string name="apps_summary_example">Инсталирани са 24 приложения</string>
+  <string name="apps_with_restrictions_settings_button">Разширяване на настройките за приложение</string>
+  <string name="ask_compatibility">Запитване при стартиране</string>
+  <string name="assist_access_context_summary">Позволява на приложението за помощ достъп до съдържанието на екрана като текст</string>
+  <string name="assist_access_context_title">Използване на текст от екрана</string>
+  <string name="assist_access_screenshot_summary">Позволява на приложението за помощ достъп до изображение на екрана</string>
+  <string name="assist_footer">Приложенията за помощ могат да Ви окажат съдействие въз основа на информацията от екрана, който разглеждате. Някои приложения поддържат както услугата за стартиране, така и тази за гласово въвеждане, за да Ви предоставят цялостна помощ.</string>
+  <string name="assistant_security_warning_agree">Приемам</string>
+  <string name="assistant_security_warning_title">Да бъде ли %s Ваш помощник?</string>
+  <string name="assisted_gps">Използване на подпомогнат GPS</string>
+  <string name="assisted_gps_disabled">Използване на сървър за подпомагане на GPS (премахнете отметката, за да подобрите ефективността на GPS)</string>
+  <string name="assisted_gps_enabled">Използване на сървър за подпомагане на GPS (премахнете отметката, за да намалите използването на мрежата)</string>
+  <string name="audio_record_proc_title">Подтискане на страничен шум</string>
+  <string name="auto_boot_pref_title">Управление на автоматичното стартиране</string>
+  <string name="auto_brightness_default_title">По подразбиране</string>
+  <string name="auto_brightness_off_title">Изключено</string>
+  <string name="auto_brightness_summary_off">Изключено</string>
+  <string name="auto_launch_enable_text">Избрали сте това приложение да стартира по подразбиране за някои действия.</string>
+  <string name="auto_punctuate_summary">Натиснете двукратно интервал за въвеждане "."</string>
+  <string name="auto_restore_summary">Възстановяване на архивираните настройки и данни при повторно инсталиране на приложение</string>
+  <string name="available_via_passpoint">Налично чрез %1$s</string>
+  <string name="awake">Време, в което устройството е активно</string>
+  <string name="background_check_pref">Проверка на фоновите процеси</string>
+  <string name="background_check_title">Пълен достъп до фоновите процеси</string>
+  <string name="background_data">Данни във фонов режим</string>
+  <string name="background_data_dialog_message">При забрана за потребление на данни във фонов режим времетраенето на батерията се подобрява, а употребата на данни намалява. Въпреки това, някои приложения могат да използват данни във фонов режим.</string>
+  <string name="background_data_dialog_title">Забрана за потребление на данни във фонов режим?</string>
+  <string name="background_data_summary">Приложенията могат да се синхронизират, изпращат и получават данни по всяко време</string>
+  <string name="background_process_stop_description">Това е стар процес на приложение, който все още се изпълнява, в случай че отново стане необходим. Обикновено няма нужда да бъде спиран.</string>
+  <string name="backup_configure_account_default_summary">В момента резервните копия на данни не се съхраняват в никой от акаунтите</string>
+  <string name="backup_configure_account_title">Резервно копие на акаунт</string>
+  <string name="backup_data_summary">Резервни копия на данни, пароли за Wi‑Fi достъп и други настройки в сървърите на Google</string>
+  <string name="backup_pw_cancel_button_text">Отказ</string>
+  <string name="band_mode_failed">Неуспешно</string>
+  <string name="band_mode_loading">Зареждане на списъка с изпълнители…</string>
+  <string name="band_mode_succeeded">Успешно</string>
+  <string name="battery_desc_apps">Енергия, използвана от приложение</string>
+  <string name="battery_desc_bluetooth">Енергия, използвана от Bluetooth</string>
+  <string name="battery_desc_camera">Енергия, използвана от камерата</string>
+  <string name="battery_desc_display">Енергия, използвана от дисплея и фоновата подсветка</string>
+  <string name="battery_desc_flashlight">Енергия, използвана от фенерчето</string>
+  <string name="battery_desc_radio">Енергия, използвана от клетъчното радио</string>
+  <string name="battery_desc_standby">Използвана енергия в неактивен режим</string>
+  <string name="battery_desc_unaccounted">Използване на енергия за други нужди</string>
+  <string name="battery_desc_users">Енергия, използвана от потребителя</string>
+  <string name="battery_desc_voice">Енергия, използвана за гласови повиквания</string>
+  <string name="battery_desc_wifi">Енергия, използвана за свързване с Wi‑Fi мрежа</string>
+  <string name="battery_level_title">Заряд на батерията</string>
+  <string name="battery_manager_off">Изключено</string>
+  <string name="battery_msg_unaccounted">Показано е приблизително потребление на енергия, което не включва всички източници на консумация. Използване на батерията за други нужди представлява разликата между калкулираната приблизителна употреба на енергия и реалната консумация.</string>
+  <string name="battery_saver">Режим за икономия на енергия</string>
+  <string name="battery_saver_off_summary">Изключено</string>
+  <string name="battery_saver_on_summary">Включено</string>
+  <string name="battery_since_reset">Използване на батерията след нулиране</string>
+  <string name="battery_since_unplugged">Използване на батерията след изключване от електрическата мрежа</string>
+  <string name="battery_stats_duration">%1$s след изключване от електрическата мрежа</string>
+  <string name="battery_stats_wake_lock_label">В активно състояние</string>
+  <string name="battery_sugg_apps_gps">Избор на енергоспестяващ режим</string>
+  <string name="battery_sugg_apps_settings">Приложението може да предложи настройки за намалено енергийно потребление</string>
+  <string name="battery_sugg_bluetooth_basic">Изключвайте Bluetooth, когато не го използвате</string>
+  <string name="battery_sugg_bluetooth_headset">Опитайте да осъществите свързване с различно Bluetooth устройство</string>
+  <string name="battery_sugg_display">Намалете яркостта и/или времето за автоматично заключване на екрана</string>
+  <string name="battery_sugg_radio">Превключете на режим Полет на местата без клетъчно покритие, за да спестите енергия</string>
+  <string name="battery_sugg_wifi">Изключете Wi‑Fi, когато не го използвате или когато няма налични безжични мрежи</string>
+  <string name="battery_suggestion_title">Подобряване на живота на батерията на телефона</string>
+  <string name="battery_tip_dialog_message">Телефонът ви е използван повече от обикновено. Батерията може да се изтощи по-рано от очакваното.
+
+Следните %1$d приложения са най-използваните от вас след последното пълно зареждане:</string>
+  <string name="battery_tip_dialog_summary_message">Приложенията ви използват обичайното количество от батерията. Ако те изразходват твърде много от нея, телефонът ви ще предложи действия, които можете да предприемете.
+
+Винаги можете да включите режима за запазване на батерията, ако тя е на път да се изтощи.</string>
+  <string name="battery_tip_early_heads_up_done_title">Икономичният режим е активиран</string>
+  <string name="battery_tip_high_usage_title">Телефонът е използван повече от обикновено</string>
+  <string name="battery_tip_restrict_app_dialog_ok">Ограничаване</string>
+  <string name="battery_tip_smart_battery_title">Удължете живота на батерията на телефона си</string>
+  <string name="battery_tip_summary_summary">Използването на батерията на заден план е в обичайните норми за телефона</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">Отказ</string>
+  <string name="ble_scan_notify_text">За подобряване на точността при определяне на местоположението, системните приложения могат да търсят устройства с Bluetooth. Това може да бъде променено в LINK_BEGINнастройки за сканиранеLINK_END.</string>
+  <string name="bluetooth_advanced_titlebar">Разширени настройки за Bluetooth</string>
+  <string name="bluetooth_ask_discovery">%1$s иска да направи телефона ви видим за други устройства с Bluetooth за %2$d секунди.</string>
+  <string name="bluetooth_ask_discovery_no_name">Приложение иска да направи телефона ви видим за други устройства с Bluetooth за %1$d секунди.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">%1$s иска да включи Bluetooth и да направи телефона ви видим за други устройства за %2$d секунди.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">Приложение иска да включи Bluetooth и да направи телефона ви видим за други устройства за %1$d секунди.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s иска да включи Bluetooth и да направи телефона ви видим за други устройства. Можете да промените това по-късно от настройките за Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Приложение иска да включи Bluetooth и да направи телефона ви видим за други устройства. Можете да промените това по-късно от настройките за Bluetooth.</string>
+  <string name="bluetooth_ask_lasting_discovery">%1$s иска да направи телефона ви видим за други устройства с Bluetooth. Можете да промените това по-късно от настройките за Bluetooth.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">Приложение иска да направи телефона ви видим за други устройства с Bluetooth. Можете да промените това по-късно от настройките за Bluetooth.</string>
+  <string name="bluetooth_confirm_passkey_msg">При сдвояване с:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Уверете се, че следният ключ за достъп е показан:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_connect_specific_profiles_title">Свързване с…</string>
+  <string name="bluetooth_connecting">Свързване…</string>
+  <string name="bluetooth_connecting_error_message">Неуспешно свързване с %1$s.</string>
+  <string name="bluetooth_connection_dialog_text">Желаете ли да се свържете с "%1$s"?</string>
+  <string name="bluetooth_connection_notif_message">Докоснете за свързване с "%1$s".</string>
+  <string name="bluetooth_device">Bluetooth устройство без име</string>
+  <string name="bluetooth_device_advanced_enable_opp_title">Позволяване прехвърлянето на входящи файлове</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Свързване</string>
+  <string name="bluetooth_device_advanced_title">Сдвоено Bluetooth устройство</string>
+  <string name="bluetooth_device_context_connect">Свързване</string>
+  <string name="bluetooth_device_context_disconnect">Прекъсване на връзката</string>
+  <string name="bluetooth_device_context_disconnect_unpair">Прекъсване на връзката и прекратяване на сдвояването</string>
+  <string name="bluetooth_device_context_unpair">Прекратяване на сдвояването</string>
+  <string name="bluetooth_device_name">Име на устройството</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Отказ</string>
+  <string name="bluetooth_disable_profile_title">Деактивиране на профил?</string>
+  <string name="bluetooth_disabled">Изключено</string>
+  <string name="bluetooth_disconnect_all_profiles">Връзката между телефона ви и „%1$s“ ще бъде прекратена.</string>
+  <string name="bluetooth_disconnect_dialog_ok">Прекъсване на връзката</string>
+  <string name="bluetooth_disconnect_headset_profile">Връзката между %1$s и аудио устройството за свободни ръце ще бъде прекратена.</string>
+  <string name="bluetooth_disconnect_hid_profile">Връзката между %1$s и устройството източник на входен сигнал ще бъде прекъсната.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">Споделянето на връзката с интернет на този телефон ще бъде прекъснато за %1$s.</string>
+  <string name="bluetooth_disconnect_pan_user_profile">Достъпът до Интернет чрез %1$s ще бъде прекъснат.</string>
+  <string name="bluetooth_disconnected">Връзката е прекъсната</string>
+  <string name="bluetooth_disconnecting">Прекъсване на връзката…</string>
+  <string name="bluetooth_display_passkey_pin_msg">За сдвояване с:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Напишете:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; и натиснете Връщане или Въвеждане.</string>
+  <string name="bluetooth_dock_settings_title">Използване на докинг станция за аудио възпроизвеждане</string>
+  <string name="bluetooth_empty_list_bluetooth_off">Когато функцията Bluetooth е активирана, Вашето устройство може да комуникира с други устройства с Bluetooth в близост.</string>
+  <string name="bluetooth_enter_passkey_msg">Въведете кода за сдвояване, след което натиснете Връщане или Въвеждане</string>
+  <string name="bluetooth_enter_passkey_other_device">Може да се наложи да въведете показания ключ за достъп на другото устройство.</string>
+  <string name="bluetooth_enter_pin_other_device">Може да се наложи да въведете показания PIN код на другото устройство.</string>
+  <string name="bluetooth_footer_mac_message">Bluetooth адрес на телефона: %1$s</string>
+  <string name="bluetooth_incoming_pairing_msg">От:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Сдвояване с това устройство?</string>
+  <string name="bluetooth_is_disconnect_question">Прекъсване на връзката на %1$s?</string>
+  <string name="bluetooth_is_discoverable">Видимо за всички устройства с Bluetooth в близост (%1$s)</string>
+  <string name="bluetooth_is_discoverable_always">Видимост за всички близки устройства с Bluetooth</string>
+  <string name="bluetooth_is_visible_message">%1$s е видимо за всички устройства в близост, докато настройката за Bluetooth е разрешена.</string>
+  <string name="bluetooth_lock_voice_dialing_summary">Предотвратява набирането чрез Bluetooth при заключен екран</string>
+  <string name="bluetooth_map_acceptance_dialog_text">%1$s изисква достъп до Вашите съобщения. Предоставяте ли достъп на %2$s?</string>
+  <string name="bluetooth_menu_advanced">Разширени</string>
+  <string name="bluetooth_no_devices_found">В близост не са намерени устройства с Bluetooth.</string>
+  <string name="bluetooth_not_visible_to_other_devices">Невидимо за други устройства с Bluetooth</string>
+  <string name="bluetooth_notif_message">Докоснете за сдвояване с %1$s.</string>
+  <string name="bluetooth_pairing_decline">Отказ</string>
+  <string name="bluetooth_pairing_dialog_contants_request">%1$s изисква достъп до списъка с контакти и хронология на повикванията.</string>
+  <string name="bluetooth_pairing_dialog_paring_request">%1$s изисква сдвояване чрез Bluetooth. Ако свързването бъде осъществено, ще му бъде предоставен достъп до Вашите контакти и хронология на повикванията.</string>
+  <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Споделяне на телефонния указател?</string>
+  <string name="bluetooth_pairing_dialog_title">Сдвояване с устройството?</string>
+  <string name="bluetooth_pairing_request">Сдвояване с %1$s?</string>
+  <string name="bluetooth_pb_remember_choice">Да не се пита отново</string>
+  <string name="bluetooth_phonebook_request">Заявка за достъп до телефонен указател</string>
+  <string name="bluetooth_pref_summary">Разрешаване на телефона да се свързва с устройства с Bluetooth в близост</string>
+  <string name="bluetooth_preference_paired_dialog_contacts_option">Контакти и хронология на повикванията</string>
+  <string name="bluetooth_preference_paired_dialog_name_label">Име</string>
+  <string name="bluetooth_profile_details">Профилни настройки</string>
+  <string name="bluetooth_remember_choice">Да не се пита отново</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s изисква достъп до Вашата SIM карта. Предоставянето на достъп до SIM картата ще деактивира свързването към данни за времетраенето на връзката. Предоставяне на достъп на %2$s?</string>
+  <string name="bluetooth_sap_request">Заявка за достъп до SIM карта</string>
+  <string name="bluetooth_searching_for_devices">Търсене…</string>
+  <string name="bluetooth_tethering_overflow_error">Не може да бъде изпълнено свързване с повече от %1$d устройства.</string>
+  <string name="bluetooth_tethering_subtext">Споделете връзката с интернет на телефона през Bluetooth</string>
+  <string name="bluetooth_turning_off">Изключване на Bluetooth…</string>
+  <string name="bluetooth_turning_on">Включване на Bluetooth…</string>
+  <string name="bluetooth_unpair_dialog_body">Телефонът ви вече няма да бъде сдвоен с/ъс „%1$s“</string>
+  <string name="brightness_summary">Регулиране на яркостта на екрана</string>
+  <string name="build_number">Номер на компилация</string>
+  <string name="button_confirm_convert_fbe">Изтриване и конвертиране</string>
+  <string name="cached">Кеширан фонов процес</string>
+  <string name="call_manager_enable_summary">Позволяване на услугата да управлява начина на извършване на повикванията.</string>
+  <string name="call_manager_enable_title">Активиране на Диспечер на повикванията</string>
+  <string name="call_manager_title">Диспечер на повикванията</string>
+  <string name="call_settings_summary">Задаване на гласова поща, пренасочване на повиквания, изчакване на повикване, идентификация при повикване</string>
+  <string name="camera_double_tap_power_gesture_desc">Бързо отваряне на камерата без отключване на екрана</string>
+  <string name="camera_firmware_version">Версия на фърмуера на камерата</string>
+  <string name="camera_gesture_desc">Отваряне на камерата с двукратно завъртане на китката</string>
+  <string name="cancel">Отказ</string>
+  <string name="cant_sync_dialog_message">Синхронизирането за този елемент в момента е деактивирано. За да промените тази настройка, временно разрешете използването на данни във фонов режим и автоматичното синхронизиране.</string>
+  <string name="capability_desc_receiveAccessibilityEvents">Получаване на известия при взаимодействие с приложение.</string>
+  <string name="captioning_background_opacity">Прозрачност на фона</string>
+  <string name="captioning_foreground_opacity">Прозрачност на текста</string>
+  <string name="captioning_window_opacity">Прозрачност на прозореца на надписите</string>
+  <string name="carrier_enabled">Активиране/деактивиране на APN</string>
+  <string name="carrier_enabled_summaryOff">APN е деактивирано</string>
+  <string name="carrier_enabled_summaryOn">APN е активирано</string>
+  <string name="cdma_security_settings_summary">Задаване на Мое местоположение, отключване на екрана, заключване на хранилището за идентификационни данни</string>
+  <string name="change_storage">Промяна на мястото за съхранение</string>
+  <string name="checkbox_notification_same_as_incoming_call">Използване на еднаква сила на звука за входящи повиквания и известия</string>
+  <string name="checking_decryption">Проверява се…</string>
+  <string name="choose_voice_input_title">Изберете гласово въвеждане</string>
+  <string name="clear_activities">Изчистване по подразбиране</string>
+  <string name="clear_cache_btn_text">Изчистване на кеша</string>
+  <string name="clear_data_dlg_text">Всички данни от това приложение ще бъдат изтрити окончателно. В това число всички файлове, настройки, акаунти, бази данни и т.н.</string>
+  <string name="clear_data_dlg_title">Изтриване на данните от приложението?</string>
+  <string name="clear_uri_btn_text">Изчистване на данни за достъп</string>
+  <string name="color_black">Черно</string>
+  <string name="color_blue">Синьо</string>
+  <string name="color_gray">Сиво</string>
+  <string name="color_green">Зелено</string>
+  <string name="color_mode_title">Цветове</string>
+  <string name="color_none">Няма</string>
+  <string name="color_orange">Оранжево</string>
+  <string name="color_purple">Лилаво</string>
+  <string name="color_title">Цвят</string>
+  <string name="color_unspecified">По подразбиране</string>
+  <string name="color_white">Бяло</string>
+  <string name="color_yellow">Жълто</string>
+  <string name="computing_size">Изчисляване…</string>
+  <string name="condition_battery_title">Икономичният режим е активиран</string>
+  <string name="condition_bg_data_summary">Използването на данни във фонов режим е разрешено единствено при свързване с Wi-Fi мрежа. При липса на Wi-Fi мрежа това може да окаже влияние върху някои приложения или услуги.</string>
+  <string name="condition_device_muted_title">Звукът на телефона е спрян</string>
+  <string name="condition_device_vibrate_summary">Телефонът ще вибрира при обаждания и известия</string>
+  <string name="condition_device_vibrate_title">За телефона е зададено вибриране</string>
+  <string name="condition_expand_show">Шоу</string>
+  <string name="condition_work_summary">Приложения, синхронизиране във фонов режим и други функции, свързани с работния Ви профил, са изключени.</string>
+  <string name="condition_work_title">Работният профил е изключен</string>
+  <string name="confirm_convert_to_fbe_warning">Наистина ли желаете да изтриете потребителските данни и да изпълните шифроване на файла?</string>
+  <string name="confirm_fingerprint_icon_content_description">Използвайте пръстовия си отпечатък, за да продължите.</string>
+  <string name="confirm_new_backup_pw_prompt">Въведете повторно новата си парола за пълно резервно копие тук</string>
+  <string name="connected_via_passpoint">Свързано чрез %1$s</string>
+  <string name="credentials_install">Инсталиране от SD карта</string>
+  <string name="credentials_install_summary">Инсталиране на сертификати от SD карта</string>
+  <string name="credentials_not_erased">Хранилището за идентификационни данни не може да бъде изтрито.</string>
+  <string name="credentials_reset">Изчистване на идентификационни данни</string>
+  <string name="credentials_settings_not_available">Идентификационните данни не са достъпни за този потребител</string>
+  <string name="credentials_title">Хранилище за идентификационни данни</string>
+  <string name="crypt_keeper_button_text">Шифроване на мобилното устройство</string>
+  <string name="crypt_keeper_confirm_title">Шифроване?</string>
+  <string name="crypt_keeper_data_corrupt_summary">Въведената парола е правилна, но данните Ви са повредени. 
+
+За да използвате това мобилно устройство отново, е необходимо да изпълните възстановяване на фабрични настройки. При повторното настройване на мобилното устройство ще можете да възстановите всички данни, на които е било създадено резервно копие в акаунта Ви в Google.</string>
+  <string name="crypt_keeper_data_corrupt_title">Дешифрирането е неуспешно</string>
+  <string name="crypt_keeper_desc">Можете да шифровате Вашите акаунти, настройки, свалени приложения и техните данни, мултимедия и други файлове. След като сте шифровали мобилното устройство, ако имате зададено заключване на екрана (модел за отключване, цифров PIN код или парола), ще трябва да отключвате екрана, за да го разшифровате при всяко негово включване. Единственият друг начин за шифроване е да изпълните фабрично възстановяване на данните, при което всички данни ще бъдат изтрити.
+
+Шифроването отнема един час или по-дълго. Необходимо е да стартирате със заредена батерия и да държите мобилното устройство включено през цялото време, докато процесът се изпълнява. В случай на прекъсване ще изгубите част или всички данни.</string>
+  <string name="crypt_keeper_dialog_need_password_message">Преди да стартирате шифроването е необходимо да зададете PIN код или парола за заключване на екрана.</string>
+  <string name="crypt_keeper_encrypt_title">Шифроване на мобилното устройство</string>
+  <string name="crypt_keeper_failed_summary">Шифроването е прекъснато и не може да бъде завършено. В резултат на това, данните в мобилното устройство вече не са достъпни. 
+
+За да използвате това мобилно устройство отново, е необходимо да изпълните възстановяване на фабрични настройки. При повторното настройване на мобилното устройство ще можете да възстановите всички данни, на които е било създадено резервно копие в акаунта Ви в Google.</string>
+  <string name="crypt_keeper_failed_title">Шифроването е неуспешно</string>
+  <string name="crypt_keeper_final_desc">Операцията по шифроване е необратима и ако я прекъснете, ще бъдат изгубени данни. Шифроването отнема един час или повече, като през това време мобилното устройство ще се рестартира няколко пъти.</string>
+  <string name="crypt_keeper_force_power_cycle">За отключване на мобилното устройство го изключете, след което го включете отново.</string>
+  <string name="crypt_keeper_low_charge_text">Заредете батерията и опитайте отново.</string>
+  <string name="crypt_keeper_setup_description">Изчакайте, докато мобилното устройство бъде шифровано. ^1% завършено.</string>
+  <string name="crypt_keeper_setup_time_remaining">Изчакайте, докато мобилното устройство бъде шифровано. Оставащо време: ^1</string>
+  <string name="crypt_keeper_unplugged_text">Включете зарядното устройство и опитайте отново.</string>
+  <string name="daltonizer_mode_disabled">Деактивирано</string>
+  <string name="data_protection_title">Защита на данните</string>
+  <string name="data_saver_off">Изключено</string>
+  <string name="data_saver_on">Включено</string>
+  <string name="data_service_enable_mobile">Временна услуга за данни</string>
+  <string name="data_service_prompt">При SIM карта не за данни при VoLTE обаждане тя ще се използва за услугата за данни. Това ще доведе до допълнително използване на данни на SIM картата.</string>
+  <string name="data_service_summary">При SIM карта не за данни при VoLTE обаждане тя ще се използва за услугата за данни.</string>
+  <string name="data_summary_format">%1$s са използвани от %2$s</string>
+  <string name="data_switch_started">Превключване на SIM карта за данни. Това може да отнеме около минута...</string>
+  <string name="data_usage_accounting">Отчетеното от оператора потребление на данни може да се различава от показанията в устройството.</string>
+  <string name="data_usage_app_restrict_background">Данни във фонов режим</string>
+  <string name="data_usage_app_restrict_dialog_title">Ограничаване ползването на данни във фонов режим?</string>
+  <string name="data_usage_app_summary_title">Използване на данни от приложение</string>
+  <string name="data_usage_auto_sync_off_dialog">По този начин ще бъдат спестени мобилни данни и енергия, но ще трябва да синхронизирате всеки акаунт ръчно, за да получавате последна информация. Освен това, няма да получавате известия за актуализации.</string>
+  <string name="data_usage_auto_sync_off_dialog_title">Изключване на автоматичното синхронизиране на данни?</string>
+  <string name="data_usage_auto_sync_on_dialog">Всички промени, които извършвате върху акаунтите си в мрежата ще бъдат пренасяни автоматично върху мобилното устройство.
+
+Някои акаунти могат автоматично да копират промените, които правите на таблета в мрежата. Акаунтите в Google работят по този начин.</string>
+  <string name="data_usage_auto_sync_on_dialog_title">Включване на автоматичното синхронизиране на данни?</string>
+  <string name="data_usage_background_label">Фон</string>
+  <string name="data_usage_cellular_data_summary">Поставяне в пауза при достигане на ограничението</string>
+  <string name="data_usage_change_cycle">Промяна на период…</string>
+  <string name="data_usage_cycle">Период за използване на данни</string>
+  <string name="data_usage_cycle_editor_subtitle">Дата от всеки месец:</string>
+  <string name="data_usage_cycle_editor_title">Дата за подновяване на периода</string>
+  <string name="data_usage_disable_3g_limit">Задаване на лимит за 2G-3G данни</string>
+  <string name="data_usage_disable_4g_limit">Задаване на лимит за 4G данни</string>
+  <string name="data_usage_disable_wifi_limit">Задаване на лимит за данни от Wi‑Fi мрежа</string>
+  <string name="data_usage_disclaimer">Отчетеното от оператора потребление на данни може да се различава от показанията в устройството.</string>
+  <string name="data_usage_label_background">Фон</string>
+  <string name="data_usage_limit_dialog_mobile">Телефонът ви ще изключи мобилните данни, след като достигне зададеното от вас ограничение.
+
+Тъй като преносът им се измерва от телефона ви, а операторът ви може да го отчита по различен начин, добре е да използвате умерен лимит.</string>
+  <string name="data_usage_limit_editor_title">Задаване на лимит за потребление на данни</string>
+  <string name="data_usage_list_none">Няма</string>
+  <string name="data_usage_menu_allow_background">Разрешение за потребление на данни във фонов режим</string>
+  <string name="data_usage_menu_hide_ethernet">Скриване на потреблението на Ethernet</string>
+  <string name="data_usage_menu_restrict_background">Ограничаване потреблението на данни във фонов режим</string>
+  <string name="data_usage_menu_show_ethernet">Показване на потреблението на Ethernet</string>
+  <string name="data_usage_metered_wifi">Wi‑Fi мрежи с измерено потребление</string>
+  <string name="data_usage_metered_wifi_disabled">За да изберете мрежа с измерено потребление, е необходимо да включите Wi‑Fi.</string>
+  <string name="data_usage_other_apps">Други приложения, включени при потребление</string>
+  <string name="data_usage_pick_cycle_day">Ден от месеца за подновяване на периода за потребление:</string>
+  <string name="data_usage_restrict_background_multiuser">В случай че ограничите мобилните данни на заден план, някои приложения и услуги няма да работят, освен ако не сте свързани с Wi‑Fi.
+
+Настройката засяга всички потребители на този телефон.</string>
+  <string name="data_usage_restrict_background_title">Ограничаване ползването на данни във фонов режим?</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: използвани са около %1$s, измерени от мобилното устройство. Действителното потребление, отчетено от оператора, може да се различава.</string>
+  <string name="date_time_auto_summaryOff">Използване на точно време от мрежата</string>
+  <string name="date_time_auto_summaryOn">Използване на точно време от мрежата</string>
+  <string name="date_time_select_region">Регион</string>
+  <string name="date_time_set_time">Задаване на час</string>
+  <string name="date_time_set_timezone">Задаване на часова зона</string>
+  <string name="decryption_settings_summary">Телефонът не е шифрован</string>
+  <string name="default_apps_title">По подразбиране</string>
+  <string name="default_keyboard_layout">По подразбиране</string>
+  <string name="default_sound">Звуков сигнал по подразбиране</string>
+  <string name="default_spell_checker">Проверка на правописа по подразбиране</string>
+  <string name="default_theme">По подразбиране</string>
+  <string name="delete">Изтриване</string>
+  <string name="deletion_helper_manual_title">Ръчно</string>
+  <string name="device_info_label">Информация за устройството</string>
+  <string name="device_info_not_available">Не е достъпно</string>
+  <string name="device_info_settings">Състояние на мобилното устройство</string>
+  <string name="device_picker">Изберете устройство с Bluetooth</string>
+  <string name="device_status">Състояние</string>
+  <string name="device_status_activity_title">Състояние</string>
+  <string name="device_status_summary">Телефонен номер, сила на сигнала и т.н.</string>
+  <string name="dialog_background_check_message">Телефонът ви не е в състояние да управлява батерията нормално, защото %1$s постоянно го активира.
+
+За да опитате да решите този проблем, можете да спрете приложението %1$s и да му попречите да се изпълнява на заден план.</string>
+  <string name="dialog_location_message">Телефонът ви не е в състояние да управлява батерията нормално, защото %1$s постоянно изисква достъп до местоположението ви, когато не използвате приложението.
+
+За да решите проблема, можете да изключите местоположението за това приложение.</string>
+  <string name="dialog_stop_message">Телефонът ви не е в състояние да управлява батерията нормално, защото %1$s постоянно го активира.
+
+За да опитате да решите проблема, можете да спрете приложението.
+
+Ако това не помогне, може да се наложи да деинсталирате приложението, за да подобрите ефективността на батерията.</string>
+  <string name="dialog_stop_message_wakeup_alarm">Телефонът ви не е в състояние да управлява батерията нормално, защото %1$s постоянно го активира.
+
+За да опитате да решите проблема, можете да спрете %1$s.
+
+Ако това не помогне, може да се наложи да деинсталирате приложението, за да подобрите ефективността на батерията.</string>
+  <string name="disabled">Деактивирано</string>
+  <string name="display_cutout_emulation_none">Няма</string>
+  <string name="dlg_cancel">Отказ</string>
+  <string name="dlg_close">Затваряне</string>
+  <string name="dlg_confirm_unmount_text">Ако демонтирате SD картата, някои от използваните приложения ще престанат да функционират и е възможно да станат недостъпни, докато не я монтирате наново.</string>
+  <string name="dlg_confirm_unmount_title">Демонтиране на SD карта?</string>
+  <string name="dlg_error_unmount_text">SD картата не може да бъде демонтирана. Моля, опитайте по-късно.</string>
+  <string name="dlg_ok">ОK</string>
+  <string name="dlg_remove_locales_error_title">Всички езици не могат да бъдат изтрити</string>
+  <string name="dock_audio_media_title">Възпроизвеждане от високоговорителя на докинг станцията</string>
+  <string name="dock_audio_summary_car">Настройки за свързаната автомобилна докинг станция</string>
+  <string name="dock_audio_summary_desk">Настройки за свързаната компютърна докинг станция</string>
+  <string name="dock_audio_summary_none">Мобилното устройство не е свързано към докинг станция</string>
+  <string name="dock_audio_summary_unknown">Настройки за свързаната докинг станция</string>
+  <string name="dock_not_found_text">Мобилното устройство трябва да бъде свързано към докинг станцията, за да я използвате за аудио възпроизвеждане.</string>
+  <string name="dock_not_found_title">Не е намерена докинг станция</string>
+  <string name="dock_settings_summary">Аудио настройки за свързаната докинг станция</string>
+  <string name="dock_sounds_enable_summary_off">Без звукова сигнализация при свързване или прекъсване на връзката на мобилното устройство с докинг станция</string>
+  <string name="dock_sounds_enable_summary_on">Звукова сигнализация при свързване или прекъсване на връзката на мобилното устройство с докинг станция</string>
+  <string name="dock_sounds_enable_title">Звукова сигнализация при свързване с докинг станция</string>
+  <string name="domain_urls_summary_one">Отваряне на %s</string>
+  <string name="domain_urls_summary_some">Отваряне на %s и други URL адреси</string>
+  <string name="doze_always_on_title">Винаги включено</string>
+  <string name="empty_list_msg">Няма инсталирани приложения от трети страни.</string>
+  <string name="enable_service_encryption_warning">Ако активирате %1$s, устройството няма да използва функцията за заключване на екрана, за да подобри шифроването на данни.</string>
+  <string name="enable_service_pin_reason">Активирането на %1$s засяга шифроването на данни, ето защо е необходимо да потвърдите PIN кода си.</string>
+  <string name="encrypt_talkback_dialog_message_pin">При въвеждането на PIN код за стартиране на устройството, услуги за достъп като %1$s все още няма да бъдат достъпни.</string>
+  <string name="encrypt_talkback_dialog_require_pin">Изискване на PIN код?</string>
+  <string name="encryption_and_credential_settings_summary">Телефонът е шифрован</string>
+  <string name="encryption_continue_button">Продължаване</string>
+  <string name="enhanced_4g_lte_mode_title">Режим на подобрен 4G LTE</string>
+  <string name="enter_pin">За стартиране на Android е необходимо да въведете своя PIN код</string>
+  <string name="enterprise_privacy_none">Няма</string>
+  <string name="erase_esim_storage_description">Изтрийте всички електронни SIM карти на телефона. Това действие няма да анулира плана ви за мобилна услуга.</string>
+  <string name="erase_external_storage">Изтриване на SD карта</string>
+  <string name="erase_external_storage_description">Изтриване на всички данни от SD картата, напр. музика и снимки</string>
+  <string name="ethernet_data_usage">Използване на Ethernet данни</string>
+  <string name="external_code_size_label">Приложение във външна USB памет</string>
+  <string name="external_data_size_label">SD карта</string>
+  <string name="extreme_threats_summary">Получаване на сигнали в случаи на крайни заплахи за живота и имуществото</string>
+  <string name="extreme_threats_title">Крайни заплахи</string>
+  <string name="fih_color_picker_blue">Синьо</string>
+  <string name="fih_color_picker_green">Зелено</string>
+  <string name="fih_color_picker_orange">Оранжево</string>
+  <string name="fih_color_picker_pink">Розово</string>
+  <string name="fih_color_picker_purple">Виолетово</string>
+  <string name="fih_color_picker_yellow">Жълто</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">Потвърждение</string>
+  <string name="fih_message_vibrate">Вибриране</string>
+  <string name="fih_mtp_enable_dialog_content">След свързване можете да прехвърляте файлове на доверен компютър и да осъществявате достъп до данните в мобилното устройство.</string>
+  <string name="fih_mtp_enable_dialog_title">Прехвърляне на файлове с помощта на USB?</string>
+  <string name="fih_music_song_count">песен(ни)</string>
+  <string name="fih_ringtone_add">Добавяне</string>
+  <string name="fih_ringtone_deselect_all">Премахване на избора</string>
+  <string name="fih_ringtone_listview_empty">Няма музикални файлове</string>
+  <string name="fih_ringtone_remove">Премахване</string>
+  <string name="fih_ringtone_select_all">Всички</string>
+  <string name="fih_ringtone_selected">Избрано</string>
+  <string name="fih_ringtone_tab_song">Песни</string>
+  <string name="fih_sound_category_message_notirication_vibrate_title">Известяване за съобщение и вибрация</string>
+  <string name="filter_apps_onsdcard">На SD карта</string>
+  <string name="filter_dlg_title">Избор на опции за филтриране</string>
+  <string name="fingerprint_add_max">Можете да добавите до %d пръстови отпечатъка</string>
+  <string name="fingerprint_add_title">Добавяне на пръстов отпечатък</string>
+  <string name="fingerprint_enroll_button_next">Напред</string>
+  <string name="fingerprint_last_delete_confirm">Да, премахни</string>
+  <string name="fingerprint_last_delete_message">Няма да можете да използвате пръстови отпечатъци за отключване на мобилното устройство, упълномощаване на покупки или влизане в приложения</string>
+  <string name="fingerprint_last_delete_message_profile_challenge">Няма да можете да използвате пръстови отпечатъци за отключване на работния Ви профил, разрешаване на покупки или влизане в работни приложения</string>
+  <string name="fingerprint_last_delete_title">Изтриване на всички пръстови отпечатъци?</string>
+  <string name="fingerprint_manage_category_title">Управление на пръстови отпечатъци</string>
+  <string name="fingerprint_swipe_for_notifications_summary">За да проверите известията си, плъзнете пръст надолу през сензора за отпечатъци на гърба на телефона си.</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Пръстов отпечатък + модел за отключване</string>
+  <string name="fingerprint_usage_category_title">Използване на пръстов отпечатък за</string>
+  <string name="font_setting_title">Стил на шрифт</string>
+  <string name="font_size_save">ОK</string>
+  <string name="font_size_summary">Намаляване или увеличаване на размера на текста върху екрана.</string>
+  <string name="forget">Забравяне</string>
+  <string name="fullbackup_data_summary">Автоматично създаване на резервно копие на данните от устройството (напр. пароли за Wi-Fi достъп и хронология на повикванията) и данните на приложенията (напр. настройки и файлове, запаметени от приложения) на дистанционен носител.
+
+При активиране на функцията за автоматично създаване на резервно копие данните на устройството и приложенията периодично се запаметяват извън устройството. Данните на приложенията могат да бъдат всички данни, запазени от дадено приложение (в зависимост от настройките за разработчици), включително потенциално чувствителни данни, напр. контакти, съобщения и снимки.</string>
+  <string name="fullbackup_erase_dialog_message">Преустановяване на създаването на резервно копие на данните от устройството (напр. пароли за Wi-Fi достъп и хронология на повикванията) и данните на приложенията (напр. настройки и файлове, запаметени от приложения) и изтриване на всички копия върху отдалечени сървъри?</string>
+  <string name="gadget_picker_title">Избор на притурка</string>
+  <string name="gesture_preference_summary">Бързи жестове за контролиране на телефона ви</string>
+  <string name="gesture_setting_off">Изключено</string>
+  <string name="gesture_setting_on">Включено</string>
+  <string name="hdmi_auto">АВТОМАТИЧНО</string>
+  <string name="hdmi_video_resolution">Разделителна способност на видеоклип</string>
+  <string name="history_details_title">Детайли на хронологията</string>
+  <string name="include_app_data_title">Включване на данните от приложението</string>
+  <string name="input_methods_and_subtype_enabler_title">Избор на активни методи за въвеждане</string>
+  <string name="install_all_warning">Телефонът и личните ви данни са по-уязвими към атаки от неизвестни приложения. С инсталирането на приложения от този източник приемате, че вие носите отговорност в случай на повреда на устройството ви или при загуба на данни вследствие използването на такива приложения.</string>
+  <string name="install_applications_title">Разрешаване на всички източници на приложения</string>
+  <string name="insufficient_storage">Няма достатъчно място за съхранение.</string>
+  <string name="intent_sender_account_label">Профил</string>
+  <string name="internal_storage_sentence">вътрешна памет</string>
+  <string name="keyboard_layout_default_label">По подразбиране</string>
+  <string name="keyboard_layout_dialog_switch_hint">За превключване натиснете клавиши Контрол-Интервал</string>
+  <string name="keywords_display_cast_screen">прожектиране, прехвърляне на съдържание</string>
+  <string name="keywords_fingerprint_settings">пръстов отпечатък</string>
+  <string name="keywords_lockscreen">отключване с плъзгане, парола, модел, PIN код</string>
+  <string name="keywords_profile_challenge">работно предизвикателство, работа, профил</string>
+  <string name="keywords_unification">работен профил, управляван профил, унифицира, унифициране, работа, профил</string>
+  <string name="keywords_voice_input">инструмент за разпознаване, въвеждане, реч, говор, език, свободни ръце, свободни ръце, разпознаване, обидно, дума, аудио, хронология, устройство с Bluetooth</string>
+  <string name="launch_instant_app">Отваряне</string>
+  <string name="link_speed">%1$d Мбит/с</string>
+  <string name="loading_notification_apps">Зареждане на приложения...</string>
+  <string name="locale_default">По подразбиране</string>
+  <string name="locale_not_translated">Може да не бъде налично за някои приложения</string>
+  <string name="location_access_summary">Позволява на приложенията, които са поискали разрешение, да използват информацията за Вашето местоположение</string>
+  <string name="location_category_recent_location_requests">Скорошни запитвания за местоположение</string>
+  <string name="location_gps">GPS сателити</string>
+  <string name="location_neighborhood_level">Позволява на приложенията да използват услугата за определяне на местоположение на Google за по-бързото Ви локализиране. Анонимни данни за местоположение ще бъдат събирани и изпращани на Google.</string>
+  <string name="location_off_summary">Изключено</string>
+  <string name="location_on_summary">Включено</string>
+  <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth сканиране</string>
+  <string name="location_street_level">Позволява на приложения да използват GPS на мобилното устройство за определяне на местоположението Ви</string>
+  <string name="lock_screen_intro_skip_dialog_text">Функциите за защита на телефона няма да бъдат включени. Няма да можете да предотвратите използването му от други хора, ако бъде загубен или откраднат.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Функциите за защита на телефона няма да бъдат включени. Няма да можете да предотвратите използването му от други хора, ако бъде загубен, откраднат или нулиран.</string>
+  <string name="lock_screen_intro_skip_title">Пропускане на опцията за заключване?</string>
+  <string name="lock_screen_notifications_interstitial_message">Как искате да бъдат показвани известията, когато устройството е заключено?</string>
+  <string name="lock_screen_notifications_interstitial_message_profile">Как искате да бъдат показвани профилните известия, когато устройството е заключено?</string>
+  <string name="lock_screen_notifications_interstitial_title_profile">Профилни известия</string>
+  <string name="lock_screen_notifications_summary_disable">Никакво показване на известия</string>
+  <string name="lock_screen_notifications_summary_show">Показване на цялото съдържание на известията</string>
+  <string name="lock_screen_notifications_summary_show_profile">Показване на цялото съдържание на служебните известия</string>
+  <string name="lock_settings_picker_title">Избор на заключване на екрана</string>
+  <string name="lock_settings_picker_title_profile">Избор на служебно заключване</string>
+  <string name="lock_settings_profile_screen_lock_title">Заключване на екрана за работен профил</string>
+  <string name="lock_settings_profile_title">Безопасност за работния профил</string>
+  <string name="lockpassword_cancel_label">Отказ</string>
+  <string name="lockpassword_confirm_passwords_dont_match">Паролите не съвпадат</string>
+  <string name="lockpassword_confirm_pins_dont_match">PIN кодовете не съвпадат</string>
+  <string name="lockpassword_continue_label">Продължаване</string>
+  <string name="lockpattern_continue_button_text">Продължаване</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Незабавно заключване чрез бутона за захранване</string>
+  <string name="lockpattern_settings_enable_summary">За отключване на екрана трябва да бъде начертан модел</string>
+  <string name="lockpattern_settings_require_password_before_startup_summary">Изискване на парола за стартиране на устройството. Докато е изключено, устройството не може да получава повиквания, съобщения, известия или да издава алармени сигнали.</string>
+  <string name="lockpattern_settings_require_pattern_before_startup_summary">Изискване на модел за стартиране на устройството. Докато е изключено, устройството не може да получава повиквания, съобщения, известия или да издава алармени сигнали.</string>
+  <string name="lockpattern_settings_require_pin_before_startup_summary">Изискване на PIN код за стартиране на устройството. Докато е изключено, устройството не може да получава повиквания, съобщения, известия или да издава алармени сигнали.</string>
+  <string name="lockpattern_tutorial_cancel_label">Отказ</string>
+  <string name="lockpattern_tutorial_continue_label">Напред</string>
+  <string name="mah">%d мАч</string>
+  <string name="manage_trust_agents_summary">Няма</string>
+  <string name="managed_profile_location_switch_title">Местоположение за работен профил</string>
+  <string name="managed_profile_not_available_label">Работният профил все още не е достъпен</string>
+  <string name="managed_profile_settings_title">Настройки за работния профил</string>
+  <string name="manual">Ръчно</string>
+  <string name="master_clear_accounts">
+
+В момента сте влезли в следните акаунти:
+</string>
+  <string name="master_clear_button_text">Възстановяване на фабричните настройки на мобилното устройство</string>
+  <string name="master_clear_desc">Това ще изтрие всички данни от <b>вътрешната памет</b> на телефона ви, включително:
+
+<li>профила ви в Google;</li><li>данни и настройки от системата и приложенията;</li><li>изтеглени приложения.</li></string>
+  <string name="master_clear_desc_erase_external_storage">
+
+За да бъдат изчистени всички файлове с музика, изображения и други потребителски данни, <b>SD картата</b> трябва да бъде изтрита.</string>
+  <string name="master_clear_failed">Не е изпълнено възстановяване на фабрични настройки, тъй като услугата за изчистване на системата не е на разположение.</string>
+  <string name="master_clear_other_users_present">
+
+На това устройство присъстват други потребители.
+</string>
+  <string name="master_clear_progress_title">Изтриване</string>
+  <string name="media_output_summary">Телефон</string>
+  <string name="media_output_summary_unavailable">Не е достъпно</string>
+  <string name="memory_available_read_only">На разположение (само за четене)</string>
+  <string name="memory_clear_cache_message">Кешираните данни за всички приложения ще бъдат изчистени.</string>
+  <string name="menu_proc_stats_type_background">Фон</string>
+  <string name="menu_save">Запазване</string>
+  <string name="menu_stats_last_unplugged">При последното изключване от захранването за %1$s</string>
+  <string name="mobile_connect_to_internet">Моля, свържете се към Интернет</string>
+  <string name="mobile_insert_sim_card">Моля, поставете SIM карта и рестартирайте устройството</string>
+  <string name="motion_turn_over_reject_call_help">Обърнете телефона с екрана надолу, за да отхвърлите входящо обаждане</string>
+  <string name="motion_turn_over_reject_call_title">Обръщане наопаки за отказване на повикване</string>
+  <string name="motion_volume_quiet_pickup_help">При входящо обаждане вдигнете телефона, докато е поставен хоризонтално, за да спрете звука на мелодията</string>
+  <string name="motion_volume_quiet_pickup_title">Спиране на звука с вдигане на телефона</string>
+  <string name="move_app_to_internal">Преместване във вътрешната памет на устройството</string>
+  <string name="move_app_to_sdcard">Преместване в SD картата</string>
+  <string name="moving">Преместване</string>
+  <string name="mvno_type_none">Няма</string>
+  <string name="my_device_info_account_preference_title">Профил</string>
+  <string name="my_device_info_device_name_preference_title">Име на устройството</string>
+  <string name="network_operators_settings">Мрежови оператори</string>
+  <string name="network_scorer_change_active_dialog_title">Промяна на Wi‑Fi помощник?</string>
+  <string name="network_scorer_picker_none_preference">Няма</string>
+  <string name="networks">Избор на оператор</string>
+  <string name="new_device_suggestion_summary">Запознайте се с новия си телефон</string>
+  <string name="next_label">Напред</string>
+  <string name="nfc_disclaimer_content">NFC изпълнява обмен на данни между устройството и други устройства или цели в близост, напр. платежни терминали, четци за достъп и интерактивни реклами или маркери.</string>
+  <string name="nfc_disclaimer_title">Включване на NFC</string>
+  <string name="nfc_how_it_works_content">Задаване на приложение за плащане. След като направите това, е необходимо само да задържите задната част на устройството до терминал, маркиран с безконтактен символ.</string>
+  <string name="nfc_payment_default">Приложение за плащане по подразбиране</string>
+  <string name="nfc_payment_default_not_set">Не е зададено</string>
+  <string name="nfc_payment_no_apps">В магазина можете да плащате с мобилното си устройство</string>
+  <string name="nfc_payment_pay_with">При терминали, поддържащи технологията Докосни и плати, плащане с:</string>
+  <string name="nfc_payment_use_default">Използване на настройката по подразбиране</string>
+  <string name="nfc_quick_toggle_summary">Позволение за обмяна на данни при докосване на мобилното устройство до друго устройство</string>
+  <string name="nfc_service_summary_disabled">Деактивирано</string>
+  <string name="nfc_service_summary_enabled">Разрешено</string>
+  <string name="night_display_auto_mode_never">Няма</string>
+  <string name="night_display_status_title">Състояние</string>
+  <string name="no_battery_summary">Не е използвана енергия от последното пълно зареждане</string>
+  <string name="no_default_apps">Няма приложения по подразбиране.</string>
+  <string name="no_default_home">Няма начален екран по подразбиране</string>
+  <string name="no_internet_access_remember">Да не се пита отново за тази мрежа</string>
+  <string name="no_vr_listeners">Никое от инсталираните приложения не е подало заявка за изпълнение като помощни VR услуги.</string>
+  <string name="not_installed">Не е инсталирано за този потребител</string>
+  <string name="notification_listener_disable_warning_cancel">Отказ</string>
+  <string name="notification_listener_security_warning_summary">%1$s ще може да чете всички известия, включително лична информация, като имена на контакти и получаваните от Вас съобщения. Освен това, ще може да отхвърля известия или да активира бутони за действия, които се съдържат в тях. 
+
+Приложението ще получи позволение да активира или деактивира режим Не безпокой, както и да променя свързаните настройки.</string>
+  <string name="notification_toggle_off">Изключено</string>
+  <string name="notification_toggle_on">Включено</string>
+  <string name="notification_volume_title">Известия</string>
+  <string name="notifications_disabled">Изключено</string>
+  <string name="notifications_enabled">Включено</string>
+  <string name="notifications_hidden">Не при заключен екран</string>
+  <string name="notifications_redacted">Чувствително съдържание не при заключен екран</string>
+  <string name="oem_radio_info_label">Информация за производителя на оригинално оборудване/Настройки</string>
+  <string name="okay">ОK</string>
+  <string name="owner_info_settings_summary">Няма</string>
+  <string name="owner_info_settings_title">Съобщение при заключен екран</string>
+  <string name="passpoint_content">Идентификационни данни на %1$s</string>
+  <string name="passpoint_label">Записано чрез</string>
+  <string name="payment_summary">%1$s е зададено по подразбиране</string>
+  <string name="permit_usage_access">Разрешение за достъп до употреба</string>
+  <string name="phone_info_label">Данни за мобилното устройство</string>
+  <string name="please_select_phase2">Фаза 2 на удостоверяване</string>
+  <string name="power_idle">Мобилното устройство е в неактивен режим</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Възможно е телефонът да се изключи скоро</string>
+  <string name="power_remaining_duration_shutdown_imminent">Възможно е телефонът да се изключи скоро (%1$s)</string>
+  <string name="power_unaccounted">Разни</string>
+  <string name="power_usage_not_available">Данните за използване на батерията не са на разположение.</string>
+  <string name="poweroff_animation_summary">Възпроизвеждане на анимация при изключване</string>
+  <string name="poweroff_animation_title">Анимация при изключване</string>
+  <string name="preference_change_password_title">Промяна на паролата</string>
+  <string name="preferred_network_offload_footer">Деактивирането на функцията за разпространяване на име на мрежа предотвратява достъпа на трети страни до Вашата мрежова информация.</string>
+  <string name="preferred_network_offload_header">Деактивиране на функцията за разпространяване на име на мрежа</string>
+  <string name="preferred_network_offload_title">Разтоварване на предпочитана мрежа</string>
+  <string name="prevent_ringing_option_none_summary">Изключено</string>
+  <string name="print_cancel">Отказ</string>
+  <string name="print_feature_state_off">Изключено</string>
+  <string name="print_feature_state_on">Включено</string>
+  <string name="print_no_printers_found">Няма намерени принтери</string>
+  <string name="print_settings_summary_no_service">Изключено</string>
+  <string name="process_stats_bg_ram_use">Използване на RAM (фонов режим)</string>
+  <string name="process_stats_total_duration">Използвани са %1$s от общо %2$s за %3$s</string>
+  <string name="process_stats_total_duration_percentage">%1$s RAM са използвани за %2$s</string>
+  <string name="process_stats_type_background">Фон</string>
+  <string name="profile_info_settings_title">Информация за профила</string>
+  <string name="profile_owner_add_title">Активиране на диспечера за профили?</string>
+  <string name="proxy_defaultView_text">Възстановяване на фабричните настройки</string>
+  <string name="proxy_error">Внимание</string>
+  <string name="proxy_error_dismiss">ОK</string>
+  <string name="proxy_error_empty_host_set_port">Полето за порт трябва да е празно, ако полето за хост е празно.</string>
+  <string name="proxy_error_empty_port">Трябва да попълните полето за порт.</string>
+  <string name="proxy_error_invalid_exclusion_list">Въведеният списък с изключения не е правилно форматиран. Изключените домейни трябва да са разделени със запетаи.</string>
+  <string name="proxy_error_invalid_host">Въведеното име на хост не е валидно.</string>
+  <string name="proxy_error_invalid_port">Въведеният порт е невалиден.</string>
+  <string name="proxy_exclusionlist_label">Заобикаляне на прокси сървъра за</string>
+  <string name="proxy_hostname_label">Име на хост за прокси сървър</string>
+  <string name="proxy_port_label">Порт на прокси сървър</string>
+  <string name="proxy_settings_title">Прокси</string>
+  <string name="proxy_url_title">URL адрес на PAC: </string>
+  <string name="proxy_warning_limited_support">HTTP прокси сървърът се използва от браузъра, но не може да се използва от другите приложения.</string>
+  <string name="radioInfo_data_connected">Свързано</string>
+  <string name="radioInfo_data_disconnected">Връзката е прекъсната</string>
+  <string name="radioInfo_data_suspended">Временно прекъсване</string>
+  <string name="radioInfo_phone_offhook">В момента протича телефонно повикване</string>
+  <string name="radioInfo_roaming_not">Не е в роуминг</string>
+  <string name="radioInfo_service_in">В експлоатация</string>
+  <string name="radio_info_ims_feature_status_unavailable">Не е достъпно</string>
+  <string name="radio_info_ping_hostname_v4">Ping за хост(www.google.com) IPv4:</string>
+  <string name="radio_info_ping_hostname_v6">Ping за хост(www.google.com) IPv6:</string>
+  <string name="radio_info_ppp_resets_label">Брой PPP нулирания от стартиране:</string>
+  <string name="really_remove_account_message">При премахване на този акаунт всички съобщения, контакти и други данни в него ще бъдат изтрити от мобилното устройство!</string>
+  <string name="really_remove_account_title">Премахване на акаунт?</string>
+  <string name="recompute_size">Повторно изчисляване на размер…</string>
+  <string name="remove_managed_profile_label">Премахване на работен профил</string>
+  <string name="reset_app_preferences">Възстановяване на фабричните настройки относно предпочитания за приложение</string>
+  <string name="reset_app_preferences_desc">Това ще доведе до възстановяване на фабричните настройки относно предпочитанията за:
+
+ <li>Деактивирани приложения</li><li>Известия от деактивирани приложения</li><li>Приложения по подразбиране за определени действия</li><li>Ограничения за използване на данни във фонов режим за приложения</li><li>Ограничения за разрешения</li>
+
+ Няма да загубите данни от приложения.</string>
+  <string name="reset_app_preferences_title">Възстановяване на фабричните настройки относно предпочитания за приложение?</string>
+  <string name="reset_network_desc">Така ще се нулират всички мрежови настройки, включително за:
+
+<li>Wi‑Fi</li><li>клетъчни данни</li><li>Bluetooth</li></string>
+  <string name="restrict_background_blacklisted">Използването на данни във фонов режим е изключено</string>
+  <string name="restriction_menu_change_pin">Промяна на PIN кода</string>
+  <string name="restriction_menu_reset">Отмяна на ограниченията</string>
+  <string name="restriction_nfc_enable_summary">Позволение за обмяна на данни при докосване на мобилното устройство до друго устройство</string>
+  <string name="restriction_nfc_enable_summary_config">Позволяване на обмяна на данни при докосване на %1$s с друго устройство с NFC</string>
+  <string name="retail_demo_reset_next">Напред</string>
+  <string name="ringtone_set_toast">"%s" е зададена като мелодия за звънене.</string>
+  <string name="ringtone_sim2_title">Мелодия за звънене(SIM2)</string>
+  <string name="ringtone_title_sim1">Мелодия за звънене SIM1</string>
+  <string name="ringtone_title_sim2">Мелодия за звънене SIM2</string>
+  <string name="roaming_disable">Свързване към услугите за пренос на данни в роуминг</string>
+  <string name="roaming_enable">Свързване към услугите за пренос на данни в роуминг</string>
+  <string name="roaming_reenable_message">Изгубихте свързване към данни, тъй като сте напуснали домашната си мрежа, а услугата за пренос на данни в роуминг е изключена.</string>
+  <string name="roaming_reenable_title">Разрешение за използване на мобилни данни в роуминг?</string>
+  <string name="roaming_warning_multiuser">Разрешението за пренос на данни в роуминг може да доведе до значително допълнително таксуване!
+
+Тази настройка се отнася за всички потребители на мобилното устройство.</string>
+  <string name="running_frequency">Честота</string>
+  <string name="runningservicedetails_stop_dlg_text">Ако прекратите тази услуга, е възможно някои от функциите на мобилното устройство да не бъдат изпълнявани правилно, докато не го рестартирате.</string>
+  <string name="runningservicedetails_stop_dlg_title">Спиране на системна услуга?</string>
+  <string name="runtime_permissions_summary_no_permissions_granted">Не са дадени разрешения</string>
+  <string name="runtime_permissions_summary_no_permissions_requested">Не са искани разрешения</string>
+  <string name="save">Запазване</string>
+  <string name="saved_network">Записано от %1$s</string>
+  <string name="screen_pinning_title">Закачване на екрана</string>
+  <string name="screen_pinning_unlock_none">Заключване на устройството при откачане</string>
+  <string name="screen_pinning_unlock_password">Изискване на парола преди откачане</string>
+  <string name="screen_pinning_unlock_pattern">Изискване на модел за отключване преди откачане</string>
+  <string name="screen_pinning_unlock_pin">Изискване на PIN код преди откачане</string>
+  <string name="screen_zoom_summary_default">По подразбиране</string>
+  <string name="screensaver_settings_summary_off">Изключено</string>
+  <string name="sd_card_settings_label">SD карта</string>
+  <string name="sd_card_storage">Памет на SD карта</string>
+  <string name="sd_eject">Демонтиране на SD карта</string>
+  <string name="sd_eject_summary">Демонтиране на SD картата, за да можете да я извадите безопасно</string>
+  <string name="sd_ejecting_summary">В ход е демонтиране</string>
+  <string name="sd_ejecting_title">Демонтиране</string>
+  <string name="sd_format">Изтриване на SD карта</string>
+  <string name="sd_format_summary">Изтриване на всички данни от SD картата, напр. музика и снимки</string>
+  <string name="sd_insert_summary">Поставете SD карта за монтиране</string>
+  <string name="sd_memory">SD карта</string>
+  <string name="sd_mount">Монтиране на SD карта</string>
+  <string name="sdcard_format">Изтриване на SD карта</string>
+  <string name="sdcard_setting">SD карта</string>
+  <string name="sdcard_settings_bad_removal_status">SD картата е била извадена, докато се използва!</string>
+  <string name="sdcard_settings_mass_storage_status">SD картата се използва като устройство за съхранение на данни.</string>
+  <string name="sdcard_settings_not_present_status">Няма SD карта.</string>
+  <string name="sdcard_settings_read_only_status">SD картата е монтирана само за четене.</string>
+  <string name="sdcard_settings_scanning_status">Сканиране на SD картата за мултимедийни файлове…</string>
+  <string name="sdcard_settings_screen_mass_storage_text">Активиране на USB устройство за съхранение</string>
+  <string name="sdcard_settings_unmounted_status">Вече е безопасно да извадите SD картата.</string>
+  <string name="sdcard_unmount">Демонтиране на SD карта</string>
+  <string name="secure_lock_encryption_warning">Тъй като сте активирали услуга за достъп, устройството няма да използва функцията за заключване на екрана, за да подобри шифроването на данни.</string>
+  <string name="security_enable_widgets_title">Активиране на изпълними модули</string>
+  <string name="security_passwords_title">Поверителност</string>
+  <string name="security_settings_billing_desc">За използването на това приложение може да бъде начислена такса:</string>
+  <string name="security_settings_desc">Това приложение има достъп до посочените данни в мобилното Ви устройство:</string>
+  <string name="security_settings_desc_multi">Това приложение има достъп до посочените данни в мобилното Ви устройство. За подобряване на ефективността и намаляване на използваната памет, някои от тези разрешения са достъпни за %1$s, тъй като се изпълнява едновременно с %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Изтриване</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">Име</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">ОK</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Освен за отключване на мобилното устройство, можете да използвате пръстовия си отпечатък за упълномощаване на покупки и влизане в приложения.</string>
+  <string name="security_settings_fingerprint_enroll_error_dialog_title">Регистрацията не е завършена</string>
+  <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Регистрацията на пръстов отпечатък не функционира. Опитайте отново или използвайте различен пръст.</string>
+  <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Достигнато е максималното време за регистрация на пръстов отпечатък. Опитайте отново.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Илюстрация на устройството и разположението на сензора за пръстови отпечатъци</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">Отказ</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue">Продължаване</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Напред</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title">Отключване с пръстов отпечатък</string>
+  <string name="security_settings_fingerprint_enroll_lift_touch_again">Вдигнете пръста си, след което докоснете сензора отново</string>
+  <string name="security_settings_fingerprint_enroll_setup_screen_lock">Настройка на заключване на екрана</string>
+  <string name="security_settings_fingerprint_enroll_touch_dialog_title">Грешка, това не е сензорът</string>
+  <string name="security_settings_fingerprint_preference_title">Пръстов отпечатък</string>
+  <string name="security_settings_premium_sms_desc">Изпращане на премиум SMS съобщение</string>
+  <string name="service_foreground_processes">Използва се %1$s</string>
+  <string name="service_manage_description">%1$s: в момента се използва. Докоснете Настройки за управление.</string>
+  <string name="service_stop_description">Тази услуга е стартирана от съответното приложение. Ако бъде прекратена, приложението няма да функционира правилно.</string>
+  <string name="set_ringtone">Използване като мелодия за звънене</string>
+  <string name="settings_manual_activity_title">Ръчно</string>
+  <string name="setup_fingerprint_enroll_enrolling_skip_message">Избрали сте да използвате пръстовия си отпечатък като един от начините за отключване на устройството. Ако пропуснете тази стъпка сега, ще се наложи да я настроите по-късно. Самото настройване отнема не повече от минута.</string>
+  <string name="setup_fingerprint_enroll_enrolling_skip_title">Пропускане на настройване на пръстов отпечатък?</string>
+  <string name="setup_lock_settings_picker_message">Предотвратете използването на мобилното устройство от други лица, като активирате функциите за защита. Изберете желания тип заключване на екрана.</string>
+  <string name="setup_lock_settings_picker_title">Защита на мобилното устройство</string>
+  <string name="setup_wifi_nfc_tag">Задаване на Wi-Fi NFC етикет</string>
+  <string name="severe_threats_summary">Получаване на сигнали в случаи на сериозни заплахи за живота и имуществото</string>
+  <string name="share_remote_bugreport_dialog_message">ИТ администраторът поиска отчет за грешки, за да помогне за отстраняване на неизправности на устройството. Възможно е споделяне на приложения и данни, което би довело до временно забавяне на устройството.</string>
+  <string name="share_remote_bugreport_dialog_message_finished">ИТ администраторът поиска отчет за грешки, за да помогне за отстраняване на неизправности на устройството. Възможно е споделяне на приложения и данни.</string>
+  <string name="share_remote_bugreport_dialog_title">Споделяне на отчет за грешки?</string>
+  <string name="sharing_remote_bugreport_dialog_message">Отчетът за грешки е споделен с ИТ администратор. За повече подробности можете да се свържете с тях.</string>
+  <string name="show_background_processes">Показване на кешираните процеси</string>
+  <string name="show_operator_name_title">Име на мрежата</string>
+  <string name="show_profile_info_on_lockscreen_label">Показване на информация за профила при заключен екран</string>
+  <string name="show_running_services">Показване на услугите, които се изпълняват</string>
+  <string name="sim_bad_pin">Неправилен PIN код</string>
+  <string name="sim_call_back_title">Обратно повикване от SIM карта по подразбиране</string>
+  <string name="sim_calls_always_use">Винаги да бъде използвана за повиквания</string>
+  <string name="sim_calls_ask_first_prefs_title">Изискване на разрешение всеки път</string>
+  <string name="sim_card_select_title">Избор на SIM карта</string>
+  <string name="sim_cards_changed_message">SIM картите са променени</string>
+  <string name="sim_cards_changed_message_summary">Докоснете за задаване на действия</string>
+  <string name="sim_change_data_title">Промяна на SIM картата за данни?</string>
+  <string name="sim_change_failed">PIN кодът не може да бъде променен.
+Възможно е PIN кодът да е неправилен.</string>
+  <string name="sim_change_succeeded">PIN кодът на SIM картата е променен успешно</string>
+  <string name="sim_editor_title">Слот за SIM карта %1$d</string>
+  <string name="sim_enabler_both_inactive">Грешка: Не могат да бъдат деактивирани всички SIM карти</string>
+  <string name="sim_enabler_disabling">Деактивиране...</string>
+  <string name="sim_enabler_enabling">Активиране...</string>
+  <string name="sim_enabler_need_switch_data_service">Ще го изключим и ще превключим към SIM картата%1$s за услуги за данни. Сигурни ли сте?</string>
+  <string name="sim_enter_cancel">Отказ</string>
+  <string name="sim_enter_new">Нов PIN код на SIM карта</string>
+  <string name="sim_enter_ok">ОK</string>
+  <string name="sim_enter_old">Стар PIN код на SIM карта</string>
+  <string name="sim_lock_failed">SIM картата не може да бъде отключена.
+Възможно е PIN кодът да е неправилен.</string>
+  <string name="sim_lock_off">За да бъде използвано мобилното устройство, е необходим PIN код</string>
+  <string name="sim_lock_on">За да бъде използвано мобилното устройство, е необходим PIN код</string>
+  <string name="sim_lock_settings">Настройки за заключване на SIM картата</string>
+  <string name="sim_lock_settings_summary_off">Изключено</string>
+  <string name="sim_notification_title">SIM картите са сменени.</string>
+  <string name="sim_pins_dont_match">PIN кодовете не съвпадат</string>
+  <string name="sim_preferred_title">Актуализиране на предпочитаната SIM карта?</string>
+  <string name="sim_reenter_new">Въведете новия PIN код още веднъж</string>
+  <string name="skip_anyway_button_label">Пропускане въпреки това</string>
+  <string name="smart_battery_footer">Когато мениджърът на батерията установи, че приложенията я изразходват, ще имате опцията да ги ограничите. Ограничените приложения може да не работят правилно и е възможно да има забавяне на известията.</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Мелодия при повикване и вибрация</string>
+  <string name="spellchecker_security_warning">При използване на този речник за проверка на правописа е възможно всички въвеждани текстове, включително лични данни, напр. пароли или номера на кредитни карти, да бъдат събирани. Това се дължи на приложението %1$s. Желаете ли да използвате този речник за проверка на правописа?</string>
+  <string name="ssl_ca_cert_warning_message">Вашата мрежова активност, включително имейли, приложения и защитени уеб сайтове, може да бъде наблюдавана от трета страна.
+
+Идентификационните данни, инсталирани на устройството Ви правят това възможно.</string>
+  <string name="starting_android">Стартиране на Android…</string>
+  <string name="status_bt_address">Bluetooth адрес</string>
+  <string name="status_failed_to_write">Записването на данни в NFC етикет е неуспешно. Ако проблемът не бъде отстранен, опитайте с различен етикет</string>
+  <string name="status_icc_id">ICCID</string>
+  <string name="status_number">Телефонен номер</string>
+  <string name="status_number_sim_slot">Тел. номер (слот %1$d за SIM)</string>
+  <string name="status_number_sim_status">Телефонен номер на SIM картата</string>
+  <string name="status_signal_strength">Сила на сигнала</string>
+  <string name="status_tag_not_writable">Върху този NFC етикет не може да се записва. Моля, използвайте различен етикет.</string>
+  <string name="status_write_success">Успешно!</string>
+  <string name="storage_dialog_unmountable">^1 е повредена. 
+
+За да използвате тази ^1, първо трябва да я зададете.</string>
+  <string name="storage_dialog_unmounted">^1 е извадена безопасно, но все още е на разположение. 
+
+За да използвате ^1, първо трябва да я монтирате.</string>
+  <string name="storage_dialog_unsupported">Това устройство не поддържа ^1. 
+
+За да използвате ^1 на това устройство, първо трябва да я зададете.</string>
+  <string name="storage_external_title">Преносимо хранилище</string>
+  <string name="storage_format_failure">%1$s не може да бъде форматирана</string>
+  <string name="storage_format_success">%1$s е форматирана</string>
+  <string name="storage_internal_forget_confirm">Всички приложения, снимки и данни, намиращи се в тази ^1, ще бъдат изгубени окончателно.</string>
+  <string name="storage_internal_forget_confirm_title">Забравяне на ^1?</string>
+  <string name="storage_internal_forget_details">За използване на приложения, снимки или данни от ^1, е необходимо да я извадите и поставите наново. 
+
+Също така, можете да изберете забравяне на това място за съхранение, в случай че не е достъпно. 
+
+Ако изберете тази опция, всички данни, съдържащи се в устройството, ще бъдат изгубени окончателно. 
+
+Впоследствие приложенията могат да бъдат инсталирани повторно, но съдържащите се в тях данни на това устройство ще бъдат изгубени.</string>
+  <string name="storage_internal_format_details">След форматиране, можете да използвате ^1 и в други устройства. 
+
+Всички данни в ^1 ще бъдат изтрити. Препоръчително е да им бъде създадено резервно копие. 
+
+<b>Създаване на резервни копия на снимки и други медийни файлове</b> 
+Преместете медийните файлове на друго място за съхранение в устройството, или ги прехвърлете в компютър с помощта на USB кабел. 
+
+<b>Създаване на резервни копия за приложения</b> 
+Всички приложения на ^1 ще бъдат деинсталирани, а съдържащите се в тях данни – изтрити. За да запазите тези приложения, е необходимо да ги преместите на различно място за съхранение в устройството.</string>
+  <string name="storage_internal_title">Памет на устройството</string>
+  <string name="storage_internal_unmount_details"><b>При изваждане на ^1, записаните в нея приложения ще престанат да функционират, а медийните файлове повече няма да бъдат достъпни, докато картата не бъде поставена обратно в гнездото.</b> 
+
+^1 е форматирана за работа единствено на това устройство. Тя е непригодна за работа на други устройства.</string>
+  <string name="storage_low_summary">Възможно е някои от системните функции, напр. синхронизиране, да не бъдат изпълнявани правилно. Опитайте се да освободите част от паметта, като изтриете или откачите някои елементи, напр. приложения или мултимедийно съдържание.</string>
+  <string name="storage_low_title">Свободната памет е на привършване</string>
+  <string name="storage_manager_indicator_off">Изключено</string>
+  <string name="storage_manager_indicator_on">Включено</string>
+  <string name="storage_menu_forget">Забравяне</string>
+  <string name="storage_mount_failure">%1$s не може да бъде монтирана</string>
+  <string name="storage_mount_success">%1$s е монтирана</string>
+  <string name="storage_rename_title">Преименуване на памет</string>
+  <string name="storage_settings_summary">Демонтиране на SD карта, преглед на свободното пространство</string>
+  <string name="storage_summary_format">Използвани са %1$s от %2$s</string>
+  <string name="storage_type_external">Външна памет</string>
+  <string name="storage_unmount_failure">%1$s не може да бъде извадена безопасно</string>
+  <string name="storage_unmount_success">%1$s е извадена безопасно</string>
+  <string name="storage_used">Използвано пространство</string>
+  <string name="storage_wizard_format_confirm_body">Необходимо е форматиране на ^1 за целите на безопасността. 
+
+След като бъде форматирана, ^1 ще функционира единствено на това устройство. 
+
+<b>В процеса на форматиране всички данни, запаметени в ^1 ще бъдат изтрити.</b> За да предотвратите загуба на данни, е необходимо да създадете резервни копия. </string>
+  <string name="storage_wizard_format_confirm_public_body">Необходимо е форматиране на ^1. 
+
+<b>В процеса на форматиране всички данни, запаметени в ^1 ще бъдат изтрити.</b> За да предотвратите загуба на данни, е необходимо да създадете резервни копия. </string>
+  <string name="storage_wizard_format_confirm_public_title">Форматиране като преносимо хранилище</string>
+  <string name="storage_wizard_format_confirm_title">Форматиране като вътрешна памет</string>
+  <string name="storage_wizard_format_progress_title">Форматиране на ^1…</string>
+  <string name="storage_wizard_init_external_title">Използване като преносимо хранилище</string>
+  <string name="storage_wizard_init_internal_summary">За съхранение на елементи само на това устройство, вкл. приложения и снимки. Изисква форматиране, което ще възпрепятства работата му с други устройства.</string>
+  <string name="storage_wizard_init_internal_title">Използване като вътрешна памет</string>
+  <string name="storage_wizard_init_title">Задаване на ^1</string>
+  <string name="storage_wizard_init_v2_external_action">Преносимо хранилище</string>
+  <string name="storage_wizard_init_v2_internal_action">Хранилище на телефона</string>
+  <string name="storage_wizard_init_v2_internal_summary">За приложенията, файловете и мултимедията само на този телефон</string>
+  <string name="storage_wizard_init_v2_internal_title">Ползв. за допълн. хранил. на телефона</string>
+  <string name="storage_wizard_migrate_body">Можете да преместите снимки, файлове и някои приложения на ^1. 
+
+Процесът на преместване ще отнеме около ^2 и ще освободи ^3 от вътрешната памет. По време на изпълнение на този процес някои от приложенията ще престанат да функционират.</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>Преместването отнема около ^1. Ще бъдат освободени ^2 от ^3.</b></string>
+  <string name="storage_wizard_migrate_confirm_title">Преместване на данните сега</string>
+  <string name="storage_wizard_migrate_details">По време на преместването: 
+• Не изваждайте ^1. 
+• Някои приложения няма да бъдат изпълнявани правилно. 
+• Погрижете се устройството да бъде заредено.</string>
+  <string name="storage_wizard_migrate_progress_title">Преместване на данни…</string>
+  <string name="storage_wizard_migrate_title">Преместване на данни в ново хранилище</string>
+  <string name="storage_wizard_migrate_v2_body">Можете да преместите файлове, мултимедия и определени приложения в хранилището (^1). 
+
+Така ще освободите ^2 от хранилището на телефона си. Преместването ще отнеме около ^3.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">Този телефон трябва да е зареден.</string>
+  <string name="storage_wizard_move_confirm_body">За преместване на ^1 и данните от него в ^2 ще бъдат необходими само няколко секунди. Използването на приложението ще бъде невъзможно, докато преместването не бъде завършено. 
+
+Не изваждайте ^2 преди преместването да е завършено.</string>
+  <string name="storage_wizard_move_confirm_title">Преместване на ^1</string>
+  <string name="storage_wizard_move_progress_body">По време на преместването не изваждайте ^1. 
+
+Приложението ^2 на това устройство няма да бъде на разположение, докато преместването не бъде завършено.</string>
+  <string name="storage_wizard_move_progress_cancel">Отмяна на преместването</string>
+  <string name="storage_wizard_move_progress_title">Преместване на ^1…</string>
+  <string name="storage_wizard_ready_external_body">^1 е настроена за ползване със снимки и други мултимедийни файлове.</string>
+  <string name="storage_wizard_ready_internal_body">Вашата нова ^1 вече функционира. 
+
+За преместване на снимки, файлове и данни от приложения в устройството, отидете в Настройки &gt; Памет.</string>
+  <string name="storage_wizard_slow_body">^1 е твърде бавна. 
+
+Можете да продължите, но е възможно преместените тук приложения да функционират с прекъсвания, а прехвърлянията на данни да отнемат продължително време. 
+
+За по-висока ефективност можете да използвате по-бърза ^1.</string>
+  <string name="storage_wizard_slow_v2_continue">Продължаване</string>
+  <string name="storageuse_settings_summary">Преглед на паметта, използвана от приложения</string>
+  <string name="storageuse_settings_title">Използване на памет</string>
+  <string name="sub_activate_failed">Активирането не бе успешно.</string>
+  <string name="sub_deactivate_failed">Деактивирането не бе успешно.</string>
+  <string name="suggested_lock_settings_summary">Задайте закл. на екрана, за да защитите телефона</string>
+  <string name="suggestion_button_text">OK</string>
+  <string name="sum_carrier_select">Избор на мрежов оператор</string>
+  <string name="switch_off_text">Изключено</string>
+  <string name="switch_on_text">Включено</string>
+  <string name="sync_automatically">Автоматично синхронизиране на данни от приложения</string>
+  <string name="sync_disabled">Синхронизирането е ИЗКЛЮЧЕНО</string>
+  <string name="sync_enabled">Синхронизирането е ВКЛЮЧЕНО</string>
+  <string name="sync_failed">Синхронизирането е неуспешно</string>
+  <string name="sync_in_progress">Синхронизиране сега…</string>
+  <string name="sync_is_failing">Затруднения в процеса на синхронизиране. Ще бъде възстановен скоро.</string>
+  <string name="sync_menu_sync_cancel">Отмяна на синхронизиране</string>
+  <string name="system_default_app">(по подразбиране за системата)</string>
+  <string name="testing_phone_info">Информация за мобилното устройство</string>
+  <string name="touch_firmware_version">Версия на фърмуера на сензорния панел</string>
+  <string name="trusted_credentials_trust_label">Доверие</string>
+  <string name="tts_install_voices_cancel">Отказ</string>
+  <string name="uep_setting_page_name">Програма за подобряване на потребителския опит</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Функциите за защита на профила няма да бъдат активни без Вашата парола.
+
+Освен това, запаметените пръстови отпечатъци ще бъдат премахнати от профила и няма да могат да бъдат използвани за неговото отключване, както и за упълномощаване на покупки или влизане в приложения.</string>
+  <string name="unlock_disable_frp_warning_content_pin">Функциите за защита на устройството няма да бъдат активни без Вашия PIN код.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">Функциите за защита на устройството няма да бъдат активни без Вашия PIN код.
+
+Освен това, запаметените пръстови отпечатъци ще бъдат премахнати от устройството и няма да могат да бъдат използвани за неговото отключване, както и за упълномощаване на покупки или влизане в приложения.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Функциите за защита на профила няма да бъдат активни без Вашия PIN код.
+
+Освен това, запаметените пръстови отпечатъци ще бъдат премахнати от профила и няма да могат да бъдат използвани за неговото отключване, както и за упълномощаване на покупки или влизане в приложения.</string>
+  <string name="unlock_disable_frp_warning_content_pin_profile">Функциите за защита на профила няма да бъдат активни без Вашия PIN код.</string>
+  <string name="unlock_disable_frp_warning_ok">Да, премахни</string>
+  <string name="unlock_set_unlock_launch_picker_title_profile">Заключване на работен профил</string>
+  <string name="unlock_set_unlock_mode_none">Плъзгане</string>
+  <string name="unlock_set_unlock_mode_off">Няма</string>
+  <string name="unlock_set_unlock_mode_password">Парола</string>
+  <string name="unlock_set_unlock_none_title">Плъзгане</string>
+  <string name="unlock_set_unlock_off_title">Няма</string>
+  <string name="unlock_set_unlock_password_title">Парола</string>
+  <string name="unlock_setup_wizard_fingerprint_details">След като зададете заключване на екрана, можете да настроите пръстовия си отпечатък в Настройки &gt; Безопасност.</string>
+  <string name="unmount_inform_text">SD картата ще бъде демонтирана.</string>
+  <string name="unrestricted_app_title">Неограничено потребление на данни</string>
+  <string name="unsupported_setting_summary">Настройката не се поддържа на този телефон</string>
+  <string name="usage">Използване</string>
+  <string name="usage_access">Достъп до използване</string>
+  <string name="usage_access_title">Приложения с достъп до използване</string>
+  <string name="usage_type_data_wifi_recv">Получени са Wi‑Fi пакети</string>
+  <string name="usage_type_data_wifi_send">Изпратени са Wi‑Fi пакети</string>
+  <string name="usage_type_on_time">Време във включено състояние</string>
+  <string name="usage_type_phone">Телефон</string>
+  <string name="usage_type_radio_active">Мобилното радио е активно</string>
+  <string name="usage_type_video">Видео</string>
+  <string name="usage_type_wake_lock">Поддържане в будно състояние</string>
+  <string name="usb_tethering_subtext">Споделете връзката с интернет на телефона през USB</string>
+  <string name="use_location_title">Местоположение &amp; Google търсене</string>
+  <string name="user_add_user_or_profile_menu">Добавяне на потребител или профил</string>
+  <string name="user_add_user_title">Добавяне на нов потребител?</string>
+  <string name="user_adding_new_user">Добавяне на нов потребител…</string>
+  <string name="user_cannot_manage_message">Единствено собственикът на мобилното устройство може да управлява потребителите.</string>
+  <string name="user_confirm_remove_self_message">Ще изгубите пространството и данните си на това мобилно устройство. Това действие е необратимо.</string>
+  <string name="user_confirm_remove_self_title">Желаете ли да изтриете акаунта си?</string>
+  <string name="user_confirm_remove_title">Премахване на потребителя?</string>
+  <string name="user_delete_button">Изтриване</string>
+  <string name="user_dict_settings_add_dialog_confirm">ОK</string>
+  <string name="user_dict_settings_context_menu_delete_title">Изтриване</string>
+  <string name="user_enable_calling_and_sms_confirm_message">Хронологията на повикванията и SMS съобщенията ще бъде споделена с този потребител.</string>
+  <string name="user_enable_calling_confirm_message">Хронологията на повикванията ще бъде споделена с този потребител.</string>
+  <string name="user_list_title">Потребители и профили</string>
+  <string name="user_new_profile_name">Нов профил</string>
+  <string name="user_profile_confirm_remove_title">Премахване на профила?</string>
+  <string name="user_setup_dialog_message">Уверете се, че потребителят има достъп до устройството и може да установи собствено пространство</string>
+  <string name="vpn_cancel">Отказ</string>
+  <string name="vpn_connect">Свързване</string>
+  <string name="vpn_disconnect">Прекъсване на връзката</string>
+  <string name="vpn_disconnected_summary">Няма</string>
+  <string name="vpn_edit">Редакция на VPN профил</string>
+  <string name="vpn_forget">Забравяне</string>
+  <string name="vpn_forget_long">Забравяне на VPN</string>
+  <string name="vpn_lockdown_none">Няма</string>
+  <string name="vpn_name">Име</string>
+  <string name="vpn_no_network">Няма налично свързване с мрежа. Моля, опитайте отново.</string>
+  <string name="vpn_password">Парола</string>
+  <string name="vpn_routes">Препращане на маршрути (напр. 10.0.0.0/8)</string>
+  <string name="vpn_save">Запазване</string>
+  <string name="vpn_username">Потребителско име</string>
+  <string name="wallpaper_settings_summary_default">По подразбиране</string>
+  <string name="wallpaper_suggestion_summary">Персонализиране на екрана</string>
+  <string name="wallpaper_suggestion_title">Промяна на тапета</string>
+  <string name="wapi_auto_sel_cert">Автоматичен избор</string>
+  <string name="wapi_cert_manage_title">Управление на сертификати WAPI</string>
+  <string name="widget_picker_title">Избор на изпълним модул</string>
+  <string name="wifi_add_network">Добавяне на мрежа</string>
+  <string name="wifi_advanced_ip_address_title">IP адрес</string>
+  <string name="wifi_advanced_not_available">Разширените настройки за Wi‑Fi не са достъпни за този потребител</string>
+  <string name="wifi_advanced_settings_label">IP настройки</string>
+  <string name="wifi_advanced_titlebar">Разширени настройки за Wi‑Fi</string>
+  <string name="wifi_advanced_toggle_description_collapsed">Падащ списък с разширени опции. Докоснете двукратно за разгъване.</string>
+  <string name="wifi_advanced_toggle_description_expanded">Падащ списък с разширени опции. Докоснете двукратно за свиване.</string>
+  <string name="wifi_ap_2G">2,4 GHz</string>
+  <string name="wifi_ap_choose_2G">Честотна лента 2.4 GHz</string>
+  <string name="wifi_ap_choose_auto">Автом.</string>
+  <string name="wifi_ap_client_details_title">Подробности</string>
+  <string name="wifi_ap_client_ip_label">IP адрес</string>
+  <string name="wifi_band_24ghz">2,4 GHz</string>
+  <string name="wifi_band_5ghz">5 GHz</string>
+  <string name="wifi_calling_dialog_comfirm">Да не се показва повече.</string>
+  <string name="wifi_calling_dialog_msg">Не са възможни спешни обаждания чрез "Обаждания през Wi-Fi". Устройството превключва автоматично на мобилна мрежа (2G/3G) за извършване на спешно обаждане. Спешни обаждания са възможни само в зони с мобилно покритие.</string>
+  <string name="wifi_calling_dialog_title">Спешни обаждания чрез "Обаждания през Wi-Fi"</string>
+  <string name="wifi_calling_notifybar_msg">Спешни обаждания само в зони с мобилно покритие</string>
+  <string name="wifi_calling_notifybar_title">Обаждания през Vodafone Wi-Fi</string>
+  <string name="wifi_cancel">Отказ</string>
+  <string name="wifi_connect">Свързване</string>
+  <string name="wifi_disabled_generic">Деактивирано</string>
+  <string name="wifi_disabled_network_failure">Грешка в конфигурацията на IP</string>
+  <string name="wifi_disabled_password_failure">Проблем с удостоверяването</string>
+  <string name="wifi_display_enable_menu_item">Активиране на безжичен дисплей</string>
+  <string name="wifi_display_no_devices_found">В близост не са намерени устройства.</string>
+  <string name="wifi_display_options_forget">Забравяне</string>
+  <string name="wifi_display_options_name">Име</string>
+  <string name="wifi_display_settings_title">Прехвърляне на съдържание</string>
+  <string name="wifi_display_status_connected">Свързано</string>
+  <string name="wifi_display_status_not_available">Не е достъпно</string>
+  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_do_not_provide_eap_user_cert">Без предоставяне</string>
+  <string name="wifi_do_not_validate_eap_server">Без валидиране</string>
+  <string name="wifi_do_not_validate_eap_server_warning">Не е посочен сертификат. Връзката ви няма да бъде частна.</string>
+  <string name="wifi_eap_anonymous">Анонимна самоличност</string>
+  <string name="wifi_eap_ca_cert">Сертификат от сертифициращ орган</string>
+  <string name="wifi_eap_domain">Домейн</string>
+  <string name="wifi_eap_identity">Самоличност</string>
+  <string name="wifi_eap_method">EAP метод</string>
+  <string name="wifi_eap_user_cert">Сертификат на потребителя</string>
+  <string name="wifi_fail_to_scan">Не може да сканира за мрежи</string>
+  <string name="wifi_failed_connect_message">Неуспешно свързване с мрежата</string>
+  <string name="wifi_failed_forget_message">Неуспешно забравяне на мрежата</string>
+  <string name="wifi_failed_save_message">Неуспешно записване на мрежата</string>
+  <string name="wifi_forget">Забравяне</string>
+  <string name="wifi_frequency">Честота</string>
+  <string name="wifi_gateway">Шлюз</string>
+  <string name="wifi_hotspot_configure_ap_text">Задаване на точка за безжичен Интернет достъп</string>
+  <string name="wifi_hotspot_tethering_on_subtext">Връзката с интернет на този телефон се споделя през точка за достъп</string>
+  <string name="wifi_ip_address">IP адрес</string>
+  <string name="wifi_ip_settings">IP настройки</string>
+  <string name="wifi_ip_settings_invalid_dns">Въведете валиден DNS адрес.</string>
+  <string name="wifi_ip_settings_invalid_gateway">Въведете валиден адрес на шлюз.</string>
+  <string name="wifi_ip_settings_invalid_ip_address">Въведете валиден IP адрес.</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Въведете дължина на мрежов префикс между 0 и 32.</string>
+  <string name="wifi_ip_settings_menu_cancel">Отказ</string>
+  <string name="wifi_ip_settings_menu_save">Запазване</string>
+  <string name="wifi_limit_optimizations_summary">Ограничение на енергията, използвана за свързване с Wi‑Fi мрежа</string>
+  <string name="wifi_menu_advanced">Разширени</string>
+  <string name="wifi_menu_write_to_nfc">Записване върху NFC етикет</string>
+  <string name="wifi_multiple_cert_added">(Добавени са няколко сертификата)</string>
+  <string name="wifi_network_prefix_length">Дължина на мрежов префикс</string>
+  <string name="wifi_no_domain_warning">Трябва да посочите домейн.</string>
+  <string name="wifi_no_internet_no_reconnect">Няма да се свързва автоматично</string>
+  <string name="wifi_not_in_range">Извън диапазона</string>
+  <string name="wifi_p2p_cancel_connect_message">Желаете ли да отмените поканата за свързване с %1$s?</string>
+  <string name="wifi_p2p_disconnect_message">Ако прекъснете връзката, свързването с %1$s ще бъде преустановено.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Ако прекъснете връзката, свързването с %1$s и %2$s други устройства ще бъде преустановено.</string>
+  <string name="wifi_p2p_disconnect_title">Прекъсване на връзката?</string>
+  <string name="wifi_p2p_failed_rename_message">Неуспешно преименуване на устройство.</string>
+  <string name="wifi_p2p_menu_searching">Търсене…</string>
+  <string name="wifi_p2p_peer_devices">Равнопоставени устройства</string>
+  <string name="wifi_password">Парола</string>
+  <string name="wifi_remembered">Записано</string>
+  <string name="wifi_sap_no_channel_error">Честотна лента 5 GHz не е на разположение в тази държава</string>
+  <string name="wifi_save">Запазване</string>
+  <string name="wifi_scan_notify_remember_choice">Да не се показва отново</string>
+  <string name="wifi_security">Сигурност</string>
+  <string name="wifi_security_none">Няма</string>
+  <string name="wifi_setup_add_network">Добавяне на мрежа</string>
+  <string name="wifi_setup_back">Назад</string>
+  <string name="wifi_setup_cancel">Отказ</string>
+  <string name="wifi_setup_connect">Свързване</string>
+  <string name="wifi_setup_eap_not_supported">Не можете да конфигурирате свързване EAP Wi‑Fi при задаване. След като сте задали типа свързване, можете да направите това в Настройки &gt; Безжични &amp; мрежи.</string>
+  <string name="wifi_setup_forget">Забравяне</string>
+  <string name="wifi_setup_next">Напред</string>
+  <string name="wifi_setup_save">Запазване</string>
+  <string name="wifi_setup_status_connecting">Свързване…</string>
+  <string name="wifi_setup_status_scanning">Сканиране на мрежи…</string>
+  <string name="wifi_shared">Споделяне с другите потребители на устройството</string>
+  <string name="wifi_show_advanced">Разширени опции</string>
+  <string name="wifi_show_password">Показване на паролата</string>
+  <string name="wifi_signal">Сила на сигнала</string>
+  <string name="wifi_speed">Скорост на връзката</string>
+  <string name="wifi_ssid">Име на мрежата</string>
+  <string name="wifi_ssid_hint">Въведете SSID</string>
+  <string name="wifi_status">Състояние</string>
+  <string name="wifi_suspend_optimizations">Оптимизиране на Wi‑Fi мрежа</string>
+  <string name="wifi_tether_configure_ap_text">Задаване на точка за безжичен Интернет достъп</string>
+  <string name="wifi_unchanged">(непроменено)</string>
+  <string name="wifi_unspecified">Моля, изберете</string>
+  <string name="wifi_use_system_certs">Използване на системни сертификати</string>
+  <string name="wifi_wps_available_first_item">Достъпно WPS</string>
+  <string name="wifi_wps_available_second_item">  (достъпно WPS)</string>
+  <string name="wizard_back">Назад</string>
+  <string name="wizard_next">Напред</string>
+  <string name="work_mode_label">Работен профил</string>
+  <string name="work_profile_confirm_remove_message">Ако продължите, всички приложения и данни в този профил ще бъдат изтрити.</string>
+  <string name="work_profile_confirm_remove_title">Премахване на работен профил?</string>
+  <string name="write_settings">Модифициране на системни настройки</string>
+  <string name="write_system_settings">Модифициране на системни настройки</string>
+  <string name="zen_event_rule_type_name">Събитие</string>
+  <string name="zen_mode_automation_settings_page_title">Автоматични правила</string>
+  <string name="zen_mode_delete_rule_button">Изтриване</string>
+  <string name="zen_mode_from_none">Няма</string>
+  <string name="zen_mode_no_exceptions">Няма</string>
+  <string name="zen_mode_option_alarms">Само алармени сигнали</string>
+  <string name="zen_mode_rule_delete_button">Изтриване</string>
+  <string name="zen_mode_schedule_rule_days_none">Няма</string>
+  <string name="zen_mode_sound_summary_off">Изключено</string>
+  <string name="zen_mode_sound_summary_on">Включено</string>
+  <string name="zen_mode_summary_alarms_only_by_time">Промяна на Само алармени сигнали до %1$s</string>
+  <string name="zen_mode_summary_alarms_only_indefinite">Промяна на Само алармени сигнали за неопределен период</string>
+  <string name="zzz_certification_settings_title">Сертификати</string>
+  <string name="zzz_fih_invalid_battery_charging">Препоръчва се използването на оригинални батерии, неодобрените може да причинят неочаквани опасности, като пожар или експлозия.</string>
+  <string name="zzz_hmd_open_source_info_text">Софтуер с отворен код 
+
+Този продукт включва софтуер с отворен код, който е лицензиран съгласно Общия публичен лиценз (GPL) и Ограничения общ публичен лиценз (LGPL). HMD предлага да ви предостави изходния код, както е определен в приложимия лиценз за софтуер с отворен код. Моля, изпратете писмена заявка до:
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Финландия. Тази оферта е валидна за период от три (3) години, считано от датата на разпространение на продукта от HMD. С изпращането на заявка давате съгласието си HMD (или трети страни от името на или под прякото ръководство на HMD) да обработват личните ви данни.
+
+Обработката на данните ще се извърши за целите на заявката в съответствие с Декларацията за поверителност на HMD и приложимото законодателство.</string>
+  <string name="zzz_hmd_open_source_info_title">Информация на HMD за отворения код</string>
+  <string name="zzz_roaming_item_title">Глобални данни</string>
+  <string name="zzz_security_power_off_password_summary">Въведете паролата за устройството за изключване/рестартиране</string>
+  <string name="zzz_security_power_off_password_title">Заключване на изключване/рестартиране</string>
+  <string name="zzz_sim_no_services">Няма услуга</string>
+  <string name="zzz_version">Версия</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d апликација може да чита обавештења</item>
+    <item quantity="other">Апликације (%d) могу да читају обавештења</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">Треба да обавите још %1$d корак да бисте постали програмер.</item>
+    <item quantity="other">Треба да обавите још %1$d корака да бисте постали програмер.</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Нетачан SIM PIN кôд. Имате још %d покушај, а онда морате да контактирате мобилног оператера да бисте откључали уређај.</item>
+    <item quantity="other">Нетачан SIM PIN кôд. Имате још %d покушаја.</item>
+  </plurals>
+</resources>

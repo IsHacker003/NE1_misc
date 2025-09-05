@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">Kuhusu simu</string>
+  <string name="accelerometer_summary_off">Badili uelekezaji kiotomatiki wakati wa kuzungusha simu</string>
+  <string name="accelerometer_summary_on">Badili uelekezaji kiotomatiki wakati wa kuzungusha simu</string>
+  <string name="advanced_apps">Mipangilio ya kina</string>
+  <string name="advanced_section_header">Mipangilio ya kina</string>
+  <string name="advanced_security_title">Mipangilio ya kina</string>
+  <string name="ambient_display_pickup_summary">Ili uangalie saa, aikoni za arifa na maelezo mengine, chukua simu yako.</string>
+  <string name="ambient_display_pickup_title">Inua ili uangalie simu</string>
+  <string name="ambient_display_title">Gonga mara mbili ili uangalie simu</string>
+  <string name="apn_not_set">Haijawekwa</string>
+  <string name="assistant_security_warning_agree">Kubali</string>
+  <string name="auto_boot_pref_title">Anzisha udhibiti kiotomatiki</string>
+  <string name="backup_pw_cancel_button_text">Ghairi</string>
+  <string name="battery_desc_standby">Betri imetumiwa wakati simu haitumiki</string>
+  <string name="battery_suggestion_title">Boresha muda wa matumizi ya betri ya simu yako</string>
+  <string name="battery_tip_dialog_message">Simu yako imetumika sana kuliko kawaida. Huenda chaji ikaisha haraka kuliko unavyotarajia.
+
+Programu %1$d ulizotumia sana tangu ulipojaza chaji:</string>
+  <string name="battery_tip_dialog_summary_message">Programu zako zinatumia kiwango cha kawaida cha betri. Programu zikitumia kiwango cha juu zaidi cha betri, simu yako itapendekeza hatua unazoweza kuchukua.
+
+Unaweza kuwasha Kiokoa Betri wakati wowote, kama chaji ya betri yako inakaribia kuisha.</string>
+  <string name="battery_tip_high_usage_title">Simu imetumika sana kuliko kawaida</string>
+  <string name="battery_tip_restrict_app_dialog_ok">Zuia</string>
+  <string name="battery_tip_smart_battery_title">Boresha muda wa matumizi ya betri ya simu yako</string>
+  <string name="battery_tip_summary_summary">Simu inatumia kiwango cha kawaida cha betri chinichini</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">Ghairi</string>
+  <string name="bluetooth_ask_discovery">%1$s inataka kufanya simu yako ionekane kwenye vifaa vingine vya Bluetooth kwa sekunde %2$d.</string>
+  <string name="bluetooth_ask_discovery_no_name">Programu fulani inataka kufanya simu yako ionekane kwenye vifaa vingine vya Bluetooth kwa sekunde %1$d.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">%1$s inataka kuwasha Bluetooth na kufanya simu yako ionekane kwenye vifaa vingine kwa sekunde %2$d.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">Programu inataka kuwasha Bluetooth na kufanya simu yako ionekane kwenye vifaa vingine kwa sekunde %1$d.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s inataka kuwasha Bluetooth na kufanya simu yako ionekane kwenye vifaa vingine. Unaweza kubadilisha hali hii katika mipangilio ya Bluetooth baadaye.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Programu fulani inataka kuwasha Bluetooth na kufanya simu yako ionekane kwenye vifaa vingine. Unaweza kubadilisha hali hii katika mipangilio ya Bluetooth baadaye.</string>
+  <string name="bluetooth_ask_lasting_discovery">%1$s inataka kufanya simu yako ionekane kwenye vifaa vingine vya Bluetooth. Unaweza kubadilisha hali hii katika mipangilio ya Bluetooth baadaye.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">Programu fulani inataka kufanya simu yako ionekane kwenye vifaa vingine vya Bluetooth. Unaweza kubadilisha hali hii katika mipangilio ya Bluetooth baadaye.</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Unganisha</string>
+  <string name="bluetooth_device_context_connect">Unganisha</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Ghairi</string>
+  <string name="bluetooth_disconnect_all_profiles">Muunganisho wa simu yako utaondolewa kwenye %1$s.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s itaondolewa kwenye muunganisho wa intaneti wa simu hii.</string>
+  <string name="bluetooth_footer_mac_message">Anwani ya Bluetooth ya simu: %1$s</string>
+  <string name="bluetooth_menu_advanced">Mipangilio ya kina</string>
+  <string name="bluetooth_pref_summary">Ruhusu simu yako iwasiliane na vifaa vilivyo karibu vyenye Bluetooth</string>
+  <string name="bluetooth_tethering_subtext">Shiriki muunganisho wa intaneti ya simu kupitia Bluetooth</string>
+  <string name="bluetooth_unpair_dialog_body">Simu yako haitaoanishwa tena na %1$s</string>
+  <string name="camera_firmware_version">Toleo la maunzi ya kamera</string>
+  <string name="cancel">Ghairi</string>
+  <string name="color_blue">Samawati</string>
+  <string name="color_green">Kijani</string>
+  <string name="color_orange">Rangi ya machungwa</string>
+  <string name="color_purple">Zambarau</string>
+  <string name="color_yellow">Manjano</string>
+  <string name="condition_device_muted_title">Umezima sauti ya simu</string>
+  <string name="condition_device_vibrate_summary">Arifa na simu zitafanya simu iteteme</string>
+  <string name="condition_device_vibrate_title">Umeweka simu iteteme</string>
+  <string name="condition_expand_show">Onyesha</string>
+  <string name="credentials_install">Sakinisha kutoka kwa kadi ya SD</string>
+  <string name="credentials_install_summary">Sakinisha vyeti  kutoka kwa kadi ya SD</string>
+  <string name="crypt_keeper_button_text">Simba fiche simu</string>
+  <string name="crypt_keeper_data_corrupt_summary">Nenosiri uliloweka ni sahihi, lakini kwa bahati mbaya data yako ina hitilafu. 
+
+Ili uendelee kutumia simu yako, unahitaji kurejesha mipangilio iliyotoka nayo kiwandani. Wakati wa kuweka mipangilio kwenye simu yako baada ya kurejesha ile ya kiwandani, utakuwa na nafasi ya kurejesha data yoyote ambayo nakala yake ilikuwa imehifadhiwa katika Akaunti yako ya Google.</string>
+  <string name="crypt_keeper_desc">Unaweza kusimba akaunti zako, mipangilio, programu zilizopakuliwa na data husika, maudhui na faili nyingine kwa njia fiche. Baada ya kusimba simu yako kwa njia fiche, tukichukulia kwamba tayari umechagua njia ya kufunga skrini (yaani kwa mchoro au PIN au nenosiri), itabidi ufungue skrini ili uondoe msimbo wa njia fiche kwenye simu yako kila unapoiwasha. Njia nyingine pekee ya kuondoa msimbo wa njia fiche ni kurejesha mipangilio ambayo simu yako ilitoka nayo kiwandani, hatua itakayofuta data yako yote.
+
+Usimbaji fiche huchukua saa moja au zaidi. Lazima uanze betri ikiwa imejaa chaji na uweke simu yako kwenye chaji muda wote mchakato utakapokuwa ukiendelea. Ukikatisha, utapoteza baadhi au data yako yote.</string>
+  <string name="crypt_keeper_encrypt_title">Simba simu</string>
+  <string name="crypt_keeper_failed_summary">Usimbaji fiche umekatizwa na haukukamilika. Kutokana na hayo, data kwenye simu yako haiwezi kuonekana. 
+
+ Ili uendelee kutumia simu yako, utahitaji kurejesha mipangilio ambayo simu ilitoka nayo kiwandani. Utakapowasha simu yako baadaye, utakuwa na nafasi ya kurejesha data yoyote ambayo nakala yake ilikuwa imehifadhiwa katika Akaunti yako ya Google.</string>
+  <string name="crypt_keeper_final_desc">Uendeshaji usimbaji fiche hauwezi kutenduliwa na ukiukatiza, utapoteza data. Usimbaji fiche huchukua saa moja au zaidi, wakati huo simu itajiwasha mara kadhaa.</string>
+  <string name="crypt_keeper_force_power_cycle">Ili ufungue simu yako, izime na kisha uwashe.</string>
+  <string name="crypt_keeper_setup_description">Tafadhali subiri wakati simu yako inasimba. Asilimia ^1 imekamilika.</string>
+  <string name="crypt_keeper_setup_time_remaining">Tafadhali subiri wakati simu yako inasimbwa kwa njia fiche. Muda uliosalia: ^1</string>
+  <string name="data_protection_title">Ulinzi wa Data</string>
+  <string name="data_service_enable_mobile">Huduma ya data ya muda</string>
+  <string name="data_service_prompt">Wakati SIM isio ya data iko katika VoLTE inapotumiwa kupiga simu, itatumiwa kwa huduma ya data. Hii itasababisha matumizi ya ziada ya data ya SIM.</string>
+  <string name="data_service_summary">Wakati SIM isio ya data iko katika VoLTE inapotumiwa kupiga simu, itatumiwa kwa huduma ya data</string>
+  <string name="data_usage_auto_sync_on_dialog">Mabadiliko yoyote utakayofanya katika akaunti zako kwenye wavuti yatanakiliwa kiotomatiki kwenye simu yako.
+
+Baadhi ya akaunti pia zinaweza kunakili kiotomatiki kwenye wavuti mabadiliko yoyote utakayofanya kwenye simu. Akaunti ya Google hufanyakazi kwa namna hii.</string>
+  <string name="data_usage_limit_dialog_mobile">Simu yako itazima data ya mtandao wa simu pindi itakapofikia kikomo cha matumizi ya data ulichoweka. 
+
+Kwa kuwa simu yako ndiyo huwa inapima matumizi ya data, na kampuni inayokupa huduma za mtandao huenda ikahesabu matumizi kwa njia tofauti, unashauriwa kuweka kikomo kisicho kamili sana.</string>
+  <string name="data_usage_restrict_background_multiuser">Ukidhibiti matumizi ya chini chini ya data ya mitandao ya simu, baadhi ya programu na huduma hazitafanya kazi mpaka uunganishe kwenye Wi-Fi.
+
+Mipangilio hii itaathiri watumiaji wote wa simu hii.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: karibu %1$s zimetumika, kama ilivyopimwa na simu yako. Hesabu ya matumizi ya data ya mtoa huduma wako inaweza kutofautiana.</string>
+  <string name="decryption_settings_summary">Simu haijasimbwa</string>
+  <string name="device_info_settings">Hali ya simu</string>
+  <string name="device_status_summary">Nambari ya simu, mawimbi, n.k.</string>
+  <string name="dialog_background_check_message">Simu yako haiwezi kudhibiti matumizi ya chaji ipasavyo kwa sababu %1$s inawasha simu yako kila wakati.
+
+Ili kujaribu kutatua tatizo hili, unaweza kuzima %1$s ili kuizuia kutumika chini chini.</string>
+  <string name="dialog_location_message">Simu yako haiwezi kudhibiti matumizi ya chaji ipasavyo kwa sababu %1$s inaendelea kuomba data ya mahali ulipo wakati hutumii programu.
+
+Ili kutatua tatizo hili, unaweza kuzima kipengele cha kutambua mahali katika programu hii.</string>
+  <string name="dialog_stop_message">Simu yako haiwezi kudhibiti matumizi ya chaji ipasavyo kwa sababu %1$s inazuia skrini ya simu kuzimika.
+
+Ili kujaribu kurekebisha tatizo hili, unaweza kuzima programu.
+
+Ikiwa tatizo hili litaendelea, huenda ukahitaji kuondoa programu hii ili kuboresha utendaji wa betri.</string>
+  <string name="dialog_stop_message_wakeup_alarm">Simu yako haiwezi kudhibiti matumizi ya chaji ipasavyo kwa sababu %1$s inawasha skrini ya simu mara kwa mara.
+
+Ili kujaribu kutatua tatizo hili, unaweza kuzima programu%1$s.
+
+Ikiwa tatizo hili litaendelea, huenda ukahitaji kuondoa programu hii ili kuboresha utendaji wa betri.</string>
+  <string name="dlg_cancel">Ghairi</string>
+  <string name="dlg_confirm_unmount_text">Ikiwa utaangua kadi ya SD, baadhi ya programu unazozitumia zitasitika na huenda zisipatikane hadi utakapo angika kadi ya SD.</string>
+  <string name="dlg_confirm_unmount_title">Ondoa kadi ya SD?</string>
+  <string name="dlg_error_unmount_text">Haiwezi kuangua kadi ya SD. Jaribu tena baadaye.</string>
+  <string name="dlg_ok">Sawa</string>
+  <string name="dock_audio_summary_none">Simu haija gatiwa</string>
+  <string name="dock_not_found_text">Unahitaji kutia kituo kwa simu kabla ya kuanzisha kituo cha sauti.</string>
+  <string name="dock_sounds_enable_summary_off">Usichezeshe sauti wakati unapoingiza au kuondoa simu kutoka kwa gati</string>
+  <string name="dock_sounds_enable_summary_on">Chezesha sauti wakati unapoingiza au kuondoa simu nkutoka gati</string>
+  <string name="encryption_and_credential_settings_summary">Simu imesimbwa kwa njia fiche</string>
+  <string name="erase_esim_storage_description">Futa eSIM zote kwenye simu. Kufanya hivi hakutaghairi mpango wako wa huduma ya simu ya mkononi.</string>
+  <string name="erase_external_storage">Futa kadi ya SD</string>
+  <string name="erase_external_storage_description">Futa data zote kwenye kadi ya SD, kama vile muziki au picha.</string>
+  <string name="external_data_size_label">Kadi ya SD</string>
+  <string name="fih_color_picker_blue">Samawati</string>
+  <string name="fih_color_picker_green">Kijani</string>
+  <string name="fih_color_picker_orange">Rangi ya machungwa</string>
+  <string name="fih_color_picker_pink">Waridi</string>
+  <string name="fih_color_picker_purple">Zambarau</string>
+  <string name="fih_color_picker_yellow">Manjano</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">Thibitisha</string>
+  <string name="fih_message_sound_title_sim1">Arifa ya ujumbe (SIM1)</string>
+  <string name="fih_message_sound_title_sim2">Arifa ya ujumbe (SIM2)</string>
+  <string name="fih_message_vibrate">Mtetemo</string>
+  <string name="fih_ringtone_add">Ongeza</string>
+  <string name="fih_ringtone_remove">Ondoa</string>
+  <string name="fih_ringtone_select_all">Zote</string>
+  <string name="fih_sound_category_message_notirication_vibrate_title">Arifa ya ujumbe &amp; mtemo</string>
+  <string name="filter_apps_onsdcard">Kwenye kadi ya SD</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Ili uangalie arifa zako, telezesha kidole kuelekea chini kwenye kitambua alama ya kidole kilicho upande wa nyuma wa simu yako.</string>
+  <string name="font_setting_title">Mtindo wa fonti</string>
+  <string name="font_size_save">Sawa</string>
+  <string name="gesture_preference_summary">Ishara za kutekelezwa kwa haraka ili kudhibiti simu yako</string>
+  <string name="hardware_revision">Toleo la maunzi</string>
+  <string name="hdmi_auto">KIOTOMATIKI</string>
+  <string name="install_all_warning">Data yako ya binafsi na ya simu yako zinaweza kuathiriwa na programu ambazo hazijulikani. Kwa kusakinisha programu kutoka chanzo hiki, unakubali kuwajibika kila wakati kutokana na uharibifu wowote kwenye simu yako au kupotea kwa data kutokana na matumizi yake.</string>
+  <string name="launch_instant_app">Fungua</string>
+  <string name="location_street_level">Ruhusu programu zitumie GPS kwenye simu yako ili zitambue mahali ulipo</string>
+  <string name="lock_screen_intro_skip_dialog_text">Vipengele vya ulinzi wa kifaa havitawashwa. Hutaweza kuzuia watu wengine kutumia simu hii iwapo itapotea au itaibiwa.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Vipengele vya ulinzi wa kifaa havitawashwa. Hutaweza kuzuia watu wengine kutumia simu hii iwapo itapotea, itaibiwa au itawekewa mipangilio iliyotoka nayo kiwandani</string>
+  <string name="lockpassword_cancel_label">Ghairi</string>
+  <string name="lockpattern_tutorial_cancel_label">Ghairi</string>
+  <string name="master_clear_accounts">
+
+Kwa sasa umeingia kwenye akaunti zifuatazo:
+</string>
+  <string name="master_clear_button_text">Rejesha mipangilio ya mwanzoni ya simu</string>
+  <string name="master_clear_desc">Hii itafuta data yote kutoka hifadhi yako iliyo <b>ndani ya simu</b>, pamoja na:
+ 
+<li>Akaunti yako ya Google</li><li>Data na mipangilio ya mfumo na programu</li><li>Programu zilizopakuliwa</li></string>
+  <string name="master_clear_desc_erase_external_storage">
+
+Ili kufuta muziki, picha, na data zingine za mtumiaji, <b>kadi ya</b> inahitaji kufutwa.</string>
+  <string name="master_clear_other_users_present">
+
+Kuna watumiaji wengine waliopo kwenye kifaa hiki.
+</string>
+  <string name="media_output_summary">Simu</string>
+  <string name="media_output_summary_unavailable">Hakipatikani</string>
+  <string name="motion_turn_over_reject_call_help">Wakati simu inaingia, pindua simu ili ukatae simu.</string>
+  <string name="motion_volume_quiet_pickup_help">Wakati simu inaingia, chukua ili unyamazishe mlio wa simu wakati simu imewekwa kimlalo</string>
+  <string name="motion_volume_quiet_pickup_title">Nyamazisha ikichukuliwa</string>
+  <string name="move_app_to_internal">Sogeza kwa simu</string>
+  <string name="move_app_to_sdcard">Sogeza hadi kwa kadi ya SD</string>
+  <string name="new_device_suggestion_summary">Kagua simu yako mpya</string>
+  <string name="nfc_payment_default_not_set">Haijawekwa</string>
+  <string name="nfc_quick_toggle_summary">Ruhusu ubadilishanaji wa data simu inapogusa kifaa kingine</string>
+  <string name="nfc_service_summary_disabled">Imelemazwa</string>
+  <string name="nfc_service_summary_enabled">Imewezeshwa</string>
+  <string name="notification_listener_disable_warning_cancel">Ghairi</string>
+  <string name="notification_volume_title">Arifa</string>
+  <string name="okay">Sawa</string>
+  <string name="phone_info_label">Maelezo ya simu</string>
+  <string name="power_idle">Wakati simu haitumiki</string>
+  <string name="poweroff_animation_summary">Chezesha uhuishaji wa kuzima</string>
+  <string name="poweroff_animation_title">Uhuishaji wa kuzima</string>
+  <string name="preference_change_password_title">Badilisha nenosiri</string>
+  <string name="print_cancel">Ghairi</string>
+  <string name="proxy_error_dismiss">Sawa</string>
+  <string name="radio_info_ims_feature_status_unavailable">Hakipatikani</string>
+  <string name="radio_off_during_emergency_call">Haiwezi kuzima SIM kadi huku simu ya dharura inaendelea.</string>
+  <string name="really_remove_account_message">Kuondoa hii akaunti hii kutafuta mazungumzo yako yote, anwani, na data zingine kutoka kwa simu!</string>
+  <string name="reset_network_desc">Hatua hii itaweka upya mipangilio yote ya mtandao, ikiwemo: 
+
+<li>Wi-Fi</li><li>Data ya simu za mkononi</li><li>Bluetooth</li></string>
+  <string name="restriction_nfc_enable_summary">Ruhusu ubadilishaji wa data simu inapogusa kifaa kingine</string>
+  <string name="ringtone_sim1_title">Mlio wa simu (SIM1)</string>
+  <string name="ringtone_sim2_title">Mlio wa simu (SIM2)</string>
+  <string name="ringtone_title_uim1">Mlio wa simu wa UIM1</string>
+  <string name="ringtone_uim1_title">Mlio wa simu (UIM1)</string>
+  <string name="roaming_warning_multiuser">Unaporuhusu data kupitia mitandao mingine, huenda ukatozwa gharama kubwa za matumizi ya nje!
+
+Mpangilio huu unaathiri watumiaji wote kwenye simu hii.</string>
+  <string name="runningservicedetails_stop_dlg_text">Ukisitisha huduma hii, baadhi ya vipengele vya simu yako vinaweza kuwacha kufanya kazi kwa usahihi mpaka uizime na kisha uwashe tena.</string>
+  <string name="sd_card_settings_label">Kadi ya SD</string>
+  <string name="sd_card_storage">Hifadhi ya kadi ya SD</string>
+  <string name="sd_eject">Ondoa kadi ya SD</string>
+  <string name="sd_eject_summary">Ondoa kadi ya SD ili uweze kuindoa kwa usalama</string>
+  <string name="sd_format">Futa kadi ya SD</string>
+  <string name="sd_format_summary">Futa data yote kwenye kadi ya SD, kama vile muziki na picha</string>
+  <string name="sd_insert_summary">Ingiza kadi ya SD ya uangikaji</string>
+  <string name="sd_memory">Kadi ya SD</string>
+  <string name="sd_mount">Angika kadi ya SD</string>
+  <string name="sdcard_format">Futa kadi ya SD</string>
+  <string name="sdcard_setting">Kadi ya SD</string>
+  <string name="sdcard_settings_bad_removal_status">Kadi ya SD iliondolewa ikiwa ingali inatumika!</string>
+  <string name="sdcard_settings_mass_storage_status">Kadi ya SD inatumiwa kama kifaa cha kuhifadhi vitu vingi.</string>
+  <string name="sdcard_settings_not_present_status">Hakuna kadi ya SD</string>
+  <string name="sdcard_settings_read_only_status">Hifadhi ya SD imepachikwa kusoma-tu.</string>
+  <string name="sdcard_settings_scanning_status">Inakagua ikiwa kadi ya SD ina faili mpya...</string>
+  <string name="sdcard_settings_unmounted_status">Ni salama sasa kuondoa kadi ya SD.</string>
+  <string name="sdcard_unmount">Ondoa kadi ya SD</string>
+  <string name="security_settings_desc">Programu hii inaweza kufikia yafuatayo kwenye simu yako:</string>
+  <string name="security_settings_desc_multi">Programu hii inaweza kufikia yafuatayo kwenye simu yako. Ili kuboresha utendaji na kupunguza matumizi ya kumbukumbu, baadhi ya vibali hivi vinapatikana katika %1$s kwa sababu vinaendeshwa kwa mchakato sawa na %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">Sawa</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">Ghairi</string>
+  <string name="setup_lock_settings_picker_message">Wazuie watu wengine kutumia simu hii bila ruhusa yako kwa kuwasha vipengele vya ulinzi wa kifaa. Chagua skrini iliyofungwa unayotaka kutumia.</string>
+  <string name="setup_lock_settings_picker_title">Linda simu yako</string>
+  <string name="sim_enabler_need_switch_data_service">Tutailemaza na kubadilisha kwa SIM%1$s kwa ajili ya huduma za data, una uhakika?</string>
+  <string name="sim_enter_cancel">Ghairi</string>
+  <string name="sim_enter_ok">Sawa</string>
+  <string name="sim_lock_off">Itisha PIN kabla kuruhusu simu itumike</string>
+  <string name="sim_lock_on">Unahitaji PIN ili utumie simu</string>
+  <string name="smart_battery_footer">Kidhibiti cha betri kikitambua kuwa programu zinatumia chaji sana, utakuwa na chaguo la kudhibiti programu hizi. Huenda programu zilizodhibitiwa zisifanye kazi vizuri na arifa zikachelewa.</string>
+  <string name="sound_enhance_hifi_mode">Hali ya Hi-Fi</string>
+  <string name="sound_enhance_hifi_mode_summary">Usahihi wa Juu</string>
+  <string name="status_number">Nambari ya simu</string>
+  <string name="status_number_sim_slot">Nambari ya simu (nafasi ya sim ya %1$d)</string>
+  <string name="status_number_sim_status">Nambari ya simu kwenye SIM</string>
+  <string name="storage_settings_summary">Ondoa SIM kadi, angalia hifadhi iliyopo</string>
+  <string name="storage_wizard_init_v2_internal_action">Hifadhi ya simu</string>
+  <string name="storage_wizard_init_v2_internal_summary">Kwa ajili ya programu, faili na maudhui yaliyo kwenye simu hii</string>
+  <string name="storage_wizard_init_v2_internal_title">Tumia kwa ajili ya hifadhi ya ziada ya simu</string>
+  <string name="storage_wizard_migrate_v2_body">Unaweza kuhamishia faili, maudhui na baadhi ya programu kwenye ^1. 
+
+Hatua hii itafuta vipengee ili upate nafasi ya ^2 kwenye hifadhi ya simu yako na inaweza kuchukua takribani ^3.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">Usiondoe simu hii kwenye chaja</string>
+  <string name="suggested_lock_settings_summary">Weka mbinu ya kufunga skrini ili ulinde simu yako</string>
+  <string name="testing_phone_info">Maelezo ya simu</string>
+  <string name="touch_firmware_version">Toleo la maunzi ya paneli ya mguso</string>
+  <string name="tts_install_voices_cancel">Ghairi</string>
+  <string name="two_cdma_dialog_msg">Vipenyo 1 na 2 haviwezi kukubali CDMA kwa wakati mmoja.</string>
+  <string name="unmount_inform_text">Kadi ya SD itaanguliwa</string>
+  <string name="unsupported_setting_summary">Mipangilio hii haitumiki katika simu hii</string>
+  <string name="usage_type_phone">Simu</string>
+  <string name="usb_tethering_subtext">Shiriki muunganisho wa intaneti ya simu kupitia USB</string>
+  <string name="user_cannot_manage_message">Mmiliki wa simu pekee ndiye anayeweza kudhibiti watumiaji.</string>
+  <string name="user_confirm_remove_self_message">Utapoteza nafasi na data yako kwenye simu hii. Huwezi kutendua kitendo hiki.</string>
+  <string name="user_dict_settings_add_dialog_confirm">Sawa</string>
+  <string name="vpn_cancel">Ghairi</string>
+  <string name="vpn_connect">Unganisha</string>
+  <string name="wapi_auto_sel_cert">Chagua kiotomatiki</string>
+  <string name="wapi_cert_manage_title">Udhibiti wa cheti cha WAPI</string>
+  <string name="wifi_ap_blocked_title">Watumiaji waliozuiwa</string>
+  <string name="wifi_ap_choose_auto">Otomatiki</string>
+  <string name="wifi_ap_client_block_title">Zuia</string>
+  <string name="wifi_ap_client_details_title">Maelezo</string>
+  <string name="wifi_ap_client_ip_label">Anwani ya IP:</string>
+  <string name="wifi_ap_client_mac_label">Anwani ya MAC:</string>
+  <string name="wifi_ap_client_unblock_title">Acha Kuzuilia</string>
+  <string name="wifi_ap_connected_title">Watumiaji waliounganishwa</string>
+  <string name="wifi_ap_max_connection_title">Upeo wa juu wa miunganisho</string>
+  <string name="wifi_ap_reset_OOB">Weka upya OOB</string>
+  <string name="wifi_ap_reset_OOB_title">Weka upya SSID ya mtandao, usalama na nenosiri kwa chaguo-msingi (usanidi wa nje wa WPS )</string>
+  <string name="wifi_ap_wps_dialog_title">Unganisha WPS</string>
+  <string name="wifi_ap_wps_mode_title">Hali ya WPS</string>
+  <string name="wifi_ap_wps_pin_title">Andika PIN kutoka kwa mteja</string>
+  <string name="wifi_calling_dialog_comfirm">Usionyeshe tena.</string>
+  <string name="wifi_calling_dialog_msg">Simu za dharura haziwezekani kupitia Simu ya Wi-Fi. Kifaa huzima kiotomatiki kwa mtandao wa simu za mkononi(2G/3G) ili upige simu ya dharura. Simu za dharura zinawezekana tu katika maeneo yenye mtandao wa simu.</string>
+  <string name="wifi_calling_dialog_title">Simu za dharura kupitia Simu ya Wi-Fi.</string>
+  <string name="wifi_calling_notifybar_msg">Simu za dharura katika maeneo yenye mtandao wa simu tu</string>
+  <string name="wifi_calling_notifybar_title">Simu ya Wi-Fi ya Vodafone</string>
+  <string name="wifi_cancel">Ghairi</string>
+  <string name="wifi_connect">Unganisha</string>
+  <string name="wifi_display_status_not_available">Hakipatikani</string>
+  <string name="wifi_hotspot_tethering_on_subtext">Inashiriki muunganisho wa intaneti wa simu hii kupitia mtandao pepe</string>
+  <string name="wifi_ip_settings_menu_cancel">Ghairi</string>
+  <string name="wifi_menu_advanced">Mipangilio ya kina</string>
+  <string name="wifi_setup_cancel">Ghairi</string>
+  <string name="wifi_setup_connect">Unganisha</string>
+  <string name="wifi_tether_auto_disable_title">Washa mtandao-hewa wa Wi-Fi</string>
+  <string name="wifi_tether_wps_connect_summary">Imechagua hali ya kusanidi ulinzi wa Wi-Fi ili kuendelea</string>
+  <string name="wifi_tether_wps_connect_title">Unganisha WPS</string>
+  <string name="wifi_tether_wps_pin_error">PIN si sahihi</string>
+  <string name="wifi_tethering_title">Mtandao-hewa wa Wi-Fi</string>
+  <string name="zzz_certification_settings_title">Cheti</string>
+  <string name="zzz_fih_invalid_battery_charging">Betri halisi zinapendekezwa, betri zisizoidhinishwa zinaweza kusababisha madhara yasiotarajiwa kama vile moto au mlipuko.</string>
+  <string name="zzz_hmd_open_source_info_text">Programu ya vyanzo huria 
+
+Bidhaa hii inajumuisha programu ya vyanzo huria ambayo ina leseni chini ya GPL na LGPL. HMD imejitolea kukupa msimbo chanzo kama iliyofafanuliwa katika leseni husika ya programu ya vyanzo huria. Tafadhali tuma ombi lililoandikwa kwa:
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Finland. Toleo hili litakuwa halali kwa kipindi cha miaka mitatu (3) kuanzia tarehe ya usambazaji wa bidhaa hii na HMD. Kwa kuwasilisha ombi, unatoa kibali chako kwa HMD (au wahusika wengine kwa niaba ya na chini ya mamlaka ya moja kwa moja ya HMD) kuchakata maelezo yako ya kibinafsi.
+
+Mchakato huo wa data utafanyika kwa lengo la ombi hilo kulingana na Sera ya Faragha ya HMD na sheria husika.</string>
+  <string name="zzz_hmd_open_source_info_title">Maelezo ya vyanzo huria vya HMD</string>
+  <string name="zzz_roaming_item_title">Data ya Jumla</string>
+  <string name="zzz_security_power_off_password_summary">Ingiza nenosiri la kifaa ili kuzima / kuwasha upya</string>
+  <string name="zzz_security_power_off_password_title">Zima / Washa upya kufuli</string>
+  <string name="zzz_sim_no_services">Hakuna huduma</string>
+  <string name="zzz_version">Toleo</string>
+</resources>

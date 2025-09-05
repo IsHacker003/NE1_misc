@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">Ekstremt lille forsinkelse (%1$d ms)</item>
+    <item quantity="other">Ekstremt lille forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">Stor forsinkelse (%1$d ms)</item>
+    <item quantity="other">Stor forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">Lille forsinkelse (%1$d ms)</item>
+    <item quantity="other">Lille forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">Meget stor forsinkelse (%1$d ms)</item>
+    <item quantity="other">Meget stor forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">Meget lille forsinkelse (%1$d ms)</item>
+    <item quantity="other">Meget lille forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">1 app har tilladelse til at anvende ubegrænset data, når datasparefunktionen er slået til</item>
+    <item quantity="other">%1$d apps har tilladelse til at anvende ubegrænset data, når datasparefunktionen er slået til</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">Vil du fjerne det valgte sprog?</item>
+    <item quantity="other">Vil du fjerne de valgte sprog?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">%s time</item>
+    <item quantity="other">%s timer</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">Skal indeholde mindst %d bogstaver</item>
+    <item quantity="other">Skal indeholde mindst %d bogstaver</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">Skal indeholde mindst %d lille bogstav</item>
+    <item quantity="other">Skal indeholde mindst %d små bogstaver</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">Skal indeholde mindst %d tegn, der ikke er et bogstav</item>
+    <item quantity="other">Skal indeholde mindst %d tegn, der ikke er bogstaver</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">Skal indeholde mindst %d tal</item>
+    <item quantity="other">Skal indeholde mindst %d tal</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">Skal indeholde mindst %d specialtegn</item>
+    <item quantity="other">Skal indeholde mindst %d specialtegn</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">Skal indeholde mindst %d stort bogstav</item>
+    <item quantity="other">Skal indeholde mindst %d store bogstaver</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d app kan læse underretninger</item>
+    <item quantity="other">%d apps kan læse underretninger</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">1 app har brugt hukommelse inden for de sidste %2$s</item>
+    <item quantity="other">%1$d apps har brugt hukommelse inden for de sidste %2$s</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">%s minut</item>
+    <item quantity="other">%s minutter</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">Der er givet %d tilladelse</item>
+    <item quantity="other">Der er givet %d tilladelser</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d ekstra tilladelse</item>
+    <item quantity="other">%d ekstra tilladelser</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">Der er givet %d af %d tilladelse</item>
+    <item quantity="other">%d af %d tilladelser blev givet</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">%s sekund</item>
+    <item quantity="other">%s sekunder</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d fingeraftryk er oprettet</item>
+    <item quantity="other">%1$d fingeraftryk er oprettet</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">Vis %d skjult element</item>
+    <item quantity="other">Vis %d skjulte elementer</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">Du er nu %1$d skridt fra at være udvikler.</item>
+    <item quantity="other">Du er nu %1$d skridt fra at være udvikler.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">Tillad eller fjern certifikat</item>
+    <item quantity="other">Tillad eller fjern certifikater</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s har installeret en certifikatmyndighed for din arbejdsprofil, hvilket giver domænet mulighed for at overvåge aktivitet på dit arbejdsnetværk, herunder e-mails, apps og sikre websites.
+
+Kontakt din administrator for at få flere oplysninger om dette certifikat.</item>
+    <item quantity="other">%s har installeret certifikatmyndigheder for din arbejdsprofil, hvilket giver domænet mulighed for at overvåge aktivitet på dit arbejdsnetværk, herunder e-mails, apps og sikre websites.
+
+Kontakt din administrator for at få flere oplysninger om disse certifikater.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s har installeret en certifikatmyndighed på din enhed, hvilket giver domænet mulighed for at overvåge netværksaktivitet på din enhed, herunder e-mails, apps og sikre websites.
+
+Kontakt din administrator for at få flere oplysninger om dette certifikat.</item>
+    <item quantity="other">%s har installeret certifikatmyndigheder på din enhed, hvilket giver domænet mulighed for at overvåge netværksaktivitet på din enhed, herunder e-mails, apps og sikre websites.
+
+Kontakt din administrator for at få flere oplysninger om disse certifikater.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">Kontrollér certifikat</item>
+    <item quantity="other">Kontrollér certifikater</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">%d element</item>
+    <item quantity="other">%d elementer</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage, før du skal kontakte din udbyder og få låst din enhed op.</item>
+    <item quantity="other">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">Skift til Kun alarmer i en time indtil %2$s</item>
+    <item quantity="other">Skift til Kun alarmer i %1$d timer indtil %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">Skift til Kun alarmer i et minut (indtil %2$s)</item>
+    <item quantity="other">Skift til Kun alarmer i %1$d minutter (indtil %2$s)</item>
+  </plurals>
+</resources>

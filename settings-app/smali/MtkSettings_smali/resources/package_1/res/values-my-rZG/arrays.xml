@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="auto_time_entries">
+    <item name="r0x00000000">ကြန္ရက္မွေပးထားေသာအခ်ိန္ကိုသံုးပါ</item>
+    <item name="r0x00000000">GPS က ေထာက္ပံ့ေပးေသာ အခ်ိန္ကို အသံုးျပဳပါ</item>
+    <item name="r0x00000000">ပိတ္သည္</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item name="r0x00000000">(မသတ္မွတ္ပါ)</item>
+    <item name="r0x00000000">Sim ကတ္အထုိင္ 1</item>
+    <item name="r0x00000000">Sim ကတ္အထုိင္ 2</item>
+  </string-array>
+  <string-array name="wapi_security">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+    <item name="r0x00000000">@string/wifi_security_eap</item>
+    <item name="r0x00000000">WAPI PSK</item>
+    <item name="r0x00000000">@string/wifi_security_wapi_certificate</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item name="r0x00000000">1080p FHD (ဗီဒီယိုမ်ားအတြက္)</item>
+    <item name="r0x00000000">720p HD (ဂိမ္းမ်ားအတြက္)</item>
+  </string-array>
+  <string-array name="wifi_ap_max_connection_entries">
+    <item name="r0x00000000">အသံုးျပဳသူ ၁ ဦး</item>
+    <item name="r0x00000000">အသံုးျပဳသူ ၂ ဦး</item>
+    <item name="r0x00000000">အသံုးျပဳသူ ၃ ဦး</item>
+    <item name="r0x00000000">အသံုးျပဳသူ ၄ ဦး</item>
+    <item name="r0x00000000">အသံုးျပဳသူ ၅ ဦး</item>
+    <item name="r0x00000000">အသံုးျပဳသူ ၆ ဦး</item>
+    <item name="r0x00000000">အသံုးျပဳသူ ၇ ဦး</item>
+    <item name="r0x00000000">အသံုးျပဳသူ ၈ ဦး</item>
+    <item name="r0x00000000">9 သုံးစွဲသူ</item>
+    <item name="r0x00000000">10 သုံးစွဲသူ</item>
+  </string-array>
+  <string-array name="wifi_hotspot_disable_policy_entries">
+    <item name="r0x00000000">အျမဲတမ္း</item>
+    <item name="r0x00000000">၅ မိနစ္ၾကာ ရပ္ဆိုင္းေနလွ်င္ ပိတ္ပါ</item>
+    <item name="r0x00000000">၁၀ မိနစ္ၾကာ ရပ္ဆိုင္းေနလွ်င္ ပိတ္ပါ</item>
+  </string-array>
+  <array name="wifi_security">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+    <item name="r0x00000000">@string/wifi_security_eap</item>
+  </array>
+  <string-array name="wifi_signal">
+    <item name="r0x00000000">Poor</item>
+    <item name="r0x00000000">Poor</item>
+    <item name="r0x00000000">Fair</item>
+    <item name="r0x00000000">Good</item>
+    <item name="r0x00000000">Excellent</item>
+  </string-array>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">انتہائی مختصر توقف (%1$d ملی سیکنڈ)</item>
+    <item quantity="other">انتہائی مختصر توقف (%1$d ملی سیکنڈ)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">طویل توقف (%1$d ملی سیکنڈ)</item>
+    <item quantity="other">طویل توقف (%1$d ملی سیکنڈ)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">مختصر توقف (%1$d ملی سیکنڈ)</item>
+    <item quantity="other">مختصر توقف (%1$d ملی سیکنڈ)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">بہت طویل توقف (%1$d ملی سیکنڈ)</item>
+    <item quantity="other">بہت طویل توقف (%1$d ملی سیکنڈ)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">بہت مختصر توقف (%1$d ملی سیکنڈ)</item>
+    <item quantity="other">بہت مختصر توقف (%1$d ملی سیکنڈ)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">ڈیٹا سیور آن ہو تو 1 ایپ کو غیر محدود ڈیٹا استعمال کرنے کی اجازت ہے</item>
+    <item quantity="other">ڈیٹا سیور آن ہو تو %1$d ایپس کو غیر محدود ڈیٹا استعمال کرنے کی اجازت ہے</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">منتخب کردہ زبان ہٹائیں؟</item>
+    <item quantity="other">منتخب کردہ زبانیں ہٹائیں؟</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">1 گھنٹہ</item>
+    <item quantity="other">%s گھنٹے</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">کم از کم ایک حرف شامل ہونا چاہیئے</item>
+    <item quantity="other">کم از کم %d حروف پر مشتمل ہونا چاہیے</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">کم از کم 1 چھوٹا حرف شامل ہونا چاہیئے</item>
+    <item quantity="other">کم از کم %d چھوٹے حروف پر مشتمل ہونا چاہیے</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">کم از کم 1 غیر حرفی کیریکٹر شامل ہونا چاہیئے</item>
+    <item quantity="other">کم از کم %d غیر حرفی علامتوں پر مشتمل ہونا چاہیے</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">کم از کم 1 عددی ہندسہ شامل ہونا چاہیئے</item>
+    <item quantity="other">کم از کم %d عددی ہندسوں پر مشتمل ہونا چاہیے</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">کم از کم 1 خاص علامت شامل ہونی چاہیئے</item>
+    <item quantity="other">کم از کم %d خصوصی علامتوں پر مشتمل ہونا چاہیے</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">کم از کم 1 بڑا حرف شامل ہونا چاہیئے</item>
+    <item quantity="other">کم از کم %d بڑے حروف پر مشتمل ہونا چاہیے</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">‏‎%d ایپ اطلاعات پڑھ سکتی ہے</item>
+    <item quantity="other">‏‎%d ایپس اطلاعات پڑھ سکتی ہیں</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">گزشتہ %2$s گھنٹے میں 1 ایپ نے میموری استعمال کی</item>
+    <item quantity="other">گزشتہ %2$s گھنٹے میں %1$d ایپس نے میموری استعمال کی</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">1 منٹ</item>
+    <item quantity="other">%s منٹ</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d اجازت دی گئی</item>
+    <item quantity="other">%d اجازتیں دی گئیں</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d اضافی اجازت</item>
+    <item quantity="other">%d اضافی اجازتیں</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">%d از %d اجازت منظور کی گئی</item>
+    <item quantity="other">%d از %d اجازتیں منظور کی گئیں</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">1 سیکنڈ</item>
+    <item quantity="other">%s سیکنڈ</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d فنگر پرنٹ ترتیب دیا گیا</item>
+    <item quantity="other">%1$d فنگر پرنٹس ترتیب دیے گئے</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">%d پوشیدہ آئیم دکھائيں</item>
+    <item quantity="other">%d پوشیدہ آئیمز دکھائيں</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">اب آپ ایک ڈویلپر بننے سے %1$d قدم دور ہیں۔</item>
+    <item quantity="other">اب آپ ایک ڈویلپر بننے سے %1$d قدم دور ہیں۔</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">بھروسہ کریں یا سرٹیفیکیٹ ہٹائیں</item>
+    <item quantity="other">بھروسہ کریں یا سرٹیفیکیٹس ہٹائیں</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s نے آپ کے دفتری پروفائل کیلئے سرٹیفیکیٹ اتھارٹی انسٹال کی ہے جو انہیں دفتری نیٹ ورک کی سرگرمی بشمول ای میلز، ایپس اور محفوظ ویب سائٹس مانیٹر کرنے کی اجازت دے سکتی ہے۔
+
+اس سرٹیفیکیٹ سے متعلق مزید معلومات کیلئے اپنے منتظم سے رابطہ کریں۔</item>
+    <item quantity="other">%s نے آپ کے دفتری پروفائل کیلئے سرٹیفیکیٹ اتھارٹیز انسٹال کی ہیں جو انہیں دفتری نیٹ ورک کی سرگرمی بشمول ای میلز، ایپس اور محفوظ ویب سائٹس مانیٹر کرنے کی اجازت دے سکتی ہیں۔
+
+ان سرٹیفیکیٹس سے متعلق مزید معلومات کیلئے اپنے منتظم سے رابطہ کریں۔</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s نے آپ کے آلہ پر ایک سرٹیفیکیٹ اتھارٹی انسٹال کی ہے جو انہیں آپ کے آلہ کی نیٹ ورک کی سرگرمی بشمول ای میلز، ایپس اور محفوظ ویب سائٹس مانیٹر کرنے کی اجازت دے سکتی ہے۔
+
+اس سرٹیفیکیٹ سے متعلق مزید معلومات کیلئے اپنے منتظم سے رابطہ کریں۔</item>
+    <item quantity="other">%s نے آپ کے آلہ پر سرٹیفیکیٹ اتھارٹیز انسٹال کی ہیں جو انہیں آپ کے آلہ کی نیٹ ورک کی سرگرمی بشمول ای میلز، ایپس اور محفوظ ویب سائٹس مانیٹر کرنے کی اجازت دے سکتی ہیں۔
+
+ان سرٹیفیکیٹس سے متعلق مزید معلومات کیلئے اپنے منتظم سے رابطہ کریں۔</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">سرٹیفیکیٹ چیک کریں</item>
+    <item quantity="other">سرٹیفکیٹس چیک کریں</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">1 آئٹم</item>
+    <item quantity="other">‏‎%d آئٹمز</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">‏غلط SIM PIN کوڈ، آپ کے پاس %d کوشش بچی ہے، اس کے بعد آپ کو اپنا آلہ غیر مقفل کرنے کیلئے اپنے کریئر سے رابطہ کرنا ہوگا۔</item>
+    <item quantity="other">‏غلط SIM PIN کوڈ، آپ کے پاس %d کوششیں بچی ہیں۔</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">%2$s تک ایک گھنٹے کیلئے صرف الارمز میں تبدیل کریں</item>
+    <item quantity="other">%2$s تک %1$d گھنٹے کیلئے صرف الارمز میں تبدیل کریں</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">%2$s تک ایک منٹ کیلئے صرف الارمز میں تبدیل کریں</item>
+    <item quantity="other">%1$d منٹ (%2$s تک) کیلئے صرف الارمز میں تبدیل کریں</item>
+  </plurals>
+</resources>

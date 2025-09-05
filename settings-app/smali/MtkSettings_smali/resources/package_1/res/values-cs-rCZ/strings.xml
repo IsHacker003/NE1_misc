@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">Informace o telefonu</string>
+  <string name="accelerometer_summary_off">Při otáčení telefonu automaticky přepínat orientaci</string>
+  <string name="accelerometer_summary_on">Při otáčení telefonu automaticky přepínat orientaci</string>
+  <string name="accessibility_feature_state_off">Vyp.</string>
+  <string name="accessibility_feature_state_on">Zap.</string>
+  <string name="accessibility_summary_state_disabled">Vyp.</string>
+  <string name="accessibility_summary_state_enabled">Zap.</string>
+  <string name="accessibility_vibration_intensity_off">Vyp.</string>
+  <string name="advanced_apps">Rozšířená nastavení</string>
+  <string name="advanced_section_header">Rozšířená nastavení</string>
+  <string name="advanced_security_title">Rozšířená nastavení</string>
+  <string name="ambient_display_pickup_summary">Chcete-li zobrazit čas, ikony oznámení a další informace, zvedněte telefon.</string>
+  <string name="ambient_display_pickup_title">Kontrola telefonu zvednutím</string>
+  <string name="ambient_display_title">Kontrola telefonu dvojitým klepnutím</string>
+  <string name="android_beam_off_summary">Vyp.</string>
+  <string name="apn_apn">APN</string>
+  <string name="apn_auth_type">Typ ověřování</string>
+  <string name="apn_auth_type_chap">CHAP</string>
+  <string name="apn_auth_type_none">Žádný</string>
+  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_pap_chap">PAP nebo CHAP</string>
+  <string name="apn_http_port">Port</string>
+  <string name="apn_http_proxy">Proxy</string>
+  <string name="apn_mcc">MCC</string>
+  <string name="apn_mms_port">Port MMS</string>
+  <string name="apn_mms_proxy">Proxy server MMS</string>
+  <string name="apn_mmsc">MMSC</string>
+  <string name="apn_mnc">MNC</string>
+  <string name="apn_name">Jméno</string>
+  <string name="apn_not_set">Nenastaveno</string>
+  <string name="apn_password">Heslo</string>
+  <string name="apn_server">Server</string>
+  <string name="apn_type">Typ APN</string>
+  <string name="apn_user">Uživatelské jméno</string>
+  <string name="app_list_preference_none">Žádný</string>
+  <string name="app_notification_row_banned">Blokováno</string>
+  <string name="assistant_security_warning_agree">Souhlas</string>
+  <string name="auto_boot_pref_title">Správa automatického spouštění</string>
+  <string name="auto_brightness_default_title">Výchozí</string>
+  <string name="auto_brightness_off_title">Vyp.</string>
+  <string name="auto_brightness_summary_off">Vyp.</string>
+  <string name="available_via_passpoint">K dispozici přes %1$s</string>
+  <string name="backup_pw_cancel_button_text">Storno</string>
+  <string name="band_mode_failed">Neúspěšné</string>
+  <string name="battery_desc_standby">Využití baterie v pohotovostním režimu telefonu</string>
+  <string name="battery_manager_off">Vyp.</string>
+  <string name="battery_saver_off_summary">Vyp.</string>
+  <string name="battery_saver_on_summary">Zap.</string>
+  <string name="battery_suggestion_title">Zvyšte životnost baterie telefonu</string>
+  <string name="battery_tip_dialog_message">Telefon byl využíván víc než obvykle. Baterie se možná vybije dříve, než bylo očekáváno.
+
+Nejvíce využívané aplikace (%1$d) od plného nabití:</string>
+  <string name="battery_tip_dialog_summary_message">Vaše aplikace spotřebovávají běžné množství baterie. Pokud dojde k velkému zvýšení spotřeby, telefon vám doporučí možné akce.
+
+Pokud vám dochází baterie, můžete podle potřeby zapnout spořič baterie.</string>
+  <string name="battery_tip_high_usage_title">Telefon byl využíván víc než obvykle</string>
+  <string name="battery_tip_restrict_app_dialog_ok">Omezit</string>
+  <string name="battery_tip_smart_battery_title">Zvyšte životnost baterie telefonu</string>
+  <string name="battery_tip_summary_summary">V telefonu dochází k běžnému využití baterie na pozadí</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">Storno</string>
+  <string name="bluetooth_ask_discovery">Aplikace %1$s požaduje zviditelnění telefonu pro ostatní zařízení Bluetooth na %2$d s.</string>
+  <string name="bluetooth_ask_discovery_no_name">Aplikace požaduje zviditelnění telefonu pro ostatní zařízení Bluetooth na %1$d s.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">Aplikace %1$s chce zapnout Bluetooth a na %2$d s telefon zviditelnit pro ostatní zařízení.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">Aplikace chce zapnout Bluetooth a na %1$d s telefon zviditelnit pro ostatní zařízení.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikace %1$s chce zapnout Bluetooth a zviditelnit telefon pro ostatní zařízení. Svoji volbu můžete později změnit v nastavení Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Aplikace chce zapnout Bluetooth a zviditelnit telefon pro ostatní zařízení. Svoji volbu můžete později změnit v nastavení Bluetooth.</string>
+  <string name="bluetooth_ask_lasting_discovery">Aplikace %1$s požaduje zviditelnění telefonu pro ostatní zařízení Bluetooth. Svoji volbu můžete později změnit v nastavení Bluetooth.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">Aplikace chce telefon zviditelnit pro ostatní zařízení Bluetooth. Svoji volbu můžete později změnit v nastavení Bluetooth.</string>
+  <string name="bluetooth_connecting">Připojování…</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Připojit</string>
+  <string name="bluetooth_device_context_connect">Připojit</string>
+  <string name="bluetooth_device_name">Název zařízení</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Storno</string>
+  <string name="bluetooth_disabled">Vyp.</string>
+  <string name="bluetooth_disconnect_all_profiles">Telefon se odpojí od zařízení %1$s.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">Zařízení %1$s bude odpojeno od sdíleného internetového připojení telefonu.</string>
+  <string name="bluetooth_disconnected">Odpojeno</string>
+  <string name="bluetooth_disconnecting">Odpojování…</string>
+  <string name="bluetooth_footer_mac_message">Adresa Bluetooth telefonu: %1$s</string>
+  <string name="bluetooth_menu_advanced">Rozšířená nastavení</string>
+  <string name="bluetooth_pairing_decline">Storno</string>
+  <string name="bluetooth_pref_summary">Povolte telefonu komunikovat se zařízeními Bluetooth v okolí</string>
+  <string name="bluetooth_preference_paired_dialog_name_label">Jméno</string>
+  <string name="bluetooth_tethering_subtext">Sdílet připojení telefonu k internetu přes Bluetooth</string>
+  <string name="bluetooth_unpair_dialog_body">Telefon již nebude spárován se zařízením %1$s</string>
+  <string name="cancel">Storno</string>
+  <string name="color_blue">Modrá</string>
+  <string name="color_green">Zelená</string>
+  <string name="color_none">Žádný</string>
+  <string name="color_orange">Oranžová</string>
+  <string name="color_purple">Fialová</string>
+  <string name="color_title">Barevně</string>
+  <string name="color_unspecified">Výchozí</string>
+  <string name="color_yellow">Žlutá</string>
+  <string name="condition_device_muted_title">Telefon je ztlumen</string>
+  <string name="condition_device_vibrate_summary">Volání a oznámení budou vibrovat</string>
+  <string name="condition_device_vibrate_title">V telefonu jsou nastaveny vibrace</string>
+  <string name="condition_expand_show">Představení</string>
+  <string name="connected_via_passpoint">Připojeno přes %1$s</string>
+  <string name="credentials_install">Instalace z karty SD</string>
+  <string name="credentials_install_summary">Nainstalovat certifikáty z karty SD</string>
+  <string name="crypt_keeper_button_text">Zašifrovat telefon</string>
+  <string name="crypt_keeper_data_corrupt_summary">Zadané heslo je správné, ale jsou poškozena data.
+
+Chcete-li telefon nadále používat, je nutné v něm obnovit nastavení z výroby. Až budete telefon po obnovení znovu nastavovat, bude možné obnovit veškerá data, která byla zálohována na váš účet Google.</string>
+  <string name="crypt_keeper_desc">Své účty, nastavení, stažené aplikace a jejich data, média a další soubory můžete zašifrovat. Pokud telefon zašifrujete a nastavili jste zámek obrazovky (bezpečnostní gesto, číselný kód PIN nebo heslo), bude třeba jej při každém zapnutí dešifrovat odemknutím obrazovky. Jediným dalším způsobem dešifrování je obnovení dat z výroby, kterým vymažete všechna svá data.
+
+Šifrování trvá hodinu nebo i déle. Šifrování je potřeba zahájit s nabitou baterií a během šifrování je potřeba ponechat telefon připojený ke zdroji napájení. Pokud šifrování přerušíte, přijdete o některá nebo všechna data.</string>
+  <string name="crypt_keeper_encrypt_title">Zašifrovat telefon</string>
+  <string name="crypt_keeper_failed_summary">Šifrování bylo přerušeno a nelze je dokončit. V důsledku toho již nebudou údaje v telefonu přístupné. 
+
+Chcete-li telefon opět začít používat, je potřeba obnovit nastavení z výroby. Po obnovení budete moci v průběhu nastavení telefonu obnovit všechna data, která jsou zálohována v účtu Google.</string>
+  <string name="crypt_keeper_final_desc">Zašifrování je nevratné, a pokud ho přerušíte, budou vaše data ztracena. Šifrování trvá hodinu i více. Během této doby bude telefon několikrát restartován.</string>
+  <string name="crypt_keeper_force_power_cycle">Chcete-li telefon odemknout, vypněte ho a poté znovu zapněte.</string>
+  <string name="crypt_keeper_setup_description">Počkejte, než bude telefon zašifrován. Dokončeno: ^1 %</string>
+  <string name="crypt_keeper_setup_time_remaining">Počkejte, než bude telefon zašifrován. Zbývající čas: ^1</string>
+  <string name="daltonizer_mode_disabled">Deaktivováno</string>
+  <string name="data_protection_title">Ochrana dat</string>
+  <string name="data_saver_off">Vyp.</string>
+  <string name="data_saver_on">Zap.</string>
+  <string name="data_service_enable_mobile">Dočasná datová služba</string>
+  <string name="data_service_prompt">Když přes nedatovou kartu SIM zahájíte hovor VoLTE, budou přes ni přenášena data. To povede ke zvýšenému využití dat na kartě SIM.</string>
+  <string name="data_service_summary">Když přes nedatovou kartu SIM zahájíte hovor VoLTE, budou přes ni přenášena data</string>
+  <string name="data_usage_auto_sync_on_dialog">Změny účtů, které provedete na webu, se automaticky zkopírují do telefonu.
+
+Některé účty také automaticky kopírují změny provedené v telefonu na web. Tímto způsobem funguje například účet Google.</string>
+  <string name="data_usage_limit_dialog_mobile">Až telefon dosáhne stanoveného limitu, datové připojení k mobilní síti bude vypnuto.
+
+Protože se přenesená data měří pomocí telefonu a operátor je může účtovat odlišně, je vhodné nastavit nízký limit.</string>
+  <string name="data_usage_list_none">Žádný</string>
+  <string name="data_usage_restrict_background_multiuser">Pokud omezíte využití mobilních dat na pozadí, některé aplikace a služby nebudou fungovat, dokud se nepřipojíte k síti Wi-Fi.
+
+Toto nastavení ovlivní všechny uživatele tohoto telefonu.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: podle měření telefonu využito asi %1$s. Operátor může využití dat účtovat odlišně.</string>
+  <string name="decryption_settings_summary">Telefon není šifrován</string>
+  <string name="default_apps_title">Výchozí</string>
+  <string name="default_keyboard_layout">Výchozí</string>
+  <string name="default_theme">Výchozí</string>
+  <string name="delete">Odstranit</string>
+  <string name="deletion_helper_manual_title">Ručně</string>
+  <string name="device_info_settings">Stav telefonu</string>
+  <string name="device_status">Stav</string>
+  <string name="device_status_activity_title">Stav</string>
+  <string name="device_status_summary">Telefonní číslo, signál atd.</string>
+  <string name="dialog_background_check_message">Telefon nemůže normálně šetřit baterii, protože jej aplikace %1$s neustále budí.
+
+Chcete-li problém odstranit, vypněte aplikaci %1$s a zabraňte jejímu spuštění na pozadí.</string>
+  <string name="dialog_location_message">Telefon nemůže normálně šetřit baterii, protože aplikace %1$s neustále vyžaduje informace o poloze, i když ji zrovna nepoužíváte.
+
+Tento problém můžete vyřešit tím, že aplikaci zakážete přístup k poloze.</string>
+  <string name="dialog_stop_message">Telefon nemůže normálně šetřit baterii, protože mu aplikace %1$s znemožňuje přejít do režimu spánku.
+
+Tento problém můžete zkusit vyřešit tím, že aplikaci ukončíte.
+
+Pokud se to bude dít neustále, kvůli prodloužení výdrže baterie bude aplikaci možná nutné odinstalovat.</string>
+  <string name="dialog_stop_message_wakeup_alarm">Telefon nemůže normálně šetřit baterii, protože jej aplikace %1$s neustále budí.
+
+Tento problém můžete vyřešit tím, že aplikaci %1$s ukončíte.
+
+Pokud se to bude dít neustále, kvůli prodloužení výdrže baterie bude aplikaci možná nutné odinstalovat.</string>
+  <string name="disabled">Deaktivováno</string>
+  <string name="display_cutout_emulation_none">Žádný</string>
+  <string name="dlg_cancel">Storno</string>
+  <string name="dlg_close">Zavřít</string>
+  <string name="dlg_confirm_unmount_text">Pokud odpojíte kartu SD, dojde k zastavení některých používaných aplikací. Tyto aplikace pravděpodobně nebudou k dispozici až do opětovného připojení karty SD.</string>
+  <string name="dlg_confirm_unmount_title">Odpojit kartu SD?</string>
+  <string name="dlg_error_unmount_text">Kartu SD nelze odpojit. Zkuste to znovu později.</string>
+  <string name="dlg_ok">OK</string>
+  <string name="dock_audio_summary_none">Telefon není vložen do doku</string>
+  <string name="dock_not_found_text">Chcete-li nastavit zvuk doku, musíte telefon vložit do doku.</string>
+  <string name="dock_sounds_enable_summary_off">Nepřehrávat zvuk při vkládání nebo vyjímání telefonu z doku</string>
+  <string name="dock_sounds_enable_summary_on">Přehrát zvuk při vkládání nebo vyjímání telefonu z doku</string>
+  <string name="doze_always_on_title">Vždy zapnuto</string>
+  <string name="encryption_and_credential_settings_summary">Telefon je zašifrován</string>
+  <string name="enterprise_privacy_none">Žádný</string>
+  <string name="erase_esim_storage_description">Vymazat všechny eSIM karty v telefonu. Tímto krokem nebude zrušen mobilní tarif.</string>
+  <string name="erase_external_storage">Vymazat kartu SD</string>
+  <string name="erase_external_storage_description">Vymaže všechna data na kartě SD, například hudbu a fotografie.</string>
+  <string name="external_data_size_label">Karta SD</string>
+  <string name="fih_color_picker_blue">Modrá</string>
+  <string name="fih_color_picker_green">Zelená</string>
+  <string name="fih_color_picker_orange">Oranžová</string>
+  <string name="fih_color_picker_pink">Růžová</string>
+  <string name="fih_color_picker_purple">Fialová</string>
+  <string name="fih_color_picker_yellow">Žlutá</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">Potvrdit</string>
+  <string name="fih_message_vibrate">Vibrace</string>
+  <string name="fih_ringtone_add">Přidat</string>
+  <string name="fih_ringtone_remove">Odebrat</string>
+  <string name="fih_ringtone_select_all">Vše</string>
+  <string name="filter_apps_onsdcard">Na kartě SD</string>
+  <string name="fingerprint_enroll_button_next">Další</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Chcete-li zkontrolovat oznámení, přejeďte prstem dolů po snímači otisků prstů na zadní straně telefonu.</string>
+  <string name="font_size_save">OK</string>
+  <string name="forget">Odstranit</string>
+  <string name="gesture_preference_summary">Rychlá gesta k ovládání telefonu</string>
+  <string name="gesture_setting_off">Vyp.</string>
+  <string name="gesture_setting_on">Zap.</string>
+  <string name="hdmi_auto">AUTOMATICKY</string>
+  <string name="install_all_warning">Telefon a osobní údaje jsou zranitelnější vůči útoku ze strany neznámých aplikací. Instalací aplikací z tohoto zdroje vyjadřujete souhlas s tím, že nesete odpovědnost za případné poškození telefonu nebo ztrátu dat, které jejich používání může způsobit.</string>
+  <string name="intent_sender_account_label">Účet</string>
+  <string name="keyboard_layout_default_label">Výchozí</string>
+  <string name="link_speed">%1$d Mb/s</string>
+  <string name="locale_default">Výchozí</string>
+  <string name="location_off_summary">Vyp.</string>
+  <string name="location_on_summary">Zap.</string>
+  <string name="location_street_level">Povolí aplikacím v telefonu určovat polohu systémem GPS</string>
+  <string name="lock_screen_intro_skip_dialog_text">Nebudou zapnuty funkce ochrany zařízení. Pokud telefon ztratíte nebo vám jej někdo ukradne, nebudete lidem moci zabránit v jeho používání.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Nebudou zapnuty funkce ochrany zařízení. V případě ztráty, odcizení nebo resetování telefonu nebudete moci ostatním zabránit v jeho používání.</string>
+  <string name="lockpassword_cancel_label">Storno</string>
+  <string name="lockpattern_tutorial_cancel_label">Storno</string>
+  <string name="lockpattern_tutorial_continue_label">Další</string>
+  <string name="manage_trust_agents_summary">Žádný</string>
+  <string name="manual">Ručně</string>
+  <string name="master_clear_accounts">
+
+Aktuálně jste přihlášeni k těmto účtům:
+</string>
+  <string name="master_clear_button_text">Resetovat telefon</string>
+  <string name="master_clear_desc">Tato akce vymaže veškerá data z <b>interního úložiště</b> telefonu, mj. i:
+
+<li>váš účet Google,</li><li>nastavení a data systému a aplikací,</li><li>stažené aplikace.</li></string>
+  <string name="master_clear_desc_erase_external_storage">
+
+Chcete-li smazat také hudbu, obrázky a další uživatelská data, je potřeba vymazat <b>kartu SD</b>.</string>
+  <string name="master_clear_other_users_present">
+
+V tomto zařízení jsou přítomni další uživatelé.
+</string>
+  <string name="media_output_summary">Telefon</string>
+  <string name="media_output_summary_unavailable">Není k dispozici</string>
+  <string name="menu_save">Uložit</string>
+  <string name="motion_turn_over_reject_call_help">Příchozí hovor můžete odmítnout otočením telefonu.</string>
+  <string name="motion_volume_quiet_pickup_help">Vyzvánění příchozího hovoru můžete umlčet zvednutím vodorovně položeného telefonu.</string>
+  <string name="motion_volume_quiet_pickup_title">Ztlumení při zvednutí</string>
+  <string name="move_app_to_internal">Přesunout do telefonu</string>
+  <string name="move_app_to_sdcard">Přesunout na kartu SD</string>
+  <string name="mvno_type_none">Žádný</string>
+  <string name="my_device_info_account_preference_title">Účet</string>
+  <string name="my_device_info_device_name_preference_title">Název zařízení</string>
+  <string name="network_scorer_picker_none_preference">Žádný</string>
+  <string name="new_device_suggestion_summary">Prohlédněte si svůj nový telefon</string>
+  <string name="next_label">Další</string>
+  <string name="nfc_payment_default_not_set">Nenastaveno</string>
+  <string name="nfc_quick_toggle_summary">Povolit výměnu dat, když se telefon dotkne jiného zařízení</string>
+  <string name="nfc_service_summary_disabled">Deaktivováno</string>
+  <string name="nfc_service_summary_enabled">Aktivováno</string>
+  <string name="night_display_auto_mode_never">Žádný</string>
+  <string name="night_display_status_title">Stav</string>
+  <string name="notification_listener_disable_warning_cancel">Storno</string>
+  <string name="notification_toggle_off">Vyp.</string>
+  <string name="notification_toggle_on">Zap.</string>
+  <string name="notification_volume_title">Oznámení</string>
+  <string name="notifications_disabled">Vyp.</string>
+  <string name="notifications_enabled">Zap.</string>
+  <string name="okay">OK</string>
+  <string name="owner_info_settings_summary">Žádný</string>
+  <string name="passpoint_content">%1$s identifikační údaje</string>
+  <string name="passpoint_label">Uloženo pomocí</string>
+  <string name="phone_info_label">Informace o telefonu</string>
+  <string name="please_select_phase2">Ověřování Phase 2</string>
+  <string name="power_idle">Telefon v pohotovostním režimu</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Telefon se brzy vypne</string>
+  <string name="power_remaining_duration_shutdown_imminent">Telefon se brzy vypne (%1$s)</string>
+  <string name="poweroff_animation_summary">Přehrát animaci při vypnutí</string>
+  <string name="poweroff_animation_title">Animace při vypnutí</string>
+  <string name="preference_change_password_title">Změnit heslo</string>
+  <string name="prevent_ringing_option_none_summary">Vyp.</string>
+  <string name="print_cancel">Storno</string>
+  <string name="print_feature_state_off">Vyp.</string>
+  <string name="print_feature_state_on">Zap.</string>
+  <string name="print_settings_summary_no_service">Vyp.</string>
+  <string name="proxy_error">Pozor</string>
+  <string name="proxy_error_dismiss">OK</string>
+  <string name="proxy_error_empty_host_set_port">Pokud je pole hostitele prázdné, musí být prázdné i pole portu.</string>
+  <string name="proxy_error_empty_port">Je třeba vyplnit pole portu.</string>
+  <string name="proxy_error_invalid_exclusion_list">Seznam výjimek, který jste vytvořili, má nesprávný formát. Zadejte seznam názvů domén k vyloučení a názvy oddělujte čárkami.</string>
+  <string name="proxy_error_invalid_port">Zadaný port není platný.</string>
+  <string name="proxy_exclusionlist_label">Nepoužívat proxy server pro</string>
+  <string name="proxy_hostname_label">Název hostitele proxy serveru</string>
+  <string name="proxy_port_label">Port proxy</string>
+  <string name="proxy_settings_title">Proxy</string>
+  <string name="proxy_url_title">Adresa URL PAC: </string>
+  <string name="proxy_warning_limited_support">Proxy server protokolu HTTP může používat prohlížeč, ale nesmí jej používat další aplikace.</string>
+  <string name="radioInfo_data_connected">Připojeno</string>
+  <string name="radioInfo_data_disconnected">Odpojeno</string>
+  <string name="radioInfo_data_suspended">Pozastaveno</string>
+  <string name="radio_info_ims_feature_status_unavailable">Není k dispozici</string>
+  <string name="really_remove_account_message">Odebráním účtu odstraníte z telefonu také všechny zprávy, kontakty a další data tohoto účtu.</string>
+  <string name="reset_network_desc">Tato akce resetuje nastavení všech sítí, včetně následujících:
+
+<li>Wi‑Fi</li><li>mobilní datové připojení</li><li>Bluetooth</li></string>
+  <string name="restriction_nfc_enable_summary">Povolit výměnu dat, když se telefon dotkne jiného zařízení</string>
+  <string name="retail_demo_reset_next">Další</string>
+  <string name="roaming_warning_multiuser">Když aktivujete datový roaming, mohou vám být za roaming účtovány nemalé poplatky.
+
+Toto nastavení ovlivní všechny uživatele tohoto telefonu.</string>
+  <string name="running_frequency">Frekvence</string>
+  <string name="runningservicedetails_stop_dlg_text">Pokud tuto službu zastavíte, může se stát, že některé funkce tabletu nebudou fungovat správně, dokud telefon nevypnete a opět nezapnete.</string>
+  <string name="save">Uložit</string>
+  <string name="saved_network">Uložil/a %1$s</string>
+  <string name="screen_zoom_summary_default">Výchozí</string>
+  <string name="screensaver_settings_summary_off">Vyp.</string>
+  <string name="sd_card_settings_label">Karta SD</string>
+  <string name="sd_card_storage">Karta SD</string>
+  <string name="sd_eject">Odpojit kartu SD</string>
+  <string name="sd_eject_summary">Před bezpečným odebráním je třeba kartu SD nejprve odpojit</string>
+  <string name="sd_format">Vymazat kartu SD</string>
+  <string name="sd_format_summary">Smaže všechna data na kartě SD, například hudbu nebo fotografie</string>
+  <string name="sd_insert_summary">Vložte kartu SD, kterou chcete připojit.</string>
+  <string name="sd_memory">Karta SD</string>
+  <string name="sd_mount">Připojit kartu SD</string>
+  <string name="sdcard_format">Vymazat kartu SD</string>
+  <string name="sdcard_setting">Karta SD</string>
+  <string name="sdcard_settings_bad_removal_status">Karta SD byla odebrána za provozu.</string>
+  <string name="sdcard_settings_mass_storage_status">Karta SD je využívána jako velkokapacitní paměťové zařízení.</string>
+  <string name="sdcard_settings_not_present_status">Žádná karta SD</string>
+  <string name="sdcard_settings_read_only_status">Karta SD je připojena pouze pro čtení.</string>
+  <string name="sdcard_settings_scanning_status">Hledání mediálních souborů na kartě SD…</string>
+  <string name="sdcard_settings_unmounted_status">Nyní můžete kartu SD bezpečně odebrat.</string>
+  <string name="sdcard_unmount">Odpojit kartu SD</string>
+  <string name="security_passwords_title">Ochrana soukromí</string>
+  <string name="security_settings_desc">Tato aplikace má přístup k následujícím funkcím telefonu:</string>
+  <string name="security_settings_desc_multi">Tato aplikace může ve vašem telefonu používat následující oprávnění. Pro zvýšení výkonu a snížení spotřeby paměti, některá tato oprávnění jsou dostupná v aplikaci %1$s, která se spouští v rámci stejného procesu jako aplikace %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Odstranit</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">Jméno</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">Storno</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Další</string>
+  <string name="settings_manual_activity_title">Ručně</string>
+  <string name="setup_lock_settings_picker_message">Aktivujte funkce ochrany zařízení a zabraňte tak ostatním v používání telefonu bez vašeho svolení. Vyberte zámek obrazovky, který chcete používat.</string>
+  <string name="setup_lock_settings_picker_title">Ochraňte svůj telefon</string>
+  <string name="show_operator_name_title">Název sítě</string>
+  <string name="sim_card_select_title">Vybrat SIM kartu</string>
+  <string name="sim_editor_title">Slot pro SIM kartu %1$d</string>
+  <string name="sim_enabler_both_inactive">„Chyba, nelze zakázat všechny SIM karty“</string>
+  <string name="sim_enabler_disabling">Deaktivace…</string>
+  <string name="sim_enabler_need_switch_data_service">Chcete ji zakázat a přepnout na SIM kartu%1$s pro datové služby?</string>
+  <string name="sim_enter_cancel">Storno</string>
+  <string name="sim_enter_ok">OK</string>
+  <string name="sim_lock_off">K použití telefonu je vyžadován PIN</string>
+  <string name="sim_lock_on">K použití telefonu je vyžadován PIN</string>
+  <string name="sim_lock_settings_summary_off">Vyp.</string>
+  <string name="smart_battery_footer">Když Správce baterie zjistí, že aplikace vybíjejí baterii, dostanete možnost tyto aplikace omezit. Omezené aplikace nemusí fungovat správně a jejich oznámení se mohou zobrazovat se zpožděním.</string>
+  <string name="status_number">Telefonní číslo</string>
+  <string name="status_number_sim_slot">Telefonní číslo (slot na SIM kartu %1$d)</string>
+  <string name="status_number_sim_status">Telefonní číslo na SIM kartě</string>
+  <string name="status_signal_strength">Síla signálu</string>
+  <string name="storage_manager_indicator_off">Vyp.</string>
+  <string name="storage_manager_indicator_on">Zap.</string>
+  <string name="storage_menu_forget">Odstranit</string>
+  <string name="storage_settings_summary">Umožňuje odpojit kartu SD a zobrazit dostupnou paměť</string>
+  <string name="storage_wizard_init_v2_internal_action">Úložiště telefonu</string>
+  <string name="storage_wizard_init_v2_internal_summary">Aplikace, soubory a mediální obsah pouze v tomto zařízení</string>
+  <string name="storage_wizard_init_v2_internal_title">Dodatečné úložiště telefonu</string>
+  <string name="storage_wizard_migrate_v2_body">Na toto médium ^1 můžete přesunout soubory, některé aplikace a další obsah. 
+
+Přesunem uvolníte ^2 úložiště telefonu a potrvá to asi ^3.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">Telefon nabíjejte</string>
+  <string name="sub_activate_failed">Aktivace se nezdařila.</string>
+  <string name="sub_deactivate_failed">Deaktivace se nezdařila.</string>
+  <string name="suggested_lock_settings_summary">Ochraňte telefon pomocí zámku obrazovky</string>
+  <string name="suggestion_button_text">OK</string>
+  <string name="switch_off_text">Vyp.</string>
+  <string name="switch_on_text">Zap.</string>
+  <string name="testing_phone_info">Informace o telefonu</string>
+  <string name="tts_install_voices_cancel">Storno</string>
+  <string name="unlock_set_unlock_mode_off">Žádný</string>
+  <string name="unlock_set_unlock_mode_password">Heslo</string>
+  <string name="unlock_set_unlock_off_title">Žádný</string>
+  <string name="unlock_set_unlock_password_title">Heslo</string>
+  <string name="unmount_inform_text">Karta SD bude odpojena.</string>
+  <string name="unsupported_setting_summary">Nastavení v tomto telefonu není podporováno</string>
+  <string name="usage_type_phone">Telefon</string>
+  <string name="usage_type_video">Video</string>
+  <string name="usb_tethering_subtext">Sdílet připojení telefonu k internetu přes USB</string>
+  <string name="user_cannot_manage_message">Uživatele smí spravovat pouze vlastník telefonu.</string>
+  <string name="user_confirm_remove_self_message">Přijdete o místo a data v tomto telefonu. Tuto akci nelze vrátit zpět.</string>
+  <string name="user_delete_button">Odstranit</string>
+  <string name="user_dict_settings_add_dialog_confirm">OK</string>
+  <string name="user_dict_settings_context_menu_delete_title">Odstranit</string>
+  <string name="vpn_cancel">Storno</string>
+  <string name="vpn_connect">Připojit</string>
+  <string name="vpn_disconnected_summary">Žádný</string>
+  <string name="vpn_forget">Odstranit</string>
+  <string name="vpn_lockdown_none">Žádný</string>
+  <string name="vpn_name">Jméno</string>
+  <string name="vpn_password">Heslo</string>
+  <string name="vpn_save">Uložit</string>
+  <string name="vpn_username">Uživatelské jméno</string>
+  <string name="wallpaper_settings_summary_default">Výchozí</string>
+  <string name="wapi_auto_sel_cert">Vybrat automaticky</string>
+  <string name="wapi_cert_manage_title">Správa certifikátů WAPI</string>
+  <string name="wifi_add_network">Přidat síť</string>
+  <string name="wifi_advanced_ip_address_title">IP adresa</string>
+  <string name="wifi_advanced_settings_label">Nastavení IP adresy</string>
+  <string name="wifi_advanced_toggle_description_collapsed">Rozšířené možnosti rozevíracího seznamu. Dvojitým klepnutím položku rozbalíte.</string>
+  <string name="wifi_advanced_toggle_description_expanded">Rozšířené možnosti rozevíracího seznamu. Dvojitým klepnutím položku sbalíte.</string>
+  <string name="wifi_ap_2G">2,4 GHz</string>
+  <string name="wifi_ap_choose_auto">Automaticky</string>
+  <string name="wifi_ap_client_details_title">Podrobnosti</string>
+  <string name="wifi_ap_client_ip_label">IP adresa</string>
+  <string name="wifi_band_24ghz">2,4 GHz</string>
+  <string name="wifi_band_5ghz">5 GHz</string>
+  <string name="wifi_calling_dialog_comfirm">Již nezobrazovat.</string>
+  <string name="wifi_calling_dialog_msg">Funkce volání přes Wi-Fi neumožňuje tísňová volání. Přístroj se automaticky přepne na mobilní síť (2G/3G) a spojí tísňové volání přes ni. Tísňová volání jsou možná pouze v oblastech, kde je k dispozici signál mobilní sítě.</string>
+  <string name="wifi_calling_dialog_title">Tísňová volání s funkcí volání přes Wi-Fi</string>
+  <string name="wifi_calling_notifybar_msg">Tísňová volání pouze v oblastech, kde je k dispozici signál mobilní sítě</string>
+  <string name="wifi_calling_notifybar_title">Volání přes Wi-Fi Vodafone</string>
+  <string name="wifi_cancel">Storno</string>
+  <string name="wifi_connect">Připojit</string>
+  <string name="wifi_disabled_generic">Deaktivováno</string>
+  <string name="wifi_disabled_network_failure">Chyba konfigurace IP adresy</string>
+  <string name="wifi_disabled_password_failure">Problém ověřování</string>
+  <string name="wifi_display_options_forget">Odstranit</string>
+  <string name="wifi_display_options_name">Jméno</string>
+  <string name="wifi_display_status_connected">Připojeno</string>
+  <string name="wifi_display_status_not_available">Není k dispozici</string>
+  <string name="wifi_dns1">Server DNS 1</string>
+  <string name="wifi_dns2">Server DNS 2</string>
+  <string name="wifi_do_not_provide_eap_user_cert">Neposkytovat</string>
+  <string name="wifi_do_not_validate_eap_server">Neověřovat</string>
+  <string name="wifi_do_not_validate_eap_server_warning">Není určen žádný certifikát. Nelze zajistit soukromí připojení.</string>
+  <string name="wifi_eap_anonymous">Anonymní identita</string>
+  <string name="wifi_eap_ca_cert">Certifikát CA</string>
+  <string name="wifi_eap_domain">Doména</string>
+  <string name="wifi_eap_identity">Identita</string>
+  <string name="wifi_eap_method">Metoda EAP</string>
+  <string name="wifi_eap_user_cert">Certifikát uživatele</string>
+  <string name="wifi_fail_to_scan">Nelze vyhledat sítě</string>
+  <string name="wifi_failed_connect_message">Připojení k síti se nezdařilo.</string>
+  <string name="wifi_failed_forget_message">Odstranění záznamu sítě se nezdařilo.</string>
+  <string name="wifi_failed_save_message">Uložení sítě se nezdařilo.</string>
+  <string name="wifi_forget">Odstranit</string>
+  <string name="wifi_frequency">Frekvence</string>
+  <string name="wifi_gateway">Brána</string>
+  <string name="wifi_hotspot_tethering_on_subtext">Internetové připojení tohoto telefonu je sdíleno pomocí hotspotu</string>
+  <string name="wifi_ip_address">IP adresa</string>
+  <string name="wifi_ip_settings">Nastavení IP adresy</string>
+  <string name="wifi_ip_settings_invalid_dns">Zadejte platnou adresu DNS.</string>
+  <string name="wifi_ip_settings_invalid_gateway">Zadejte platnou adresu brány.</string>
+  <string name="wifi_ip_settings_invalid_ip_address">Zadejte platnou IP adresu.</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Zadejte délku síťové předpony v rozsahu 0 až 32.</string>
+  <string name="wifi_ip_settings_menu_cancel">Storno</string>
+  <string name="wifi_ip_settings_menu_save">Uložit</string>
+  <string name="wifi_menu_advanced">Rozšířená nastavení</string>
+  <string name="wifi_multiple_cert_added">(Bylo přidáno několik certifikátů)</string>
+  <string name="wifi_network_prefix_length">Délka síťové předpony</string>
+  <string name="wifi_no_domain_warning">Je třeba zadat doménu.</string>
+  <string name="wifi_no_internet_no_reconnect">Automatické připojení není možné</string>
+  <string name="wifi_not_in_range">Mimo dosah</string>
+  <string name="wifi_password">Heslo</string>
+  <string name="wifi_remembered">Uloženo</string>
+  <string name="wifi_save">Uložit</string>
+  <string name="wifi_security">Zabezpečení</string>
+  <string name="wifi_security_none">Žádný</string>
+  <string name="wifi_setup_add_network">Přidat síť</string>
+  <string name="wifi_setup_back">Zpět</string>
+  <string name="wifi_setup_cancel">Storno</string>
+  <string name="wifi_setup_connect">Připojit</string>
+  <string name="wifi_setup_forget">Odstranit</string>
+  <string name="wifi_setup_next">Další</string>
+  <string name="wifi_setup_save">Uložit</string>
+  <string name="wifi_setup_status_connecting">Připojování…</string>
+  <string name="wifi_shared">Sdílet s ostatními uživateli zařízení</string>
+  <string name="wifi_show_advanced">Rozšířené možnosti</string>
+  <string name="wifi_show_password">Zobrazovat heslo</string>
+  <string name="wifi_signal">Síla signálu</string>
+  <string name="wifi_speed">Rychlost připojení</string>
+  <string name="wifi_ssid">Název sítě</string>
+  <string name="wifi_ssid_hint">Zadejte SSID</string>
+  <string name="wifi_status">Stav</string>
+  <string name="wifi_unchanged">(nezměněno)</string>
+  <string name="wifi_unspecified">Vyberte</string>
+  <string name="wifi_use_system_certs">Použít certifikáty systému</string>
+  <string name="wizard_back">Zpět</string>
+  <string name="wizard_next">Další</string>
+  <string name="zen_mode_delete_rule_button">Odstranit</string>
+  <string name="zen_mode_from_none">Žádný</string>
+  <string name="zen_mode_no_exceptions">Žádný</string>
+  <string name="zen_mode_rule_delete_button">Odstranit</string>
+  <string name="zen_mode_schedule_rule_days_none">Žádný</string>
+  <string name="zen_mode_sound_summary_off">Vyp.</string>
+  <string name="zen_mode_sound_summary_on">Zap.</string>
+  <string name="zzz_certification_settings_title">Certifikace</string>
+  <string name="zzz_fih_invalid_battery_charging">Doporučujeme používat originální baterie. Neschválené baterie mohou způsobit neočekávaná rizika, například požár nebo explozi.</string>
+  <string name="zzz_hmd_open_source_info_text">Software s otevřeným zdrojovým kódem 
+
+Tento produkt obsahuje software s otevřeným zdrojovým kódem, který podléhá licencím GPL a LGPL. Společnost HMD vám nabízí poskytnutí zdrojového kódu podle ustanovení příslušné licence pro software s otevřeným zdrojovým kódem. Zašlete písemnou žádost na tuto adresu:
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Finland. Nabídka platí po dobu tří (3) let od data distribuce tohoto produktu společností HMD. Podáním žádosti udělujete souhlas se zpracováním vašich osobních dat společností HMD (nebo třetí stranou jménem společnosti HMD a na základě jejího přímého pověření).
+
+Zpracování dat bude provedeno za účelem vyřízení žádosti v souladu se Zásadami ochrany osobních údajů společnosti HMD a platnými zákony.</string>
+  <string name="zzz_hmd_open_source_info_title">Informace o otevřeném zdrojovém kódu od společnosti HMD</string>
+  <string name="zzz_roaming_item_title">Globální data</string>
+  <string name="zzz_security_power_off_password_summary">Chcete‑li zařízení vypnout nebo restartovat, zadejte heslo.</string>
+  <string name="zzz_security_power_off_password_title">Zámek vypnutí/restartu</string>
+  <string name="zzz_sim_no_services">Žádný signál</string>
+  <string name="zzz_version">Verze</string>
+</resources>

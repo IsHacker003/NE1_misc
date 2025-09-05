@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:state_selected="true">
+    <nine-patch android:src="@android:drawable/tab_indicator_v4"
+                android:tint="@color/fih_default_primary_icon_color" />
+  </item>
+  <item android:drawable="@android:color/transparent" />
+</selector>

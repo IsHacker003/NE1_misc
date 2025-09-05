@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+  <TextView android:textAppearance="?android:attr/textAppearanceLarge"
+            android:gravity="center"
+            android:id="@id/ringtone_picker_empty"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="@string/fih_ringtone_listview_empty" />
+  <ListView android:id="@android:id/list"
+            android:padding="6.0dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0" />
+  <LinearLayout android:background="@color/fih_btnNonPressColr"
+                android:layout_width="fill_parent"
+                android:layout_height="48.0dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true">
+    <Button android:textColor="#4c4c4c"
+            android:id="@id/cancelButton"
+            android:background="@drawable/fih_ic_background_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@android:string/cancel"
+            android:layout_weight="1.0" />
+    <Button android:textColor="?android:attr/colorAccent"
+            android:id="@id/okButton"
+            android:background="@drawable/fih_ic_background_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@android:string/ok"
+            android:layout_weight="1.0" />
+  </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">مهلة طويلة (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة طويلة (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">مهلة قصيرة (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة قصيرة (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+    <item quantity="other">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">هناك تطبيق واحد مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+    <item quantity="other">هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">هل تريد إزالة اللغة المحددة؟</item>
+    <item quantity="other">هل تريد إزالة اللغات المحددة؟</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">ساعة واحدة</item>
+    <item quantity="other">%s ساعة</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد على الأقل.</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على حرف صغير واحد على الأقل.</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف صغير على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد ليس أبجديًا على الأقل.</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف ليس من الأحرف الأبجدية على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على رقم واحد عددي على الأقل.</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d رقم عددي على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على رمز خاص واحد على الأقل.</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d رمز خاص على الأقل</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">يجب أن تحتوي كلمة المرور على حرف كبير واحد على الأقل.</item>
+    <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف كبير على الأقل</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">‏يُمكن لتطبيق %d قراءة الإشعارات</item>
+    <item quantity="other">‏يُمكن لتطبيقات %d قراءة الإشعارات</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">استخدم تطبيق واحد الذاكرة في آخر %2$s</item>
+    <item quantity="other">استخدمت %1$d من التطبيقات الذاكرة في آخر %2$s</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">دقيقة واحدة</item>
+    <item quantity="other">%s دقيقة</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">تم منح %d إذن</item>
+    <item quantity="other">تم منح %d من الأذونات</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d إذن إضافي</item>
+    <item quantity="other">%d من الأذونات الإضافية</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">تم منح %d من %d إذن</item>
+    <item quantity="other">تم منح %d من %d من الأذونات</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">ثانية واحدة</item>
+    <item quantity="other">%s ثانية</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">إعداد بصمة إصبع واحدة (%1$d)</item>
+    <item quantity="other">إعداد %1$d من بصمات الإصبع</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">‏عرض %d عنصر مخفي</item>
+    <item quantity="other">‏عرض %d عنصر مخفي</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d من الخطوات.</item>
+    <item quantity="other">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d من الخطوات.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">الثقة أو إزالة الشهادة</item>
+    <item quantity="other">الثقة أو إزالة الشهادات</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">تم بواسطة %s تثبيت شهادة مرجعية لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.
+
+للحصول على مزيد من المعلومات حول هذه الشهادة، يمكنك الاتصال بالمشرف.</item>
+    <item quantity="other">تم بواسطة %s تثبيت شهادات مرجعية لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.
+
+للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">تم بواسطة %s تثبيت شهادة مرجعية على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.
+
+للحصول على مزيد من المعلومات حول هذه الشهادة، يمكنك الاتصال بالمشرف.</item>
+    <item quantity="other">تم بواسطة %s تثبيت شهادات مرجعية على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.
+
+للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">الاطلاع على الشهادة</item>
+    <item quantity="other">الاطلاع على الشهادات</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">عنصر واحد</item>
+    <item quantity="other">‏%d عنصر</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">‏رمز "رقم التعريف الشخصي" لبطاقة SIM غير صحيح، ويتبقى لديك محاولة واحدة (%d) يتعين عليك بعدها الاتصال بمشغّل شبكة الجوّال لإلغاء قفل الجهاز.</item>
+    <item quantity="other">‏رمز "رقم التعريف الشخصي" لبطاقة SIM غير صحيح، يتبقى لديك %d من المحاولات.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">تغيير إلى تنبيهات فقط لمدة ساعة واحدة حتى %2$s</item>
+    <item quantity="other">تغيير إلى تنبيهات فقط لمدة %1$d من الساعات حتى %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">تغيير إلى تنبيهات فقط لمدة دقيقة واحدة حتى %2$s</item>
+    <item quantity="other">تغيير إلى تنبيهات فقط لمدة %1$d من الدقائق (حتى %2$s)</item>
+  </plurals>
+</resources>

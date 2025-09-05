@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="apn_auth_entries">
+    <item name="r0x00000000">Kein</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">CHAP</item>
+    <item name="r0x00000000">PAP oder CHAP</item>
+  </string-array>
+  <string-array name="apn_auth_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\3</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item name="r0x00000000">IPv4</item>
+    <item name="r0x00000000">IPv6</item>
+    <item name="r0x00000000">IPv4/IPv6</item>
+  </string-array>
+  <string-array name="apn_protocol_values">
+    <item name="r0x00000000">IP</item>
+    <item name="r0x00000000">IPV6</item>
+    <item name="r0x00000000">IPV4V6</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+    <item name="r0x00000000">Interner Gerätespeicher</item>
+    <item name="r0x00000000">Austauschbare SD-Karte</item>
+    <item name="r0x00000000">Auswahl durch das System</item>
+  </string-array>
+  <string-array name="app_install_location_values">
+    <item name="r0x00000000">device</item>
+    <item name="r0x00000000">sdcard</item>
+    <item name="r0x00000000">auto</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item name="r0x00000000">Standort</item>
+    <item name="r0x00000000">Persönlich</item>
+    <item name="r0x00000000">SMS/MMS</item>
+    <item name="r0x00000000">Medien</item>
+    <item name="r0x00000000">Gerät</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item name="r0x00000000">Standort</item>
+    <item name="r0x00000000">Standort</item>
+    <item name="r0x00000000">Standort</item>
+    <item name="r0x00000000">Vibration</item>
+    <item name="r0x00000000">Kontakte lesen</item>
+    <item name="r0x00000000">Kontakte ändern</item>
+    <item name="r0x00000000">Anrufliste lesen</item>
+    <item name="r0x00000000">Anrufliste ändern</item>
+    <item name="r0x00000000">Kalender lesen</item>
+    <item name="r0x00000000">Kalender ändern</item>
+    <item name="r0x00000000">Standort</item>
+    <item name="r0x00000000">Benachrichtigung posten</item>
+    <item name="r0x00000000">Standort</item>
+    <item name="r0x00000000">Telefonieren</item>
+    <item name="r0x00000000">SMS/MMS lesen</item>
+    <item name="r0x00000000">SMS/MMS schreiben</item>
+    <item name="r0x00000000">SMS/MMS empfangen</item>
+    <item name="r0x00000000">SMS/MMS empfangen</item>
+    <item name="r0x00000000">SMS/MMS empfangen</item>
+    <item name="r0x00000000">SMS/MMS empfangen</item>
+    <item name="r0x00000000">SMS/MMS senden</item>
+    <item name="r0x00000000">SMS/MMS lesen</item>
+    <item name="r0x00000000">SMS/MMS schreiben</item>
+    <item name="r0x00000000">Einstellungen ändern</item>
+    <item name="r0x00000000">An oberste Position ziehen</item>
+    <item name="r0x00000000">Auf Benachrichtigungen zugreifen</item>
+    <item name="r0x00000000">Kamera</item>
+    <item name="r0x00000000">Audio aufnehmen</item>
+    <item name="r0x00000000">Audio wiedergeben</item>
+    <item name="r0x00000000">Zwischenablage lesen</item>
+    <item name="r0x00000000">Zwischenablage ändern</item>
+    <item name="r0x00000000">Medienschaltflächen</item>
+    <item name="r0x00000000">Audiofokus</item>
+    <item name="r0x00000000">Gesamtlautstärke</item>
+    <item name="r0x00000000">Sprachlautstärke</item>
+    <item name="r0x00000000">Klingeltonlautstärke</item>
+    <item name="r0x00000000">Medienlautstärke</item>
+    <item name="r0x00000000">Weckerlautstärke</item>
+    <item name="r0x00000000">Benachrichtigungslautstärke</item>
+    <item name="r0x00000000">Bluetooth-Lautstärke</item>
+    <item name="r0x00000000">Aktiv lassen</item>
+    <item name="r0x00000000">Standort</item>
+    <item name="r0x00000000">Standort</item>
+    <item name="r0x00000000">Nutzungsstatistiken abrufen</item>
+    <item name="r0x00000000">Mikrofon aus- oder einschalten</item>
+    <item name="r0x00000000">Toast anzeigen</item>
+    <item name="r0x00000000">Projektmedien</item>
+    <item name="r0x00000000">VPN aktivieren</item>
+    <item name="r0x00000000">Hintergrund schreiben</item>
+    <item name="r0x00000000">Strukturassistent</item>
+    <item name="r0x00000000">Screenshotassistent</item>
+    <item name="r0x00000000">Telefonstatus lesen</item>
+    <item name="r0x00000000">Mailboxnachricht hinzufügen</item>
+    <item name="r0x00000000">SIP verwenden</item>
+    <item name="r0x00000000">Ausgehende Anrufe bearbeiten</item>
+    <item name="r0x00000000">Fingerabdruck</item>
+    <item name="r0x00000000">Körpersensoren</item>
+    <item name="r0x00000000">Cell Broadcasts lesen</item>
+    <item name="r0x00000000">Standort simulieren</item>
+    <item name="r0x00000000">Speicher lesen</item>
+    <item name="r0x00000000">Speicher schreiben</item>
+    <item name="r0x00000000">Display aktivieren</item>
+    <item name="r0x00000000">Konten erstellen</item>
+    <item name="r0x00000000">Im Hintergrund ausführen</item>
+    <item name="r0x00000000">Laustärke der Bedienungshilfen</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item name="r0x00000000">Ungefährer Standort</item>
+    <item name="r0x00000000">Genauer Standort</item>
+    <item name="r0x00000000">GPS</item>
+    <item name="r0x00000000">Vibration</item>
+    <item name="r0x00000000">Kontakte lesen</item>
+    <item name="r0x00000000">Kontakte ändern</item>
+    <item name="r0x00000000">Anrufliste lesen</item>
+    <item name="r0x00000000">Anrufliste ändern</item>
+    <item name="r0x00000000">Kalender lesen</item>
+    <item name="r0x00000000">Kalender ändern</item>
+    <item name="r0x00000000">Wi-Fi-Scan</item>
+    <item name="r0x00000000">Benachrichtigung</item>
+    <item name="r0x00000000">Mobilfunknetz-Scan</item>
+    <item name="r0x00000000">Telefonieren</item>
+    <item name="r0x00000000">SMS lesen</item>
+    <item name="r0x00000000">SMS schreiben</item>
+    <item name="r0x00000000">SMS empfangen</item>
+    <item name="r0x00000000">Notfall-SMS empfangen</item>
+    <item name="r0x00000000">MMS empfangen</item>
+    <item name="r0x00000000">WAP-Push-Nachricht empfangen</item>
+    <item name="r0x00000000">SMS senden</item>
+    <item name="r0x00000000">ICC-SMS lesen</item>
+    <item name="r0x00000000">ICC-SMS schreiben</item>
+    <item name="r0x00000000">Einstellungen ändern</item>
+    <item name="r0x00000000">An oberste Position ziehen</item>
+    <item name="r0x00000000">Auf Benachrichtigungen zugreifen</item>
+    <item name="r0x00000000">Kamera</item>
+    <item name="r0x00000000">Audio aufnehmen</item>
+    <item name="r0x00000000">Audio wiedergeben</item>
+    <item name="r0x00000000">Zwischenablage lesen</item>
+    <item name="r0x00000000">Zwischenablage ändern</item>
+    <item name="r0x00000000">Medienschaltflächen</item>
+    <item name="r0x00000000">Audiofokus</item>
+    <item name="r0x00000000">Gesamtlautstärke</item>
+    <item name="r0x00000000">Sprachlautstärke</item>
+    <item name="r0x00000000">Klingeltonlautstärke</item>
+    <item name="r0x00000000">Medienlautstärke</item>
+    <item name="r0x00000000">Weckerlautstärke</item>
+    <item name="r0x00000000">Benachrichtigungslautstärke</item>
+    <item name="r0x00000000">Bluetooth-Lautstärke</item>
+    <item name="r0x00000000">aktiv lassen</item>
+    <item name="r0x00000000">Standort beobachten</item>
+    <item name="r0x00000000">Orte mit hohem Stromverbrauch überwachen</item>
+    <item name="r0x00000000">Nutzungsstatistiken abrufen</item>
+    <item name="r0x00000000">Mikrofon aus- oder einschalten</item>
+    <item name="r0x00000000">Toast anzeigen</item>
+    <item name="r0x00000000">Projektmedien</item>
+    <item name="r0x00000000">VPN aktivieren</item>
+    <item name="r0x00000000">Hintergrund schreiben</item>
+    <item name="r0x00000000">Strukturassistent</item>
+    <item name="r0x00000000">Screenshotassistent</item>
+    <item name="r0x00000000">Telefonstatus lesen</item>
+    <item name="r0x00000000">Mailbox-Nachricht hinzufügen</item>
+    <item name="r0x00000000">SIP verwenden</item>
+    <item name="r0x00000000">Ausgehende Anrufe bearbeiten</item>
+    <item name="r0x00000000">Fingerabdruck</item>
+    <item name="r0x00000000">Körpersensoren</item>
+    <item name="r0x00000000">Cell Broadcasts lesen</item>
+    <item name="r0x00000000">Standort simulieren</item>
+    <item name="r0x00000000">Speicher lesen</item>
+    <item name="r0x00000000">Speicher schreiben</item>
+    <item name="r0x00000000">Display aktivieren</item>
+    <item name="r0x00000000">Konten erstellen</item>
+    <item name="r0x00000000">Im Hintergrund ausführen</item>
+    <item name="r0x00000000">Laustärke der Bedienungshilfen</item>
+  </string-array>
+  <string-array name="auto_time_entries">
+    <item name="r0x00000000">Zeit aus Netzwerk beziehen</item>
+    <item name="r0x00000000">Per GPS bereitgestellte Zeit nutzen</item>
+    <item name="r0x00000000">Aus</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item name="r0x00000000">Älter als 30 Tage</item>
+    <item name="r0x00000000">Älter als 60 Tage</item>
+    <item name="r0x00000000">Älter als 90 Tage</item>
+  </string-array>
+  <string-array name="bearer_entries">
+    <item name="r0x00000000">Keine Angabe</item>
+    <item name="r0x00000000">LTE</item>
+    <item name="r0x00000000">HSPAP</item>
+    <item name="r0x00000000">HSPA</item>
+    <item name="r0x00000000">HSUPA</item>
+    <item name="r0x00000000">HSDPA</item>
+    <item name="r0x00000000">UMTS</item>
+    <item name="r0x00000000">EDGE</item>
+    <item name="r0x00000000">GPRS</item>
+    <item name="r0x00000000">eHRPD</item>
+    <item name="r0x00000000">EVDO_B</item>
+    <item name="r0x00000000">EVDO_A</item>
+    <item name="r0x00000000">EVDO_0</item>
+    <item name="r0x00000000">1xRTT</item>
+    <item name="r0x00000000">IS95B</item>
+    <item name="r0x00000000">IS95A</item>
+    <item name="r0x00000000">GSM</item>
+    <item name="r0x00000000">TD_SCDMA</item>
+    <item name="r0x00000000">IWLAN</item>
+  </string-array>
+  <string-array name="bearer_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\14</item>
+    <item name="r0x00000000">\15</item>
+    <item name="r0x00000000">\11</item>
+    <item name="r0x00000000">\10</item>
+    <item name="r0x00000000">\9</item>
+    <item name="r0x00000000">\3</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\13</item>
+    <item name="r0x00000000">\12</item>
+    <item name="r0x00000000">\8</item>
+    <item name="r0x00000000">\7</item>
+    <item name="r0x00000000">\6</item>
+    <item name="r0x00000000">\5</item>
+    <item name="r0x00000000">\4</item>
+    <item name="r0x00000000">\16</item>
+    <item name="r0x00000000">\17</item>
+    <item name="r0x00000000">\18</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item name="r0x00000000">2 Minuten</item>
+    <item name="r0x00000000">5 Minuten</item>
+    <item name="r0x00000000">1 Stunde</item>
+    <item name="r0x00000000">Keine Zeitüberschreitung</item>
+  </string-array>
+  <array name="captioning_color_selector_titles">
+    <item name="r0x00000000">@string/color_unspecified</item>
+    <item name="r0x00000000">@string/color_white</item>
+    <item name="r0x00000000">@string/color_black</item>
+    <item name="r0x00000000">@string/color_red</item>
+    <item name="r0x00000000">@string/color_yellow</item>
+    <item name="r0x00000000">@string/color_green</item>
+    <item name="r0x00000000">@string/color_cyan</item>
+    <item name="r0x00000000">@string/color_blue</item>
+    <item name="r0x00000000">@string/color_magenta</item>
+  </array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item name="r0x00000000">Standard</item>
+    <item name="r0x00000000">Kein</item>
+    <item name="r0x00000000">Umriss</item>
+    <item name="r0x00000000">Schlagschatten</item>
+    <item name="r0x00000000">Erhöht</item>
+    <item name="r0x00000000">Vertieft</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item name="r0x00000000">Sehr klein</item>
+    <item name="r0x00000000">Klein</item>
+    <item name="r0x00000000">Mittel</item>
+    <item name="r0x00000000">Groß</item>
+    <item name="r0x00000000">Sehr groß</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_values">
+    <item name="r0x00000000">\0.25</item>
+    <item name="r0x00000000">\0.5</item>
+    <item name="r0x00000000">\1.0</item>
+    <item name="r0x00000000">\1.5</item>
+    <item name="r0x00000000">\2.0</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item name="r0x00000000">25 %</item>
+    <item name="r0x00000000">50 %</item>
+    <item name="r0x00000000">75 %</item>
+    <item name="r0x00000000">100 %</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item name="r0x00000000">App-Standard verwenden</item>
+    <item name="r0x00000000">Weiß auf Schwarz</item>
+    <item name="r0x00000000">Schwarz auf Weiß</item>
+    <item name="r0x00000000">Gelb auf Schwarz</item>
+    <item name="r0x00000000">Gelb auf Blau</item>
+    <item name="r0x00000000">Personalisiert</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item name="r0x00000000">Standard</item>
+    <item name="r0x00000000">Sans Serif</item>
+    <item name="r0x00000000">Sans Serif, schmal</item>
+    <item name="r0x00000000">Sans Serif mit Festbreite</item>
+    <item name="r0x00000000">Serif</item>
+    <item name="r0x00000000">Serif mit Festbreite</item>
+    <item name="r0x00000000">Casual</item>
+    <item name="r0x00000000">Kursiv</item>
+    <item name="r0x00000000">Kapitälchen</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_values">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">sans-serif</item>
+    <item name="r0x00000000">sans-serif-condensed</item>
+    <item name="r0x00000000">sans-serif-monospace</item>
+    <item name="r0x00000000">serif</item>
+    <item name="r0x00000000">serif-monospace</item>
+    <item name="r0x00000000">casual</item>
+    <item name="r0x00000000">cursive</item>
+    <item name="r0x00000000">sans-serif-smallcaps</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item name="r0x00000000">Türkis</item>
+    <item name="r0x00000000">Blau</item>
+    <item name="r0x00000000">Indigo</item>
+    <item name="r0x00000000">Lila</item>
+    <item name="r0x00000000">Pink</item>
+    <item name="r0x00000000">Rot</item>
+  </string-array>
+  <array name="daltonizer_type_entries">
+    <item name="r0x00000000">@string/daltonizer_mode_deuteranomaly</item>
+    <item name="r0x00000000">@string/daltonizer_mode_protanomaly</item>
+    <item name="r0x00000000">@string/daltonizer_mode_tritanomaly</item>
+  </array>
+  <string-array name="daltonizer_type_values">
+    <item name="r0x00000000">\12</item>
+    <item name="r0x00000000">\11</item>
+    <item name="r0x00000000">\13</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item name="r0x00000000">Automatisch (je nach Tageszeit)</item>
+    <item name="r0x00000000">Immer ein</item>
+    <item name="r0x00000000">Immer aus</item>
+  </string-array>
+  <string-array name="data_usage_data_range">
+    <item name="r0x00000000">Letzte 30 Tage</item>
+    <item name="r0x00000000">Nutzungszyklus wählen…</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+    <item name="r0x00000000">Nie</item>
+    <item name="r0x00000000">15 Sekunden</item>
+    <item name="r0x00000000">30 Sekunden</item>
+    <item name="r0x00000000">1 Minute</item>
+    <item name="r0x00000000">2 Minuten</item>
+    <item name="r0x00000000">5 Minuten</item>
+    <item name="r0x00000000">10 Minuten</item>
+    <item name="r0x00000000">30 Minuten</item>
+  </string-array>
+  <string-array name="dream_timeout_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="eap_method_without_sim_auth">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="entries_font_size">
+    <item name="r0x00000000">Klein</item>
+    <item name="r0x00000000">Standard</item>
+    <item name="r0x00000000">Groß</item>
+    <item name="r0x00000000">Am größten</item>
+  </string-array>
+  <string-array name="entryvalues_font_size">
+    <item name="r0x00000000">\0.85</item>
+    <item name="r0x00000000">\1.0</item>
+    <item name="r0x00000000">\1.15</item>
+    <item name="r0x00000000">\1.30</item>
+  </string-array>
+  <string-array name="lock_after_timeout_entries">
+    <item name="r0x00000000">Sofort</item>
+    <item name="r0x00000000">5 Sekunden</item>
+    <item name="r0x00000000">15 Sekunden</item>
+    <item name="r0x00000000">30 Sekunden</item>
+    <item name="r0x00000000">1 Minute</item>
+    <item name="r0x00000000">2 Minuten</item>
+    <item name="r0x00000000">5 Minuten</item>
+    <item name="r0x00000000">10 Minuten</item>
+    <item name="r0x00000000">30 Minuten</item>
+  </string-array>
+  <string-array name="lock_after_timeout_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\5000</item>
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+    <item name="r0x00000000">Kurz</item>
+    <item name="r0x00000000">Mittel</item>
+    <item name="r0x00000000">Lang</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_values">
+    <item name="r0x00000000">\400</item>
+    <item name="r0x00000000">\1000</item>
+    <item name="r0x00000000">\1500</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item name="r0x00000000">Kein</item>
+    <item name="r0x00000000">SPN</item>
+    <item name="r0x00000000">IMSI</item>
+    <item name="r0x00000000">GID</item>
+  </string-array>
+  <string-array name="mvno_type_values">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">spn</item>
+    <item name="r0x00000000">imsi</item>
+    <item name="r0x00000000">gid</item>
+  </string-array>
+  <string-array name="proc_stats_memory_states">
+    <item name="r0x00000000">Mittel</item>
+    <item name="r0x00000000">Moderat</item>
+    <item name="r0x00000000">Niedrig</item>
+    <item name="r0x00000000">Kritisch</item>
+  </string-array>
+  <string-array name="proc_stats_process_states">
+    <item name="r0x00000000">Permanent</item>
+    <item name="r0x00000000">Topaktivität</item>
+    <item name="r0x00000000">Wichtig (Vordergrund)</item>
+    <item name="r0x00000000">Wichtig (Hintergrund)</item>
+    <item name="r0x00000000">Sicherung</item>
+    <item name="r0x00000000">Hohe Auslastung</item>
+    <item name="r0x00000000">Dienst (aktiv)</item>
+    <item name="r0x00000000">Dienst (wird neu gestartet)</item>
+    <item name="r0x00000000">Empfänger</item>
+    <item name="r0x00000000">Startseite</item>
+    <item name="r0x00000000">Letzte Aktivität</item>
+    <item name="r0x00000000">Im Cache gespeichert (Aktivität)</item>
+    <item name="r0x00000000">Im Cache gespeichert (Aktivitätsclient)</item>
+    <item name="r0x00000000">Im Cache gespeichert (leer)</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item name="r0x00000000">Normal</item>
+    <item name="r0x00000000">Mittelmäßig</item>
+    <item name="r0x00000000">Wenig</item>
+    <item name="r0x00000000">Kritisch</item>
+    <item name="r0x00000000">?</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item name="r0x00000000">15 Sekunden</item>
+    <item name="r0x00000000">30 Sekunden</item>
+    <item name="r0x00000000">1 Minute</item>
+    <item name="r0x00000000">2 Minuten</item>
+    <item name="r0x00000000">5 Minuten</item>
+    <item name="r0x00000000">10 Minuten</item>
+    <item name="r0x00000000">30 Minuten</item>
+  </string-array>
+  <string-array name="screen_timeout_values">
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item name="r0x00000000">Fragen</item>
+    <item name="r0x00000000">Nie zulassen</item>
+    <item name="r0x00000000">Immer zulassen</item>
+  </string-array>
+  <string-array name="timezone_filters">
+    <item name="r0x00000000">Amerika</item>
+    <item name="r0x00000000">Europa</item>
+    <item name="r0x00000000">Afrika</item>
+    <item name="r0x00000000">Asien</item>
+    <item name="r0x00000000">Australien</item>
+    <item name="r0x00000000">Pazifik</item>
+    <item name="r0x00000000">Alle</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item name="r0x00000000">Nutzungszeit</item>
+    <item name="r0x00000000">Zuletzt verwendet</item>
+    <item name="r0x00000000">App-Name</item>
+  </string-array>
+  <string-array name="user_content_ratings_entries">
+    <item name="r0x00000000">Ascended being</item>
+    <item name="r0x00000000">Human</item>
+    <item name="r0x00000000">Neanderthal</item>
+    <item name="r0x00000000">Chimp</item>
+    <item name="r0x00000000">Monkey</item>
+  </string-array>
+  <string-array name="user_content_ratings_values">
+    <item name="r0x00000000">\5</item>
+    <item name="r0x00000000">\4</item>
+    <item name="r0x00000000">\3</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item name="r0x00000000">Verbindung getrennt</item>
+    <item name="r0x00000000">Initialisierung läuft...</item>
+    <item name="r0x00000000">Verbindung wird hergestellt...</item>
+    <item name="r0x00000000">Verbunden</item>
+    <item name="r0x00000000">Zeitüberschreitung</item>
+    <item name="r0x00000000">Nicht erfolgreich</item>
+  </string-array>
+  <string-array name="vpn_types">
+    <item name="r0x00000000">PPTP</item>
+    <item name="r0x00000000">L2TP/IPSec PSK</item>
+    <item name="r0x00000000">L2TP/IPSec RSA</item>
+    <item name="r0x00000000">IPSec Xauth PSK</item>
+    <item name="r0x00000000">IPSec Xauth RSA</item>
+    <item name="r0x00000000">IPSec Hybrid RSA</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item name="r0x00000000">PPTP-VPN</item>
+    <item name="r0x00000000">L2TP-/IPSec-VPN mit vorinstallierten Schlüsseln</item>
+    <item name="r0x00000000">L2TP-/IPSec-VPN mit Zertifikaten</item>
+    <item name="r0x00000000">IPSec-VPN mit vorinstallierten Schlüsseln und Xauth-Authentifizierung</item>
+    <item name="r0x00000000">IPSec-VPN mit Zertifikaten und Xauth-Authentifizierung</item>
+    <item name="r0x00000000">IPSec-VPN mit Zertifikaten und Hybrid-Authentifizierung</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices">
+    <item name="r0x00000000">Wi-Fi bevorzugt</item>
+    <item name="r0x00000000">Mobilverbindung bevorzugt</item>
+    <item name="r0x00000000">Nur Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2">
+    <item name="r0x00000000">Wi-Fi</item>
+    <item name="r0x00000000">Mobil</item>
+    <item name="r0x00000000">Nur Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+    <item name="r0x00000000">Wi-Fi</item>
+    <item name="r0x00000000">Mobil</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_without_wifi_only">
+    <item name="r0x00000000">Wi-Fi bevorzugt</item>
+    <item name="r0x00000000">Mobilverbindung bevorzugt</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\0</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values_without_wifi_only">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="wifi_eap_method">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_hotspot_disable_policy_entries">
+    <item name="r0x00000000">Immer</item>
+    <item name="r0x00000000">Bei 5-minütiger Inaktivität ausschalten</item>
+    <item name="r0x00000000">Bei 10-minütiger Inaktivität ausschalten</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item name="r0x00000000">DHCP</item>
+    <item name="r0x00000000">Statisch</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item name="r0x00000000">Automatisch erkennen</item>
+    <item name="r0x00000000">Als kostenpflichtig behandeln</item>
+    <item name="r0x00000000">Als nicht kostenpflichtig behandeln</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item name="r0x00000000">Verbunden</item>
+    <item name="r0x00000000">Eingeladen</item>
+    <item name="r0x00000000">Nicht erfolgreich</item>
+    <item name="r0x00000000">Verfügbar</item>
+    <item name="r0x00000000">Außerhalb des Bereichs</item>
+  </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+    <item name="r0x00000000">Push-Schaltfläche</item>
+    <item name="r0x00000000">PIN von Peer-Gerät</item>
+    <item name="r0x00000000">PIN von diesem Gerät</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item name="r0x00000000">Kein</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+    <item name="r0x00000000">Ohne</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_phase2_entries">
+    <item name="r0x00000000">Kein</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">MSCHAP</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item name="r0x00000000">Kein</item>
+    <item name="r0x00000000">Manuell</item>
+    <item name="r0x00000000">Autom. Proxy-Konfig.</item>
+  </string-array>
+  <array name="wifi_security">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+    <item name="r0x00000000">@string/wifi_security_eap</item>
+  </array>
+  <array name="wifi_security_no_eap">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+  </array>
+  <string-array name="wifi_signal">
+    <item name="r0x00000000">Schwach</item>
+    <item name="r0x00000000">Schwach</item>
+    <item name="r0x00000000">Gut</item>
+    <item name="r0x00000000">OK</item>
+    <item name="r0x00000000">Ausgezeichnet</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Scan läuft…</item>
+    <item name="r0x00000000">Verbindung wird hergestellt...</item>
+    <item name="r0x00000000">Authentifizierung...</item>
+    <item name="r0x00000000">IP-Adresse wird abgerufen...</item>
+    <item name="r0x00000000">Verbunden</item>
+    <item name="r0x00000000">Angehalten</item>
+    <item name="r0x00000000">Verbindung wird getrennt...</item>
+    <item name="r0x00000000">Nicht verbunden</item>
+    <item name="r0x00000000">Nicht erfolgreich</item>
+    <item name="r0x00000000">Blockiert</item>
+    <item name="r0x00000000">Schlechte Internetverbindung wird vorübergehend vermieden.</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Scan läuft…</item>
+    <item name="r0x00000000">Verbindung mit %1$s wird hergestellt...</item>
+    <item name="r0x00000000">Authentifizierung mit %1$s...</item>
+    <item name="r0x00000000">IP-Adresse wird von %1$s abgerufen...</item>
+    <item name="r0x00000000">Verbunden mit %1$s</item>
+    <item name="r0x00000000">Angehalten</item>
+    <item name="r0x00000000">Verbindung mit %1$s wird getrennt...</item>
+    <item name="r0x00000000">Nicht verbunden</item>
+    <item name="r0x00000000">Nicht erfolgreich</item>
+    <item name="r0x00000000">Blockiert</item>
+    <item name="r0x00000000">Schlechte Internetverbindung wird vorübergehend vermieden.</item>
+  </string-array>
+</resources>

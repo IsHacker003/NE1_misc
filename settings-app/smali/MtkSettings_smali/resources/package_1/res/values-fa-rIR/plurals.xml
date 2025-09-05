@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">‏%d برنامه می‌تواند اعلان‌ها را بخواند</item>
+    <item quantity="other">‏%d برنامه‌‌ می‌توانند اعلان‌ها را بخوانند</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">شما در حال حاضر، %1$d قدم تا برنامه‌نویس شدن فاصله دارید.</item>
+    <item quantity="other">شما در حال حاضر، %1$d قدم تا برنامه‌نویس شدن فاصله دارید.</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">کد پین سیم کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید و پس از آن برای گشودن قفل دستگاهتان باید با شرکت مخابراتی تماس بگیرید.</item>
+    <item quantity="other">کد پین سیم کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>
+  </plurals>
+</resources>

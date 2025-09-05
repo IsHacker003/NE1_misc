@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen android:id="@id/smartCallFwd"
+                  android:title="@string/smart_call_fwd_settings_title"
+                  android:key="smart_call_fwd_settings" xmlns:android="http://schemas.android.com/apk/res/android">
+  <ListPreference android:enabled="false"
+                  android:entries="@array/smart_call_fwd_choices"
+                  android:title="@string/smart_call_fwd_settings_title"
+                  android:key="smart_call_fwd_modes"
+                  android:summary="%s"
+                  android:defaultValue="3"
+                  android:dialogTitle="@string/smart_call_fwd_dlg_title"
+                  android:entryValues="@array/smart_call_fwd_mode_values" />
+  <EditTextPreference android:enabled="false"
+                      android:singleLine="true"
+                      android:title="SIM1 Number"
+                      android:key="smart_sim1_pref"
+                      android:summary="@string/value_not_set"
+                      android:dialogTitle="SIM1 Number"
+                      android:inputType="phone" />
+  <EditTextPreference android:enabled="false"
+                      android:singleLine="true"
+                      android:title="SIM2 Number"
+                      android:key="smart_sim2_pref"
+                      android:summary="@string/value_not_set"
+                      android:dialogTitle="SIM2 Number"
+                      android:inputType="phone" />
+</PreferenceScreen>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen android:title="@string/sim_settings_title"
+                  settings:keywords="@string/sim_settings_title" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+  <Preference android:title="@string/color_title"
+              android:key="sim_color" />
+  <cust.settings.CustSimEditTextPreference android:persistent="false"
+                        android:singleLine="true"
+                        android:title="@string/sim_editor_name"
+                        android:key="sim_name"
+                        android:dialogTitle="@string/sim_editor_name"
+                        android:dialogLayout="@layout/zzz_sim_preference_dialog_edittext"
+                        android:inputType="text" />
+</PreferenceScreen>

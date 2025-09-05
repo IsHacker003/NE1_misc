@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+  <ScrollView android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:layout_weight="1.0">
+    <TextView android:textAppearance="?android:attr/textAppearanceSmall"
+              android:linksClickable="true"
+              android:id="@id/context_text"
+              android:paddingLeft="16.0dp"
+              android:paddingTop="24.0dp"
+              android:paddingRight="16.0dp"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content" />
+  </ScrollView>
+  <Button android:textColor="@color/zzz_one_right_btn_textcolor"
+          android:id="@id/done_button"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/dlg_ok"
+          style="@style/fih_inlife_btn_style" />
+</LinearLayout>

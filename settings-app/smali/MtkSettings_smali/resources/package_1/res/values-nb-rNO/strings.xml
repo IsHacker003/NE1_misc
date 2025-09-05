@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="about_settings">Om telefonen</string>
+  <string name="accelerometer_summary_off">Bytt orientering automatisk når telefonen blir snudd</string>
+  <string name="accelerometer_summary_on">Bytt orientering automatisk når telefonen blir snudd</string>
+  <string name="accessibility_feature_state_off">Av</string>
+  <string name="accessibility_feature_state_on">På</string>
+  <string name="accessibility_summary_state_disabled">Av</string>
+  <string name="accessibility_summary_state_enabled">På</string>
+  <string name="accessibility_vibration_intensity_off">Av</string>
+  <string name="advanced_apps">Avansert</string>
+  <string name="advanced_section_header">Avansert</string>
+  <string name="advanced_security_title">Avansert</string>
+  <string name="ambient_display_pickup_summary">Ta opp telefonen for å sjekke tidspunkt, varselikoner og annen informasjon.</string>
+  <string name="ambient_display_pickup_title">Løft for å sjekke telefonen</string>
+  <string name="ambient_display_title">Dobbelttrykk for å sjekke telefonen</string>
+  <string name="android_beam_off_summary">Av</string>
+  <string name="apn_apn">APN-navn</string>
+  <string name="apn_auth_type">Autentiseringstype</string>
+  <string name="apn_auth_type_chap">CHAP</string>
+  <string name="apn_auth_type_none">Ingen</string>
+  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_pap_chap">CHAP</string>
+  <string name="apn_http_port">Port</string>
+  <string name="apn_http_proxy">Proxy-tjener</string>
+  <string name="apn_mcc">MCC</string>
+  <string name="apn_mms_port">MMS-port</string>
+  <string name="apn_mms_proxy">Proxy-tjener for MMS</string>
+  <string name="apn_mmsc">MMSC</string>
+  <string name="apn_mnc">MNC</string>
+  <string name="apn_name">Navn</string>
+  <string name="apn_not_set">Ikke angitt</string>
+  <string name="apn_password">Passord</string>
+  <string name="apn_server">Tjener</string>
+  <string name="apn_type">APN-type</string>
+  <string name="apn_user">Brukernavn</string>
+  <string name="app_list_preference_none">Ingen</string>
+  <string name="app_notification_row_banned">Blokkert</string>
+  <string name="assistant_security_warning_agree">Godta</string>
+  <string name="auto_boot_pref_title">Administrasjon av automatisk start</string>
+  <string name="auto_brightness_default_title">Standard</string>
+  <string name="auto_brightness_off_title">Av</string>
+  <string name="auto_brightness_summary_off">Av</string>
+  <string name="available_via_passpoint">Tilgjengelig via %1$s</string>
+  <string name="backup_pw_cancel_button_text">Avbryt</string>
+  <string name="band_mode_failed">Ikke fullført</string>
+  <string name="battery_desc_standby">Batteri brukt når telefonen ikke er i bruk</string>
+  <string name="battery_manager_off">Av</string>
+  <string name="battery_saver_off_summary">Av</string>
+  <string name="battery_saver_on_summary">På</string>
+  <string name="battery_suggestion_title">Forbedre telefonens batterilevetid</string>
+  <string name="battery_tip_dialog_message">Telefonen din har blitt brukt mer enn vanlig. Batteriet kan gå tomt raskere enn forventet.
+
+Topp %1$d apper du har brukt siden forrige lading:</string>
+  <string name="battery_tip_dialog_summary_message">Appene bruker en normal batterimengde. Hvis apper bruker for mye batteri, får du forslag om hva du kan gjøre.
+
+Du kan når som helst slå på batterisparing hvis du har lite batteri.</string>
+  <string name="battery_tip_high_usage_title">Telefonen brukes mer enn vanlig</string>
+  <string name="battery_tip_restrict_app_dialog_ok">Begrens</string>
+  <string name="battery_tip_smart_battery_title">Forbedre telefonens batterilevetid</string>
+  <string name="battery_tip_summary_summary">Telefonen har vanlig batteribruk i bakgrunnen</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">Avbryt</string>
+  <string name="bluetooth_ask_discovery">%1$s ønsker å gjøre telefonen din synlig for andre Bluetooth-enheter i %2$d sekunder.</string>
+  <string name="bluetooth_ask_discovery_no_name">En app ønsker å gjøre telefonen din synlig for andre Bluetooth-enheter i %1$d sekunder.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">%1$s ønsker å slå på Bluetooth og gjøre telefonen din synlig for andre enheter i %2$d sekunder.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">En app ønsker å slå på Bluetooth og gjøre telefonen din synlig for andre enheter i %1$d sekunder.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s ønsker å slå på Bluetooth og gjøre telefonen din synlig for andre enheter. Du kan endre dette i Bluetooth-innstillingene senere.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">En app ønsker å slå på Bluetooth og gjøre telefonen din synlig for andre enheter. Du kan endre dette i Bluetooth-innstillingene senere.</string>
+  <string name="bluetooth_ask_lasting_discovery">%1$s ønsker å gjøre telefonen din synlig for andre Bluetooth-enheter. Du kan endre dette i Bluetooth-innstillingene senere.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">En app ønsker å gjøre telefonen din synlig for andre Bluetooth-enheter. Du kan endre dette i Bluetooth-innstillingene senere.</string>
+  <string name="bluetooth_connecting">Kobler til…</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Koble til</string>
+  <string name="bluetooth_device_context_connect">Koble til</string>
+  <string name="bluetooth_device_name">Enhetsnavn</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Avbryt</string>
+  <string name="bluetooth_disabled">Av</string>
+  <string name="bluetooth_disconnect_all_profiles">Telefonen din kobles fra %1$s.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s blir koblet fra deling av telefonens Internett-tilkobling.</string>
+  <string name="bluetooth_disconnected">Frakoblet</string>
+  <string name="bluetooth_disconnecting">Kobler fra…</string>
+  <string name="bluetooth_footer_mac_message">Telefonens Bluetooth-adresse: %1$s</string>
+  <string name="bluetooth_menu_advanced">Avansert</string>
+  <string name="bluetooth_pairing_decline">Avbryt</string>
+  <string name="bluetooth_pref_summary">Tillat at telefonen din kommuniserer med Bluetooth-enheter i nærheten</string>
+  <string name="bluetooth_preference_paired_dialog_name_label">Navn</string>
+  <string name="bluetooth_tethering_subtext">Del telefonens Internett-tilkobling via Bluetooth</string>
+  <string name="bluetooth_unpair_dialog_body">Telefonen din kommer ikke lenger til å være koblet sammen med %1$s</string>
+  <string name="cancel">Avbryt</string>
+  <string name="color_blue">Blå</string>
+  <string name="color_green">Grønn</string>
+  <string name="color_none">Ingen</string>
+  <string name="color_orange">Oransje</string>
+  <string name="color_purple">Lilla</string>
+  <string name="color_title">Farge</string>
+  <string name="color_unspecified">Standard</string>
+  <string name="color_yellow">Gul</string>
+  <string name="condition_device_muted_title">Lyden på telefonen er slått av</string>
+  <string name="condition_device_vibrate_summary">Anrop og varsler får telefonen til å vibrere</string>
+  <string name="condition_device_vibrate_title">Telefonen er satt til vibrering</string>
+  <string name="condition_expand_show">Vis</string>
+  <string name="connected_via_passpoint">Tilkoblet via %1$s</string>
+  <string name="credentials_install">Installer fra SD-kort</string>
+  <string name="credentials_install_summary">Installer sertifikater fra SD-kort</string>
+  <string name="crypt_keeper_button_text">Kryptér telefonen</string>
+  <string name="crypt_keeper_data_corrupt_summary">Passordet du skrev inn, er korrekt, men dataene dine er dessverre skadet. 
+
+Hvis du vil bruke telefonen din, må du tilbakestille den til fabrikkstandard. Når du konfigurerer telefonen etter tilbakestillingen, kan du gjenopprette alle data som er blitt sikkerhetskopiert fra Google-kontoen din.</string>
+  <string name="crypt_keeper_desc">Du kan kryptere kontoer, innstillinger, nedlastede apper og tilhørende data, medier og andre filer. Etter at du har kryptert telefonen – forutsatt at du har konfigurert en skjermlås (det vil si et mønster, en numerisk PIN-kode eller et passord) – må du låse opp skjermen for å dekryptere telefonen hver gang du slår den på. Den eneste andre måten å dekryptere den på, er ved å foreta en tilbakestilling til fabrikkstandard. Dette sletter alle dataene dine. 
+
+Krypteringen kommer til å ta en time eller mer. Du må starte med oppladet batteri, og telefonen må være tilkoblet under hele prosessen. Hvis du avbryter den, mister du noe av eller all informasjonen din.</string>
+  <string name="crypt_keeper_encrypt_title">Kryptér telefonen</string>
+  <string name="crypt_keeper_failed_summary">Krypteringen ble avbrutt og kan ikke fullføres. Dette betyr at dataene på telefonen din ikke lenger er tilgjengelige.
+
+For å fortsette å bruke telefonen, må du gjennomføre en tilbakestilling til fabrikkstandard. Når du konfigurerer telefonen etter tilbakestillingen, får du mulighet til å gjenopprette data som ble sikkerhetskopiert til Google-kontoen din.</string>
+  <string name="crypt_keeper_final_desc">Krypteringshandlingen kan ikke angres, og hvis du avbryter den, risikerer du å miste data. Krypteringsprosessen tar minst én time, og telefonen kommer til å starte på nytt flere ganger underveis.</string>
+  <string name="crypt_keeper_force_power_cycle">For å låse opp telefonen din må du slå den av og så på igjen.</string>
+  <string name="crypt_keeper_setup_description">Vent mens telefonen krypteres. ^1 fullført.</string>
+  <string name="crypt_keeper_setup_time_remaining">Vent mens telefonen din krypteres. Tid som gjenstår: ^1</string>
+  <string name="daltonizer_mode_disabled">Slått av</string>
+  <string name="data_protection_title">Databeskyttelse</string>
+  <string name="data_saver_off">Av</string>
+  <string name="data_saver_on">På</string>
+  <string name="data_service_enable_mobile">Midlertidig datatjeneste</string>
+  <string name="data_service_prompt">Ved bruk av SIM uten data i VoLTE-anrop, brukes det til datatjeneste. Dette vil føre til ekstra databruk på SIM-kortet.</string>
+  <string name="data_service_summary">Ved bruk av SIM uten data i VoLTE-anrop, brukes det til datatjeneste</string>
+  <string name="data_usage_auto_sync_on_dialog">Alle endringene du gjør i kontoene dine på nettet, kopieres auto­matisk til telefonen din.
+
+Noen kontoer kan også auto­matisk kopiere endringer du gjør på telefonen, til nettet. Google-kontoer fungerer på denne måten.</string>
+  <string name="data_usage_limit_dialog_mobile">Mobildata slås av når du har brukt mengden du har angitt.
+
+Siden databruken måles av telefonen, og operatøren din kan beregne bruken annerledes, kan det være lurt å angi en konservativ grense.</string>
+  <string name="data_usage_list_none">Ingen</string>
+  <string name="data_usage_restrict_background_multiuser">Hvis du begrenser mobildatabruk i bakgrunnen, er det enkelte apper og tjenester som ikke fungerer med mindre du er tilkoblet Wi-Fi.
+
+Denne innstillingen påvirker alle brukerne på denne telefonen.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: omtrentlig forbruk på %1$s, målt av telefonen. Operatørens måling kan avvike.</string>
+  <string name="decryption_settings_summary">Telefonen er ikke kryptert</string>
+  <string name="default_apps_title">Standard</string>
+  <string name="default_keyboard_layout">Standard</string>
+  <string name="default_theme">Standard</string>
+  <string name="delete">Slett</string>
+  <string name="deletion_helper_manual_title">Manuelt</string>
+  <string name="device_info_settings">Telefonstatus</string>
+  <string name="device_status">Status</string>
+  <string name="device_status_activity_title">Status</string>
+  <string name="device_status_summary">Telefonnummer, signalstyrke, osv.</string>
+  <string name="dialog_background_check_message">Telefonen kan ikke styre batteriet som normalt fordi %1$s stadig vekker telefonen.
+
+For å forsøke å løse problemet kan du stoppe %1$s og forhindre at den kjører i bakgrunnen.</string>
+  <string name="dialog_location_message">Telefonen din kan ikke styre batteriet som normalt fordi %1$s stadig ber om posisjonen din når du ikke bruker appen.
+
+Du kan løse problemet ved å slå av posisjon for denne appen.</string>
+  <string name="dialog_stop_message">Telefonen kan ikke styre batteriet som normalt fordi %1$s holder telefonen aktiv.
+
+For å forsøke å løse problemet kan du stoppe appen.
+
+Hvis problemet vedvarer, må du kanskje avinstallere appen for å få bedre batteriytelse.</string>
+  <string name="dialog_stop_message_wakeup_alarm">Telefonen kan ikke styre batteriet som normal fordi %1$s stadig vekker telefonen.
+
+For å forsøke å løse problemet kan du stoppe %1$s.
+
+Hvis problemet vedvarer, må du kanskje avinstallere appen for å få bedre batteriytelse.</string>
+  <string name="disabled">Slått av</string>
+  <string name="display_cutout_emulation_none">Ingen</string>
+  <string name="dlg_cancel">Avbryt</string>
+  <string name="dlg_close">Lukk</string>
+  <string name="dlg_confirm_unmount_text">Hvis du kobler fra SD-kortet, virker ikke lenger alle appene som de skal, og de kan være utilgjengelige inntil du kobler til SD-kortet på nytt.</string>
+  <string name="dlg_confirm_unmount_title">Vil du koble fra SD-kortet?</string>
+  <string name="dlg_error_unmount_text">Kan ikke koble fra SD-kort. Prøv på nytt senere.</string>
+  <string name="dlg_ok">OK</string>
+  <string name="dock_audio_summary_none">Telefonen er ikke plassert i forankringsstasjonen</string>
+  <string name="dock_not_found_text">Du må dokke telefonen før du konfigurerer dokklyden.</string>
+  <string name="dock_sounds_enable_summary_off">Ikke spill av lyd når telefonen settes inn eller tas ut av forankringsstasjonen</string>
+  <string name="dock_sounds_enable_summary_on">Spill av lyd når telefonen settes inn eller tas ut av forankringsstasjonen</string>
+  <string name="doze_always_on_title">Alltid på</string>
+  <string name="encryption_and_credential_settings_summary">Telefonen er kryptert</string>
+  <string name="enterprise_privacy_none">Ingen</string>
+  <string name="erase_esim_storage_description">Tøm alle e-SIM-kortene i telefonen. Dette avslutter ikke mobilabonnementet ditt.</string>
+  <string name="erase_external_storage">Tøm SD-kort</string>
+  <string name="erase_external_storage_description">Slett alle data fra SD-kortet, som musikk og bilder</string>
+  <string name="external_data_size_label">SD-kort</string>
+  <string name="fih_color_picker_blue">Blå</string>
+  <string name="fih_color_picker_green">Grønn</string>
+  <string name="fih_color_picker_orange">Oransje</string>
+  <string name="fih_color_picker_pink">Rosa</string>
+  <string name="fih_color_picker_purple">Lilla</string>
+  <string name="fih_color_picker_yellow">Gul</string>
+  <string name="fih_master_reset_battery_limit_alert_ok">Bekreft</string>
+  <string name="fih_message_vibrate">Vibrer</string>
+  <string name="fih_ringtone_add">Legg til</string>
+  <string name="fih_ringtone_remove">Fjern</string>
+  <string name="fih_ringtone_select_all">Alle</string>
+  <string name="filter_apps_onsdcard">På minnekort</string>
+  <string name="fingerprint_enroll_button_next">Neste</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Sjekk varsler ved å sveipe ned på fingeravtrykksensoren på baksiden av telefonen.</string>
+  <string name="font_size_save">OK</string>
+  <string name="forget">Glem</string>
+  <string name="gesture_preference_summary">Hurtigbevegelser for å kontrollere telefonen din</string>
+  <string name="gesture_setting_off">Av</string>
+  <string name="gesture_setting_on">På</string>
+  <string name="hdmi_auto">AUTO</string>
+  <string name="install_all_warning">Telefonen din og personopplysningene dine er mer sårbare for angrep hvis du bruker ukjente apper. Ved å installere apper fra denne kilden godtar du at du selv er ansvarlig for enhver skade på telefonen eller tap av data som kan oppstå, fra bruk av slike apper.</string>
+  <string name="intent_sender_account_label">Konto</string>
+  <string name="keyboard_layout_default_label">Standard</string>
+  <string name="link_speed">%1$d Mbps</string>
+  <string name="locale_default">Standard</string>
+  <string name="location_off_summary">Av</string>
+  <string name="location_on_summary">På</string>
+  <string name="location_street_level">Tillat at apper bruker GPS på telefonen til å finne den eksakte posisjonen din</string>
+  <string name="lock_screen_intro_skip_dialog_text">Funksjoner for enhetsbeskyttelse blir ikke slått på. Du kommer ikke til å kunne forhindre at andre bruker denne telefonen hvis den blir stjålet.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Funksjoner for enhetsbeskyttelse blir ikke slått på. Du kommer ikke til å kunne forhindre at andre bruker denne telefonen hvis du mister den eller den blir stjålet eller tilbakestilt.</string>
+  <string name="lockpassword_cancel_label">Avbryt</string>
+  <string name="lockpattern_tutorial_cancel_label">Avbryt</string>
+  <string name="lockpattern_tutorial_continue_label">Neste</string>
+  <string name="manage_trust_agents_summary">Ingen</string>
+  <string name="manual">Manuelt</string>
+  <string name="master_clear_accounts">
+
+Du er for øyeblikket pålogget følgende kontoer:
+</string>
+  <string name="master_clear_button_text">Tilbakestill telefonen</string>
+  <string name="master_clear_desc">Dette sletter alle data fra telefonens <b>interne lagringsplass</b>, inkludert
+
+<li>Google-kontoen din</li><li>data og innstillinger for system og apper</li><li>nedlastede apper</li></string>
+  <string name="master_clear_desc_erase_external_storage">
+
+For å slette musikk, bilder og andre brukerdata, må <b>SD-kortet</b> tømmes.</string>
+  <string name="master_clear_other_users_present">
+
+Det er andre brukere tilstede på denne enheten.
+</string>
+  <string name="media_output_summary">Telefon</string>
+  <string name="media_output_summary_unavailable">Utilgjengelig</string>
+  <string name="menu_save">Lagre</string>
+  <string name="motion_turn_over_reject_call_help">Snu telefonen hvis du vil avvise et innkommende anrop</string>
+  <string name="motion_volume_quiet_pickup_help">Plasser telefonen horisontalt for å dempe ringetonen til lydløs ved innkommende anrop</string>
+  <string name="motion_volume_quiet_pickup_title">Lydløs ved åpning</string>
+  <string name="move_app_to_internal">Flytt til telefonen</string>
+  <string name="move_app_to_sdcard">Flytt til minnekort</string>
+  <string name="mvno_type_none">Ingen</string>
+  <string name="my_device_info_account_preference_title">Konto</string>
+  <string name="my_device_info_device_name_preference_title">Enhetsnavn</string>
+  <string name="network_scorer_picker_none_preference">Ingen</string>
+  <string name="new_device_suggestion_summary">Få en innføring i den nye telefonen din</string>
+  <string name="next_label">Neste</string>
+  <string name="nfc_payment_default_not_set">Ikke angitt</string>
+  <string name="nfc_quick_toggle_summary">Tillat utveksling av data når telefonen berører en annen enhet</string>
+  <string name="nfc_service_summary_disabled">Slått av</string>
+  <string name="nfc_service_summary_enabled">Aktivert</string>
+  <string name="night_display_auto_mode_never">Ingen</string>
+  <string name="night_display_status_title">Status</string>
+  <string name="notification_listener_disable_warning_cancel">Avbryt</string>
+  <string name="notification_toggle_off">Av</string>
+  <string name="notification_toggle_on">På</string>
+  <string name="notification_volume_title">Varsel</string>
+  <string name="notifications_disabled">Av</string>
+  <string name="notifications_enabled">På</string>
+  <string name="okay">OK</string>
+  <string name="owner_info_settings_summary">Ingen</string>
+  <string name="passpoint_content">%1$s-legitimasjon</string>
+  <string name="passpoint_label">Lagret via</string>
+  <string name="phone_info_label">Telefoninformasjon</string>
+  <string name="please_select_phase2">Fase 2-autentisering</string>
+  <string name="power_idle">Telefonen ikke i bruk</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Telefonen slås kanskje av snart</string>
+  <string name="power_remaining_duration_shutdown_imminent">Telefonen slås kanskje av snart (%1$s)</string>
+  <string name="poweroff_animation_summary">Spill avslutningsanimasjon</string>
+  <string name="poweroff_animation_title">Avslutningsanimasjon</string>
+  <string name="preference_change_password_title">Endre passord</string>
+  <string name="prevent_ringing_option_none_summary">Av</string>
+  <string name="print_cancel">Avbryt</string>
+  <string name="print_feature_state_off">Av</string>
+  <string name="print_feature_state_on">På</string>
+  <string name="print_settings_summary_no_service">Av</string>
+  <string name="proxy_error">Merk</string>
+  <string name="proxy_error_dismiss">OK</string>
+  <string name="proxy_error_empty_host_set_port">Feltet for portnummer må være tomt hvis feltet for vertsnavn er tomt.</string>
+  <string name="proxy_error_empty_port">Du må fylle ut portfeltet.</string>
+  <string name="proxy_error_invalid_exclusion_list">Eksklusjonslisten du tastet inn er ikke riktig formatert. Tast inn en kommadelt liste med ekskluderte domener.</string>
+  <string name="proxy_error_invalid_port">Angitt port er ikke gyldig.</string>
+  <string name="proxy_exclusionlist_label">Ikke bruk proxy-tjener for</string>
+  <string name="proxy_hostname_label">Proxy-tjenerens vertsnavn</string>
+  <string name="proxy_port_label">Port for proxy-tjener</string>
+  <string name="proxy_settings_title">Proxy-tjener</string>
+  <string name="proxy_url_title">PAC-nettadresse: </string>
+  <string name="proxy_warning_limited_support">HTTP-proxy-tjeneren brukes av nettleseren, men kan ikke brukes av andre apper.</string>
+  <string name="radioInfo_data_connected">Tilkoblet</string>
+  <string name="radioInfo_data_disconnected">Frakoblet</string>
+  <string name="radioInfo_data_suspended">Satt på vent</string>
+  <string name="radio_info_ims_feature_status_unavailable">Utilgjengelig</string>
+  <string name="really_remove_account_message">Hvis du fjerner denne kontoen, slettes alle tilhørende e-poster, kontakter og andre data fra telefonen!</string>
+  <string name="reset_network_desc">Dette tilbakestiller alle nettverksinnstillinger, inkludert
+
+<li>Wi‑Fi</li><li>mobildata</li><li>Bluetooth</li></string>
+  <string name="restriction_nfc_enable_summary">Tillat utveksling av data når telefonen berører en annen enhet</string>
+  <string name="retail_demo_reset_next">Neste</string>
+  <string name="roaming_warning_multiuser">Når du tillater roaming, kan dette føre til høye datakostnader.
+
+Denne innstillingen påvirker alle brukerne på denne telefonen.</string>
+  <string name="running_frequency">Frekvens</string>
+  <string name="runningservicedetails_stop_dlg_text">Hvis du stopper denne tjenesten, kan noen av funksjonene i telefonen din slutte å virke slik de skal inntil du slår den av og deretter på igjen.</string>
+  <string name="save">Lagre</string>
+  <string name="saved_network">Lagret av %1$s</string>
+  <string name="screen_zoom_summary_default">Standard</string>
+  <string name="screensaver_settings_summary_off">Av</string>
+  <string name="sd_card_settings_label">SD-kort</string>
+  <string name="sd_card_storage">SD-kortlagring</string>
+  <string name="sd_eject">Avmonter/løs ut minnekort</string>
+  <string name="sd_eject_summary">Koble fra SD-kortet for trygg fjerning</string>
+  <string name="sd_format">Tøm SD-kort</string>
+  <string name="sd_format_summary">Sletter alle data på SD-kortet, for eksempel musikk og bilder</string>
+  <string name="sd_insert_summary">Sett inn et minnekort for å koble til</string>
+  <string name="sd_memory">SD-kort</string>
+  <string name="sd_mount">Koble til minnekort</string>
+  <string name="sdcard_format">Tøm SD-kort</string>
+  <string name="sdcard_setting">SD-kort</string>
+  <string name="sdcard_settings_bad_removal_status">Minnekortet ble fjernet mens det fortsatt var i bruk!</string>
+  <string name="sdcard_settings_mass_storage_status">SD-kortet brukes som masselagringsenhet.</string>
+  <string name="sdcard_settings_not_present_status">Minnekort mangler</string>
+  <string name="sdcard_settings_read_only_status">SD-kortet har bare lesetilgang.</string>
+  <string name="sdcard_settings_scanning_status">Leter etter media på minnekortet…</string>
+  <string name="sdcard_settings_unmounted_status">Du kan nå fjerne SD-kortet.</string>
+  <string name="sdcard_unmount">Avmonter/løs ut minnekort</string>
+  <string name="security_passwords_title">Personvern</string>
+  <string name="security_settings_desc">Denne appen har tilgang til følgende på telefonen din:</string>
+  <string name="security_settings_desc_multi">Denne appen får tilgang til følgende på telefonen din. Enkelte av disse tillatelsene er tilgjengelig for %1$s for å forbedre ytelsen og redusere minnebruken, ettersom denne appen kjører i samme prosess som %2$s:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Slett</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">Navn</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">Avbryt</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Neste</string>
+  <string name="settings_manual_activity_title">Manuelt</string>
+  <string name="setup_lock_settings_picker_message">Hindre at andre bruker denne telefonen uten din tillatelse, ved å aktivere funksjoner for enhetsbeskyttelse. Velg skjermlåsen du vil bruke.</string>
+  <string name="setup_lock_settings_picker_title">Beskytt telefonen</string>
+  <string name="show_operator_name_title">Nettverksnavn</string>
+  <string name="sim_card_select_title">Velg SIM-kort</string>
+  <string name="sim_editor_title">SIM-kortspor %1$d</string>
+  <string name="sim_enabler_both_inactive">Feil, kan ikke deaktivere alle SIM</string>
+  <string name="sim_enabler_disabling">Deaktiverer ...</string>
+  <string name="sim_enabler_need_switch_data_service">Deaktiverer og bytter til SIM%1$s for datatjenester. Er du sikker?</string>
+  <string name="sim_enter_cancel">Avbryt</string>
+  <string name="sim_enter_ok">OK</string>
+  <string name="sim_lock_off">Krev PIN-kode for å bruke telefonen</string>
+  <string name="sim_lock_on">Krev PIN-kode for å bruke telefonen</string>
+  <string name="sim_lock_settings_summary_off">Av</string>
+  <string name="smart_battery_footer">Når batteristyring oppdager at apper bruker for mye batteri, får du muligheten til å begrense disse appene. Begrensede apper fungerer muligens ikke som de skal, og varsler kan bli forsinket.</string>
+  <string name="status_number">Telefonnummer</string>
+  <string name="status_number_sim_slot">Telefonnummer (SIM-kortspor %1$d)</string>
+  <string name="status_number_sim_status">Telefonnummer på SIM-kort</string>
+  <string name="status_signal_strength">Signalstyrke</string>
+  <string name="storage_manager_indicator_off">Av</string>
+  <string name="storage_manager_indicator_on">På</string>
+  <string name="storage_menu_forget">Glem</string>
+  <string name="storage_settings_summary">Avmonter minnekort, vis ledig plass</string>
+  <string name="storage_wizard_init_v2_internal_action">Telefonlagring</string>
+  <string name="storage_wizard_init_v2_internal_summary">For apper, filer og medier bare på denne telefonen</string>
+  <string name="storage_wizard_init_v2_internal_title">Bruk som ekstra telefonlagring</string>
+  <string name="storage_wizard_migrate_v2_body">Du kan flytte filer, media og visse apper til ^1. 
+
+Flyttingen frigjør ^2 av telefonens lagring og bør ta omtrent ^3.</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">må du holde telefonen ladet</string>
+  <string name="sub_activate_failed">Aktiveringen mislyktes.</string>
+  <string name="sub_deactivate_failed">Deaktiveringen mislyktes.</string>
+  <string name="suggested_lock_settings_summary">Angi en skjermlås for å beskytte telefonen</string>
+  <string name="suggestion_button_text">Ok</string>
+  <string name="switch_off_text">Av</string>
+  <string name="switch_on_text">På</string>
+  <string name="testing_phone_info">Telefoninformasjon</string>
+  <string name="tts_install_voices_cancel">Avbryt</string>
+  <string name="unlock_set_unlock_mode_off">Ingen</string>
+  <string name="unlock_set_unlock_mode_password">Passord</string>
+  <string name="unlock_set_unlock_off_title">Ingen</string>
+  <string name="unlock_set_unlock_password_title">Passord</string>
+  <string name="unmount_inform_text">SD-kort kobles fra.</string>
+  <string name="unsupported_setting_summary">Innstillingen støttes ikke på denne telefonen</string>
+  <string name="usage_type_phone">Telefonnummer</string>
+  <string name="usage_type_video">Video</string>
+  <string name="usb_tethering_subtext">Del telefonens Internett-tilkobling via USB</string>
+  <string name="user_cannot_manage_message">Bare eieren av telefonen kan administrere brukere.</string>
+  <string name="user_confirm_remove_self_message">Lagringsplassen og dataene dine blir fjernet fra telefonen. Denne handlingen kan ikke angres.</string>
+  <string name="user_delete_button">Slett</string>
+  <string name="user_dict_settings_add_dialog_confirm">OK</string>
+  <string name="user_dict_settings_context_menu_delete_title">Slett</string>
+  <string name="vpn_cancel">Avbryt</string>
+  <string name="vpn_connect">Koble til</string>
+  <string name="vpn_disconnected_summary">Ingen</string>
+  <string name="vpn_forget">Glem</string>
+  <string name="vpn_lockdown_none">Ingen</string>
+  <string name="vpn_name">Navn</string>
+  <string name="vpn_password">Passord</string>
+  <string name="vpn_save">Lagre</string>
+  <string name="vpn_username">Brukernavn</string>
+  <string name="wallpaper_settings_summary_default">Standard</string>
+  <string name="wapi_auto_sel_cert">Velg automatisk</string>
+  <string name="wapi_cert_manage_title">WAPI-sertifikatbehandling</string>
+  <string name="wifi_add_network">Legg til nettverk</string>
+  <string name="wifi_advanced_ip_address_title">IP-adresse</string>
+  <string name="wifi_advanced_settings_label">IP-innstillinger</string>
+  <string name="wifi_advanced_toggle_description_collapsed">Nedtrekksliste Avanserte alternativer. Dobbelttrykk for å utvide.</string>
+  <string name="wifi_advanced_toggle_description_expanded">Nedtrekksliste Avanserte alternativer. Dobbelttrykk for å skjule.</string>
+  <string name="wifi_ap_2G">2,4 GHz</string>
+  <string name="wifi_ap_choose_auto">Auto</string>
+  <string name="wifi_ap_client_details_title">Detaljer</string>
+  <string name="wifi_ap_client_ip_label">IP-adresse</string>
+  <string name="wifi_band_24ghz">2,4 GHz</string>
+  <string name="wifi_band_5ghz">5 GHz</string>
+  <string name="wifi_calling_dialog_comfirm">Ikke vis dette igjen.</string>
+  <string name="wifi_calling_dialog_msg">Nødanrop er ikke mulig via Wi-Fi-anrop. Enheten skifter automatisk til et mobilnettverk (2G/3G) for å ringe til et nødnummer. Nødanrop er bare mulig i områder med mobildekning.</string>
+  <string name="wifi_calling_dialog_title">Nødanrop via Wi-Fi-anrop</string>
+  <string name="wifi_calling_notifybar_msg">Nødanrop er bare mulig i områder med mobildekning</string>
+  <string name="wifi_calling_notifybar_title">Vodafone Wi-Fi-anrop</string>
+  <string name="wifi_cancel">Avbryt</string>
+  <string name="wifi_connect">Koble til</string>
+  <string name="wifi_disabled_generic">Slått av</string>
+  <string name="wifi_disabled_network_failure">IP-konfigurasjonsfeil</string>
+  <string name="wifi_disabled_password_failure">Autentiseringsproblem</string>
+  <string name="wifi_display_options_forget">Glem</string>
+  <string name="wifi_display_options_name">Navn</string>
+  <string name="wifi_display_status_connected">Tilkoblet</string>
+  <string name="wifi_display_status_not_available">Utilgjengelig</string>
+  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_do_not_provide_eap_user_cert">Ikke oppgi</string>
+  <string name="wifi_do_not_validate_eap_server">Ikke godkjenn</string>
+  <string name="wifi_do_not_validate_eap_server_warning">Ingen sertifikater angitt. Tilkoblingen blir ikke privat.</string>
+  <string name="wifi_eap_anonymous">Anonym identitet</string>
+  <string name="wifi_eap_ca_cert">CA-sertifikat</string>
+  <string name="wifi_eap_domain">Domene</string>
+  <string name="wifi_eap_identity">Identitet</string>
+  <string name="wifi_eap_method">EAP-metode</string>
+  <string name="wifi_eap_user_cert">Brukersertifikat</string>
+  <string name="wifi_fail_to_scan">Kan ikke søke etter nettverk</string>
+  <string name="wifi_failed_connect_message">Kan ikke koble til nettverket</string>
+  <string name="wifi_failed_forget_message">Kunne ikke slette nettverket</string>
+  <string name="wifi_failed_save_message">Kunne ikke lagre nettverket</string>
+  <string name="wifi_forget">Glem</string>
+  <string name="wifi_frequency">Frekvens</string>
+  <string name="wifi_gateway">Nettport</string>
+  <string name="wifi_hotspot_tethering_on_subtext">Deler telefonens Internett-tilkobling via Wi-Fi-sone</string>
+  <string name="wifi_ip_address">IP-adresse</string>
+  <string name="wifi_ip_settings">IP-innstillinger</string>
+  <string name="wifi_ip_settings_invalid_dns">Angi en gyldig DNS-adresse.</string>
+  <string name="wifi_ip_settings_invalid_gateway">Angi en gyldig nettportadresse.</string>
+  <string name="wifi_ip_settings_invalid_ip_address">Angi en gyldig IP-adresse.</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Angi lengde for nettverksprefiks mellom 0 og 32.</string>
+  <string name="wifi_ip_settings_menu_cancel">Avbryt</string>
+  <string name="wifi_ip_settings_menu_save">Lagre</string>
+  <string name="wifi_menu_advanced">Avansert</string>
+  <string name="wifi_multiple_cert_added">(Flere sertifikater er lagt til)</string>
+  <string name="wifi_network_prefix_length">Nettverksprefiks-lengde</string>
+  <string name="wifi_no_domain_warning">Du må angi et domene.</string>
+  <string name="wifi_no_internet_no_reconnect">Automatisk tilkobling ikke mulig</string>
+  <string name="wifi_not_in_range">Ugyldig verdi</string>
+  <string name="wifi_password">Passord</string>
+  <string name="wifi_remembered">Lagret</string>
+  <string name="wifi_save">Lagre</string>
+  <string name="wifi_security">Sikkerhet</string>
+  <string name="wifi_security_none">Ingen</string>
+  <string name="wifi_setup_add_network">Legg til nettverk</string>
+  <string name="wifi_setup_back">Tilbake</string>
+  <string name="wifi_setup_cancel">Avbryt</string>
+  <string name="wifi_setup_connect">Koble til</string>
+  <string name="wifi_setup_forget">Glem</string>
+  <string name="wifi_setup_next">Neste</string>
+  <string name="wifi_setup_save">Lagre</string>
+  <string name="wifi_setup_status_connecting">Kobler til…</string>
+  <string name="wifi_shared">Del med andre brukere av enheten</string>
+  <string name="wifi_show_advanced">Avanserte alternativer</string>
+  <string name="wifi_show_password">Vis passord</string>
+  <string name="wifi_signal">Signalstyrke</string>
+  <string name="wifi_speed">Koblingshastighet</string>
+  <string name="wifi_ssid">Nettverksnavn</string>
+  <string name="wifi_ssid_hint">Skriv inn SSID</string>
+  <string name="wifi_status">Status</string>
+  <string name="wifi_unchanged">(uendret)</string>
+  <string name="wifi_unspecified">Velg</string>
+  <string name="wifi_use_system_certs">Bruk systemsertifikater</string>
+  <string name="wizard_back">Tilbake</string>
+  <string name="wizard_next">Neste</string>
+  <string name="zen_mode_delete_rule_button">Slett</string>
+  <string name="zen_mode_from_none">Ingen</string>
+  <string name="zen_mode_no_exceptions">Ingen</string>
+  <string name="zen_mode_rule_delete_button">Slett</string>
+  <string name="zen_mode_schedule_rule_days_none">Ingen</string>
+  <string name="zen_mode_sound_summary_off">Av</string>
+  <string name="zen_mode_sound_summary_on">På</string>
+  <string name="zzz_certification_settings_title">Sertifisering</string>
+  <string name="zzz_fih_invalid_battery_charging">Bruk bare originalbatterier. Batterier som ikke er godkjent kan medføre fare, blant annet brann eller eksplosjon.</string>
+  <string name="zzz_hmd_open_source_info_text">Åpen kilde-programvare 
+
+Dette produktet omfatter åpen kilde-programvare som har lisens under GPL og LGPL. HMD tilbyr seg å gi deg kildekoden slik den er definert i den gjeldende programvarelisensen for åpen kilde. Send en skriftlig forespørsel til:
+
+Source Code Requests, Legal Department, HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Finland. Dette tilbudet er gyldig for en periode på tre (3) år fra den datoen dette produktet ble distribuert av HMD. Ved å sende en forespørsel, gir du din tillatelse til at HMD (eller en tredjepart på vegne av og med direkte fullmakt fra HMD) kan behandle de personlige dataene dine.
+
+Databehandlingen vil gjøres for forespørselen i henhold til HMDs retningslinjer for personvern og gjeldende lovgivning.</string>
+  <string name="zzz_hmd_open_source_info_title">HMD åpen kilde-informasjon</string>
+  <string name="zzz_roaming_item_title">Globale data</string>
+  <string name="zzz_security_power_off_password_summary">Skriv inn enhetspassordet for å slå av / starte på nytt</string>
+  <string name="zzz_security_power_off_password_title">Lås for avslåing / omstart</string>
+  <string name="zzz_sim_no_services">Ingen tjeneste</string>
+  <string name="zzz_version">Versjon</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">Ekstremt kort forsinkelse (%1$d ms)</item>
+    <item quantity="other">Ekstremt kort forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">Lang forsinkelse (%1$d ms)</item>
+    <item quantity="other">Lang forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">Kort forsinkelse (%1$d ms)</item>
+    <item quantity="other">Kort forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">Veldig lang forsinkelse (%1$d ms)</item>
+    <item quantity="other">Veldig lang forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">Veldig kort forsinkelse (%1$d ms)</item>
+    <item quantity="other">Veldig kort forsinkelse (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">1 app kan bruke ubegrenset med data når Datasparing er på</item>
+    <item quantity="other">%1$d apper kan bruke ubegrenset med data når Datasparing er på</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">Vil du fjerne det valgte språket?</item>
+    <item quantity="other">Vil du fjerne de valgte språkene?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">1 time</item>
+    <item quantity="other">%s timer</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">Må inneholde minst én bokstav</item>
+    <item quantity="other">Må inneholde minst %d bokstaver</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">Må inneholde minst én liten bokstav</item>
+    <item quantity="other">Må inneholde minst %d små bokstaver</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">Må inneholde minst ett annet tegn enn bokstaver</item>
+    <item quantity="other">Må inneholde minst %d andre tegn enn bokstaver</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">Må inneholde minst ett siffer</item>
+    <item quantity="other">Må inneholde minst %d sifre</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">Må inneholde minst ett spesialtegn</item>
+    <item quantity="other">Må inneholde minst %d spesialtegn</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">Må inneholde minst én stor bokstav</item>
+    <item quantity="other">Må inneholde minst %d store bokstaver</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d app kan lese varsler</item>
+    <item quantity="other">%d apper kan lese varsler</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">1 app brukte minne i løpet av de siste %2$s</item>
+    <item quantity="other">%1$d apper brukte minne i løpet av de siste %2$s</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">1 minutt</item>
+    <item quantity="other">%s minutter</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d tillatelse er gitt</item>
+    <item quantity="other">%d tillatelser er gitt</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d tillatelse til</item>
+    <item quantity="other">%d flere tillatelser</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">%d av %d tillatelser er gitt</item>
+    <item quantity="other">%d av %d tillatelser er gitt</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">1 sekund</item>
+    <item quantity="other">%s sekunder</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d fingeravtrykk er registrert</item>
+    <item quantity="other">%1$d fingeravtrykk er registrert</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">Vis %d skjult element</item>
+    <item quantity="other">Vis %d skjulte elementer</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">Nå er du %1$d steg fra å bli utvikler.</item>
+    <item quantity="other">Nå er du %1$d steg fra å bli utvikler.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">Stol på eller fjern sertifikatet</item>
+    <item quantity="other">Stol på eller fjern sertifikatene</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s har installert en sertifiseringsinstans for jobbprofilen din. Dette kan gi denne instansen tillatelse til å overvåke nettverksaktiviteten på jobben, inkludert e-poster, apper og sikre nettsteder.
+
+Kontakt administratoren din hvis du vil ha mer informasjon om dette sertifikatet.</item>
+    <item quantity="other">%s har installert sertifiseringsinstanser for jobbprofilen din. Dette kan gi disse instansene tillatelse til å overvåke nettverksaktiviteten på jobben, inkludert e-poster, apper og sikre nettsteder.
+
+Kontakt administratoren din hvis du vil ha mer informasjon om disse sertifikatene.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s har installert en sertifiseringsinstans på enheten din. Dette kan gi denne instansen tillatelse til å overvåke nettverksaktiviteten på enheten, inkludert e-poster, apper og sikre nettsteder.
+
+Kontakt administratoren din hvis du vil ha mer informasjon om dette sertifikatet.</item>
+    <item quantity="other">%s har installert sertifiseringsinstanser på enheten din. Dette kan gi disse instansene tillatelse til å overvåke nettverksaktiviteten på enheten, inkludert e-poster, apper og sikre nettsteder.
+
+Kontakt administratoren din hvis du vil ha mer informasjon om disse sertifikatene.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">Sjekk sertifikatet</item>
+    <item quantity="other">Sjekk sertifikatene</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">1 element</item>
+    <item quantity="other">%d elementer</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Feil PIN-kode for SIM-kortet. Du har %d forsøk igjen før du må kontakte operatøren din for å låse opp enheten.</item>
+    <item quantity="other">Feil PIN-kode for SIM-kortet. Du har %d forsøk igjen.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">Bytt til Bare alarmer i én time til %2$s</item>
+    <item quantity="other">Bytt til Bare alarmer i %1$d timer til %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">Bytt til Bare alarmer i ett minutt til %2$s</item>
+    <item quantity="other">Bytt til Bare alarmer i %1$d minutter (til %2$s)</item>
+  </plurals>
+</resources>

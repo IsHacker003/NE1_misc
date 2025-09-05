@@ -1,0 +1,273 @@
+.class public Lcom/android/settingslib/RestrictedPreference;
+.super Lcom/android/settingslib/TwoTargetPreference;
+.source "RestrictedPreference.java"
+
+
+# instance fields
+.field mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+
+# direct methods
+.method public constructor <init>(Landroid/content/Context;)V
+    .locals 1
+
+    .line 52
+    const/4 v0, 0x0
+
+    invoke-direct {p0, p1, v0}, Lcom/android/settingslib/RestrictedPreference;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;)V
+
+    .line 53
+    return-void
+.end method
+
+.method public constructor <init>(Landroid/content/Context;Landroid/util/AttributeSet;)V
+    .locals 2
+
+    .line 47
+    sget v0, Lcom/android/settingslib/R$attr;->preferenceStyle:I
+
+    const v1, 0x101008e    # @android:attr/preferenceStyle
+
+    invoke-static {p1, v0, v1}, Landroid/support/v4/content/res/TypedArrayUtils;->getAttr(Landroid/content/Context;II)I
+
+    move-result v0
+
+    invoke-direct {p0, p1, p2, v0}, Lcom/android/settingslib/RestrictedPreference;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;I)V
+
+    .line 49
+    return-void
+.end method
+
+.method public constructor <init>(Landroid/content/Context;Landroid/util/AttributeSet;I)V
+    .locals 1
+
+    .line 43
+    const/4 v0, 0x0
+
+    invoke-direct {p0, p1, p2, p3, v0}, Lcom/android/settingslib/RestrictedPreference;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;II)V
+
+    .line 44
+    return-void
+.end method
+
+.method public constructor <init>(Landroid/content/Context;Landroid/util/AttributeSet;II)V
+    .locals 0
+
+    .line 38
+    invoke-direct {p0, p1, p2, p3, p4}, Lcom/android/settingslib/TwoTargetPreference;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;II)V
+
+    .line 39
+    new-instance p3, Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    invoke-direct {p3, p1, p0, p2}, Lcom/android/settingslib/RestrictedPreferenceHelper;-><init>(Landroid/content/Context;Landroid/support/v7/preference/Preference;Landroid/util/AttributeSet;)V
+
+    iput-object p3, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    .line 40
+    return-void
+.end method
+
+
+# virtual methods
+.method public checkRestrictionAndSetDisabled(Ljava/lang/String;)V
+    .locals 2
+
+    .line 93
+    iget-object v0, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    invoke-static {}, Landroid/os/UserHandle;->myUserId()I
+
+    move-result v1
+
+    invoke-virtual {v0, p1, v1}, Lcom/android/settingslib/RestrictedPreferenceHelper;->checkRestrictionAndSetDisabled(Ljava/lang/String;I)V
+
+    .line 94
+    return-void
+.end method
+
+.method public checkRestrictionAndSetDisabled(Ljava/lang/String;I)V
+    .locals 1
+
+    .line 97
+    iget-object v0, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    invoke-virtual {v0, p1, p2}, Lcom/android/settingslib/RestrictedPreferenceHelper;->checkRestrictionAndSetDisabled(Ljava/lang/String;I)V
+
+    .line 98
+    return-void
+.end method
+
+.method protected getSecondTargetResId()I
+    .locals 1
+
+    .line 57
+    sget v0, Lcom/android/settingslib/R$layout;->restricted_icon:I
+
+    return v0
+.end method
+
+.method public isDisabledByAdmin()Z
+    .locals 1
+
+    .line 116
+    iget-object v0, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    invoke-virtual {v0}, Lcom/android/settingslib/RestrictedPreferenceHelper;->isDisabledByAdmin()Z
+
+    move-result v0
+
+    return v0
+.end method
+
+.method protected onAttachedToHierarchy(Landroid/support/v7/preference/PreferenceManager;)V
+    .locals 1
+
+    .line 88
+    iget-object v0, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    invoke-virtual {v0}, Lcom/android/settingslib/RestrictedPreferenceHelper;->onAttachedToHierarchy()V
+
+    .line 89
+    invoke-super {p0, p1}, Lcom/android/settingslib/TwoTargetPreference;->onAttachedToHierarchy(Landroid/support/v7/preference/PreferenceManager;)V
+
+    .line 90
+    return-void
+.end method
+
+.method public onBindViewHolder(Landroid/support/v7/preference/PreferenceViewHolder;)V
+    .locals 1
+
+    .line 67
+    invoke-super {p0, p1}, Lcom/android/settingslib/TwoTargetPreference;->onBindViewHolder(Landroid/support/v7/preference/PreferenceViewHolder;)V
+
+    .line 68
+    iget-object v0, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    invoke-virtual {v0, p1}, Lcom/android/settingslib/RestrictedPreferenceHelper;->onBindViewHolder(Landroid/support/v7/preference/PreferenceViewHolder;)V
+
+    .line 69
+    sget v0, Lcom/android/settingslib/R$id;->restricted_icon:I
+
+    invoke-virtual {p1, v0}, Landroid/support/v7/preference/PreferenceViewHolder;->findViewById(I)Landroid/view/View;
+
+    move-result-object p1
+
+    .line 70
+    if-eqz p1, :cond_1
+
+    .line 71
+    invoke-virtual {p0}, Lcom/android/settingslib/RestrictedPreference;->isDisabledByAdmin()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    const/4 v0, 0x0
+
+    goto :goto_0
+
+    :cond_0
+    const/16 v0, 0x8
+
+    :goto_0
+    invoke-virtual {p1, v0}, Landroid/view/View;->setVisibility(I)V
+
+    .line 73
+    :cond_1
+    return-void
+.end method
+
+.method public performClick()V
+    .locals 1
+
+    .line 77
+    iget-object v0, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    invoke-virtual {v0}, Lcom/android/settingslib/RestrictedPreferenceHelper;->performClick()Z
+
+    move-result v0
+
+    if-nez v0, :cond_0
+
+    .line 78
+    invoke-super {p0}, Lcom/android/settingslib/TwoTargetPreference;->performClick()V
+
+    .line 80
+    :cond_0
+    return-void
+.end method
+
+.method public setDisabledByAdmin(Lcom/android/settingslib/RestrictedLockUtils$EnforcedAdmin;)V
+    .locals 1
+
+    .line 110
+    iget-object v0, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    invoke-virtual {v0, p1}, Lcom/android/settingslib/RestrictedPreferenceHelper;->setDisabledByAdmin(Lcom/android/settingslib/RestrictedLockUtils$EnforcedAdmin;)Z
+
+    move-result p1
+
+    if-eqz p1, :cond_0
+
+    .line 111
+    invoke-virtual {p0}, Lcom/android/settingslib/RestrictedPreference;->notifyChanged()V
+
+    .line 113
+    :cond_0
+    return-void
+.end method
+
+.method public setEnabled(Z)V
+    .locals 1
+
+    .line 102
+    if-eqz p1, :cond_0
+
+    invoke-virtual {p0}, Lcom/android/settingslib/RestrictedPreference;->isDisabledByAdmin()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    .line 103
+    iget-object p1, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    const/4 v0, 0x0
+
+    invoke-virtual {p1, v0}, Lcom/android/settingslib/RestrictedPreferenceHelper;->setDisabledByAdmin(Lcom/android/settingslib/RestrictedLockUtils$EnforcedAdmin;)Z
+
+    .line 104
+    return-void
+
+    .line 106
+    :cond_0
+    invoke-super {p0, p1}, Lcom/android/settingslib/TwoTargetPreference;->setEnabled(Z)V
+
+    .line 107
+    return-void
+.end method
+
+.method protected shouldHideSecondTarget()Z
+    .locals 1
+
+    .line 62
+    invoke-virtual {p0}, Lcom/android/settingslib/RestrictedPreference;->isDisabledByAdmin()Z
+
+    move-result v0
+
+    xor-int/lit8 v0, v0, 0x1
+
+    return v0
+.end method
+
+.method public useAdminDisabledSummary(Z)V
+    .locals 1
+
+    .line 83
+    iget-object v0, p0, Lcom/android/settingslib/RestrictedPreference;->mHelper:Lcom/android/settingslib/RestrictedPreferenceHelper;
+
+    invoke-virtual {v0, p1}, Lcom/android/settingslib/RestrictedPreferenceHelper;->useAdminDisabledSummary(Z)V
+
+    .line 84
+    return-void
+.end method

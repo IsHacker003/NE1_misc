@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="one">Délai extrêmement court (%1$d ms)</item>
+    <item quantity="other">Délai extrêmement court (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="one">Long délai (%1$d ms)</item>
+    <item quantity="other">Long délai (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="one">Court délai (%1$d ms)</item>
+    <item quantity="other">Court délai (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="one">Délai très long (%1$d ms)</item>
+    <item quantity="other">Délai très long (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="one">Délai très court (%1$d ms)</item>
+    <item quantity="other">Délai très court (%1$d ms)</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="one">1 application autorisée à utiliser des données illimitées lorsque l'économiseur de données est activé</item>
+    <item quantity="other">%1$d applications autorisées à utiliser des données illimitées lorsque l'économiseur de données est activé</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="one">Supprimer la langue sélectionnée ?</item>
+    <item quantity="other">Supprimer les langues sélectionnées ?</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="one">%s heure</item>
+    <item quantity="other">%s heures</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="one">Veuillez inclure au moins %d lettre.</item>
+    <item quantity="other">Le mot de passe doit comporter au moins %d lettres</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="one">Veuillez inclure au moins %d lettre minuscule.</item>
+    <item quantity="other">Le mot de passe doit comporter au moins %d lettres minuscules</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="one">Veuillez inclure au moins %d caractère autre qu'une lettre.</item>
+    <item quantity="other">Le mot de passe doit comporter au moins %d caractères autre qu'une lettre</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="one">Veuillez inclure au moins %d caractère numérique.</item>
+    <item quantity="other">Le mot de passe doit comporter au moins %d chiffres</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="one">Veuillez inclure au moins %d symbole spécial.</item>
+    <item quantity="other">Le mot de passe doit comporter au moins %d symboles spéciaux</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="one">Veuillez inclure au moins %d lettre majuscule.</item>
+    <item quantity="other">Le mot de passe doit comporter au moins %d lettres majuscules</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="one">%d application peut lire les notifications.</item>
+    <item quantity="other">%d applications peuvent lire les notifications.</item>
+  </plurals>
+  <plurals name="memory_usage_apps_summary">
+    <item quantity="one">%1$d application a utilisé de la mémoire au cours de la période suivante : %2$s.</item>
+    <item quantity="other">%1$d applications ont utilisé de la mémoire au cours de la période suivante : %2$s.</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="one">%s minute</item>
+    <item quantity="other">%s minutes</item>
+  </plurals>
+  <plurals name="permissions_summary">
+    <item quantity="one">%d autorisation accordée</item>
+    <item quantity="other">%d autorisations accordées</item>
+  </plurals>
+  <plurals name="runtime_permissions_additional_count">
+    <item quantity="one">%d autorisation supplémentaire</item>
+    <item quantity="other">%d autorisations supplémentaires</item>
+  </plurals>
+  <plurals name="runtime_permissions_summary">
+    <item quantity="one">%d autorisation accordée sur %d</item>
+    <item quantity="other">%d autorisations accordées sur %d</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="one">%s seconde</item>
+    <item quantity="other">%s secondes</item>
+  </plurals>
+  <plurals name="security_settings_fingerprint_preference_summary">
+    <item quantity="one">%1$d empreinte digitale configurée</item>
+    <item quantity="other">%1$d empreintes digitales configurées</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="one">Afficher %d élément masqué</item>
+    <item quantity="other">Afficher %d éléments masqués</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="one">Plus que %1$d étape pour devenir un développeur.</item>
+    <item quantity="other">Plus que %1$d étapes pour devenir un développeur.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="one">Considérer le certificat comme fiable ou le supprimer</item>
+    <item quantity="other">Considérer les certificats comme fiables ou les supprimer</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="one">%s a installé une autorité de certification pour votre profil professionnel afin de contrôler l'activité sur le réseau, y compris les e-mails, les applications et les sites Web sécurisés.
+
+Pour en savoir plus sur ce certificat, contactez votre administrateur.</item>
+    <item quantity="other">%s a installé des autorités de certification pour votre profil professionnel afin de contrôler l'activité sur le réseau, y compris les e-mails, les applications et les sites Web sécurisés.
+
+Pour en savoir plus sur ces certificats, contactez votre administrateur.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="one">%s a installé une autorité de certification sur votre appareil afin de contrôler l'activité réseau de l'appareil, y compris les e-mails, les applications et les sites Web sécurisés.
+
+Pour en savoir plus sur ce certificat, contactez votre administrateur.</item>
+    <item quantity="other">%s a installé des autorités de certification sur votre appareil afin de contrôler l'activité réseau de l'appareil, y compris les e-mails, les applications et les sites Web sécurisés.
+
+Pour en savoir plus sur ces certificats, contactez votre administrateur.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="one">Vérifier le certificat</item>
+    <item quantity="other">Vérifier les certificats</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="one">1 élément</item>
+    <item quantity="other">%d éléments</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="one">Code PIN de la carte SIM incorrect. Il vous reste %d tentative. Après cela, vous devrez contacter votre opérateur pour déverrouiller votre appareil.</item>
+    <item quantity="other">Code PIN de la carte SIM incorrect. Il vous reste %d tentatives.</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_hour">
+    <item quantity="one">Ne recevoir que les alarmes pendant %1$d heure jusqu'à %2$s</item>
+    <item quantity="other">Ne recevoir que les alarmes pendant %1$d heures jusqu'à %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="one">Ne recevoir que les alarmes pendant %1$d minute jusqu'à %2$s</item>
+    <item quantity="other">Ne recevoir que les alarmes pendant %1$d minutes jusqu'à %2$s</item>
+  </plurals>
+</resources>

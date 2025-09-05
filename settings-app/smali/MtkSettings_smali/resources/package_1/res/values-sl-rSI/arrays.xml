@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="apn_auth_entries">
+    <item name="r0x00000000">Brez</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">CHAP</item>
+    <item name="r0x00000000">PAP ali CHAP</item>
+  </string-array>
+  <string-array name="apn_auth_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\3</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item name="r0x00000000">IPv4</item>
+    <item name="r0x00000000">IPv6</item>
+    <item name="r0x00000000">IPv4/IPv6</item>
+  </string-array>
+  <string-array name="apn_protocol_values">
+    <item name="r0x00000000">IP</item>
+    <item name="r0x00000000">IPV6</item>
+    <item name="r0x00000000">IPV4V6</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+    <item name="r0x00000000">Notranji pomnilnik naprave</item>
+    <item name="r0x00000000">Izmenljiva kartica SD</item>
+    <item name="r0x00000000">Naj odloči sistem</item>
+  </string-array>
+  <string-array name="app_install_location_values">
+    <item name="r0x00000000">device</item>
+    <item name="r0x00000000">sdcard</item>
+    <item name="r0x00000000">auto</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item name="r0x00000000">Lokacija</item>
+    <item name="r0x00000000">Osebno</item>
+    <item name="r0x00000000">Sporočila</item>
+    <item name="r0x00000000">Predstavnosti</item>
+    <item name="r0x00000000">Naprava</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item name="r0x00000000">Lokacija</item>
+    <item name="r0x00000000">Lokacija</item>
+    <item name="r0x00000000">Lokacija</item>
+    <item name="r0x00000000">Vibriranje</item>
+    <item name="r0x00000000">Branje stikov</item>
+    <item name="r0x00000000">Spreminjanje stikov</item>
+    <item name="r0x00000000">Branje dnevnika klicev</item>
+    <item name="r0x00000000">Spreminjanje dnevnika klicev</item>
+    <item name="r0x00000000">Branje koledarja</item>
+    <item name="r0x00000000">Spreminjanje koledarja</item>
+    <item name="r0x00000000">Lokacija</item>
+    <item name="r0x00000000">Objava obvestila</item>
+    <item name="r0x00000000">Lokacija</item>
+    <item name="r0x00000000">Klicanje telefonske številke</item>
+    <item name="r0x00000000">Branje sporočil SMS/MMS</item>
+    <item name="r0x00000000">Pisanje sporočil SMS/MMS</item>
+    <item name="r0x00000000">Prejemanje sporočil SMS/MMS</item>
+    <item name="r0x00000000">Prejemanje sporočil SMS/MMS</item>
+    <item name="r0x00000000">Prejemanje sporočil SMS/MMS</item>
+    <item name="r0x00000000">Prejemanje sporočil SMS/MMS</item>
+    <item name="r0x00000000">Pošiljanje sporočil SMS/MMS</item>
+    <item name="r0x00000000">Branje sporočil SMS/MMS</item>
+    <item name="r0x00000000">Pisanje sporočil SMS/MMS</item>
+    <item name="r0x00000000">Spreminjanje nastavitev</item>
+    <item name="r0x00000000">Vlečenje na vrh</item>
+    <item name="r0x00000000">Dostop do obvestil</item>
+    <item name="r0x00000000">Fotoaparat</item>
+    <item name="r0x00000000">Snemanje zvoka</item>
+    <item name="r0x00000000">Predvajanje zvoka</item>
+    <item name="r0x00000000">Preberi odložišče</item>
+    <item name="r0x00000000">Spremeni odložišče</item>
+    <item name="r0x00000000">Gumbi za predstavnosti</item>
+    <item name="r0x00000000">Osredotočenost zvoka</item>
+    <item name="r0x00000000">Glavna glasnost</item>
+    <item name="r0x00000000">Glasnost glasu</item>
+    <item name="r0x00000000">Glasnost zvonjenja</item>
+    <item name="r0x00000000">Glasnost predstavnosti</item>
+    <item name="r0x00000000">Glasnost alarma</item>
+    <item name="r0x00000000">Glasnost obvestila</item>
+    <item name="r0x00000000">Glasnost Bluetootha</item>
+    <item name="r0x00000000">Ohrani odklenjen zaslon</item>
+    <item name="r0x00000000">Lokacija</item>
+    <item name="r0x00000000">Lokacija</item>
+    <item name="r0x00000000">Pridobivanje statističnih podatkov o uporabi</item>
+    <item name="r0x00000000">Izklop/vklop mikrofona</item>
+    <item name="r0x00000000">Prikaz obvestila</item>
+    <item name="r0x00000000">Aktiviranje omrežja VPN</item>
+    <item name="r0x00000000">Aktiviranje omrežja VPN</item>
+    <item name="r0x00000000">Ozadje pisanja</item>
+    <item name="r0x00000000">Struktura pomoči</item>
+    <item name="r0x00000000">Posnetek zaslona pomoči</item>
+    <item name="r0x00000000">Branje stanja telefona</item>
+    <item name="r0x00000000">Dodajanje odzivnika</item>
+    <item name="r0x00000000">Uporaba protokola SIP</item>
+    <item name="r0x00000000">Obdelava odhodnega klica</item>
+    <item name="r0x00000000">Prstni odtis</item>
+    <item name="r0x00000000">Tipala telesnih funkcij</item>
+    <item name="r0x00000000">Branje oddaj v celici</item>
+    <item name="r0x00000000">Lažna lokacija</item>
+    <item name="r0x00000000">Branje shrambe</item>
+    <item name="r0x00000000">Pisanje v shrambo</item>
+    <item name="r0x00000000">Vklop zaslona</item>
+    <item name="r0x00000000">Pridobivanje računov</item>
+    <item name="r0x00000000">Izvajanje v ozadju</item>
+    <item name="r0x00000000">Glasnost za funkcije za ljudi s posebnimi potrebami</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item name="r0x00000000">groba lokacija</item>
+    <item name="r0x00000000">natančna lokacija</item>
+    <item name="r0x00000000">GPS</item>
+    <item name="r0x00000000">vibriranje</item>
+    <item name="r0x00000000">branje stikov</item>
+    <item name="r0x00000000">spreminjanje stikov</item>
+    <item name="r0x00000000">branje dnevnika klicev</item>
+    <item name="r0x00000000">spreminjanje dnevnika klicev</item>
+    <item name="r0x00000000">branje koledarja</item>
+    <item name="r0x00000000">spreminjanje koledarja</item>
+    <item name="r0x00000000">iskanje omrežij Wi-Fi</item>
+    <item name="r0x00000000">obvestilo</item>
+    <item name="r0x00000000">iskanje celic mobilnega omrežja</item>
+    <item name="r0x00000000">klicanje telefonske številke</item>
+    <item name="r0x00000000">branje sporočil SMS</item>
+    <item name="r0x00000000">pisanje sporočil SMS</item>
+    <item name="r0x00000000">prejemanje sporočil SMS</item>
+    <item name="r0x00000000">prejemanje sporočil SMS v sili</item>
+    <item name="r0x00000000">prejemanje sporočil MMS</item>
+    <item name="r0x00000000">prejemanje potisnih sporočil WAP</item>
+    <item name="r0x00000000">pošiljanje sporočil SMS</item>
+    <item name="r0x00000000">branje sporočil SMS na kartici SIM</item>
+    <item name="r0x00000000">pisanje sporočil SMS na kartici SIM</item>
+    <item name="r0x00000000">spreminjanje nastavitev</item>
+    <item name="r0x00000000">vlečenje na vrh</item>
+    <item name="r0x00000000">dostop do obvestil</item>
+    <item name="r0x00000000">fotoaparat</item>
+    <item name="r0x00000000">snemanje zvoka</item>
+    <item name="r0x00000000">predvajanje zvoka</item>
+    <item name="r0x00000000">preberi odložišče</item>
+    <item name="r0x00000000">spremeni odložišče</item>
+    <item name="r0x00000000">gumbi za predstavnosti</item>
+    <item name="r0x00000000">fokus zvoka</item>
+    <item name="r0x00000000">glavna glasnost</item>
+    <item name="r0x00000000">glasnost glasu</item>
+    <item name="r0x00000000">glasnost zvonjenja</item>
+    <item name="r0x00000000">glasnost predstavnosti</item>
+    <item name="r0x00000000">glasnost alarma</item>
+    <item name="r0x00000000">glasnost obvestila</item>
+    <item name="r0x00000000">glasnost za Bluetooth</item>
+    <item name="r0x00000000">ohrani odklenjen zaslon</item>
+    <item name="r0x00000000">spremljanje lokacije</item>
+    <item name="r0x00000000">nadzor natančno določene lokacije</item>
+    <item name="r0x00000000">pridobivanje statističnih podatkov o uporabi</item>
+    <item name="r0x00000000">izklop/vklop mikrofona</item>
+    <item name="r0x00000000">prikaz obvestila</item>
+    <item name="r0x00000000">aktiviranje omrežja VPN</item>
+    <item name="r0x00000000">aktiviranje omrežja VPN</item>
+    <item name="r0x00000000">ozadje pisanja</item>
+    <item name="r0x00000000">struktura pomoči</item>
+    <item name="r0x00000000">posnetek zaslona pomoči</item>
+    <item name="r0x00000000">branje stanja telefona</item>
+    <item name="r0x00000000">dodajanje odzivnika</item>
+    <item name="r0x00000000">uporaba protokola SIP</item>
+    <item name="r0x00000000">obdelava odhodnega klica</item>
+    <item name="r0x00000000">prstni odtis</item>
+    <item name="r0x00000000">tipala telesnih funkcij</item>
+    <item name="r0x00000000">branje oddaj v celici</item>
+    <item name="r0x00000000">lažna lokacija</item>
+    <item name="r0x00000000">branje shrambe</item>
+    <item name="r0x00000000">pisanje v pomnilnik</item>
+    <item name="r0x00000000">vklop zaslona</item>
+    <item name="r0x00000000">pridobivanje računov</item>
+    <item name="r0x00000000">izvajanje v ozadju</item>
+    <item name="r0x00000000">glasnost za funkcije za ljudi s posebnimi potrebami</item>
+  </string-array>
+  <string-array name="auto_time_entries">
+    <item name="r0x00000000">Uporabi uro omrežja</item>
+    <item name="r0x00000000">Uporabi uro signala GPS</item>
+    <item name="r0x00000000">Izklop</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item name="r0x00000000">Star več kot 30 dni</item>
+    <item name="r0x00000000">Star več kot 60 dni</item>
+    <item name="r0x00000000">Star več kot 90 dni</item>
+  </string-array>
+  <string-array name="bearer_entries">
+    <item name="r0x00000000">Neopredeljeno</item>
+    <item name="r0x00000000">LTE</item>
+    <item name="r0x00000000">HSPAP</item>
+    <item name="r0x00000000">HSPA</item>
+    <item name="r0x00000000">HSUPA</item>
+    <item name="r0x00000000">HSDPA</item>
+    <item name="r0x00000000">UMTS</item>
+    <item name="r0x00000000">EDGE</item>
+    <item name="r0x00000000">GPRS</item>
+    <item name="r0x00000000">eHRPD</item>
+    <item name="r0x00000000">EVDO_B</item>
+    <item name="r0x00000000">EVDO_A</item>
+    <item name="r0x00000000">EVDO_0</item>
+    <item name="r0x00000000">1xRTT</item>
+    <item name="r0x00000000">IS95B</item>
+    <item name="r0x00000000">IS95A</item>
+    <item name="r0x00000000">GSM</item>
+    <item name="r0x00000000">TD_SCDMA</item>
+    <item name="r0x00000000">IWLAN</item>
+  </string-array>
+  <string-array name="bearer_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\14</item>
+    <item name="r0x00000000">\15</item>
+    <item name="r0x00000000">\11</item>
+    <item name="r0x00000000">\10</item>
+    <item name="r0x00000000">\9</item>
+    <item name="r0x00000000">\3</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\13</item>
+    <item name="r0x00000000">\12</item>
+    <item name="r0x00000000">\8</item>
+    <item name="r0x00000000">\7</item>
+    <item name="r0x00000000">\6</item>
+    <item name="r0x00000000">\5</item>
+    <item name="r0x00000000">\4</item>
+    <item name="r0x00000000">\16</item>
+    <item name="r0x00000000">\17</item>
+    <item name="r0x00000000">\18</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item name="r0x00000000">2 minuti</item>
+    <item name="r0x00000000">5 minut</item>
+    <item name="r0x00000000">1 ura</item>
+    <item name="r0x00000000">Brez časovne omejitve</item>
+  </string-array>
+  <array name="captioning_color_selector_titles">
+    <item name="r0x00000000">@string/color_unspecified</item>
+    <item name="r0x00000000">@string/color_white</item>
+    <item name="r0x00000000">@string/color_black</item>
+    <item name="r0x00000000">@string/color_red</item>
+    <item name="r0x00000000">@string/color_yellow</item>
+    <item name="r0x00000000">@string/color_green</item>
+    <item name="r0x00000000">@string/color_cyan</item>
+    <item name="r0x00000000">@string/color_blue</item>
+    <item name="r0x00000000">@string/color_magenta</item>
+  </array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item name="r0x00000000">Privzeto</item>
+    <item name="r0x00000000">Brez</item>
+    <item name="r0x00000000">Oris</item>
+    <item name="r0x00000000">Senca</item>
+    <item name="r0x00000000">Dvignjeno</item>
+    <item name="r0x00000000">Znižano</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item name="r0x00000000">Zelo majhna</item>
+    <item name="r0x00000000">Majhna</item>
+    <item name="r0x00000000">Običajna</item>
+    <item name="r0x00000000">Velika</item>
+    <item name="r0x00000000">Zelo velika</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_values">
+    <item name="r0x00000000">\0.25</item>
+    <item name="r0x00000000">\0.5</item>
+    <item name="r0x00000000">\1.0</item>
+    <item name="r0x00000000">\1.5</item>
+    <item name="r0x00000000">\2.0</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item name="r0x00000000">\25 %</item>
+    <item name="r0x00000000">\50 %</item>
+    <item name="r0x00000000">\75 %</item>
+    <item name="r0x00000000">\100 %</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item name="r0x00000000">Uporabi privzeto</item>
+    <item name="r0x00000000">Belo na črnem</item>
+    <item name="r0x00000000">Črno na belem</item>
+    <item name="r0x00000000">Rumeno na črnem</item>
+    <item name="r0x00000000">Rumeno na modrem</item>
+    <item name="r0x00000000">Po meri</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item name="r0x00000000">Privzeto</item>
+    <item name="r0x00000000">Sans-serif</item>
+    <item name="r0x00000000">Sans-serif, zgoščena</item>
+    <item name="r0x00000000">Sans-serif monospace</item>
+    <item name="r0x00000000">Serif</item>
+    <item name="r0x00000000">Serif monospace</item>
+    <item name="r0x00000000">Vsakdanje</item>
+    <item name="r0x00000000">Ležeče</item>
+    <item name="r0x00000000">Pomanjšane velike črke</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_values">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">sans-serif</item>
+    <item name="r0x00000000">sans-serif-condensed</item>
+    <item name="r0x00000000">sans-serif-monospace</item>
+    <item name="r0x00000000">serif</item>
+    <item name="r0x00000000">serif-monospace</item>
+    <item name="r0x00000000">casual</item>
+    <item name="r0x00000000">cursive</item>
+    <item name="r0x00000000">sans-serif-smallcaps</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item name="r0x00000000">Zelenomodra</item>
+    <item name="r0x00000000">Modra</item>
+    <item name="r0x00000000">Indigo</item>
+    <item name="r0x00000000">Vijolična</item>
+    <item name="r0x00000000">Rožnata</item>
+    <item name="r0x00000000">Rdeča</item>
+  </string-array>
+  <array name="daltonizer_type_entries">
+    <item name="r0x00000000">@string/daltonizer_mode_deuteranomaly</item>
+    <item name="r0x00000000">@string/daltonizer_mode_protanomaly</item>
+    <item name="r0x00000000">@string/daltonizer_mode_tritanomaly</item>
+  </array>
+  <string-array name="daltonizer_type_values">
+    <item name="r0x00000000">\12</item>
+    <item name="r0x00000000">\11</item>
+    <item name="r0x00000000">\13</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item name="r0x00000000">Samodejno (glede na uro dneva)</item>
+    <item name="r0x00000000">Vedno vklopljeno</item>
+    <item name="r0x00000000">Vedno izklopljeno</item>
+  </string-array>
+  <string-array name="data_usage_data_range">
+    <item name="r0x00000000">Zadnjih 30 dni</item>
+    <item name="r0x00000000">Nastav. cikla porabe ...</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+    <item name="r0x00000000">Nikoli</item>
+    <item name="r0x00000000">15 sekund</item>
+    <item name="r0x00000000">30 sekund</item>
+    <item name="r0x00000000">1 minuta</item>
+    <item name="r0x00000000">2 minuti</item>
+    <item name="r0x00000000">5 minut</item>
+    <item name="r0x00000000">10 minut</item>
+    <item name="r0x00000000">30 minut</item>
+  </string-array>
+  <string-array name="dream_timeout_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="eap_method_without_sim_auth">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="entries_font_size">
+    <item name="r0x00000000">Majhna</item>
+    <item name="r0x00000000">Privzeto</item>
+    <item name="r0x00000000">Velika</item>
+    <item name="r0x00000000">Največje</item>
+  </string-array>
+  <string-array name="entryvalues_font_size">
+    <item name="r0x00000000">\0.85</item>
+    <item name="r0x00000000">\1.0</item>
+    <item name="r0x00000000">\1.15</item>
+    <item name="r0x00000000">\1.30</item>
+  </string-array>
+  <string-array name="lock_after_timeout_entries">
+    <item name="r0x00000000">Takoj</item>
+    <item name="r0x00000000">5 sekund</item>
+    <item name="r0x00000000">15 sekund</item>
+    <item name="r0x00000000">30 sekund</item>
+    <item name="r0x00000000">1 minuta</item>
+    <item name="r0x00000000">2 minuti</item>
+    <item name="r0x00000000">5 minut</item>
+    <item name="r0x00000000">10 minut</item>
+    <item name="r0x00000000">30 minut</item>
+  </string-array>
+  <string-array name="lock_after_timeout_values">
+    <item name="r0x00000000">\0</item>
+    <item name="r0x00000000">\5000</item>
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+    <item name="r0x00000000">Kratko</item>
+    <item name="r0x00000000">Srednja</item>
+    <item name="r0x00000000">Dolgo</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_values">
+    <item name="r0x00000000">\400</item>
+    <item name="r0x00000000">\1000</item>
+    <item name="r0x00000000">\1500</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item name="r0x00000000">Brez</item>
+    <item name="r0x00000000">SPN</item>
+    <item name="r0x00000000">IMSI</item>
+    <item name="r0x00000000">GID</item>
+  </string-array>
+  <string-array name="mvno_type_values">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">spn</item>
+    <item name="r0x00000000">imsi</item>
+    <item name="r0x00000000">gid</item>
+  </string-array>
+  <string-array name="proc_stats_memory_states">
+    <item name="r0x00000000">Običajno</item>
+    <item name="r0x00000000">Zmerno</item>
+    <item name="r0x00000000">Nizko</item>
+    <item name="r0x00000000">Resno</item>
+  </string-array>
+  <string-array name="proc_stats_process_states">
+    <item name="r0x00000000">Trajno</item>
+    <item name="r0x00000000">Najpogostejša dejavnost</item>
+    <item name="r0x00000000">Pomembno (v ospredju)</item>
+    <item name="r0x00000000">Pomembno (v ozadju)</item>
+    <item name="r0x00000000">Varnostno kopiranje</item>
+    <item name="r0x00000000">Zahtevno</item>
+    <item name="r0x00000000">Storitev (izvajanje)</item>
+    <item name="r0x00000000">Storitev (vnovičen zagon)</item>
+    <item name="r0x00000000">Sprejemnik</item>
+    <item name="r0x00000000">Začetni zaslon</item>
+    <item name="r0x00000000">Zadnja dejavnost</item>
+    <item name="r0x00000000">Predpomnjeno (dejavnost)</item>
+    <item name="r0x00000000">Predpomnjeno (odjemalec dejavnosti)</item>
+    <item name="r0x00000000">Predpomnjeno (prazno)</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item name="r0x00000000">Običajno</item>
+    <item name="r0x00000000">Zmerno</item>
+    <item name="r0x00000000">Nizko</item>
+    <item name="r0x00000000">Resno</item>
+    <item name="r0x00000000">?</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item name="r0x00000000">15 sekund</item>
+    <item name="r0x00000000">30 sekund</item>
+    <item name="r0x00000000">1 minuta</item>
+    <item name="r0x00000000">2 minuti</item>
+    <item name="r0x00000000">5 minut</item>
+    <item name="r0x00000000">10 minut</item>
+    <item name="r0x00000000">30 minut</item>
+  </string-array>
+  <string-array name="screen_timeout_values">
+    <item name="r0x00000000">\15000</item>
+    <item name="r0x00000000">\30000</item>
+    <item name="r0x00000000">\60000</item>
+    <item name="r0x00000000">\120000</item>
+    <item name="r0x00000000">\300000</item>
+    <item name="r0x00000000">\600000</item>
+    <item name="r0x00000000">\1800000</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item name="r0x00000000">Vprašaj</item>
+    <item name="r0x00000000">Nikoli ne dovoli</item>
+    <item name="r0x00000000">Vedno dovoli</item>
+  </string-array>
+  <string-array name="timezone_filters">
+    <item name="r0x00000000">Amerika</item>
+    <item name="r0x00000000">Evropa</item>
+    <item name="r0x00000000">Afrika</item>
+    <item name="r0x00000000">Azija</item>
+    <item name="r0x00000000">Avstralija</item>
+    <item name="r0x00000000">Pacifiški čas</item>
+    <item name="r0x00000000">Vse</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item name="r0x00000000">Čas uporabe</item>
+    <item name="r0x00000000">Zadnjič uporabljeno</item>
+    <item name="r0x00000000">Ime aplikacije</item>
+  </string-array>
+  <string-array name="user_content_ratings_entries">
+    <item name="r0x00000000">Ascended being</item>
+    <item name="r0x00000000">Human</item>
+    <item name="r0x00000000">Neanderthal</item>
+    <item name="r0x00000000">Chimp</item>
+    <item name="r0x00000000">Monkey</item>
+  </string-array>
+  <string-array name="user_content_ratings_values">
+    <item name="r0x00000000">\5</item>
+    <item name="r0x00000000">\4</item>
+    <item name="r0x00000000">\3</item>
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item name="r0x00000000">Povezava je prekinjena</item>
+    <item name="r0x00000000">Inicializacija ...</item>
+    <item name="r0x00000000">Povezovanje ...</item>
+    <item name="r0x00000000">Povezan</item>
+    <item name="r0x00000000">Časovna omejitev</item>
+    <item name="r0x00000000">Neuspešno</item>
+  </string-array>
+  <string-array name="vpn_types">
+    <item name="r0x00000000">PPTP</item>
+    <item name="r0x00000000">L2TP/IPSec PSK</item>
+    <item name="r0x00000000">L2TP/IPSec RSA</item>
+    <item name="r0x00000000">IPSec Xauth PSK</item>
+    <item name="r0x00000000">IPSec Xauth RSA</item>
+    <item name="r0x00000000">IPSec Hybrid RSA</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item name="r0x00000000">PPTP VPN</item>
+    <item name="r0x00000000">L2TP/IPSec VPN s ključi v predhodni skupni rabi</item>
+    <item name="r0x00000000">L2TP/IPSec VPN s potrdili</item>
+    <item name="r0x00000000">IPSec VPN s ključi v predhodni skupni rabi in preverjanjem pristnosti Xauth</item>
+    <item name="r0x00000000">IPSec VPN s potrdili in preverjanjem pristnosti Xauth</item>
+    <item name="r0x00000000">IPSec VPN s potrdili in hibridnim preverjanjem pristnosti</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices">
+    <item name="r0x00000000">Prednostno – Wi-Fi</item>
+    <item name="r0x00000000">Prednostno mobilno</item>
+    <item name="r0x00000000">Samo Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2">
+    <item name="r0x00000000">Wi‑Fi</item>
+    <item name="r0x00000000">Mobilno</item>
+    <item name="r0x00000000">Samo Wi-Fi</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+    <item name="r0x00000000">Wi‑Fi</item>
+    <item name="r0x00000000">Mobilno</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_without_wifi_only">
+    <item name="r0x00000000">Prednostno – Wi-Fi</item>
+    <item name="r0x00000000">Prednostno mobilno</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+    <item name="r0x00000000">\0</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_values_without_wifi_only">
+    <item name="r0x00000000">\2</item>
+    <item name="r0x00000000">\1</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+  </string-array>
+  <string-array name="wifi_eap_method">
+    <item name="r0x00000000">PEAP</item>
+    <item name="r0x00000000">TLS</item>
+    <item name="r0x00000000">TTLS</item>
+    <item name="r0x00000000">PWD</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_hotspot_disable_policy_entries">
+    <item name="r0x00000000">Vedno</item>
+    <item name="r0x00000000">Izklopi po 5 minutah neaktivnosti</item>
+    <item name="r0x00000000">Izklopi po 10 minutah neaktivnosti</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item name="r0x00000000">DHCP</item>
+    <item name="r0x00000000">Statično</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item name="r0x00000000">Samodejno zaznavanje</item>
+    <item name="r0x00000000">Obravnavaj kot merjeno</item>
+    <item name="r0x00000000">Obravnavaj kot nemerjeno</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item name="r0x00000000">Povezava vzpostavljena</item>
+    <item name="r0x00000000">Povabljen</item>
+    <item name="r0x00000000">Neuspešno</item>
+    <item name="r0x00000000">Na voljo</item>
+    <item name="r0x00000000">Zunaj dosega</item>
+  </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+    <item name="r0x00000000">Pritisnite gumb</item>
+    <item name="r0x00000000">PIN iz enakovredne naprave</item>
+    <item name="r0x00000000">PIN iz te naprave</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item name="r0x00000000">Brez</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+    <item name="r0x00000000">Brez</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+    <item name="r0x00000000">SIM</item>
+    <item name="r0x00000000">AKA</item>
+    <item name="r0x00000000">AKA</item>
+  </string-array>
+  <string-array name="wifi_phase2_entries">
+    <item name="r0x00000000">Brez</item>
+    <item name="r0x00000000">PAP</item>
+    <item name="r0x00000000">MSCHAP</item>
+    <item name="r0x00000000">MSCHAPV2</item>
+    <item name="r0x00000000">GTC</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item name="r0x00000000">Brez</item>
+    <item name="r0x00000000">Ročno</item>
+    <item name="r0x00000000">Sam. kon. strežnika proxy</item>
+  </string-array>
+  <array name="wifi_security">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+    <item name="r0x00000000">@string/wifi_security_eap</item>
+  </array>
+  <array name="wifi_security_no_eap">
+    <item name="r0x00000000">@string/wifi_security_none</item>
+    <item name="r0x00000000">@string/wifi_security_wep</item>
+    <item name="r0x00000000">@string/wifi_security_psk_generic</item>
+  </array>
+  <string-array name="wifi_signal">
+    <item name="r0x00000000">Slaba</item>
+    <item name="r0x00000000">Slaba</item>
+    <item name="r0x00000000">Zadovoljiva</item>
+    <item name="r0x00000000">Dobro</item>
+    <item name="r0x00000000">Odlična</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Iskanje …</item>
+    <item name="r0x00000000">Vzpostavljanje povezave ...</item>
+    <item name="r0x00000000">Preverjanje pristnosti ...</item>
+    <item name="r0x00000000">Pridobivanje naslova IP …</item>
+    <item name="r0x00000000">Povezava je vzpostavljena</item>
+    <item name="r0x00000000">Odloženo</item>
+    <item name="r0x00000000">Prekinjanje povezave ...</item>
+    <item name="r0x00000000">Prekinjena povezava</item>
+    <item name="r0x00000000">Ni uspelo</item>
+    <item name="r0x00000000">Blokirano</item>
+    <item name="r0x00000000">Začasno izogibanje slabi povezavi</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item name="r0x00000000"></item>
+    <item name="r0x00000000">Iskanje …</item>
+    <item name="r0x00000000">Vzpostavljanje povezave z omrežjem %1$s …</item>
+    <item name="r0x00000000">Preverjanje pristnosti v omrežju %1$s …</item>
+    <item name="r0x00000000">Pridobivanje naslova IP od %1$s …</item>
+    <item name="r0x00000000">Povezava z omrežjem %1$s je vzpostavljena</item>
+    <item name="r0x00000000">Začasno ustavljeno</item>
+    <item name="r0x00000000">Prekinjanje povezave z omrežjem %1$s …</item>
+    <item name="r0x00000000">Prekinjena povezava</item>
+    <item name="r0x00000000">Ni uspelo</item>
+    <item name="r0x00000000">Blokirano</item>
+    <item name="r0x00000000">Začasno izogibanje slabi povezavi</item>
+  </string-array>
+</resources>
