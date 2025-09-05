@@ -2882,9 +2882,6 @@ SHA-256-Digest: bcUNe1cY71H3RPFsT95YpIMJtGyKL+DYZbXOsoaJDWw=
 Name: res/layout/redaction_interstitial_footer.xml
 SHA-256-Digest: mOByvXSerILdBtVpUv3IoV2/CyAj1SIs8+PHrO/woe8=
 
-Name: res/layout/regulatory_info.xml
-SHA-256-Digest: k2dlqPJomHE1c6Qh2lxnHEyI3y7TfMefnX2UZQV5eE0=
-
 Name: res/layout/remember_dock_setting.xml
 SHA-256-Digest: OBLGJ1WwRPe9OKD9aPDD5aJQaAIPknXksXobEFyA1f4=
 
@@ -4243,4 +4240,5 @@ SHA-256-Digest: 6Dvj3/k+0ImGoQpqgNqzBDFbSoTbH1oa2pY50E0ixg0=
 
 Name: resources.arsc
 SHA-256-Digest: 7q3bHSMAQx9iW6lNUg6W1f+ur8QOVXaXfJPG9CIBJrg=
+
 
