@@ -37,3 +37,6 @@ echo '0,0,0,0,0,0' > /sys/module/lowmemorykiller/parameters/minfree
 sleep 20
 # Re-enable MTK Engineering mode app (disabled by fixes.sh)
 pm enable com.mediatek.engineermode
+# Set SELinux to Enforcing
+sleep 15
+setenforce 1
