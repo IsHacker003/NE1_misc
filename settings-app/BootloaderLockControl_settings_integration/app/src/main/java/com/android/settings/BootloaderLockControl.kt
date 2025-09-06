@@ -4,9 +4,11 @@ import android.app.Activity
 import android.app.AlertDialog
 import android.os.Bundle
 import android.view.View
+import java.io.File
+import java.io.IOException
 
 
-class MainActivity : Activity(), View.OnClickListener {
+class BootloaderLockControl : Activity(), View.OnClickListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -15,7 +17,14 @@ class MainActivity : Activity(), View.OnClickListener {
 
 
     fun unlockBl(v: View?) {
-        Runtime.getRuntime().exec("dd if=/system/etc/seccfg.bin of=/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/seccfg")
+        if (!isSelinuxPermissive()) {
+            Runtime.getRuntime()
+                .exec("su -c dd if=/system/etc/seccfg.bin of=/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/seccfg")
+        }
+        else {
+            Runtime.getRuntime()
+                .exec("dd if=/system/etc/seccfg.bin of=/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/seccfg")
+        }
         val builder = AlertDialog.Builder(this)
         builder.setTitle("Bootloader successfully unlocked!")
         builder.setMessage("Please reboot the phone for changes to take effect. Your data will NOT be erased.")
@@ -38,7 +47,14 @@ class MainActivity : Activity(), View.OnClickListener {
 //builder.setPositiveButton("OK", DialogInterface.OnClickListener(function = x))
 
         builder.setPositiveButton("Continue") { dialog, which ->
-            Runtime.getRuntime().exec("dd if=/dev/zero of=/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/seccfg")
+            if (!isSelinuxPermissive()) {
+                Runtime.getRuntime()
+                    .exec("su -c dd if=/dev/zero of=/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/seccfg")
+            }
+            else {
+                Runtime.getRuntime()
+                    .exec("dd if=/dev/zero of=/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/seccfg")
+            }
             showDialog()
         }
 
@@ -62,6 +78,17 @@ class MainActivity : Activity(), View.OnClickListener {
 
         }
         builder.show()
+    }
+
+    private fun isSelinuxPermissive(): Boolean {
+        return try {
+            val seStatus = File("/sys/fs/selinux/enforce")
+            val content = seStatus.readText().trim()
+            content == "0"
+        } catch (e: IOException) {
+            e.printStackTrace()
+            false
+        }
     }
 }
 
