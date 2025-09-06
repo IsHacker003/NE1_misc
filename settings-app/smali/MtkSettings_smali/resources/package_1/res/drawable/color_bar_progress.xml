@@ -12,6 +12,7 @@
   
   
   
+  
   <item android:id="@android:id/secondaryProgress">
     <scale android:scaleWidth="100%">
       <shape android:tint="?android:attr/colorControlActivated"

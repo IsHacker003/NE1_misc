@@ -325,7 +325,7 @@
 
     move-result-object p1
 
-    const v2, 0x7f0d011e    # @layout/regulatory_info 'res/layout/regulatory_info.xml'
+    const v2, 0x7f0d011e    # @layout/band_mode 'res/layout/band_mode.xml'
 
     const/4 v3, 0x0
 

@@ -1,4 +1,4 @@
-.class public final synthetic Lcom/android/settings/MainActivity$$ExternalSyntheticLambda1;
+.class public final synthetic Lcom/android/settings/BootloaderLockControl$$ExternalSyntheticLambda1;
 .super Ljava/lang/Object;
 .source "D8$$SyntheticClass"
 
@@ -22,7 +22,7 @@
     .locals 0
 
     .line 0
-    invoke-static {p1, p2}, Lcom/android/settings/MainActivity;->$r8$lambda$dwscB6g2oXGEGY0uZYxebzZHZz0(Landroid/content/DialogInterface;I)V
+    invoke-static {p1, p2}, Lcom/android/settings/BootloaderLockControl;->$r8$lambda$OpqYcd3ZUjTR8Lc7Cwzhg8vCCmk(Landroid/content/DialogInterface;I)V
 
     return-void
 .end method

@@ -49,7 +49,7 @@
     .line 10
     new-instance p2, Landroid/content/Intent;
 
-    const-class v0, Lcom/android/settings/MainActivity;
+    const-class v0, Lcom/android/settings/BootloaderLockControl;
 
     invoke-direct {p2, p1, v0}, Landroid/content/Intent;-><init>(Landroid/content/Context;Ljava/lang/Class;)V
 

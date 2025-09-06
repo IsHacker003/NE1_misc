@@ -3269,7 +3269,7 @@
       </intent-filter>
     </activity>
     <activity android:label="Bootloader Lock Control"
-              android:name="com.android.settings.MainActivity"
+              android:name="com.android.settings.BootloaderLockControl"
               android:exported="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
