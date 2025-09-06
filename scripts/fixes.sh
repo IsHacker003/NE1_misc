@@ -23,5 +23,5 @@ else
      # Show toast: "Done! Rebooting in 10 seconds....."
      am broadcast com.android.settings/.ToastReceiverEx
      sleep 10 
-     reboot
+     svc power reboot
 fi
