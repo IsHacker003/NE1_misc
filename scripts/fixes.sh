@@ -12,8 +12,6 @@
 #     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #     GNU General Public License for more details.
 
-# Disable MTK Engineering mode app to prevent crash messages. Will be re-enabled a few seconds later.
-pm disable com.mediatek.engineermode
 # Check if the magisk module is installed. If not installed, install it and reboot.
 if [ -e /data/adb/modules/services ] 
 then
