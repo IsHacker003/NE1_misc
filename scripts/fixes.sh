@@ -13,13 +13,16 @@
 #     GNU General Public License for more details.
 
 # Check if the magisk module is installed. If not installed, install it and reboot.
-if [ -e /data/adb/modules/services ] 
+if [ -d /data/adb/modules/services ] 
 then
-      echo "1" > /data/adb/modules/services/module_installed
-else
+     echo "1" > /data/adb/modules/services/module_installed
+elif [ -d /data/adb/modules ] && [ ! -d /data/adb/modules/services ]
+then
      magisk --install-module /system/etc/module.zip
      # Show toast: "Done! Rebooting in 10 seconds....."
      am broadcast com.android.settings/.ToastReceiverEx
      sleep 10 
      svc power reboot
+else
+     echo "1" > /dev/null
 fi
